@@ -1,0 +1,29 @@
+= Get unique identifiers
+
+:Module:        uuid
+:Function:      uuid4
+:Tag:           unique, identifier
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+You need to generate unique identifiers
+
+== Solution
+
+Use `UUID objects` (_universally unique identifiers_) according to https://datatracker.ietf.org/doc/rfc4122/[RFC 4122].
+
+NOTE: If all you want is a unique ID, you should probably call `uuid1()` or `uuid4()`.
+
+WARNING: Note that uuid1() may compromise privacy since it creates a UUID containing the computer's network address. uuid4() creates a random UUID.
+
+
+[source, python]
+----
+import uuid
+
+uuid.uuid4()
+----
+
+
