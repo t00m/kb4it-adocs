@@ -1,0 +1,19 @@
+= Convert string from bytes to str
+
+:Type:          bytes, str
+:Tag:           convert, bytes, string, str, utf-8
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+Sometimes, you might have a string such as `b'any string here'` but you just need a string of type `str`.
+
+
+== Solution
+
+[source, python]
+----
+str(b'a string', 'utf-8')
+----

@@ -3,6 +3,7 @@
 :Module:        uuid
 :Function:      uuid4
 :Tag:           unique, identifier
+:Platform:      Any
 
 // END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
 

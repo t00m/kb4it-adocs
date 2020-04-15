@@ -2,6 +2,7 @@
 
 :Module:        stdlib, os.path
 :Tag:           with, file, truncate, log
+:Platform:      Any
 
 // END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
 
