@@ -1,0 +1,28 @@
+= File encoding
+
+:Module:        chardet
+:Tag:           file, encoding, detect
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+
+== Get the encoding type of a file
+
+[source, python]
+----
+def get_file_encoding(src_file_path):
+    with open(src_file_path) as src_file:
+        return src_file.encoding
+----
+
+== Get the encoding of a file using chardet package
+
+[source, python]
+----
+import chardet
+
+def get_file_encoding_chardet(file_path):
+    with open(file_path, 'rb') as f:
+        result = chardet.detect(f.read())
+        return result['encoding']
+----
