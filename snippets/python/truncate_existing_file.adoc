@@ -1,0 +1,21 @@
+= Truncate file
+
+:Module:        stdlib, os.path
+:Tag:           with, file, truncate, log
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+Truncate a file (_eg: a log file_)
+
+
+== Solution
+
+[source, python]
+----
+def truncate_file(filename)
+    if os.path.exists(filename):
+        with open(filename, 'w') as fd:
+            pass
+----

@@ -1,0 +1,62 @@
+= Directory operations
+
+:Module:        os, os.path, shutil, tempfile
+:Function:      copytree, rmtree, makedirs, exists
+:Type:          TemporaryDirectory
+:Tag:           copy, delete, directory, make, print, temporary
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Create directory
+
+[source, python]
+----
+import os
+
+os.makedirs('/path/target/directory')
+----
+
+== Create temporary directory
+
+[source, python]
+----
+from tempfile import TemporaryDirectory
+
+with TemporaryDirectory(dir='/path/target/directory') as ftmp:
+    # Whatever you do in this directory,
+    # will be deleted after executing this block
+    ...
+----
+
+
+== Check existence
+
+[source, python]
+----
+import os.path
+
+if os.path.exists('/path/target/directory'):
+    print("Directory exists")
+else:
+    print("Directory doesn't exist")
+----
+
+
+== Copy directory
+
+[source, python]
+----
+import shutil
+
+shutil.copytree('/path/source/directory', '/path/target/directory')
+----
+
+
+== Delete directory
+
+[source, python]
+----
+import shutil
+
+shutil.rmtree('/path/to/directory')
+----
