@@ -2,6 +2,7 @@
 
 :Module:        chardet
 :Tag:           file, encoding, detect
+:Platform:      Any
 
 // END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
 

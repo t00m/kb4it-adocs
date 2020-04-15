@@ -2,6 +2,7 @@
 
 :Module:        os.path, os.environ
 :Tag:           user, home, directory
+:Platform:      Any
 
 // END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
 

@@ -1,0 +1,40 @@
+= Locate a command
+
+:Module:        os, os.path, sys
+:Tag:           locate, command, which
+:Platform:      Linux, Windows
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+You need to locate a command in the operating system
+
+== Solution
+
+[source, python]
+----
+import os
+import os.path
+import sys
+
+def which(program):
+    if sys.platform == 'win32':
+        program = program + '.exe'
+
+    def is_exe(fpath):
+        return os.path.isfile(fpath) and os.access(fpath, os.X_OK)
+
+    fpath, fname = os.path.split(program)
+    if fpath:
+        if is_exe(program):
+            return program
+    else:
+        for path in os.environ["PATH"].split(os.pathsep):
+            path = path.strip('"')
+            exe_file = os.path.join(path, program)
+            if is_exe(exe_file):
+                return exe_file
+
+    return None
+----

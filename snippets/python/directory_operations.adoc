@@ -4,6 +4,7 @@
 :Function:      copytree, rmtree, makedirs, exists
 :Type:          TemporaryDirectory
 :Tag:           copy, delete, directory, make, print, temporary
+:Platform:      Any
 
 // END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
 
