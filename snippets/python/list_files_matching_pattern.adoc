@@ -1,0 +1,20 @@
+= Get files matching a pattern
+
+:Module:        glob
+:Tag:           files, directory, pattern
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+Get a list of paths matching a pathname pattern (eg.: /home/user/*.txt)
+
+== Solution
+
+[source, python]
+----
+import glob
+
+files = glob.glob('/home/user/*.json')
+----

@@ -1,0 +1,26 @@
+= Parse feeds
+
+:Module:        feedparser
+:Tag:           parse, feed, xml, rss, rss, atom
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+Parse RSS feeds easily.
+
+
+== Solution
+
+[source, python]
+----
+try:
+    return feedparser.parse(url)
+except TypeError:
+    if 'drv_libxml2' in feedparser.PREFERRED_XML_PARSERS:
+        feedparser.PREFERRED_XML_PARSERS.remove('drv_libxml2')
+        return feedparser.parse(url)
+    else:
+        return None
+----
