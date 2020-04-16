@@ -1,7 +1,7 @@
 = Browse web page
 
 :Module:        sys, webbrowser
-:Tag:           web, default, browser, page, url, tab
+:Tag:           web, default, browser, page, url, tab, firefox
 :Platform:      Linux, Windows
 
 // END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE

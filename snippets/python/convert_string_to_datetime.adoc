@@ -1,0 +1,29 @@
+= Convert string to datetime
+
+:Module:        datetime
+:Type:          datetime
+:Method:        strptime
+:Tag:           convert, string, datetime, timestamp, format
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+Get datetime object from a string tiemstamp.
+
+IMPORTANT: You must know the format of the timestamp.
+
+
+== Solution
+
+[source, python]
+----
+def get_datetime(timestamp, format):
+    # eg. format: "%Y.%m.%d %H:%M:%S"
+    return datetime.strptime(timestamp, format)
+----
+
+== References
+
+* https://strftime.org[strftime.org]

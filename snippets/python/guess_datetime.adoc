@@ -1,0 +1,55 @@
+= Get datetime object from string timestamp
+
+:Module:        datetime, dateutil
+:Method:        strptime
+:Tag:           guess, datetime, timestamp, format
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+*Guess* format of a given string timestamp and get a datetime object.
+
+
+== Solution I
+
+By using <<Module_dateutil#, dateutil>> module:
+
+[source, python]
+----
+from dateutil.parser import parse
+
+def guess_datetime(timestamp)
+    return parse(timestamp)
+----
+
+
+== Solution II
+By using Python standard libs:
+
+[source, python]
+----
+def guess_datetime(sdate):
+    patterns = ["%d/%m/%Y", "%d/%m/%Y %H:%M", "%d/%m/%Y %H:%M:%S",
+                "%d.%m.%Y", "%d.%m.%Y %H:%M", "%d.%m.%Y %H:%M:%S",
+                "%d-%m-%Y", "%d-%m-%Y %H:%M", "%d-%m-%Y %H:%M:%S",
+                "%Y/%m/%d", "%Y/%m/%d %H:%M", "%Y/%m/%d %H:%M:%S",
+                "%Y.%m.%d", "%Y.%m.%d %H:%M", "%Y.%m.%d %H:%M:%S",
+                "%Y-%m-%d", "%Y-%m-%d %H:%M", "%Y-%m-%d %H:%M:%S",
+                "%Y/%m/%d", "%Y/%m/%d %H:%M", "%Y/%m/%d %H:%M:%S.%f",
+                "%Y.%m.%d", "%Y.%m.%d %H:%M", "%Y.%m.%d %H:%M:%S.%f",
+                "%Y-%m-%d", "%Y-%m-%d %H:%M", "%Y-%m-%d %H:%M:%S.%f",
+               ]
+
+    found = False
+    timestamp = None
+    for pattern in patterns:
+        if not found:
+            try:
+                timestamp = datetime.strptime(sdate, pattern)
+                found = True
+            except ValueError:
+                timestamp = None
+    return timestamp
+----

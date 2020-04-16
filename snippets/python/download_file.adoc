@@ -16,7 +16,8 @@ You need to donwload a file.
 ----
 import requests
 
-r = requests.get('url', allow_redirects=True)
-with open('filename', 'wb') as fout:
-    fout.write(r.content)
+def download(url, filename):
+    r = requests.get(url, allow_redirects=True, stream=True)
+    with open(filename, 'wb') as fout:
+        bytes_recvd = fout.write(r.content)
 ----

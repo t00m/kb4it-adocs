@@ -1,0 +1,41 @@
+= Execute operating system command
+
+:Module:        os, subprocess
+:Method:        communicate
+:Type:          Popen
+:Tag:           execute, command, shell, process, logging
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Execute the command in a subshell
+
+[source, python]
+----
+import os
+
+def execute_command(command):
+    res = os.system(command)
+    return res # 0 if successfull
+----
+
+==  Starting and communicating with processes
+
+[source, python]
+----
+def exec_cmd(data):
+    """
+    Return:
+    - document
+    - True if success, False if not
+    - res is the output
+    """
+    doc, cmd, res = data
+    process = subprocess.Popen([cmd], shell=True, stdout=subprocess.PIPE)
+    outs, errs = process.communicate()
+    if errs is None:
+        return doc, True, res
+    else:
+        log.debug("Compiling %s: Error: %s", doc, errs)
+        return doc, False, res
+----
