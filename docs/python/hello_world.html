@@ -1,7 +1,7 @@
 <!DOCTYPE Html>
 <html lang="en">
 <head>
-    <title>KB4IT - Get file modification date</title>
+    <title>KB4IT - Hello world!</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="generator" content="Asciidoctor 2.0.10">
@@ -48,8 +48,7 @@
                                 <div class="uk-navbar-dropdown">
                                     <ul class="uk-nav uk-navbar-dropdown-nav">
 <ul class="uk-nav uk-nav-default">
-<li><a class="uk-link-heading" href="#_problem">Problem</a></li>
-<li><a class="uk-link-heading" href="#_solution">Solution</a></li>
+<li><a class="uk-link-heading" href="#_my_first_script_in_python">My first script in Python</a></li>
 </ul>
                                     </ul>
                                 </div>
@@ -61,7 +60,7 @@
                 <!-- DOCUMENT TITLE :: START -->
                 <ul class="uk-navbar-nav">
                     <li>
-                       <a href="#"><span class="uk-text-bolder uk-text-truncate">Get file modification date</span></a>
+                       <a href="#"><span class="uk-text-bolder uk-text-truncate">Hello world!</span></a>
                         <div class="uk-navbar-dropdown">
                             <ul class="uk-nav uk-navbar-dropdown-nav">
                                 <li>
@@ -77,18 +76,13 @@
         <table class="uk-table uk-table-divider uk-table-striped uk-table-hover uk-table-small uk-card uk-card-hover">
         <tr>
             <td>
-                <a class="uk-link-text" href="Method.html">
-                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Method</div>
+                <a class="uk-link-text" href="Function.html">
+                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Function</div>
                 </a>
             </td>
             <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
-    <a class="uk-link-heading" href="Method_fromtimestamp.html">
-        <span class="uk-padding-small">fromtimestamp</span>
-    </a>
-</div>
-<div class="uk-link-toggle uk-text-muted">
-    <a class="uk-link-heading" href="Method_strftime.html">
-        <span class="uk-padding-small">strftime</span>
+    <a class="uk-link-heading" href="Function_print.html">
+        <span class="uk-padding-small">print</span>
     </a>
 </div>
 </div></td>
@@ -101,13 +95,8 @@
                 </a>
             </td>
             <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
-    <a class="uk-link-heading" href="Module_datetime.html">
-        <span class="uk-padding-small">datetime</span>
-    </a>
-</div>
-<div class="uk-link-toggle uk-text-muted">
-    <a class="uk-link-heading" href="Module_os.path.html">
-        <span class="uk-padding-small">os.path</span>
+    <a class="uk-link-heading" href="Module_stdlib.html">
+        <span class="uk-padding-small">stdlib</span>
     </a>
 </div>
 </div></td>
@@ -122,35 +111,6 @@
             <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
     <a class="uk-link-heading" href="Platform_Any.html">
         <span class="uk-padding-small">Any</span>
-    </a>
-</div>
-</div></td>
-        </tr>
-
-        <tr>
-            <td>
-                <a class="uk-link-text" href="Tag.html">
-                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Tag</div>
-                </a>
-            </td>
-            <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
-    <a class="uk-link-heading" href="Tag_date.html">
-        <span class="uk-padding-small">date</span>
-    </a>
-</div>
-<div class="uk-link-toggle uk-text-muted">
-    <a class="uk-link-heading" href="Tag_file.html">
-        <span class="uk-padding-small">file</span>
-    </a>
-</div>
-<div class="uk-link-toggle uk-text-muted">
-    <a class="uk-link-heading" href="Tag_last.html">
-        <span class="uk-padding-small">last</span>
-    </a>
-</div>
-<div class="uk-link-toggle uk-text-muted">
-    <a class="uk-link-heading" href="Tag_modification.html">
-        <span class="uk-padding-small">modification</span>
     </a>
 </div>
 </div></td>
@@ -174,30 +134,20 @@
                                             <div class="uk-grid-collapse uk-child-width-expand@s uk-flex-middle" uk-grid>
                                                 <div class="uk-padding-large uk-background-muted">
                                                     <div class="uk-text-lead uk-text-center uk-text-danger">Source</div>
-                                                    <div class="uk-text-lead">file_timestamp.adoc&nbsp;<a onclick="copyToClipboard()" class="uk-icon-link uk-margin-small-right" uk-icon="copy"></a></div>
-                                                    <textarea id="source-code" class="uk-width-1-1 uk-height-viewport">= Get file modification date
+                                                    <div class="uk-text-lead">hello_world.adoc&nbsp;<a onclick="copyToClipboard()" class="uk-icon-link uk-margin-small-right" uk-icon="copy"></a></div>
+                                                    <textarea id="source-code" class="uk-width-1-1 uk-height-viewport">= Hello world!
 
-:Module:        datetime, os.path
-:Method:        fromtimestamp, strftime
-:Tag:           file, last, modification, date
+:Module:        stdlib
+:Function:      print
 :Platform:      Any
 
 // END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
 
-
-== Problem
-
-Get last modification string timestamp of a file
-
-== Solution
+== My first script in Python
 
 [source, python]
 ----
-def file_timestamp(filename):
-    """Return last modification datetime normalized of a file"""
-    t = os.path.getmtime(filename)
-    sdate = datetime.fromtimestamp(t).strftime("%Y-%m-%d %H:%M:%S")
-    return sdate
+print("Hello world!")
 ----
 </textarea>
                                                 </div>
@@ -239,28 +189,15 @@ def file_timestamp(filename):
 <div hidden>
 <div id="toctitle">Table of Contents</div>
 <ul class="sectlevel1">
-<li><a href="#_problem">Problem</a></li>
-<li><a href="#_solution">Solution</a></li>
+<li><a href="#_my_first_script_in_python">My first script in Python</a></li>
 </ul>
 </div>
 <div class="uk-margin-small-bottom uk-card uk-card-body uk-card-hover uk-border-rounded">
-<h2 id="_problem">Problem</h2>
-<div class="uk-container">
-<div class="paragraph">
-<p>Get last modification string timestamp of a file</p>
-</div>
-</div>
-</div>
-<div class="uk-margin-small-bottom uk-card uk-card-body uk-card-hover uk-border-rounded">
-<h2 id="_solution">Solution</h2>
+<h2 id="_my_first_script_in_python">My first script in Python</h2>
 <div class="uk-container">
 <div class="listingblock">
 <div class="content">
-<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">def</span> <span class="function">file_timestamp</span>(filename):
-    <span class="docstring"><span class="delimiter">&quot;&quot;&quot;</span><span class="content">Return last modification datetime normalized of a file</span><span class="delimiter">&quot;&quot;&quot;</span></span>
-    t = os.path.getmtime(filename)
-    sdate = datetime.fromtimestamp(t).strftime(<span class="string"><span class="delimiter">&quot;</span><span class="content">%Y-%m-%d %H:%M:%S</span><span class="delimiter">&quot;</span></span>)
-    <span class="keyword">return</span> sdate</code></pre>
+<pre class="CodeRay highlight uk-card-hover"><code data-lang="python">print(<span class="string"><span class="delimiter">&quot;</span><span class="content">Hello world!</span><span class="delimiter">&quot;</span></span>)</code></pre>
 </div>
 </div>
 </div>
