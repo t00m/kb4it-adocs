@@ -1,0 +1,14 @@
+== Introduction
+
+In this website you can find a repository of Python snippets.
+
+NOTE: You can use and adapt my https://github.com/t00m/kb4it-adocs[Github repository] as a starting point (https://github.com/t00m/kb4it-adocs/branches[branch] snippets/python).
+
+== Setup your own repository
+
+. Download and install KB4IT: `pip install kb4it --user`
+. Place your asciidoctor sources in a directory
+. Execute KB4IT with `snippets` theme:
++
+`$HOME/.local/bin/kb4it -source <asciidoctor_sources_dir> -target <html_target_dir>`
+

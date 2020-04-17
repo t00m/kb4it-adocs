@@ -1,0 +1,14 @@
+= Hello world!
+
+:Module:        stdlib
+:Function:      print
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== My first script in Python
+
+[source, python]
+----
+print("Hello world!")
+----

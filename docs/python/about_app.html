@@ -43,7 +43,17 @@
                 </ul>
                 <ul class="uk-navbar-nav">
                     <!-- MENU CONTENTS :: START -->
-                            <!-- <li><a href="#">Contents</a></li> -->
+                            <li class="noprint">
+                                <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">Contents</a>
+                                <div class="uk-navbar-dropdown">
+                                    <ul class="uk-nav uk-navbar-dropdown-nav">
+<ul class="uk-nav uk-nav-default">
+<li><a class="uk-link-heading" href="#_introduction">Introduction</a></li>
+<li><a class="uk-link-heading" href="#_setup_your_own_repository">Setup your own repository</a></li>
+</ul>
+                                    </ul>
+                                </div>
+                            </li>
                     <!-- MENU CONTENTS :: END -->
                 </ul>
             </div>
@@ -78,13 +88,58 @@
 </div>
 <!-- CONTENT :: START -->
 <div class="uk-container uk-container-center">
+<div hidden>
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_introduction">Introduction</a></li>
+<li><a href="#_setup_your_own_repository">Setup your own repository</a></li>
+</ul>
+</div>
+<div class="uk-margin-small-bottom uk-card uk-card-body uk-card-hover uk-border-rounded">
+<h2 id="_introduction">Introduction</h2>
+<div class="uk-container">
 <div class="paragraph">
-<p>No info available</p>
+<p>In this website you can find a repository of Python snippets.</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i uk-icon="comment" class="uk-text-emphasis" title="Note"></i>
+</td>
+<td class="content">
+You can use and adapt my <a href="https://github.com/t00m/kb4it-adocs">Github repository</a> as a starting point (<a href="https://github.com/t00m/kb4it-adocs/branches">branch</a> snippets/python).
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="uk-margin-small-bottom uk-card uk-card-body uk-card-hover uk-border-rounded">
+<h2 id="_setup_your_own_repository">Setup your own repository</h2>
+<div class="uk-container">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Download and install KB4IT: <code>pip install kb4it --user</code></p>
+</li>
+<li>
+<p>Place your asciidoctor sources in a directory</p>
+</li>
+<li>
+<p>Execute KB4IT with <code>snippets</code> theme:</p>
+<div class="paragraph">
+<p><code>$HOME/.local/bin/kb4it -source &lt;asciidoctor_sources_dir&gt; -target &lt;html_target_dir&gt;</code></p>
+</div>
+</li>
+</ol>
+</div>
+</div>
 </div>            <!-- FOOTER :: START -->
             <div class="uk-flex uk-flex-center uk-flex-wrap">
 <!--
                 <div class="uk-card uk-card-body">
-                    <span class="uk-text-meta">Last update on Fri, Apr 17, 2020 at 20:54</span>
+                    <span class="uk-text-meta">Last update on Fri, Apr 17, 2020 at 22:46</span>
                 </div>
 -->
             </div>
