@@ -1,0 +1,1 @@
+<td class="%s day uk-text-center uk-text-muted uk-card-hover">%d</td>

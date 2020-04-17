@@ -1,0 +1,29 @@
+= Browse web page
+
+:Module:        sys, webbrowser
+:Tag:           web, default, browser, page, url, tab, firefox
+:Platform:      Linux, Windows
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+You need to open an url in a web browser.
+
+== Solution
+
+[source, python]
+----
+import sys
+import webbrowser
+
+def browse(url):
+    if sys.platform in ['linux', 'linux2']:
+        browser = webbrowser.get('firefox')
+    elif sys.platform == 'win32':
+        browser = webbrowser.get('windows-default')
+
+    browser.open_new_tab(url)
+
+browse('https://github.com/t00m/')
+----

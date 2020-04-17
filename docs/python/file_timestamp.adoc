@@ -1,0 +1,24 @@
+= Get file modification date
+
+:Module:        datetime, os.path
+:Method:        fromtimestamp, strftime
+:Tag:           file, last, modification, date
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+
+== Problem
+
+Get last modification string timestamp of a file
+
+== Solution
+
+[source, python]
+----
+def file_timestamp(filename):
+    """Return last modification datetime normalized of a file"""
+    t = os.path.getmtime(filename)
+    sdate = datetime.fromtimestamp(t).strftime("%Y-%m-%d %H:%M:%S")
+    return sdate
+----

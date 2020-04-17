@@ -1,0 +1,39 @@
+= Read and Write CSV files
+
+:Module:        csv
+:Tag:           read, write, csv, files, delimiter
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+You need to read or write a file in CSV format
+
+== Solution
+
+=== Read CSV file
+
+[source, python]
+----
+import csv
+
+def read_csv(filename):
+    with open(filename, 'r') as fcsv:
+        sheet = csv.reader(fcsv, delimiter=',', quotechar='\"')
+        for row in sheet:
+            # do what you need
+----
+
+=== Write CSV file
+
+[source, python]
+----
+import csv
+
+def write_csv(filename, data):
+    with open(filename, 'w') as fcsv:
+        sheet = csv.writer(fcsv, delimiter=',', quoting=csv.QUOTE_ALL)
+        for row in data:
+            sheet.writerow(row)
+----

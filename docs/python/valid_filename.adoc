@@ -1,0 +1,37 @@
+= Get valid filename from a string
+
+:Module:        re
+:Tag:           valid, filename, clean
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+Sometimes you need to generate a valid filename from a given string (indeed, https://github.com/t00m/KB4IT[KB4IT] uses this approach a lot).
+
+== Solution
+
+[source, python]
+----
+import re
+
+def get_valid_filename(s):
+    """
+    Return the given string converted to a string that can be used for a
+    clean filename.
+
+    Remove leading and trailing spaces; convert other spaces to
+    underscores; and remove anything that is not an alphanumeric, dash,
+    underscore, or dot.
+    """
+    s = str(s).strip().replace(' ', '_')
+    return re.sub(r'(?u)[^-\w.]', '', s)
+----
+
+
+== References
+
+Borrowed from:
+
+* https://github.com/django/django/blob/daabb102c059119504dc6c78a2e2dc62c9d572b8/django/utils/text.py#L222[django]

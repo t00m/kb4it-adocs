@@ -1,0 +1,1 @@
+<h1 class="uk-heading-small"><span class="uk-text-success">%10.2f €</span> - <span class="uk-text-danger">%10.2f €</span></h1>

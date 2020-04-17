@@ -1,0 +1,22 @@
+= Convert HTML to text
+
+:Module:        re
+:Tag:           convert, html, text
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+Extract only text from HTML source
+
+
+== Solution
+
+[source, python]
+----
+def convert_html_to_text(html):
+    pattern = re.compile('<.*?>')
+    text = re.sub(pattern, '', html)
+    return text
+----
