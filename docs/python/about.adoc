@@ -10,5 +10,5 @@ NOTE: You can use and adapt my https://github.com/t00m/kb4it-adocs[Github reposi
 . Place your asciidoctor sources in a directory
 . Execute KB4IT with `snippets` theme:
 +
-`$HOME/.local/bin/kb4it -source <asciidoctor_sources_dir> -target <html_target_dir>`
+`$HOME/.local/bin/kb4it -theme snippets -source <asciidoctor_sources_dir> -target <html_target_dir>`
 
