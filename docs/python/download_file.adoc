@@ -1,0 +1,23 @@
+= Download a file
+
+:Module:        requests
+:Tag:           with, url, download, file, save, binary
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+You need to donwload a file.
+
+== Solution
+
+[source, python]
+----
+import requests
+
+def download(url, filename):
+    r = requests.get(url, allow_redirects=True, stream=True)
+    with open(filename, 'wb') as fout:
+        bytes_recvd = fout.write(r.content)
+----

@@ -1,0 +1,26 @@
+= Get $HOME directory
+
+:Module:        os.path, os.environ
+:Tag:           user, home, directory
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+Get `$HOME` directory for current user
+
+== Solution I
+
+[source, python]
+----
+os.path.expanduser('~')
+----
+
+== Solution II
+
+[source, python]
+----
+os.environ['HOME']
+----
+

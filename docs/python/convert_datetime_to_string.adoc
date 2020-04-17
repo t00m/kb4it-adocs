@@ -1,0 +1,27 @@
+= Convert datetime to string
+
+:Module:        datetime
+:Type:          datetime
+:Method:        strftime
+:Tag:           convert, string, datetime, timestamp, format
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+Get string from a given datetime object
+
+
+== Solution
+
+[source, python]
+----
+def get_string_from_dt(dt, format):
+    # eg. format: "%Y.%m.%d %H:%M:%S"
+    return dt.strftime(format)
+----
+
+== References
+
+* https://strftime.org[strftime.org]

@@ -8,7 +8,7 @@
 
 == Problem
 
-Truncate a file (_Eg.: a log file_)
+Truncate a file (_eg: a log file_)
 
 
 == Solution
@@ -16,6 +16,7 @@ Truncate a file (_Eg.: a log file_)
 [source, python]
 ----
 def truncate_file(filename)
-    with open(filename, 'w') as fd:
-        pass
+    if os.path.exists(filename):
+        with open(filename, 'w') as fd:
+            pass
 ----

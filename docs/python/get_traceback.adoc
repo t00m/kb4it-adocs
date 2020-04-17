@@ -1,0 +1,22 @@
+= Get traceback
+
+:Type:          traceback
+:Tag:           logging, error, exception, traceback
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+Sometimes, while managing exceptions, you need to get the last traceback into a string.
+
+
+== Solution
+
+[source, python]
+----
+import traceback as tb
+
+def get_traceback():
+    return tb.format_exc()
+----

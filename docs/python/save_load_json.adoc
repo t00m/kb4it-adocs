@@ -1,0 +1,31 @@
+= Load/save JSON from/to a dictionary
+
+:Module:        json
+:Function:      dump, load, open
+:Tag:           json, load, save, dump, file, dictionary
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Load JSON file into a dictionary
+
+[source, python]
+----
+import json
+
+def load_json(json_file):
+    with open(json_file, 'r') as fjson:
+        dictionary = json.load(fjson)
+    return dictionary
+----
+
+== Save dictionary to a file in JSON format
+
+[source, python]
+----
+import json
+
+def save(json_file, dictionary):
+    with open(json_file, 'w') as fjson:
+        json.dump(dictionary, fjson)
+----
