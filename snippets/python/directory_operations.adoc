@@ -3,7 +3,7 @@
 :Module:        os, os.path, shutil, tempfile
 :Function:      copytree, rmtree, makedirs, exists
 :Type:          TemporaryDirectory
-:Tag:           copy, delete, directory, make, print, temporary
+:Tag:           copy, delete, directory, make, temporary
 :Platform:      Any
 
 // END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE

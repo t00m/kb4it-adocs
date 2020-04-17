@@ -6,7 +6,7 @@
 
 // END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
 
-*My first script in Python* :)
+== My first script in Python
 
 [source, python]
 ----
