@@ -1,1 +1,0 @@
-<tr class="weekheader uk-background-muted">%s</tr>

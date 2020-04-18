@@ -1,1 +1,0 @@
-<h1 class="uk-heading-medium"><span class="uk-text-success uk-text-bold">%10.2f €</span></h1>

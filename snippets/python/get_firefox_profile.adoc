@@ -1,6 +1,6 @@
 = Get Firefox default profile directory
 
-:Module:        os, glob, requests, subprocess
+:Module:        os, glob, subprocess
 :Tag:           firefox, profile, directory
 :Platform:      Linux, Windows
 
