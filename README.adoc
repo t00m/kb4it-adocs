@@ -1,0 +1,3 @@
+= Repository for KB4IT Demos
+
+* https://t00m.github.io/kb4it-adocs/python/[Python snippets demo]: demo build with KB4IT
