@@ -1,0 +1,363 @@
+<!DOCTYPE Html>
+<html lang="en">
+<head>
+    <title>KB4IT - Get Chrome default profile directory</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Asciidoctor 2.0.10">
+    <meta name="description" content="KB4IT document">
+    <meta name="author" content="KB4IT by t00mlabs.net">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="resources/common/uikit/css/uikit.min.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/coderay-asciidoctor.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/print.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="resources/common/uikit/css/kb4it.css">
+    <script src="resources/common/uikit/js/uikit.min.js"></script>
+    <script src="resources/common/uikit/js/uikit-icons.min.js"></script>
+</head>
+<body>
+<div>
+<div id="container-1" class="uk-container uk-container-center">
+    <div id="kb4it-menu" style="z-index: 980;" uk-sticky="show-on-up: true">
+        <nav class="uk-navbar-container uk-border-rounded uk-card-hover uk-margin" style="background-color: white;" uk-navbar>
+            <div class="uk-navbar-left noprint">
+                <ul class="uk-navbar-nav">
+                    <li class="uk-link-toggle">
+                        <a class="uk-logo uk-card uk-card-hover" href="index.html">
+                            <img src="resources/themes/snippets/images/logo.png" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">Go To</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="properties.html"><span class="uk-padding-small">Properties</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="stats.html"><span class="uk-padding-small">Stats</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="uk-navbar-nav">
+                    <!-- MENU CONTENTS :: START -->
+                            <li class="noprint">
+                                <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">Contents</a>
+                                <div class="uk-navbar-dropdown">
+                                    <ul class="uk-nav uk-navbar-dropdown-nav">
+<ul class="uk-nav uk-nav-default">
+<li><a class="uk-link-heading" href="#_problem">Problem</a></li>
+<li><a class="uk-link-heading" href="#_solution">Solution</a></li>
+<li><a class="uk-link-heading" href="#_references">References</a></li>
+</ul>
+                                    </ul>
+                                </div>
+                            </li>
+                    <!-- MENU CONTENTS :: END -->
+                </ul>
+            </div>
+            <div class="uk-navbar-center">
+                <!-- DOCUMENT TITLE :: START -->
+                <ul class="uk-navbar-nav">
+                    <li>
+                       <a href="#"><span class="uk-text-bolder uk-text-truncate">Get Chrome default profile directory</span></a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li>
+                                    <!-- View Metadata Button :: START -->
+                                    <a class="uk-button uk-card uk-card-hover uk-button uk-card uk-card-hover uk-border-rounded uk-link-heading" href="#modal-full-metadata" uk-toggle><span class="">Metadata</span></a>
+                                    <div id="modal-full-metadata" class="uk-modal-full" uk-modal>
+                                        <div class="uk-modal-dialog">
+                                            <button class="uk-modal-close-full uk-close-large uk-background-muted" type="button" uk-close></button>
+                                            <div class="uk-grid-collapse uk-child-width-expand@s uk-flex-middle" uk-grid>
+                                                <div class="uk-padding-large uk-background-muted">
+                                                    <div class="uk-text-lead uk-text-center uk-text-danger">Metadata</div>
+<!-- METADATA :: START -->
+        <table class="uk-table uk-table-divider uk-table-striped uk-table-hover uk-table-small uk-card uk-card-hover">
+        <tr>
+            <td>
+                <a class="uk-link-text" href="Module.html">
+                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Module</div>
+                </a>
+            </td>
+            <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Module_os.html">
+        <span class="uk-padding-small">os</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Module_subprocess.html">
+        <span class="uk-padding-small">subprocess</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Module_sys.html">
+        <span class="uk-padding-small">sys</span>
+    </a>
+</div>
+</div></td>
+        </tr>
+
+        <tr>
+            <td>
+                <a class="uk-link-text" href="Platform.html">
+                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Platform</div>
+                </a>
+            </td>
+            <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Platform_Linux.html">
+        <span class="uk-padding-small">Linux</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Platform_Windows.html">
+        <span class="uk-padding-small">Windows</span>
+    </a>
+</div>
+</div></td>
+        </tr>
+
+        <tr>
+            <td>
+                <a class="uk-link-text" href="Tag.html">
+                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Tag</div>
+                </a>
+            </td>
+            <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_browser.html">
+        <span class="uk-padding-small">browser</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_chrome.html">
+        <span class="uk-padding-small">chrome</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_default.html">
+        <span class="uk-padding-small">default</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_directory.html">
+        <span class="uk-padding-small">directory</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_google.html">
+        <span class="uk-padding-small">google</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_profile.html">
+        <span class="uk-padding-small">profile</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_user.html">
+        <span class="uk-padding-small">user</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_web.html">
+        <span class="uk-padding-small">web</span>
+    </a>
+</div>
+</div></td>
+        </tr>
+
+            </table>
+
+<!-- METADATA :: END -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- View Metadata Button :: END -->
+                                </li>
+                                <li>
+                                    <!-- View Asciidoc Source Button :: START -->
+                                    <a class="uk-button uk-card uk-card-hover uk-button uk-card uk-card-hover uk-border-rounded uk-link-heading" href="#modal-full-source" uk-toggle><span class="">Source</span></a>
+                                    <div id="modal-full-source" class="uk-modal-full" uk-modal>
+                                        <div class="uk-modal-dialog">
+                                            <button class="uk-modal-close-full uk-close-large uk-background-muted" type="button" uk-close></button>
+                                            <div class="uk-grid-collapse uk-child-width-expand@s uk-flex-middle" uk-grid>
+                                                <div class="uk-padding-large uk-background-muted">
+                                                    <div class="uk-text-lead uk-text-center uk-text-danger">Source</div>
+                                                    <div class="uk-text-lead">get_chrome_profile.adoc&nbsp;<a onclick="copyToClipboard()" class="uk-icon-link uk-margin-small-right" uk-icon="copy"></a></div>
+                                                    <textarea id="source-code" class="uk-width-1-1 uk-height-viewport">= Get Chrome default profile directory
+
+:Module:        os, sys, subprocess
+:Tag:           google, chrome, web, browser, default, user, profile, directory
+:Platform:      Linux, Windows
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+You need to get Chrome profile directory.
+
+== Solution
+
+[source, python]
+----
+import os
+import sys
+import subprocess
+
+def get_chrome_profile_dir():
+    if sys.platform in ['linux', 'linux2']:
+        import subprocess
+        cmd = "ls -d /home/$USER/.config/google-chrome/default"
+        p = subprocess.Popen([cmd], shell=True, stdout=subprocess.PIPE)
+        PRF_DIR = p.communicate()[0][0:-2]
+    elif sys.platform == 'win32':
+        import os
+        USERNAME = os.getenv('USERNAME')
+        PRF_DIR = "C:\\Users\\%s\\AppData\\Local\\Google\\Chrome\\User Data\\Default" % USERNAME
+
+    return PRF_DIR
+----
+
+== References
+
+* https://github.com/karthikeyankc/HistoryAnalyzer/blob/master/HistoryAnalyzer.py[Chrome history analyzer]
+* https://sandersonforensics.com/forum/content.php?205-Chrome-history-with-Recursive-Common-Table-Expressions[Chrome history with Recursive Common Table Expressions]</textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> <!-- View Source Button :: END -->
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </u>
+                <!-- DOCUMENT TITLE :: END -->
+            </div>
+            <div class="uk-navbar-right noprint">
+                <ul class="uk-navbar-nav">
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">About</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_app.html"><span class="uk-padding-small">About this app</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_theme.html"><span class="uk-padding-small">About this theme</span></a>
+                                </li>
+                                <li class="uk-nav-divider"></li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_kb4it.html"><span class="uk-padding-small">About KB4IT</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+<div class="uk-container uk-container-center">
+<div hidden>
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_problem">Problem</a></li>
+<li><a href="#_solution">Solution</a></li>
+<li><a href="#_references">References</a></li>
+</ul>
+</div>
+<div class="uk-margin-small-bottom uk-card uk-card-body uk-card-hover uk-border-rounded">
+<h2 id="_problem">Problem</h2>
+<div class="uk-container">
+<div class="paragraph">
+<p>You need to get Chrome profile directory.</p>
+</div>
+</div>
+</div>
+<div class="uk-margin-small-bottom uk-card uk-card-body uk-card-hover uk-border-rounded">
+<h2 id="_solution">Solution</h2>
+<div class="uk-container">
+<div class="listingblock">
+<div class="content">
+<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">import</span> <span class="include">os</span>
+<span class="keyword">import</span> <span class="include">sys</span>
+<span class="keyword">import</span> <span class="include">subprocess</span>
+
+<span class="keyword">def</span> <span class="function">get_chrome_profile_dir</span>():
+    <span class="keyword">if</span> sys.platform <span class="keyword">in</span> [<span class="string"><span class="delimiter">'</span><span class="content">linux</span><span class="delimiter">'</span></span>, <span class="string"><span class="delimiter">'</span><span class="content">linux2</span><span class="delimiter">'</span></span>]:
+        <span class="keyword">import</span> <span class="include">subprocess</span>
+        cmd = <span class="string"><span class="delimiter">&quot;</span><span class="content">ls -d /home/$USER/.config/google-chrome/default</span><span class="delimiter">&quot;</span></span>
+        p = subprocess.Popen([cmd], shell=<span class="predefined-constant">True</span>, stdout=subprocess.PIPE)
+        PRF_DIR = p.communicate()[<span class="integer">0</span>][<span class="integer">0</span>:-<span class="integer">2</span>]
+    <span class="keyword">elif</span> sys.platform == <span class="string"><span class="delimiter">'</span><span class="content">win32</span><span class="delimiter">'</span></span>:
+        <span class="keyword">import</span> <span class="include">os</span>
+        USERNAME = os.getenv(<span class="string"><span class="delimiter">'</span><span class="content">USERNAME</span><span class="delimiter">'</span></span>)
+        PRF_DIR = <span class="string"><span class="delimiter">&quot;</span><span class="content">C:</span><span class="char">\\</span><span class="content">Users</span><span class="char">\\</span><span class="content">%s</span><span class="char">\\</span><span class="content">AppData</span><span class="char">\\</span><span class="content">Local</span><span class="char">\\</span><span class="content">Google</span><span class="char">\\</span><span class="content">Chrome</span><span class="char">\\</span><span class="content">User Data</span><span class="char">\\</span><span class="content">Default</span><span class="delimiter">&quot;</span></span> % USERNAME
+
+    <span class="keyword">return</span> PRF_DIR</code></pre>
+</div>
+</div>
+</div>
+</div>
+<div class="uk-margin-small-bottom uk-card uk-card-body uk-card-hover uk-border-rounded">
+<h2 id="_references">References</h2>
+<div class="uk-container">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://github.com/karthikeyankc/HistoryAnalyzer/blob/master/HistoryAnalyzer.py">Chrome history analyzer</a></p>
+</li>
+<li>
+<p><a href="https://sandersonforensics.com/forum/content.php?205-Chrome-history-with-Recursive-Common-Table-Expressions">Chrome history with Recursive Common Table Expressions</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>            <!-- FOOTER :: START -->
+            <div class="uk-flex uk-flex-center uk-flex-wrap">
+<!--
+                <div class="uk-card uk-card-body">
+                    <span class="uk-text-meta">Last update on Tue, Apr 21, 2020 at 22:46</span>
+                </div>
+-->
+            </div>
+            <!-- FOOTER :: END -->
+        </div>
+    </div>
+    <!-- CONTENTS (Document) :: END -->
+<script>
+<!-- Necessary javascript for filtering results -->
+<!-- Hack found in: https://codepen.io/acidrums4/pen/GBpYbO -->
+var input = document.getElementById('text_filter');
+var filter = document.getElementById('filter');
+
+input.addEventListener( 'keyup', function(event)
+{
+    if ( input.value == "" )
+    {
+        filter.setAttribute( 'uk-filter-control', '' );
+    }
+
+    else
+    {
+        filter.setAttribute( 'uk-filter-control', 'filter:[data-title*=\'' + input.value + '\'i]' );
+    }
+
+    filter.click();
+});
+</script>
+<script>
+function copyToClipboard() {
+  var copyText = document.getElementById("source-code");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  alert("Text copied to clipboard");
+}
+</script>
+<!-- GRID LAYOUT :: END -->
+</body>
+</html>
