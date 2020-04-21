@@ -1,4 +1,4 @@
 = Repository for KB4IT Demos
 
-* https://t00m.github.io/kb4it-adocs/python/[Python snippets demo]: Website for displaying Python snippets by using _Snippets_ theme.
+* https://t00m.github.io/kb4it-adocs/python/[Python snippets demo]: Website for displaying Python snippets by using `Snippets` theme.
 
