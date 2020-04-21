@@ -1,0 +1,38 @@
+= Get Chrome default profile directory
+
+:Module:        os, sys, subprocess
+:Tag:           google, chrome, web, browser, default, user, profile, directory
+:Platform:      Linux, Windows
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+You need to get Chrome profile directory.
+
+== Solution
+
+[source, python]
+----
+import os
+import sys
+import subprocess
+
+def get_chrome_profile_dir():
+    if sys.platform in ['linux', 'linux2']:
+        import subprocess
+        cmd = "ls -d /home/$USER/.config/google-chrome/default"
+        p = subprocess.Popen([cmd], shell=True, stdout=subprocess.PIPE)
+        PRF_DIR = p.communicate()[0][0:-2]
+    elif sys.platform == 'win32':
+        import os
+        USERNAME = os.getenv('USERNAME')
+        PRF_DIR = "C:\\Users\\%s\\AppData\\Local\\Google\\Chrome\\User Data\\Default" % USERNAME
+
+    return PRF_DIR
+----
+
+== References
+
+* https://github.com/karthikeyankc/HistoryAnalyzer/blob/master/HistoryAnalyzer.py[Chrome history analyzer]
+* https://sandersonforensics.com/forum/content.php?205-Chrome-history-with-Recursive-Common-Table-Expressions[Chrome history with Recursive Common Table Expressions]

@@ -1,7 +1,7 @@
 = Get Firefox default profile directory
 
-:Module:        os, glob, subprocess
-:Tag:           firefox, profile, directory
+:Module:        os, sys, glob, subprocess
+:Tag:           mozilla, firefox, web, browser, default, user, profile, directory
 :Platform:      Linux, Windows
 
 // END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
@@ -14,7 +14,10 @@ You need to get Firefox profile directory.
 
 [source, python]
 ----
+import os
 import sys
+import glob
+import subprocess
 
 def get_firefox_profile_dir():
     if sys.platform in ['linux', 'linux2']:
@@ -31,3 +34,7 @@ def get_firefox_profile_dir():
 
     return FF_PRF_DIR_DEFAULT
 ----
+
+== References
+
+* https://github.com/shadow-box/Violent-Python-Examples/blob/master/Chapter-3/6-firefoxParse.py[Fireforx parse]
