@@ -50,6 +50,7 @@
 <ul class="uk-nav uk-nav-default">
 <li><a class="uk-link-heading" href="#_problem">Problem</a></li>
 <li><a class="uk-link-heading" href="#_solution">Solution</a></li>
+<li><a class="uk-link-heading" href="#_references">References</a></li>
 </ul>
                                     </ul>
                                 </div>
@@ -96,6 +97,11 @@
         <span class="uk-padding-small">subprocess</span>
     </a>
 </div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Module_sys.html">
+        <span class="uk-padding-small">sys</span>
+    </a>
+</div>
 </div></td>
         </tr>
 
@@ -125,6 +131,16 @@
                 </a>
             </td>
             <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_browser.html">
+        <span class="uk-padding-small">browser</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_default.html">
+        <span class="uk-padding-small">default</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
     <a class="uk-link-heading" href="Tag_directory.html">
         <span class="uk-padding-small">directory</span>
     </a>
@@ -135,8 +151,23 @@
     </a>
 </div>
 <div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_mozilla.html">
+        <span class="uk-padding-small">mozilla</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
     <a class="uk-link-heading" href="Tag_profile.html">
         <span class="uk-padding-small">profile</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_user.html">
+        <span class="uk-padding-small">user</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_web.html">
+        <span class="uk-padding-small">web</span>
     </a>
 </div>
 </div></td>
@@ -163,8 +194,8 @@
                                                     <div class="uk-text-lead">get_firefox_profile.adoc&nbsp;<a onclick="copyToClipboard()" class="uk-icon-link uk-margin-small-right" uk-icon="copy"></a></div>
                                                     <textarea id="source-code" class="uk-width-1-1 uk-height-viewport">= Get Firefox default profile directory
 
-:Module:        os, glob, subprocess
-:Tag:           firefox, profile, directory
+:Module:        os, sys, glob, subprocess
+:Tag:           mozilla, firefox, web, browser, default, user, profile, directory
 :Platform:      Linux, Windows
 
 // END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
@@ -177,7 +208,10 @@ You need to get Firefox profile directory.
 
 [source, python]
 ----
+import os
 import sys
+import glob
+import subprocess
 
 def get_firefox_profile_dir():
     if sys.platform in ['linux', 'linux2']:
@@ -194,7 +228,10 @@ def get_firefox_profile_dir():
 
     return FF_PRF_DIR_DEFAULT
 ----
-</textarea>
+
+== References
+
+* https://github.com/shadow-box/Violent-Python-Examples/blob/master/Chapter-3/6-firefoxParse.py[Fireforx parse]</textarea>
                                                 </div>
                                             </div>
                                         </div>
@@ -236,6 +273,7 @@ def get_firefox_profile_dir():
 <ul class="sectlevel1">
 <li><a href="#_problem">Problem</a></li>
 <li><a href="#_solution">Solution</a></li>
+<li><a href="#_references">References</a></li>
 </ul>
 </div>
 <div class="uk-margin-small-bottom uk-card uk-card-body uk-card-hover uk-border-rounded">
@@ -251,7 +289,10 @@ def get_firefox_profile_dir():
 <div class="uk-container">
 <div class="listingblock">
 <div class="content">
-<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">import</span> <span class="include">sys</span>
+<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">import</span> <span class="include">os</span>
+<span class="keyword">import</span> <span class="include">sys</span>
+<span class="keyword">import</span> <span class="include">glob</span>
+<span class="keyword">import</span> <span class="include">subprocess</span>
 
 <span class="keyword">def</span> <span class="function">get_firefox_profile_dir</span>():
     <span class="keyword">if</span> sys.platform <span class="keyword">in</span> [<span class="string"><span class="delimiter">'</span><span class="content">linux</span><span class="delimiter">'</span></span>, <span class="string"><span class="delimiter">'</span><span class="content">linux2</span><span class="delimiter">'</span></span>]:
@@ -270,11 +311,23 @@ def get_firefox_profile_dir():
 </div>
 </div>
 </div>
+</div>
+<div class="uk-margin-small-bottom uk-card uk-card-body uk-card-hover uk-border-rounded">
+<h2 id="_references">References</h2>
+<div class="uk-container">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://github.com/shadow-box/Violent-Python-Examples/blob/master/Chapter-3/6-firefoxParse.py">Fireforx parse</a></p>
+</li>
+</ul>
+</div>
+</div>
 </div>            <!-- FOOTER :: START -->
             <div class="uk-flex uk-flex-center uk-flex-wrap">
 <!--
                 <div class="uk-card uk-card-body">
-                    <span class="uk-text-meta">Last update on Sat, Apr 18, 2020 at 08:25</span>
+                    <span class="uk-text-meta">Last update on Tue, Apr 21, 2020 at 22:46</span>
                 </div>
 -->
             </div>

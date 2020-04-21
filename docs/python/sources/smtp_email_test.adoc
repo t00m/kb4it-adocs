@@ -1,0 +1,38 @@
+= Test SMTP server
+
+:Module:        smtplib
+:Tag:           smtp, email, test, server, port
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+You need to test a SMTP server.
+
+== Solution
+
+[source, python]
+----
+#!/usr/bin/python3
+
+import smtplib
+
+sender = 'foo@example.com'
+receivers = ['bar@example.com']
+
+message = """From: Foo User <foo@example.com>
+To: Bar User <bar@example.com>
+Subject: SMTP e-mail test
+
+This is a test e-mail message.
+"""
+
+try:
+   smtpObj = smtplib.SMTP('<smtp_server>', <smtp_port>)
+   smtpObj.sendmail(sender, receivers, message)
+   print ("Email sent successfully")
+except Exception as error:
+   print (error)
+
+----
