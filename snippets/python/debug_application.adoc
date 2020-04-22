@@ -1,0 +1,46 @@
+= Debug your application
+
+:Module:        logging
+:Tag:           log, redirect, stdout, file, debug, format, handler
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+You want to add logging capabilities to your appliation for debugging purposes.
+
+== Solution
+
+[source, python]
+----
+import logging
+
+def get_logger(name):
+    log = logging.getLogger(name)       # Create logger
+    log.setLevel(logging.DEBUG)         # Set logging level
+
+    formatter = logging.Formatter("%(levelname)7s | %(lineno)4d  |%(name)15s | %(asctime)s | %(message)s")
+
+    ## Redirect log to stdout
+    ch = logging.StreamHandler()        # Create console handler
+    ch.setLevel(logging.DEBUG)          # Set logging devel
+    ch.setFormatter(formatter)          # add formatter to console handler
+    log.addHandler(ch)                  # add console handler to logger
+
+    ## Redirect log to file
+    filename = "%s.log" % name
+    fh = logging.FileHandler(filename)  # Create file handle
+    fh.setLevel(logging.DEBUG)          # Set logging devel
+    fh.setFormatter(formatter)          # add formatter to file handler
+    log.addHandler(fh)                  # add file handler to logger
+
+    return log
+
+
+log = get_logger('KB4IT')
+log.debug('This is a debug message')
+log.info('This is an informative message')
+log.warning('Be careful. This operation is dangerous')
+log.error("Something wrong happened")
+----

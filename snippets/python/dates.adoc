@@ -1,0 +1,100 @@
+= Dates
+
+:Module:        datetime, calendar
+:Type:          datetime, timedelta
+:Method:        strptime, replace
+:Function:      now, monthrange
+:Tag:           now, today, yesterday, week, day, month, last, first, sunday, monday, year, next, date, calendar
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+
+== Working with dates
+
+You need the following modules:
+
+[source, python]
+----
+from datetime import datetime, timedelta
+from calendar import monthrange
+----
+
+=== Today
+
+[source, python]
+----
+def today():
+    return datetime.today().date()
+----
+
+=== Yesterday
+
+[source, python]
+----
+def yesterday():
+    yesterday = today() - timedelta(days=1)
+    return yesterday.date()
+----
+
+=== Last Sunday
+
+[source, python]
+----
+def last_sunday(adate):
+    # Given a date, return first day that week (starting on Sunday)
+    sunday = adate - timedelta(days=datetime.today().isoweekday() % 7)
+    return sunday.date()
+----
+
+=== Last Monday
+
+[source, python]
+----
+def last_monday(adate):
+    # Given a date, return first day that week (starting on Monday)
+    monday = adate - timedelta(days=datetime.today().isoweekday() % 7 - 1)
+    return monday.date()
+----
+
+=== First day of month
+
+[source, python]
+----
+def first_day_this_month(adate):
+    return adate.replace(day=1).date()
+----
+
+=== Last day of month
+
+[source, python]
+----
+def last_day_this_month(adate):
+    return adate.replace(day = monthrange(adate.year, adate.month)[1]).date()
+----
+
+=== First day next month
+
+[source, python]
+----
+def first_day_next_month(adate):
+    last_day_of_month = last_day_this_month(adate)
+    return last_day_of_month + timedelta(days=1)
+----
+
+=== Current year, month and day
+
+[source, python]
+----
+def current_year():
+    return today().year
+
+def current_month():
+    return today().month
+
+def current_day():
+    return today().day
+----
+
+
+

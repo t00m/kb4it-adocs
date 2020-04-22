@@ -1,0 +1,571 @@
+<!DOCTYPE Html>
+<html lang="en">
+<head>
+    <title>KB4IT - Dates</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Asciidoctor 2.0.10">
+    <meta name="description" content="KB4IT document">
+    <meta name="author" content="KB4IT by t00mlabs.net">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="resources/common/uikit/css/uikit.min.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/coderay-asciidoctor.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/print.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="resources/common/uikit/css/kb4it.css">
+    <script src="resources/common/uikit/js/uikit.min.js"></script>
+    <script src="resources/common/uikit/js/uikit-icons.min.js"></script>
+</head>
+<body>
+<div>
+<div id="container-1" class="uk-container uk-container-center">
+    <div id="kb4it-menu" style="z-index: 980;" uk-sticky="show-on-up: true">
+        <nav class="uk-navbar-container uk-border-rounded uk-card-hover uk-margin" style="background-color: white;" uk-navbar>
+            <div class="uk-navbar-left noprint">
+                <ul class="uk-navbar-nav">
+                    <li class="uk-link-toggle">
+                        <a class="uk-logo uk-card uk-card-hover" href="index.html">
+                            <img src="resources/themes/snippets/images/logo.png" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">Go To</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="properties.html"><span class="uk-padding-small">Properties</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="stats.html"><span class="uk-padding-small">Stats</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="uk-navbar-nav">
+                    <!-- MENU CONTENTS :: START -->
+                            <li class="noprint">
+                                <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">Contents</a>
+                                <div class="uk-navbar-dropdown">
+                                    <ul class="uk-nav uk-navbar-dropdown-nav">
+<ul class="uk-nav uk-nav-default">
+<li><a class="uk-link-heading" href="#_working_with_dates">Working with dates</a>
+<ul class="uk-nav-sub">
+<li><a class="uk-link-heading" href="#_today">Today</a></li>
+<li><a class="uk-link-heading" href="#_yesterday">Yesterday</a></li>
+<li><a class="uk-link-heading" href="#_last_sunday">Last Sunday</a></li>
+<li><a class="uk-link-heading" href="#_last_monday">Last Monday</a></li>
+<li><a class="uk-link-heading" href="#_first_day_of_month">First day of month</a></li>
+<li><a class="uk-link-heading" href="#_last_day_of_month">Last day of month</a></li>
+<li><a class="uk-link-heading" href="#_first_day_next_month">First day next month</a></li>
+<li><a class="uk-link-heading" href="#_current_year_month_and_day">Current year, month and day</a></li>
+</ul>
+</li>
+</ul>
+                                    </ul>
+                                </div>
+                            </li>
+                    <!-- MENU CONTENTS :: END -->
+                </ul>
+            </div>
+            <div class="uk-navbar-center">
+                <!-- DOCUMENT TITLE :: START -->
+                <ul class="uk-navbar-nav">
+                    <li>
+                       <a href="#"><span class="uk-text-bolder uk-text-truncate">Dates</span></a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li>
+                                    <!-- View Metadata Button :: START -->
+                                    <a class="uk-button uk-card uk-card-hover uk-button uk-card uk-card-hover uk-border-rounded uk-link-heading" href="#modal-full-metadata" uk-toggle><span class="">Metadata</span></a>
+                                    <div id="modal-full-metadata" class="uk-modal-full" uk-modal>
+                                        <div class="uk-modal-dialog">
+                                            <button class="uk-modal-close-full uk-close-large uk-background-muted" type="button" uk-close></button>
+                                            <div class="uk-grid-collapse uk-child-width-expand@s uk-flex-middle" uk-grid>
+                                                <div class="uk-padding-large uk-background-muted">
+                                                    <div class="uk-text-lead uk-text-center uk-text-danger">Metadata</div>
+<!-- METADATA :: START -->
+        <table class="uk-table uk-table-divider uk-table-striped uk-table-hover uk-table-small uk-card uk-card-hover">
+        <tr>
+            <td>
+                <a class="uk-link-text" href="Function.html">
+                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Function</div>
+                </a>
+            </td>
+            <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Function_monthrange.html">
+        <span class="uk-padding-small">monthrange</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Function_now.html">
+        <span class="uk-padding-small">now</span>
+    </a>
+</div>
+</div></td>
+        </tr>
+
+        <tr>
+            <td>
+                <a class="uk-link-text" href="Method.html">
+                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Method</div>
+                </a>
+            </td>
+            <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Method_replace.html">
+        <span class="uk-padding-small">replace</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Method_strptime.html">
+        <span class="uk-padding-small">strptime</span>
+    </a>
+</div>
+</div></td>
+        </tr>
+
+        <tr>
+            <td>
+                <a class="uk-link-text" href="Module.html">
+                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Module</div>
+                </a>
+            </td>
+            <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Module_calendar.html">
+        <span class="uk-padding-small">calendar</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Module_datetime.html">
+        <span class="uk-padding-small">datetime</span>
+    </a>
+</div>
+</div></td>
+        </tr>
+
+        <tr>
+            <td>
+                <a class="uk-link-text" href="Platform.html">
+                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Platform</div>
+                </a>
+            </td>
+            <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Platform_Any.html">
+        <span class="uk-padding-small">Any</span>
+    </a>
+</div>
+</div></td>
+        </tr>
+
+        <tr>
+            <td>
+                <a class="uk-link-text" href="Tag.html">
+                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Tag</div>
+                </a>
+            </td>
+            <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_calendar.html">
+        <span class="uk-padding-small">calendar</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_date.html">
+        <span class="uk-padding-small">date</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_day.html">
+        <span class="uk-padding-small">day</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_first.html">
+        <span class="uk-padding-small">first</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_last.html">
+        <span class="uk-padding-small">last</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_monday.html">
+        <span class="uk-padding-small">monday</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_month.html">
+        <span class="uk-padding-small">month</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_next.html">
+        <span class="uk-padding-small">next</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_now.html">
+        <span class="uk-padding-small">now</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_sunday.html">
+        <span class="uk-padding-small">sunday</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_today.html">
+        <span class="uk-padding-small">today</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_week.html">
+        <span class="uk-padding-small">week</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_year.html">
+        <span class="uk-padding-small">year</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_yesterday.html">
+        <span class="uk-padding-small">yesterday</span>
+    </a>
+</div>
+</div></td>
+        </tr>
+
+        <tr>
+            <td>
+                <a class="uk-link-text" href="Type.html">
+                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Type</div>
+                </a>
+            </td>
+            <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Type_datetime.html">
+        <span class="uk-padding-small">datetime</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Type_timedelta.html">
+        <span class="uk-padding-small">timedelta</span>
+    </a>
+</div>
+</div></td>
+        </tr>
+
+            </table>
+
+<!-- METADATA :: END -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- View Metadata Button :: END -->
+                                </li>
+                                <li>
+                                    <!-- View Asciidoc Source Button :: START -->
+                                    <a class="uk-button uk-card uk-card-hover uk-button uk-card uk-card-hover uk-border-rounded uk-link-heading" href="#modal-full-source" uk-toggle><span class="">Source</span></a>
+                                    <div id="modal-full-source" class="uk-modal-full" uk-modal>
+                                        <div class="uk-modal-dialog">
+                                            <button class="uk-modal-close-full uk-close-large uk-background-muted" type="button" uk-close></button>
+                                            <div class="uk-grid-collapse uk-child-width-expand@s uk-flex-middle" uk-grid>
+                                                <div class="uk-padding-large uk-background-muted">
+                                                    <div class="uk-text-lead uk-text-center uk-text-danger">Source</div>
+                                                    <div class="uk-text-lead">dates.adoc&nbsp;<a onclick="copyToClipboard()" class="uk-icon-link uk-margin-small-right" uk-icon="copy"></a></div>
+                                                    <textarea id="source-code" class="uk-width-1-1 uk-height-viewport">= Dates
+
+:Module:        datetime, calendar
+:Type:          datetime, timedelta
+:Method:        strptime, replace
+:Function:      now, monthrange
+:Tag:           now, today, yesterday, week, day, month, last, first, sunday, monday, year, next, date, calendar
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+
+== Working with dates
+
+You need the following modules:
+
+[source, python]
+----
+from datetime import datetime, timedelta
+from calendar import monthrange
+----
+
+=== Today
+
+[source, python]
+----
+def today():
+    return datetime.today().date()
+----
+
+=== Yesterday
+
+[source, python]
+----
+def yesterday():
+    yesterday = today() - timedelta(days=1)
+    return yesterday.date()
+----
+
+=== Last Sunday
+
+[source, python]
+----
+def last_sunday(adate):
+    # Given a date, return first day that week (starting on Sunday)
+    sunday = adate - timedelta(days=datetime.today().isoweekday() % 7)
+    return sunday.date()
+----
+
+=== Last Monday
+
+[source, python]
+----
+def last_monday(adate):
+    # Given a date, return first day that week (starting on Monday)
+    monday = adate - timedelta(days=datetime.today().isoweekday() % 7 - 1)
+    return monday.date()
+----
+
+=== First day of month
+
+[source, python]
+----
+def first_day_this_month(adate):
+    return adate.replace(day=1).date()
+----
+
+=== Last day of month
+
+[source, python]
+----
+def last_day_this_month(adate):
+    return adate.replace(day = monthrange(adate.year, adate.month)[1]).date()
+----
+
+=== First day next month
+
+[source, python]
+----
+def first_day_next_month(adate):
+    last_day_of_month = last_day_this_month(adate)
+    return last_day_of_month + timedelta(days=1)
+----
+
+=== Current year, month and day
+
+[source, python]
+----
+def current_year():
+    return today().year
+
+def current_month():
+    return today().month
+
+def current_day():
+    return today().day
+----
+
+
+
+</textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> <!-- View Source Button :: END -->
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </u>
+                <!-- DOCUMENT TITLE :: END -->
+            </div>
+            <div class="uk-navbar-right noprint">
+                <ul class="uk-navbar-nav">
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">About</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_app.html"><span class="uk-padding-small">About this app</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_theme.html"><span class="uk-padding-small">About this theme</span></a>
+                                </li>
+                                <li class="uk-nav-divider"></li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_kb4it.html"><span class="uk-padding-small">About KB4IT</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+<div class="uk-container uk-container-center">
+<div hidden>
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_working_with_dates">Working with dates</a>
+<ul class="sectlevel2">
+<li><a href="#_today">Today</a></li>
+<li><a href="#_yesterday">Yesterday</a></li>
+<li><a href="#_last_sunday">Last Sunday</a></li>
+<li><a href="#_last_monday">Last Monday</a></li>
+<li><a href="#_first_day_of_month">First day of month</a></li>
+<li><a href="#_last_day_of_month">Last day of month</a></li>
+<li><a href="#_first_day_next_month">First day next month</a></li>
+<li><a href="#_current_year_month_and_day">Current year, month and day</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="uk-margin-small-bottom uk-card uk-card-body uk-card-hover uk-border-rounded">
+<h2 id="_working_with_dates">Working with dates</h2>
+<div class="uk-container">
+<div class="paragraph">
+<p>You need the following modules:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">from</span> <span class="include">datetime</span> <span class="keyword">import</span> <span class="include">datetime</span>, <span class="include">timedelta</span>
+<span class="keyword">from</span> <span class="include">calendar</span> <span class="keyword">import</span> <span class="include">monthrange</span></code></pre>
+</div>
+</div>
+<div class="sect2 uk-card-hover uk-border-rounded uk-padding-small">
+<h3 id="_today">Today</h3>
+<div class="listingblock">
+<div class="content">
+<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">def</span> <span class="function">today</span>():
+    <span class="keyword">return</span> datetime.today().date()</code></pre>
+</div>
+</div>
+</div>
+<div class="sect2 uk-card-hover uk-border-rounded uk-padding-small">
+<h3 id="_yesterday">Yesterday</h3>
+<div class="listingblock">
+<div class="content">
+<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">def</span> <span class="function">yesterday</span>():
+    yesterday = today() - timedelta(days=<span class="integer">1</span>)
+    <span class="keyword">return</span> yesterday.date()</code></pre>
+</div>
+</div>
+</div>
+<div class="sect2 uk-card-hover uk-border-rounded uk-padding-small">
+<h3 id="_last_sunday">Last Sunday</h3>
+<div class="listingblock">
+<div class="content">
+<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">def</span> <span class="function">last_sunday</span>(adate):
+    <span class="comment"># Given a date, return first day that week (starting on Sunday)</span>
+    sunday = adate - timedelta(days=datetime.today().isoweekday() % <span class="integer">7</span>)
+    <span class="keyword">return</span> sunday.date()</code></pre>
+</div>
+</div>
+</div>
+<div class="sect2 uk-card-hover uk-border-rounded uk-padding-small">
+<h3 id="_last_monday">Last Monday</h3>
+<div class="listingblock">
+<div class="content">
+<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">def</span> <span class="function">last_monday</span>(adate):
+    <span class="comment"># Given a date, return first day that week (starting on Monday)</span>
+    monday = adate - timedelta(days=datetime.today().isoweekday() % <span class="integer">7</span> - <span class="integer">1</span>)
+    <span class="keyword">return</span> monday.date()</code></pre>
+</div>
+</div>
+</div>
+<div class="sect2 uk-card-hover uk-border-rounded uk-padding-small">
+<h3 id="_first_day_of_month">First day of month</h3>
+<div class="listingblock">
+<div class="content">
+<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">def</span> <span class="function">first_day_this_month</span>(adate):
+    <span class="keyword">return</span> adate.replace(day=<span class="integer">1</span>).date()</code></pre>
+</div>
+</div>
+</div>
+<div class="sect2 uk-card-hover uk-border-rounded uk-padding-small">
+<h3 id="_last_day_of_month">Last day of month</h3>
+<div class="listingblock">
+<div class="content">
+<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">def</span> <span class="function">last_day_this_month</span>(adate):
+    <span class="keyword">return</span> adate.replace(day = monthrange(adate.year, adate.month)[<span class="integer">1</span>]).date()</code></pre>
+</div>
+</div>
+</div>
+<div class="sect2 uk-card-hover uk-border-rounded uk-padding-small">
+<h3 id="_first_day_next_month">First day next month</h3>
+<div class="listingblock">
+<div class="content">
+<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">def</span> <span class="function">first_day_next_month</span>(adate):
+    last_day_of_month = last_day_this_month(adate)
+    <span class="keyword">return</span> last_day_of_month + timedelta(days=<span class="integer">1</span>)</code></pre>
+</div>
+</div>
+</div>
+<div class="sect2 uk-card-hover uk-border-rounded uk-padding-small">
+<h3 id="_current_year_month_and_day">Current year, month and day</h3>
+<div class="listingblock">
+<div class="content">
+<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">def</span> <span class="function">current_year</span>():
+    <span class="keyword">return</span> today().year
+
+<span class="keyword">def</span> <span class="function">current_month</span>():
+    <span class="keyword">return</span> today().month
+
+<span class="keyword">def</span> <span class="function">current_day</span>():
+    <span class="keyword">return</span> today().day</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>            <!-- FOOTER :: START -->
+            <div class="uk-flex uk-flex-center uk-flex-wrap">
+<!--
+                <div class="uk-card uk-card-body">
+                    <span class="uk-text-meta">Last update on Wed, Apr 22, 2020 at 23:56</span>
+                </div>
+-->
+            </div>
+            <!-- FOOTER :: END -->
+        </div>
+    </div>
+    <!-- CONTENTS (Document) :: END -->
+<script>
+<!-- Necessary javascript for filtering results -->
+<!-- Hack found in: https://codepen.io/acidrums4/pen/GBpYbO -->
+var input = document.getElementById('text_filter');
+var filter = document.getElementById('filter');
+
+input.addEventListener( 'keyup', function(event)
+{
+    if ( input.value == "" )
+    {
+        filter.setAttribute( 'uk-filter-control', '' );
+    }
+
+    else
+    {
+        filter.setAttribute( 'uk-filter-control', 'filter:[data-title*=\'' + input.value + '\'i]' );
+    }
+
+    filter.click();
+});
+</script>
+<script>
+function copyToClipboard() {
+  var copyText = document.getElementById("source-code");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  alert("Text copied to clipboard");
+}
+</script>
+<!-- GRID LAYOUT :: END -->
+</body>
+</html>
