@@ -1,0 +1,348 @@
+<!DOCTYPE Html>
+<html lang="en">
+<head>
+    <title>KB4IT - Debug your application</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Asciidoctor 2.0.10">
+    <meta name="description" content="KB4IT document">
+    <meta name="author" content="KB4IT by t00mlabs.net">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="resources/common/uikit/css/uikit.min.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/coderay-asciidoctor.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/print.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="resources/common/uikit/css/kb4it.css">
+    <script src="resources/common/uikit/js/uikit.min.js"></script>
+    <script src="resources/common/uikit/js/uikit-icons.min.js"></script>
+</head>
+<body>
+<div>
+<div id="container-1" class="uk-container uk-container-center">
+    <div id="kb4it-menu" style="z-index: 980;" uk-sticky="show-on-up: true">
+        <nav class="uk-navbar-container uk-border-rounded uk-card-hover uk-margin" style="background-color: white;" uk-navbar>
+            <div class="uk-navbar-left noprint">
+                <ul class="uk-navbar-nav">
+                    <li class="uk-link-toggle">
+                        <a class="uk-logo uk-card uk-card-hover" href="index.html">
+                            <img src="resources/themes/snippets/images/logo.png" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">Go To</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="properties.html"><span class="uk-padding-small">Properties</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="stats.html"><span class="uk-padding-small">Stats</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="uk-navbar-nav">
+                    <!-- MENU CONTENTS :: START -->
+                            <li class="noprint">
+                                <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">Contents</a>
+                                <div class="uk-navbar-dropdown">
+                                    <ul class="uk-nav uk-navbar-dropdown-nav">
+<ul class="uk-nav uk-nav-default">
+<li><a class="uk-link-heading" href="#_problem">Problem</a></li>
+<li><a class="uk-link-heading" href="#_solution">Solution</a></li>
+</ul>
+                                    </ul>
+                                </div>
+                            </li>
+                    <!-- MENU CONTENTS :: END -->
+                </ul>
+            </div>
+            <div class="uk-navbar-center">
+                <!-- DOCUMENT TITLE :: START -->
+                <ul class="uk-navbar-nav">
+                    <li>
+                       <a href="#"><span class="uk-text-bolder uk-text-truncate">Debug your application</span></a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li>
+                                    <!-- View Metadata Button :: START -->
+                                    <a class="uk-button uk-card uk-card-hover uk-button uk-card uk-card-hover uk-border-rounded uk-link-heading" href="#modal-full-metadata" uk-toggle><span class="">Metadata</span></a>
+                                    <div id="modal-full-metadata" class="uk-modal-full" uk-modal>
+                                        <div class="uk-modal-dialog">
+                                            <button class="uk-modal-close-full uk-close-large uk-background-muted" type="button" uk-close></button>
+                                            <div class="uk-grid-collapse uk-child-width-expand@s uk-flex-middle" uk-grid>
+                                                <div class="uk-padding-large uk-background-muted">
+                                                    <div class="uk-text-lead uk-text-center uk-text-danger">Metadata</div>
+<!-- METADATA :: START -->
+        <table class="uk-table uk-table-divider uk-table-striped uk-table-hover uk-table-small uk-card uk-card-hover">
+        <tr>
+            <td>
+                <a class="uk-link-text" href="Module.html">
+                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Module</div>
+                </a>
+            </td>
+            <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Module_logging.html">
+        <span class="uk-padding-small">logging</span>
+    </a>
+</div>
+</div></td>
+        </tr>
+
+        <tr>
+            <td>
+                <a class="uk-link-text" href="Platform.html">
+                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Platform</div>
+                </a>
+            </td>
+            <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Platform_Any.html">
+        <span class="uk-padding-small">Any</span>
+    </a>
+</div>
+</div></td>
+        </tr>
+
+        <tr>
+            <td>
+                <a class="uk-link-text" href="Tag.html">
+                    <div class="uk-text-bolder uk-text-secondary uk-text-bold uk-text-meta">Tag</div>
+                </a>
+            </td>
+            <td><div class="uk-flex uk-flex-row uk-flex-wrap uk-text-meta"><div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_debug.html">
+        <span class="uk-padding-small">debug</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_file.html">
+        <span class="uk-padding-small">file</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_format.html">
+        <span class="uk-padding-small">format</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_handler.html">
+        <span class="uk-padding-small">handler</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_log.html">
+        <span class="uk-padding-small">log</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_redirect.html">
+        <span class="uk-padding-small">redirect</span>
+    </a>
+</div>
+<div class="uk-link-toggle uk-text-muted">
+    <a class="uk-link-heading" href="Tag_stdout.html">
+        <span class="uk-padding-small">stdout</span>
+    </a>
+</div>
+</div></td>
+        </tr>
+
+            </table>
+
+<!-- METADATA :: END -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- View Metadata Button :: END -->
+                                </li>
+                                <li>
+                                    <!-- View Asciidoc Source Button :: START -->
+                                    <a class="uk-button uk-card uk-card-hover uk-button uk-card uk-card-hover uk-border-rounded uk-link-heading" href="#modal-full-source" uk-toggle><span class="">Source</span></a>
+                                    <div id="modal-full-source" class="uk-modal-full" uk-modal>
+                                        <div class="uk-modal-dialog">
+                                            <button class="uk-modal-close-full uk-close-large uk-background-muted" type="button" uk-close></button>
+                                            <div class="uk-grid-collapse uk-child-width-expand@s uk-flex-middle" uk-grid>
+                                                <div class="uk-padding-large uk-background-muted">
+                                                    <div class="uk-text-lead uk-text-center uk-text-danger">Source</div>
+                                                    <div class="uk-text-lead">debug_application.adoc&nbsp;<a onclick="copyToClipboard()" class="uk-icon-link uk-margin-small-right" uk-icon="copy"></a></div>
+                                                    <textarea id="source-code" class="uk-width-1-1 uk-height-viewport">= Debug your application
+
+:Module:        logging
+:Tag:           log, redirect, stdout, file, debug, format, handler
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+You want to add logging capabilities to your appliation for debugging purposes.
+
+== Solution
+
+[source, python]
+----
+import logging
+
+def get_logger(name):
+    log = logging.getLogger(name)       # Create logger
+    log.setLevel(logging.DEBUG)         # Set logging level
+
+    formatter = logging.Formatter("%(levelname)7s | %(lineno)4d  |%(name)15s | %(asctime)s | %(message)s")
+
+    ## Redirect log to stdout
+    ch = logging.StreamHandler()        # Create console handler
+    ch.setLevel(logging.DEBUG)          # Set logging devel
+    ch.setFormatter(formatter)          # add formatter to console handler
+    log.addHandler(ch)                  # add console handler to logger
+
+    ## Redirect log to file
+    filename = "%s.log" % name
+    fh = logging.FileHandler(filename)  # Create file handle
+    fh.setLevel(logging.DEBUG)          # Set logging devel
+    fh.setFormatter(formatter)          # add formatter to file handler
+    log.addHandler(fh)                  # add file handler to logger
+
+    return log
+
+
+log = get_logger('KB4IT')
+log.debug('This is a debug message')
+log.info('This is an informative message')
+log.warning('Be careful. This operation is dangerous')
+log.error("Something wrong happened")
+----
+</textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> <!-- View Source Button :: END -->
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </u>
+                <!-- DOCUMENT TITLE :: END -->
+            </div>
+            <div class="uk-navbar-right noprint">
+                <ul class="uk-navbar-nav">
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">About</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_app.html"><span class="uk-padding-small">About this app</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_theme.html"><span class="uk-padding-small">About this theme</span></a>
+                                </li>
+                                <li class="uk-nav-divider"></li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_kb4it.html"><span class="uk-padding-small">About KB4IT</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+<div class="uk-container uk-container-center">
+<div hidden>
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_problem">Problem</a></li>
+<li><a href="#_solution">Solution</a></li>
+</ul>
+</div>
+<div class="uk-margin-small-bottom uk-card uk-card-body uk-card-hover uk-border-rounded">
+<h2 id="_problem">Problem</h2>
+<div class="uk-container">
+<div class="paragraph">
+<p>You want to add logging capabilities to your appliation for debugging purposes.</p>
+</div>
+</div>
+</div>
+<div class="uk-margin-small-bottom uk-card uk-card-body uk-card-hover uk-border-rounded">
+<h2 id="_solution">Solution</h2>
+<div class="uk-container">
+<div class="listingblock">
+<div class="content">
+<pre class="CodeRay highlight uk-card-hover"><code data-lang="python"><span class="keyword">import</span> <span class="include">logging</span>
+
+<span class="keyword">def</span> <span class="function">get_logger</span>(name):
+    log = logging.getLogger(name)       <span class="comment"># Create logger</span>
+    log.setLevel(logging.DEBUG)         <span class="comment"># Set logging level</span>
+
+    formatter = logging.Formatter(<span class="string"><span class="delimiter">&quot;</span><span class="content">%(levelname)7s | %(lineno)4d  |%(name)15s | %(asctime)s | %(message)s</span><span class="delimiter">&quot;</span></span>)
+
+    <span class="comment">## Redirect log to stdout</span>
+    ch = logging.StreamHandler()        <span class="comment"># Create console handler</span>
+    ch.setLevel(logging.DEBUG)          <span class="comment"># Set logging devel</span>
+    ch.setFormatter(formatter)          <span class="comment"># add formatter to console handler</span>
+    log.addHandler(ch)                  <span class="comment"># add console handler to logger</span>
+
+    <span class="comment">## Redirect log to file</span>
+    filename = <span class="string"><span class="delimiter">&quot;</span><span class="content">%s.log</span><span class="delimiter">&quot;</span></span> % name
+    fh = logging.FileHandler(filename)  <span class="comment"># Create file handle</span>
+    fh.setLevel(logging.DEBUG)          <span class="comment"># Set logging devel</span>
+    fh.setFormatter(formatter)          <span class="comment"># add formatter to file handler</span>
+    log.addHandler(fh)                  <span class="comment"># add file handler to logger</span>
+
+    <span class="keyword">return</span> log
+
+
+log = get_logger(<span class="string"><span class="delimiter">'</span><span class="content">KB4IT</span><span class="delimiter">'</span></span>)
+log.debug(<span class="string"><span class="delimiter">'</span><span class="content">This is a debug message</span><span class="delimiter">'</span></span>)
+log.info(<span class="string"><span class="delimiter">'</span><span class="content">This is an informative message</span><span class="delimiter">'</span></span>)
+log.warning(<span class="string"><span class="delimiter">'</span><span class="content">Be careful. This operation is dangerous</span><span class="delimiter">'</span></span>)
+log.error(<span class="string"><span class="delimiter">&quot;</span><span class="content">Something wrong happened</span><span class="delimiter">&quot;</span></span>)</code></pre>
+</div>
+</div>
+</div>
+</div>            <!-- FOOTER :: START -->
+            <div class="uk-flex uk-flex-center uk-flex-wrap">
+<!--
+                <div class="uk-card uk-card-body">
+                    <span class="uk-text-meta">Last update on Wed, Apr 22, 2020 at 11:17</span>
+                </div>
+-->
+            </div>
+            <!-- FOOTER :: END -->
+        </div>
+    </div>
+    <!-- CONTENTS (Document) :: END -->
+<script>
+<!-- Necessary javascript for filtering results -->
+<!-- Hack found in: https://codepen.io/acidrums4/pen/GBpYbO -->
+var input = document.getElementById('text_filter');
+var filter = document.getElementById('filter');
+
+input.addEventListener( 'keyup', function(event)
+{
+    if ( input.value == "" )
+    {
+        filter.setAttribute( 'uk-filter-control', '' );
+    }
+
+    else
+    {
+        filter.setAttribute( 'uk-filter-control', 'filter:[data-title*=\'' + input.value + '\'i]' );
+    }
+
+    filter.click();
+});
+</script>
+<script>
+function copyToClipboard() {
+  var copyText = document.getElementById("source-code");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  alert("Text copied to clipboard");
+}
+</script>
+<!-- GRID LAYOUT :: END -->
+</body>
+</html>
