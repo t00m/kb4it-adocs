@@ -1,0 +1,23 @@
+= Create temporary directory
+
+:Module:        tempfile
+:Method:        mkdtemp
+:Tag:           create, temporary, directory
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+
+== Problem
+
+You want to get the hash for a given string
+
+== Solution
+
+[source, python]
+----
+import tempfile
+
+tempfile.mkdtemp(prefix='/tmp/', suffix='_kb4it')
+----
+

@@ -1,0 +1,30 @@
+= Parse Asciidoctor attributes
+
+:Module:        os.path, stdlib
+:Method:        readlines, startswith, find, strip, exists
+:Tag:           parse, asciidoctor, attributes, document
+:Platform:      Any
+:Class:         dict, list
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+
+== Problem
+
+Given an Asciidoctor document, extract its attributes.
+
+== Solution
+
+[source, python]
+----
+def get_asciidoctor_attributes(docpath):
+    attributes = {}
+    if os.path.exists(docpath):
+        line = open(docpath, 'r').readlines()
+        for n in range(1, len(line)):
+            if line[n].startswith(':'):
+                key = line[n][1:line[n].find(':', 1)]
+                values = line[n][len(key)+2:-1].split(',')
+                attributes[key] = [value.strip() for value in values]
+    return attributes
+----

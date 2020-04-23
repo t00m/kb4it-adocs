@@ -1,0 +1,32 @@
+= Get hash
+
+:Module:        hashlib
+:Method:        sha256
+:Type:          str, bytes
+:Tag:           hash, sha, md5, algorithm, encode, digest
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+
+== Problem
+
+You want to get the hash for a given string
+
+== Solution
+
+[source, python]
+----
+import hashlib
+
+def get_md5(string):
+    m = hashlib.md5()
+    m.update(string.encode())
+    return m.hexdigest()
+
+def get_sha256(string):
+    m = hashlib.sha256()
+    m.update(string.encode())
+    return m.hexdigest()
+----
+
