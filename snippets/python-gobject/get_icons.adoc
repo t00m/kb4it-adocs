@@ -1,0 +1,33 @@
+= Get icon
+
+:Module:        Gtk
+:Class:         Gtk.IconTheme, GdkPixbuf.Pixbuf, Gtk.Image
+:Tag:           theme, icon, pixbuf, image, custom
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+
+[source, python]
+----
+import gi
+gi.require_version('Gtk', '3.0')
+from gi.repository import Gtk
+
+theme = Gtk.IconTheme.get_default()
+# Add custom icons to theme
+# theme.prepend_search_path ('/path/to/custom/icons')
+
+def list_icons():
+    """Get a list of all icons from current Gtk.IconTheme"""
+    return theme.list_icons()
+
+def get_pixbuf_icon(name, width=36):
+    """Get Pixbuf icon"""
+    iconinfo = theme.lookup_icon(name, width, Gtk.IconLookupFlags.GENERIC_FALLBACK)
+    return iconinfo.load_icon()
+
+def get_image_icon(name, width=36):
+    """Get Gtk.Image from a Gtk.Pixbuf icon"""
+    pixbuf = get_pixbuf_icon(name, width)
+    return Gtk.Image.new_from_pixbuf(pixbuf)
+----
