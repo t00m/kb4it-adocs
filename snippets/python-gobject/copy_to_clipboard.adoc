@@ -1,0 +1,44 @@
+= Copy text to clipboard
+
+:Module:        Gtk, Gdk
+:Class:         Gtk.Clipboard, str
+:Tag:           copy, paste, text
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+
+== Imports
+
+[source, python]
+----
+import gi
+gi.require_version("Gtk", "3.0")
+gi.require_version('Gdk', '3.0')
+from gi.repository import Gdk
+from gi.repository import Gtk
+----
+
+== Copy text
+[source, python]
+----
+def copy_to_clipboard(text):
+    clipboard = Gtk.Clipboard.get(Gdk.SELECTION_CLIPBOARD)
+    clipboard.set_text(text, -1)
+----
+
+
+== Paste text
+[source, python]
+----
+from gi.repository import Gdk
+from gi.repository import Gtk
+
+def paste_from_clipboard():
+    clipboard = Gtk.Clipboard.get(Gdk.SELECTION_CLIPBOARD)
+    text = clipboard.wait_for_text()
+----
+
+== References
+
+* https://python-gtk-3-tutorial.readthedocs.io/en/latest/clipboard.html[Python GTK+ 3 Tutorial - Clipboard]
+* https://lazka.github.io/pgi-docs/Gtk-3.0/classes/Clipboard.html[Gtk.Clipboard]

@@ -8,7 +8,7 @@
 
 == Problem
 
-Let keyboard interrupts while `Gtk.main()` is in progress.
+Let keyboard interrupts the execution while `Gtk.main()` is in progress.
 
 == Solution
 
