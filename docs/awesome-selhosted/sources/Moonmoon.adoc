@@ -1,0 +1,20 @@
+= Moonmoon
+
+:Name:          Moonmoon
+:Language:      PHP
+:License:       BSD-3-Clause
+:Topic:         Feed Readers
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+simple feed aggregator
+
+== References
+
+* Website: http://moonmoon.org/[Moonmoon]
+* Source code: https://github.com/mauricesvay/moonmoon[https://github.com/mauricesvay/moonmoon]
+* Demo: []

@@ -1,0 +1,20 @@
+= Kanbana
+
+:Name:          Kanbana
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Task management/To-do lists
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Create boards to track users and projects from flat markdown files. Forked from Crepido
+
+== References
+
+* Website: https://github.com/SrGMC/kanbana[Kanbana]
+* Source code: []
+* Demo: []

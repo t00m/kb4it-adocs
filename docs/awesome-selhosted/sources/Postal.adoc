@@ -1,0 +1,20 @@
+= Postal
+
+:Name:          Postal
+:Language:      Ruby
+:License:       MIT
+:Topic:         Communication systems
+:Category:      Email
+:Subcategory:   Mailing lists and Newsletters
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Fully featured open source mail delivery platform for incoming and outgoing e-mail
+
+== References
+
+* Website: https://github.com/atech/postal[Postal]
+* Source code: []
+* Demo: []

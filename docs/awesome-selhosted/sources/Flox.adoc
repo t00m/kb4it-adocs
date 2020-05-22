@@ -1,0 +1,20 @@
+= Flox
+
+:Name:          Flox
+:Language:      PHP
+:License:       MIT
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+
+
+== References
+
+* Website: https://github.com/devfake/flox[Flox]
+* Source code: []
+* Demo: https://flox-demo.pyxl.dev/[https://flox-demo.pyxl.dev/]

@@ -1,0 +1,20 @@
+= CalendarServer
+
+:Name:          CalendarServer
+:Language:      Python
+:License:       Apache-2.0
+:Topic:         Calendaring and Contacts Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Apple, Inc.'s standards-compliant server implementing the CalDAV and CardDAV protocols shipped with macOS Server.
+
+== References
+
+* Website: https://www.calendarserver.org/[CalendarServer]
+* Source code: https://github.com/apple/ccs-calendarserver[https://github.com/apple/ccs-calendarserver]
+* Demo: []

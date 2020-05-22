@@ -1,0 +1,20 @@
+= SilverStrike
+
+:Name:          SilverStrike
+:Language:      Python/Django
+:License:       MIT
+:Topic:         Money, Budgeting and Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Personal finance management made easy.
+
+== References
+
+* Website: https://silverstrike.org/[SilverStrike]
+* Source code: https://github.com/agstrike/silverstrike[https://github.com/agstrike/silverstrike]
+* Demo: https://demo.silverstrike.org/[https://demo.silverstrike.org/]

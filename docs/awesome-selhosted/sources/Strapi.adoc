@@ -1,0 +1,20 @@
+= Strapi
+
+:Name:          Strapi
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Content Management Systems (CMS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+The most advanced open-source Content Management Framework
+
+== References
+
+* Website: https://strapi.io/[Strapi]
+* Source code: https://github.com/strapi/strapi[https://github.com/strapi/strapi]
+* Demo: []

@@ -1,0 +1,20 @@
+= PeerTube
+
+:Name:          PeerTube
+:Language:      Nodejs
+:License:       AGPL-3.0
+:Topic:         Media Streaming
+:Category:      Video Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Decentralized video streaming platform using P2P
+
+== References
+
+* Website: https://joinpeertube.org/en/[PeerTube]
+* Source code: https://github.com/Chocobozzz/PeerTube[https://github.com/Chocobozzz/PeerTube]
+* Demo: []

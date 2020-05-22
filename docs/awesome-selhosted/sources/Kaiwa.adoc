@@ -1,0 +1,20 @@
+= Kaiwa
+
+:Name:          Kaiwa
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Communication systems
+:Category:      XMPP
+:Subcategory:   XMPP Web Clients
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Web based chat client in the style of common paid alternatives.
+
+== References
+
+* Website: http://getkaiwa.com/[Kaiwa]
+* Source code: https://github.com/digicoop/kaiwa[https://github.com/digicoop/kaiwa]
+* Demo: []

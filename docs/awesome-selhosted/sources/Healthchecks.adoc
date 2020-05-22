@@ -1,0 +1,20 @@
+= Healthchecks
+
+:Name:          Healthchecks
+:Language:      Python
+:License:       BSD-3-Clause
+:Topic:         Automation
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Django app which listens for pings and sends alerts when pings are late.
+
+== References
+
+* Website: https://healthchecks.io/[Healthchecks]
+* Source code: https://github.com/healthchecks/healthchecks[https://github.com/healthchecks/healthchecks]
+* Demo: []

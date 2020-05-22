@@ -1,0 +1,20 @@
+= Kamailio
+
+:Name:          Kamailio
+:Language:      C
+:License:       GPL-2.0
+:Topic:         Communication systems
+:Category:      SIP
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Modular SIP server
+
+== References
+
+* Website: http://www.kamailio.org/w/[Kamailio]
+* Source code: https://github.com/kamailio/kamailio[https://github.com/kamailio/kamailio]
+* Demo: []

@@ -1,0 +1,20 @@
+= DomainMOD
+
+:Name:          DomainMOD
+:Language:      PHP
+:License:       GPL-3.0
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data.
+
+== References
+
+* Website: https://domainmod.org[DomainMOD]
+* Source code: https://github.com/domainmod/domainmod[https://github.com/domainmod/domainmod]
+* Demo: https://demo.domainmod.org[https://demo.domainmod.org]

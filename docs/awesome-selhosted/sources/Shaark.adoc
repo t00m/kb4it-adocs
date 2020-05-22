@@ -1,0 +1,20 @@
+= Shaark
+
+:Name:          Shaark
+:Language:      PHP
+:License:       MIT
+:Topic:         Password Managers
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+All in one platform for your links, stories, passwords and albums. Built with Laravel and Vue.js
+
+== References
+
+* Website: https://github.com/MarceauKa/shaark[Shaark]
+* Source code: []
+* Demo: []

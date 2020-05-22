@@ -1,0 +1,20 @@
+= Pootle
+
+:Name:          Pootle
+:Language:      Python
+:License:       GPL-3.0
+:Topic:         Software Development
+:Category:      Localization
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Online translation and localization tool.
+
+== References
+
+* Website: http://pootle.translatehouse.org[Pootle]
+* Source code: https://github.com/translate/pootle[https://github.com/translate/pootle]
+* Demo: []

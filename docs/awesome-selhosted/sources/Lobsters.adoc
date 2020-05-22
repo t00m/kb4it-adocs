@@ -1,0 +1,20 @@
+= Lobsters
+
+:Name:          Lobsters
+:Language:      Ruby
+:License:       BSD-3-Clause
+:Topic:         Bookmarks and Link Sharing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Run your own link aggregation site.
+
+== References
+
+* Website: https://lobste.rs[Lobsters]
+* Source code: https://github.com/jcs/lobsters[https://github.com/jcs/lobsters]
+* Demo: []

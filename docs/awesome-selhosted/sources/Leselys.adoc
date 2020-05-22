@@ -1,0 +1,20 @@
+= Leselys
+
+:Name:          Leselys
+:Language:      Python
+:License:       AGPL-3.0
+:Topic:         Feed Readers
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Your very elegant RSS reader
+
+== References
+
+* Website: https://github.com/socketubs/leselys[Leselys]
+* Source code: []
+* Demo: []

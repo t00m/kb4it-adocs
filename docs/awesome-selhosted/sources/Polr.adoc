@@ -1,0 +1,20 @@
+= Polr
+
+:Name:          Polr
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         URL Shorteners
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Modern, minimalist, modular, and lightweight URL shortener.
+
+== References
+
+* Website: https://project.polr.me/[Polr]
+* Source code: https://github.com/Cydrobolt/polr[https://github.com/Cydrobolt/polr]
+* Demo: []

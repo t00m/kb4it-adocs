@@ -1,0 +1,20 @@
+= FluxBB
+
+:Name:          FluxBB
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Communication systems
+:Category:      Social Networks and Forums
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Fast, light, user-friendly forum software for your website.
+
+== References
+
+* Website: http://fluxbb.org/[FluxBB]
+* Source code: https://github.com/fluxbb/fluxbb[https://github.com/fluxbb/fluxbb]
+* Demo: []

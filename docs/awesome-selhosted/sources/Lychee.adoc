@@ -1,0 +1,20 @@
+= Lychee
+
+:Name:          Lychee
+:Language:      PHP
+:License:       MIT
+:Topic:         Photo and Video Galleries
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open source grid and album based photo-management-system.
+
+== References
+
+* Website: https://lycheeorg.github.io/[Lychee]
+* Source code: https://github.com/LycheeOrg/Lychee[https://github.com/LycheeOrg/Lychee]
+* Demo: []

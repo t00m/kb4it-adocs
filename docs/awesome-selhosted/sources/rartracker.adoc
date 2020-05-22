@@ -1,0 +1,20 @@
+= rartracker
+
+:Name:          rartracker
+:Language:      PHP
+:License:       WTFPL
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Peer-to-peer filesharing
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Complete private bittorrent tracker
+
+== References
+
+* Website: https://github.com/swetorrentking/rartracker[rartracker]
+* Source code: []
+* Demo: []

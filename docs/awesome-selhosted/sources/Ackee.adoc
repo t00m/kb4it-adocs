@@ -1,0 +1,20 @@
+= Ackee
+
+:Name:          Ackee
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Analytics
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Self-hosted analytics tool for those who care about privacy.
+
+== References
+
+* Website: https://ackee.electerious.com[Ackee]
+* Source code: https://github.com/electerious/Ackee[https://github.com/electerious/Ackee]
+* Demo: http://demo.ackee.electerious.com[http://demo.ackee.electerious.com]

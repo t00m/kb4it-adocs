@@ -1,0 +1,20 @@
+= miniProxy
+
+:Name:          miniProxy
+:Language:      PHP
+:License:       GPL-3.0
+:Topic:         Proxy
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple web proxy written in PHP that can allow you to bypass Internet content filters, or to browse the internet anonymously. Only one php file.
+
+== References
+
+* Website: https://joshdick.github.io/miniProxy/[miniProxy]
+* Source code: https://github.com/joshdick/miniProxy[https://github.com/joshdick/miniProxy]
+* Demo: []

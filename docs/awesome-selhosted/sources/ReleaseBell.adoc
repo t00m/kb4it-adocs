@@ -1,0 +1,20 @@
+= ReleaseBell
+
+:Name:          ReleaseBell
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Send release notifications for starred Github repos.
+
+== References
+
+* Website: https://releasebell.com/[ReleaseBell]
+* Source code: https://git.cloudron.io/cloudron/releasebell[https://git.cloudron.io/cloudron/releasebell]
+* Demo: []

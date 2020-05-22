@@ -1,0 +1,20 @@
+= Photo Stream
+
+:Name:          Photo Stream
+:Language:      Ruby
+:License:       MIT
+:Topic:         Photo and Video Galleries
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Minimalist self-hosted photo stream.
+
+== References
+
+* Website: https://github.com/maxvoltar/photo-stream[Photo Stream]
+* Source code: []
+* Demo: https://maxvoltar.photo/[https://maxvoltar.photo/]

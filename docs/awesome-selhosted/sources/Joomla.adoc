@@ -1,0 +1,20 @@
+= Joomla!
+
+:Name:          Joomla!
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Content Management Systems (CMS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Advanced Content Management System
+
+== References
+
+* Website: https://www.joomla.org/[Joomla!]
+* Source code: https://github.com/joomla/joomla-cms[https://github.com/joomla/joomla-cms]
+* Demo: []

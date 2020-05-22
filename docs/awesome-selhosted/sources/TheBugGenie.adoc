@@ -1,0 +1,20 @@
+= TheBugGenie
+
+:Name:          TheBugGenie
+:Language:      PHP
+:License:       MPL-2.0
+:Topic:         Ticketing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+friendly project management and issue tracking tool, with extensive user rights system.
+
+== References
+
+* Website: http://www.thebuggenie.org[TheBugGenie]
+* Source code: https://github.com/thebuggenie/thebuggenie[https://github.com/thebuggenie/thebuggenie]
+* Demo: []

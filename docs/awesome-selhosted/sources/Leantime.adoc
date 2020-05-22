@@ -1,0 +1,20 @@
+= Leantime
+
+:Name:          Leantime
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Software Development
+:Category:      Project Management
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery.
+
+== References
+
+* Website: https://leantime.io[Leantime]
+* Source code: https://github.com/leantime/leantime[https://github.com/leantime/leantime]
+* Demo: []

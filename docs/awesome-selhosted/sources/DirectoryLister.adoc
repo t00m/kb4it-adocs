@@ -1,0 +1,20 @@
+= DirectoryLister
+
+:Name:          DirectoryLister
+:Language:      PHP
+:License:       MIT
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Web based file managers
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple PHP based directory lister that lists a directory and all it's sub-directories and allows you to navigate there within.
+
+== References
+
+* Website: http://www.directorylister.com/[DirectoryLister]
+* Source code: https://github.com/DirectoryLister/DirectoryLister[https://github.com/DirectoryLister/DirectoryLister]
+* Demo: []

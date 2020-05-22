@@ -1,0 +1,20 @@
+= Request Tracker
+
+:Name:          Request Tracker
+:Language:      Perl
+:License:       GPL-2.0
+:Topic:         Ticketing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+An enterprise-grade issue tracking system.
+
+== References
+
+* Website: https://www.bestpractical.com/rt/[Request Tracker]
+* Source code: https://github.com/bestpractical/rt[https://github.com/bestpractical/rt]
+* Demo: []

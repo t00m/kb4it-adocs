@@ -1,0 +1,20 @@
+= oneye
+
+:Name:          oneye
+:Language:      PHP
+:License:       AGPL-3.0
+:Topic:         Gateways and terminal sharing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Cloud software to access your data from everywhere with any browser.
+
+== References
+
+* Website: https://oneye-project.org/[oneye]
+* Source code: https://github.com/oneye/oneye[https://github.com/oneye/oneye]
+* Demo: https://wiki.oneye-project.org/0.9:demo[https://wiki.oneye-project.org/0.9:demo]

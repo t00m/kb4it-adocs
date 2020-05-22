@@ -1,0 +1,20 @@
+= Cozy Cloud
+
+:Name:          Cozy Cloud
+:Language:      Nodejs
+:License:       GPL-3.0
+:Topic:         Groupware
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Personal cloud where you can manage and sync your contact, files and calendars, and manage your budget with an app store full of community contributions.
+
+== References
+
+* Website: https://cozy.io[Cozy Cloud]
+* Source code: https://github.com/cozy[https://github.com/cozy]
+* Demo: []

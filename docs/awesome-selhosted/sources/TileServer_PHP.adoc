@@ -1,0 +1,20 @@
+= TileServer PHP
+
+:Name:          TileServer PHP
+:Language:      PHP
+:License:       BSD-2-Clause
+:Topic:         Maps and Global Positioning System (GPS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Serve map tiles from any PHP hosting
+
+== References
+
+* Website: https://github.com/klokantech/tileserver-php[TileServer PHP]
+* Source code: []
+* Demo: []

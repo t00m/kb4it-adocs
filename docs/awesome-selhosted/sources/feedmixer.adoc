@@ -1,0 +1,20 @@
+= feedmixer
+
+:Name:          feedmixer
+:Language:      Python
+:License:       WTFPL
+:Topic:         Automation
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+FeedMixer is a WSGI
+
+== References
+
+* Website: https://github.com/cristoper/feedmixer[feedmixer]
+* Source code: []
+* Demo: https://mretc.net/feedmixer/json?f=http://hnrss.org/newest&f=http://americancynic.net/atom.xml&n=1[https://mretc.net/feedmixer/json?f=http://hnrss.org/newest&f=http://americancynic.net/atom.xml&n=1]

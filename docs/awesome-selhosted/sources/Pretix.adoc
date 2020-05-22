@@ -1,0 +1,20 @@
+= Pretix
+
+:Name:          Pretix
+:Language:      Python
+:License:       Apache-2.0
+:Topic:         Content Management Systems (CMS)
+:Category:      E-commerce
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Django based ticket sales platform for events.
+
+== References
+
+* Website: https://pretix.eu/[Pretix]
+* Source code: https://github.com/pretix[https://github.com/pretix]
+* Demo: []

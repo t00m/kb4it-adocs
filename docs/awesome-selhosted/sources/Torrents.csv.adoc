@@ -1,0 +1,20 @@
+= Torrents.csv
+
+:Name:          Torrents.csv
+:Language:      Rust
+:License:       GPL-3.0
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Peer-to-peer filesharing
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+A self-hostable torrent search engine
+
+== References
+
+* Website: https://gitlab.com/dessalines/torrents.csv[Torrents.csv]
+* Source code: []
+* Demo: []

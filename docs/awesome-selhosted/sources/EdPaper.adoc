@@ -1,0 +1,20 @@
+= EdPaper
+
+:Name:          EdPaper
+:Language:      PHP
+:License:       MIT
+:Topic:         Document Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+PDF organizer with users management
+
+== References
+
+* Website: https://github.com/Edraens/EdPaper[EdPaper]
+* Source code: []
+* Demo: []

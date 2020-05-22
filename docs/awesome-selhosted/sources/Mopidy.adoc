@@ -1,0 +1,20 @@
+= Mopidy
+
+:Name:          Mopidy
+:Language:      Python
+:License:       Apache-2.0
+:Topic:         Media Streaming
+:Category:      Audio Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc.
+
+== References
+
+* Website: http://mopidy.readthedocs.org/[Mopidy]
+* Source code: https://github.com/mopidy/mopidy[https://github.com/mopidy/mopidy]
+* Demo: []

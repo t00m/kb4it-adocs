@@ -1,0 +1,20 @@
+= Tipboard
+
+:Name:          Tipboard
+:Language:      Python
+:License:       Apache-2.0
+:Topic:         Personal Dashboards
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+In-house, tasty, local dashboarding system.
+
+== References
+
+* Website: http://allegro.tech/tipboard/[Tipboard]
+* Source code: https://github.com/allegro/tipboard[https://github.com/allegro/tipboard]
+* Demo: []

@@ -1,0 +1,20 @@
+= Synapse
+
+:Name:          Synapse
+:Language:      Python
+:License:       Apache-2.0
+:Topic:         Communication systems
+:Category:      Custom communication systems
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Server for [Matrix]
+
+== References
+
+* Website: http://matrix.org/docs/projects/server/synapse.html[Synapse]
+* Source code: https://github.com/matrix-org/synapse[https://github.com/matrix-org/synapse]
+* Demo: []

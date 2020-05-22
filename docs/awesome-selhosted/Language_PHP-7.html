@@ -1,0 +1,726 @@
+<!DOCTYPE Html>
+<html lang="en">
+<head>
+    <title>KB4IT - Language PHP</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Asciidoctor 2.0.10">
+    <meta name="description" content="KB4IT document">
+    <meta name="author" content="KB4IT by t00mlabs.net">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="resources/common/uikit/css/uikit.min.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/coderay-asciidoctor.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/print.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="resources/common/uikit/css/kb4it.css">
+    <script src="resources/common/uikit/js/uikit.min.js"></script>
+    <script src="resources/common/uikit/js/uikit-icons.min.js"></script>
+</head>
+<body>
+<div>
+<div id="container-1" class="uk-container uk-container-center">
+    <div id="kb4it-menu" style="z-index: 980;" uk-sticky="show-on-up: true">
+        <nav class="uk-navbar-container uk-border-rounded uk-card-hover uk-margin" style="background-color: white;" uk-navbar>
+            <div class="uk-navbar-left noprint">
+                <ul class="uk-navbar-nav">
+                    <li class="uk-link-toggle">
+                        <a class="uk-logo uk-card uk-card-hover" href="index.html">
+                            <img src="resources/themes/awesome/images/logo.png" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">Go To</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="properties.html"><span class="uk-padding-small">Properties</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="stats.html"><span class="uk-padding-small">Stats</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="uk-navbar-nav">
+                    <!-- MENU CONTENTS :: START -->
+                            <!-- <li><a href="#">Contents</a></li> -->
+                    <!-- MENU CONTENTS :: END -->
+                </ul>
+            </div>
+            <div class="uk-navbar-center">
+                <!-- DOCUMENT TITLE :: START -->
+<span class="uk-text-danger uk-text-truncate uk-text-bolder">Language PHP</span>
+                <!-- DOCUMENT TITLE :: END -->
+            </div>
+            <div class="uk-navbar-right noprint">
+                <ul class="uk-navbar-nav">
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">About</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_app.html"><span class="uk-padding-small">About this app</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_theme.html"><span class="uk-padding-small">About this theme</span></a>
+                                </li>
+                                <li class="uk-nav-divider"></li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_kb4it.html"><span class="uk-padding-small">About KB4IT</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+<!-- CONTENT :: START -->
+<div class="uk-container uk-container-center">
+        <!-- PAGINATION_HEAD.tpl :: START -->
+        <!-- PAGINATION :: START -->
+<ul class="uk-pagination uk-flex-center" uk-margin>
+
+<li uk-tooltip="Page 0: 0-30/289"><a href="Language_PHP.html"><span>0</span></a></li>
+<li uk-tooltip="Page 1: 30-60/289"><a href="Language_PHP-1.html"><span>1</span></a></li>
+<li uk-tooltip="Page 2: 60-90/289"><a href="Language_PHP-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 3: 90-120/289"><a href="Language_PHP-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 4: 120-150/289"><a href="Language_PHP-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 5: 150-180/289"><a href="Language_PHP-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 6: 180-210/289"><a href="Language_PHP-6.html"><span>6</span></a></li>
+<li class="uk-active"><span uk-tooltip="Page 7: 210-240/289">7</span></li>
+
+<li uk-tooltip="Page 8: 240-270/289"><a href="Language_PHP-8.html"><span>8</span></a></li>
+<li uk-tooltip="Page 9: 270-300/289"><a href="Language_PHP-9.html"><span>9</span></a></li>
+</ul>
+
+
+        <!-- PAGINATION :: END -->
+        <div uk-filter="target: .js-filter">
+            <!-- Search entry :: Start -->
+            <form action="" method="post" class="uk-search uk-search-default uk-width-1-1 uk-margin-medium-bottom">
+                <input id="text_filter" type="search" name="" value="" class="uk-search-input uk-padding-small" autocomplete="off" placeholder="Filter results by title..." autofocus/>
+            </form>
+            <a id="filter" href="#" class="uk-active" uk-filter-control="" hidden></a>
+            <!-- Search entry :: End -->
+            <!-- Filtered rows :: Start -->
+            <ul class="js-filter uk-child-width-1-3@m" uk-grid>
+            <li data-title="PrivateBin">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="PrivateBin"><a class="uk-link-heading uk-text-meta" href="PrivateBin.html"><span class="">PrivateBin</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">PrivateBin is a minimalist, opensource online pastebin/discussion board where the server has zero knowledge of hosted data.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="ProcessWire">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="ProcessWire"><a class="uk-link-heading uk-text-meta" href="ProcessWire.html"><span class="">ProcessWire</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">ProcessWire is an open source content management system</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="ProjectSend">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="ProjectSend"><a class="uk-link-heading uk-text-meta" href="ProjectSend.html"><span class="">ProjectSend</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Upload files and assign them to specific clients you create. Give access to those files to your clients.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="ProjeQtOr">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="ProjeQtOr"><a class="uk-link-heading uk-text-meta" href="ProjeQtOr.html"><span class="">ProjeQtOr</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">A complete, mature, multi-user project management system with extensive functionality for all phases of a project.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Pydio">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Pydio"><a class="uk-link-heading uk-text-meta" href="Pydio.html"><span class="">Pydio</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="RainLoop">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="RainLoop"><a class="uk-link-heading uk-text-meta" href="RainLoop.html"><span class="">RainLoop</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Simple, modern and fast webmail with IMAP/SMTP Support and multi accounting.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="rartracker">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="rartracker"><a class="uk-link-heading uk-text-meta" href="rartracker.html"><span class="">rartracker</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Complete private bittorrent tracker</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Reader-Self">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Reader-Self"><a class="uk-link-heading uk-text-meta" href="Reader-Self.html"><span class="">Reader-Self</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Self-hosted rss reader</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="REDAXO">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="REDAXO"><a class="uk-link-heading uk-text-meta" href="REDAXO.html"><span class="">REDAXO</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Simple, flexible and useful content management system</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Redaxscript">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Redaxscript"><a class="uk-link-heading uk-text-meta" href="Redaxscript.html"><span class="">Redaxscript</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Ultra lightweight CMS for MySQL, SQLite and PostgreSQL.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="ResourceSpace">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="ResourceSpace"><a class="uk-link-heading uk-text-meta" href="ResourceSpace.html"><span class="">ResourceSpace</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">ResourceSpace open source digital asset management software is the simple, fast, and free way to organise your digital assets.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Restyaboard">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Restyaboard"><a class="uk-link-heading uk-text-meta" href="Restyaboard.html"><span class="">Restyaboard</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Open source Trello-like kanban board.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Revive_Adserver">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Revive Adserver"><a class="uk-link-heading uk-text-meta" href="Revive_Adserver.html"><span class="">Revive Adserver</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">World's most popular free, open source ad serving system. Formerly known as OpenX Adserver and phpAdsNew.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Roadiz">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Roadiz"><a class="uk-link-heading uk-text-meta" href="Roadiz.html"><span class="">Roadiz</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Modern CMS based on a node system which can handle many types of services.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="RosarioSIS">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="RosarioSIS"><a class="uk-link-heading uk-text-meta" href="RosarioSIS.html"><span class="">RosarioSIS</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">RosarioSIS, free Student Information System for school management.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Roundcube">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Roundcube"><a class="uk-link-heading uk-text-meta" href="Roundcube.html"><span class="">Roundcube</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Browser-based IMAP client with an application-like user interface.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="RSS-Bridge">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="RSS-Bridge"><a class="uk-link-heading uk-text-meta" href="RSS-Bridge.html"><span class="">RSS-Bridge</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="RSS_Merger">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="RSS Merger"><a class="uk-link-heading uk-text-meta" href="RSS_Merger.html"><span class="">RSS Merger</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">PHP script which will take multiple RSS / Atom feeds as input and merge them into a single RSS feed</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="RSS_Monster">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="RSS Monster"><a class="uk-link-heading uk-text-meta" href="RSS_Monster.html"><span class="">RSS Monster</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">RSS Monster is an easy to use web-based RSS aggregator and reader compatible with the Fever API, created as an alternative for Google Reader</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="SabreDAV">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="SabreDAV"><a class="uk-link-heading uk-text-meta" href="SabreDAV.html"><span class="">SabreDAV</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Open source CardDAV, CalDAV, and WebDAV framework and server.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="savepad">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="savepad"><a class="uk-link-heading uk-text-meta" href="savepad.html"><span class="">savepad</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Minimalist notepad based on notepad.cc</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Screaming_Liquid_Tiger">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Screaming Liquid Tiger"><a class="uk-link-heading uk-text-meta" href="Screaming_Liquid_Tiger.html"><span class="">Screaming Liquid Tiger</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Simple script to automatically generate valid RSS and Atom feeds from a list of media files in the same folder</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Selfoss">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Selfoss"><a class="uk-link-heading uk-text-meta" href="Selfoss.html"><span class="">Selfoss</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">New multipurpose rss reader, live stream, mashup, aggregation web application.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Sentrifugo">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Sentrifugo"><a class="uk-link-heading uk-text-meta" href="Sentrifugo.html"><span class="">Sentrifugo</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Sentrifugo is a HRM system that can be easily configured to meet your organizational needs.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Shaark">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Shaark"><a class="uk-link-heading uk-text-meta" href="Shaark.html"><span class="">Shaark</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">All in one platform for your links, stories, passwords and albums. Built with Laravel and Vue.js</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Shaarli">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Shaarli"><a class="uk-link-heading uk-text-meta" href="Shaarli.html"><span class="">Shaarli</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Personal, minimalist, super-fast, no-database bookmarking and link sharing platform.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Shlink">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Shlink"><a class="uk-link-heading uk-text-meta" href="Shlink.html"><span class="">Shlink</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">URL shortener with REST API and command line interface. Includes official progressive web application and docker images.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Shopware_Community_Edition">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Shopware Community Edition"><a class="uk-link-heading uk-text-meta" href="Shopware_Community_Edition.html"><span class="">Shopware Community Edition</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">PHP based open source e-commerce software made in Germany.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="SilverStripe">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="SilverStripe"><a class="uk-link-heading uk-text-meta" href="SilverStripe.html"><span class="">SilverStripe</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Easy to use CMS with powerful MVC framework underlying.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Simple-URL-Shortener">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Simple-URL-Shortener"><a class="uk-link-heading uk-text-meta" href="Simple-URL-Shortener.html"><span class="">Simple-URL-Shortener</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">KISS URL shortener, public or private</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>
+            </ul> <!-- Filtered rows :: End -->
+        </div>
+        <!-- PAGINATION_HEAD.tpl :: END -->            <!-- FOOTER :: START -->
+            <div class="uk-flex uk-flex-center uk-flex-wrap">
+<!--
+                <div class="uk-card uk-card-body">
+                    <span class="uk-text-meta">Last update on Sat, May 23, 2020 at 01:29</span>
+                </div>
+-->
+            </div>
+            <!-- FOOTER :: END -->
+        </div>
+    </div>
+    <!-- CONTENTS (Document) :: END -->
+<script>
+<!-- Necessary javascript for filtering results -->
+<!-- Hack found in: https://codepen.io/acidrums4/pen/GBpYbO -->
+var input = document.getElementById('text_filter');
+var filter = document.getElementById('filter');
+
+input.addEventListener( 'keyup', function(event)
+{
+    if ( input.value == "" )
+    {
+        filter.setAttribute( 'uk-filter-control', '' );
+    }
+
+    else
+    {
+        filter.setAttribute( 'uk-filter-control', 'filter:[data-title*=\'' + input.value + '\'i]' );
+    }
+
+    filter.click();
+});
+</script>
+<script>
+function copyToClipboard() {
+  var copyText = document.getElementById("source-code");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  alert("Text copied to clipboard");
+}
+</script>
+<!-- GRID LAYOUT :: END -->
+</body>
+</html>

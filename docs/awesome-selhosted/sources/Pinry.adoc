@@ -1,0 +1,20 @@
+= Pinry
+
+:Name:          Pinry
+:Language:      Python
+:License:       BSD-2-Clause
+:Topic:         Bookmarks and Link Sharing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+The tiling image board system for people who want to save, tag, and share images, videos, and webpages.
+
+== References
+
+* Website: http://getpinry.com/[Pinry]
+* Source code: https://github.com/pinry/pinry[https://github.com/pinry/pinry]
+* Demo: []

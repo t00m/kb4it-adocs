@@ -1,0 +1,20 @@
+= Musical Artifacts
+
+:Name:          Musical Artifacts
+:Language:      Ruby
+:License:       MIT
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Helping to catalog, preserve and free the artifacts you need to produce music.
+
+== References
+
+* Website: https://musical-artifacts.com/[Musical Artifacts]
+* Source code: https://github.com/lfzawacki/musical-artifacts[https://github.com/lfzawacki/musical-artifacts]
+* Demo: []

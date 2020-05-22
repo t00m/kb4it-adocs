@@ -1,0 +1,20 @@
+= Joplin
+
+:Name:          Joplin
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Note-taking and Editors
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar. Consider it like open source alternative to Evernote.
+
+== References
+
+* Website: https://joplin.cozic.net/[Joplin]
+* Source code: https://github.com/laurent22/joplin[https://github.com/laurent22/joplin]
+* Demo: []

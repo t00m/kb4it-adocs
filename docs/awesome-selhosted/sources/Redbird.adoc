@@ -1,0 +1,20 @@
+= Redbird
+
+:Name:          Redbird
+:Language:      Javascript
+:License:       BSD-2-Clause
+:Topic:         Proxy
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+A modern reverse proxy for node that includes cluster, HTTP2, LetsEncrypt, and Docker support
+
+== References
+
+* Website: https://github.com/OptimalBits/redbird[Redbird]
+* Source code: []
+* Demo: []

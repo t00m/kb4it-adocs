@@ -1,0 +1,20 @@
+= Node RED
+
+:Name:          Node RED
+:Language:      Nodejs
+:License:       Apache-2.0
+:Topic:         Internet Of Things (IoT)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Browser-based flow editor that helps you wiring hardware devices, APIs and online services to create IoT solutions.
+
+== References
+
+* Website: http://nodered.org/[Node RED]
+* Source code: https://github.com/node-red/node-red[https://github.com/node-red/node-red]
+* Demo: []

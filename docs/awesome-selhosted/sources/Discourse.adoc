@@ -1,0 +1,20 @@
+= Discourse
+
+:Name:          Discourse
+:Language:      Ruby
+:License:       GPL-2.0
+:Topic:         Communication systems
+:Category:      Social Networks and Forums
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Advanced forum / community solution based on Ruby and JS.
+
+== References
+
+* Website: http://www.discourse.org/[Discourse]
+* Source code: https://github.com/discourse/discourse[https://github.com/discourse/discourse]
+* Demo: https://try.discourse.org/[https://try.discourse.org/]

@@ -1,0 +1,20 @@
+= Darkwire.io
+
+:Name:          Darkwire.io
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Communication systems
+:Category:      Custom communication systems
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+End-to-end encrypted instant web chat.
+
+== References
+
+* Website: https://darkwire.io/[Darkwire.io]
+* Source code: https://github.com/darkwire/darkwire.io[https://github.com/darkwire/darkwire.io]
+* Demo: []

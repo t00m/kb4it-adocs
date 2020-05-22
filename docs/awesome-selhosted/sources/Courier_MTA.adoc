@@ -1,0 +1,20 @@
+= Courier MTA
+
+:Name:          Courier MTA
+:Language:      C
+:License:       GPL-3.0
+:Topic:         Communication systems
+:Category:      Email
+:Subcategory:   Mail Transfer Agents
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services.
+
+== References
+
+* Website: http://www.courier-mta.org/[Courier MTA]
+* Source code: http://www.courier-mta.org/repo.html[http://www.courier-mta.org/repo.html]
+* Demo: []

@@ -1,0 +1,20 @@
+= Fusio
+
+:Name:          Fusio
+:Language:      PHP
+:License:       AGPL-3.0
+:Topic:         Software Development
+:Category:      API Management
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open-source API management platform which helps to build and manage REST APIs.
+
+== References
+
+* Website: http://www.fusio-project.org/[Fusio]
+* Source code: https://github.com/apioo/fusio[https://github.com/apioo/fusio]
+* Demo: http://fusio-project.org/demo[http://fusio-project.org/demo]

@@ -1,0 +1,20 @@
+= Klaus
+
+:Name:          Klaus
+:Language:      Python
+:License:       ISC
+:Topic:         Software Development
+:Category:      Project Management
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple, easy-to-set-up Git web viewer that Just Works
+
+== References
+
+* Website: https://github.com/jonashaag/klaus[Klaus]
+* Source code: []
+* Demo: []

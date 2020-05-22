@@ -1,0 +1,20 @@
+= docker-mailserver
+
+:Name:          docker-mailserver
+:Language:      Docker
+:License:       MIT
+:Topic:         Communication systems
+:Category:      Email
+:Subcategory:   Complete solutions
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Fullstack but simple mail server
+
+== References
+
+* Website: https://github.com/tomav/docker-mailserver[docker-mailserver]
+* Source code: []
+* Demo: []

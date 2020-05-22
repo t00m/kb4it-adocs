@@ -1,0 +1,20 @@
+= AnsiMail
+
+:Name:          AnsiMail
+:Language:      
+:License:       Shell/Ansib
+:Topic:         Communication systems
+:Category:      Email
+:Subcategory:   Complete solutions
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible.
+
+== References
+
+* Website: https://github.com/AnsiMail/AnsiMail[AnsiMail]
+* Source code: []
+* Demo: []

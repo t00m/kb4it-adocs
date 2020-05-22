@@ -1,0 +1,20 @@
+= Outline
+
+:Name:          Outline
+:Language:      Nodejs
+:License:       BSD-3-Clause
+:Topic:         Wikis
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+
+
+== References
+
+* Website: https://www.getoutline.com/[Outline]
+* Source code: https://github.com/outline/outline[https://github.com/outline/outline]
+* Demo: []

@@ -1,0 +1,20 @@
+= Boodle
+
+:Name:          Boodle
+:Language:      Clojure
+:License:       EPL-1.0
+:Topic:         Money, Budgeting and Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple accounting single-page application in Clojure and ClojureScript
+
+== References
+
+* Website: https://github.com/manuel-uberti/boodle[Boodle]
+* Source code: []
+* Demo: []

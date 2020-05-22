@@ -1,0 +1,20 @@
+= Wekan
+
+:Name:          Wekan
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Task management/To-do lists
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open-source Trello-like kanban.
+
+== References
+
+* Website: https://wekan.github.io/[Wekan]
+* Source code: https://github.com/wekan/wekan[https://github.com/wekan/wekan]
+* Demo: https://oasis.sandstorm.io/appdemo/m86q05rdvj14yvn78ghaxynqz7u2svw6rnttptxx49g1785cdv1h[https://oasis.sandstorm.io/appdemo/m86q05rdvj14yvn78ghaxynqz7u2svw6rnttptxx49g1785cdv1h]

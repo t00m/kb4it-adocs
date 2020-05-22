@@ -1,0 +1,20 @@
+= Mayan EDMS
+
+:Name:          Mayan EDMS
+:Language:      Python
+:License:       Apache-2.0
+:Topic:         Document Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Free Open Source Electronic Document Management System. An electronic vault for your documents with preview generation, OCR, and automatic categorization among other features.
+
+== References
+
+* Website: http://www.mayan-edms.com[Mayan EDMS]
+* Source code: https://gitlab.com/mayan-edms/mayan-edms[https://gitlab.com/mayan-edms/mayan-edms]
+* Demo: []

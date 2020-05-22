@@ -1,0 +1,20 @@
+= Alltube
+
+:Name:          Alltube
+:Language:      PHP
+:License:       GPL-3.0
+:Topic:         Automation
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Web interface for [youtube-dl]
+
+== References
+
+* Website: http://www.alltubedownload.net[Alltube]
+* Source code: https://github.com/Rudloff/alltube[https://github.com/Rudloff/alltube]
+* Demo: []

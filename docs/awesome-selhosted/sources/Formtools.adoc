@@ -1,0 +1,20 @@
+= Formtools
+
+:Name:          Formtools
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Blogging Platforms
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Powerful, flexible, free and open source PHP/MySQL script to manage your forms and data.
+
+== References
+
+* Website: https://formtools.org/[Formtools]
+* Source code: https://github.com/formtools[https://github.com/formtools]
+* Demo: []

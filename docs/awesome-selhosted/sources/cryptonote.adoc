@@ -1,0 +1,20 @@
+= cryptonote
+
+:Name:          cryptonote
+:Language:      Ruby
+:License:       MIT
+:Topic:         Pastebins
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple open source web application that lets users encrypt and share messages that can only be read once.
+
+== References
+
+* Website: https://cryptonote.me/[cryptonote]
+* Source code: https://github.com/alainmeier/cryptonote[https://github.com/alainmeier/cryptonote]
+* Demo: []

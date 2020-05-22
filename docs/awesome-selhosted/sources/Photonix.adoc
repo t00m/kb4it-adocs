@@ -1,0 +1,20 @@
+= Photonix
+
+:Name:          Photonix
+:Language:      Python
+:License:       AGPL-3.0
+:Topic:         Photo and Video Galleries
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+A new web-based photo management application with object recognition, location awareness, color analysis and other ML algorithms.
+
+== References
+
+* Website: https://photonix.org/[Photonix]
+* Source code: https://github.com/damianmoore/photonix[https://github.com/damianmoore/photonix]
+* Demo: https://demo.photonix.org/[https://demo.photonix.org/]

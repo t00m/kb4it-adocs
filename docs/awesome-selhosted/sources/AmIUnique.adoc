@@ -1,0 +1,20 @@
+= AmIUnique
+
+:Name:          AmIUnique
+:Language:      Java
+:License:       MIT
+:Topic:         Automation
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Learn how identifiable you are on the Internet
+
+== References
+
+* Website: https://amiunique.org/[AmIUnique]
+* Source code: https://github.com/DIVERSIFY-project/amiunique[https://github.com/DIVERSIFY-project/amiunique]
+* Demo: []

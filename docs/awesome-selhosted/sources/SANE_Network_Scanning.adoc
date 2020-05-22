@@ -1,0 +1,20 @@
+= SANE Network Scanning
+
+:Name:          SANE Network Scanning
+:Language:      C
+:License:       GPL-2.0
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Allow remote clients to access image acquisition devices
+
+== References
+
+* Website: http://sane-project.org/[SANE Network Scanning]
+* Source code: http://www.sane-project.org/cvs.html[http://www.sane-project.org/cvs.html]
+* Demo: []

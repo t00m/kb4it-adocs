@@ -1,0 +1,20 @@
+= Pimcore
+
+:Name:          Pimcore
+:Language:      PHP
+:License:       GPL-3.0-or-later
+:Topic:         Content Management Systems (CMS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Multi-Channel Experience and Engagement Management Platform.
+
+== References
+
+* Website: https://www.pimcore.org/[Pimcore]
+* Source code: https://github.com/pimcore/pimcore[https://github.com/pimcore/pimcore]
+* Demo: []

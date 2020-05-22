@@ -1,0 +1,20 @@
+= MiniNote
+
+:Name:          MiniNote
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Note-taking and Editors
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple Markdown note-taking app with persistence
+
+== References
+
+* Website: https://github.com/n1try/mininote[MiniNote]
+* Source code: []
+* Demo: []

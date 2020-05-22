@@ -1,0 +1,20 @@
+= Pepperminty Wiki
+
+:Name:          Pepperminty Wiki
+:Language:      PHP
+:License:       MPL-2.0
+:Topic:         Wikis
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Complete markdown-powered wiki contained in a single PHP file.
+
+== References
+
+* Website: https://github.com/sbrl/Pepperminty-Wiki[Pepperminty Wiki]
+* Source code: []
+* Demo: https://starbeamrainbowlabs.com/labs/peppermint/build/[https://starbeamrainbowlabs.com/labs/peppermint/build/]

@@ -1,0 +1,20 @@
+= King Phisher
+
+:Name:          King Phisher
+:Language:      Python
+:License:       BSD-3-Clause
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks
+
+== References
+
+* Website: https://github.com/securestate/king-phisher[King Phisher]
+* Source code: []
+* Demo: []

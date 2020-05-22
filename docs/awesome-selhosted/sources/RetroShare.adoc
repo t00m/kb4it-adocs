@@ -1,0 +1,20 @@
+= RetroShare
+
+:Name:          RetroShare
+:Language:      С++
+:License:       GPL-2.0
+:Topic:         Communication systems
+:Category:      Custom communication systems
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer.
+
+== References
+
+* Website: http://retroshare.org[RetroShare]
+* Source code: https://github.com/RetroShare/RetroShare[https://github.com/RetroShare/RetroShare]
+* Demo: []

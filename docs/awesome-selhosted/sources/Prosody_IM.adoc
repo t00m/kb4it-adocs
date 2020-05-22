@@ -1,0 +1,20 @@
+= Prosody IM
+
+:Name:          Prosody IM
+:Language:      Lua
+:License:       MIT
+:Topic:         Communication systems
+:Category:      XMPP
+:Subcategory:   XMPP Servers
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Feature-rich and easy to configure XMPP server.
+
+== References
+
+* Website: http://prosody.im/[Prosody IM]
+* Source code: http://hg.prosody.im/[http://hg.prosody.im/]
+* Demo: []

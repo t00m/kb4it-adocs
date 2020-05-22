@@ -1,0 +1,20 @@
+= CMS Made Simple
+
+:Name:          CMS Made Simple
+:Language:      PHP
+:License:       GPL-1.0
+:Topic:         Content Management Systems (CMS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations.
+
+== References
+
+* Website: http://www.cmsmadesimple.org/[CMS Made Simple]
+* Source code: http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/[http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/]
+* Demo: []

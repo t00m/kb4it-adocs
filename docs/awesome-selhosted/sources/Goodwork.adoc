@@ -1,0 +1,20 @@
+= Goodwork
+
+:Name:          Goodwork
+:Language:      PHP
+:License:       MIT
+:Topic:         Software Development
+:Category:      Project Management
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Self hosted project management and collaboration tool powered by Laravel & VueJS.
+
+== References
+
+* Website: https://github.com/iluminar/goodwork[Goodwork]
+* Source code: []
+* Demo: https://goodworkfor.life/[https://goodworkfor.life/]

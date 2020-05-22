@@ -1,0 +1,20 @@
+= Restreamer
+
+:Name:          Restreamer
+:Language:      Nodejs/Docker
+:License:       Apache-2.0
+:Topic:         Media Streaming
+:Category:      Video Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Restreamer allows you to do h.264 real-time video streaming on your website without a streaming provider.
+
+== References
+
+* Website: https://datarhei.github.io/restreamer/[Restreamer]
+* Source code: https://github.com/datarhei/restreamer[https://github.com/datarhei/restreamer]
+* Demo: []

@@ -1,0 +1,20 @@
+= Dotclear
+
+:Name:          Dotclear
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Blogging Platforms
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Take control over your blog.
+
+== References
+
+* Website: http://dotclear.org/[Dotclear]
+* Source code: https://hg.dotclear.org/dotclear[https://hg.dotclear.org/dotclear]
+* Demo: []

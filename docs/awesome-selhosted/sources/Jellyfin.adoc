@@ -1,0 +1,20 @@
+= Jellyfin
+
+:Name:          Jellyfin
+:Language:      C#
+:License:       GPL-2.0
+:Topic:         Media Streaming
+:Category:      Multimedia Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Streaming audio/video server with a slick UI and robust transcoding capabilities
+
+== References
+
+* Website: https://jellyfin.media[Jellyfin]
+* Source code: https://github.com/jellyfin/jellyfin[https://github.com/jellyfin/jellyfin]
+* Demo: []

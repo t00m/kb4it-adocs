@@ -1,0 +1,20 @@
+= filite
+
+:Name:          filite
+:Language:      Rust
+:License:       MIT
+:Topic:         Pastebins
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+A simple, light and standalone pastebin, URL shortener and file-sharing service.
+
+== References
+
+* Website: https://github.com/raftario/filite[filite]
+* Source code: []
+* Demo: https://filite.raphaeltheriault.com[https://filite.raphaeltheriault.com]

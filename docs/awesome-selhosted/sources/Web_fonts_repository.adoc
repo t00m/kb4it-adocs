@@ -1,0 +1,20 @@
+= Web fonts repository
+
+:Name:          Web fonts repository
+:Language:      PHP
+:License:       MIT
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple webfont hosting. Google Fonts alternative for your own fonts
+
+== References
+
+* Website: https://github.com/Finesse/web-fonts-repository[Web fonts repository]
+* Source code: []
+* Demo: []

@@ -1,0 +1,20 @@
+= Leon
+
+:Name:          Leon
+:Language:      Node.js
+:License:       MIT
+:Topic:         Automation
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open-source personal assistant who can live on your server.
+
+== References
+
+* Website: https://getleon.ai[Leon]
+* Source code: https://github.com/leon-ai/leon[https://github.com/leon-ai/leon]
+* Demo: https://www.youtube.com/watch?v=p7GRGiicO1c[https://www.youtube.com/watch?v=p7GRGiicO1c]

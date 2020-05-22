@@ -1,0 +1,20 @@
+= Radarr
+
+:Name:          Radarr
+:Language:      C#
+:License:       GPL-3.0
+:Topic:         Automation
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, à la Couchpotato.
+
+== References
+
+* Website: https://radarr.video/[Radarr]
+* Source code: https://github.com/Radarr/Radarr[https://github.com/Radarr/Radarr]
+* Demo: []

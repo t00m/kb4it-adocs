@@ -1,0 +1,20 @@
+= Freshlytics
+
+:Name:          Freshlytics
+:Language:      Docker/Nodejs
+:License:       MIT
+:Topic:         Analytics
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Privacy respecting, cookie free and low resource usage analytics platform
+
+== References
+
+* Website: https://github.com/sheshbabu/freshlytics[Freshlytics]
+* Source code: []
+* Demo: []

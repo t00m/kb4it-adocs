@@ -1,0 +1,20 @@
+= Kresus
+
+:Name:          Kresus
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Money, Budgeting and Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open source personal finance manager.
+
+== References
+
+* Website: https://kresus.org/[Kresus]
+* Source code: https://github.com/kresusapp/kresus[https://github.com/kresusapp/kresus]
+* Demo: https://kresus.org/en/demo.html[https://kresus.org/en/demo.html]

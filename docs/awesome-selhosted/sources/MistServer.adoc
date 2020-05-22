@@ -1,0 +1,20 @@
+= MistServer
+
+:Name:          MistServer
+:Language:      C++
+:License:       AGPL-3.0
+:Topic:         Media Streaming
+:Category:      Multimedia Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Streaming media server that works well in any streaming environment.
+
+== References
+
+* Website: http://mistserver.org/[MistServer]
+* Source code: https://github.com/DDVTECH/mistserver[https://github.com/DDVTECH/mistserver]
+* Demo: []

@@ -1,0 +1,20 @@
+= Appwrite
+
+:Name:          Appwrite
+:Language:      PHP
+:License:       BSD 3-Clause
+:Topic:         Software Development
+:Category:      FaaS/Serverless
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+End to end backend server for web, native, and mobile developers 🚀.
+
+== References
+
+* Website: https://appwrite.io[Appwrite]
+* Source code: https://github.com/appwrite/appwrite[https://github.com/appwrite/appwrite]
+* Demo: []

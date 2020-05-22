@@ -1,0 +1,20 @@
+= Shynet
+
+:Name:          Shynet
+:Language:      Python
+:License:       Apache-2.0
+:Topic:         Analytics
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+modern, privacy-friendly, and detailed web analytics that works without cookies or JS
+
+== References
+
+* Website: https://github.com/milesmcc/shynet[Shynet]
+* Source code: []
+* Demo: []

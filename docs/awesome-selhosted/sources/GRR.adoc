@@ -1,0 +1,20 @@
+= GRR
+
+:Name:          GRR
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Money, Budgeting and Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Assets management and booking for small/medium companies.
+
+== References
+
+* Website: http://grr.devome.com/?lang=en[GRR]
+* Source code: https://github.com/JeromeDevome/GRR[https://github.com/JeromeDevome/GRR]
+* Demo: []

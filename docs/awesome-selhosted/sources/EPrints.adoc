@@ -1,0 +1,20 @@
+= EPrints
+
+:Name:          EPrints
+:Language:      Perl
+:License:       GPL-3.0
+:Topic:         E-books and Integrated Library Systems (ILS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions.
+
+== References
+
+* Website: https://www.eprints.org/[EPrints]
+* Source code: https://github.com/eprints/eprints[https://github.com/eprints/eprints]
+* Demo: http://demoprints.eprints.org/[http://demoprints.eprints.org/]

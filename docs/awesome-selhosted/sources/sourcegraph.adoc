@@ -1,0 +1,20 @@
+= sourcegraph
+
+:Name:          sourcegraph
+:Language:      Go
+:License:       Apache-2.0
+:Topic:         Software Development
+:Category:      IDE/Tools
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go.
+
+== References
+
+* Website: https://sourcegraph.com[sourcegraph]
+* Source code: https://github.com/sourcegraph/sourcegraph[https://github.com/sourcegraph/sourcegraph]
+* Demo: []

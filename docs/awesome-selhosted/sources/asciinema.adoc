@@ -1,0 +1,20 @@
+= asciinema
+
+:Name:          asciinema
+:Language:      Elixir/Docker
+:License:       Apache-2.0
+:Topic:         Gateways and terminal sharing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Web app for hosting asciicasts.
+
+== References
+
+* Website: https://github.com/asciinema/asciinema-server[asciinema]
+* Source code: []
+* Demo: https://asciinema.org/[https://asciinema.org/]

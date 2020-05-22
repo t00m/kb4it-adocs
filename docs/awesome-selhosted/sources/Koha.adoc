@@ -1,0 +1,20 @@
+= Koha
+
+:Name:          Koha
+:Language:      Perl
+:License:       GPL-3.0
+:Topic:         E-books and Integrated Library Systems (ILS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Enterprise-class ILS with modules for acquisitions, circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more.
+
+== References
+
+* Website: https://koha-community.org/[Koha]
+* Source code: https://github.com/Koha-Community/Koha[https://github.com/Koha-Community/Koha]
+* Demo: https://koha-community.org/demo/[https://koha-community.org/demo/]

@@ -1,0 +1,20 @@
+= Polaris
+
+:Name:          Polaris
+:Language:      Rust
+:License:       MIT
+:Topic:         Media Streaming
+:Category:      Audio Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Music browsing and streaming application optimized for large music collections, ease of use and high performance
+
+== References
+
+* Website: https://github.com/agersant/polaris[Polaris]
+* Source code: []
+* Demo: []

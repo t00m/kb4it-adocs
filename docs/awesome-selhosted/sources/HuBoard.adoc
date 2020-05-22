@@ -1,0 +1,20 @@
+= HuBoard
+
+:Name:          HuBoard
+:Language:      Ruby
+:License:       MIT
+:Topic:         Ticketing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+⚠` - Instant project management for your GitHub issues
+
+== References
+
+* Website: https://github.com/huboard/huboard[HuBoard]
+* Source code: []
+* Demo: []

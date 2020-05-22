@@ -1,0 +1,20 @@
+= Rygel
+
+:Name:          Rygel
+:Language:      C
+:License:       GPL-3.0
+:Topic:         Media Streaming
+:Category:      Multimedia Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller.
+
+== References
+
+* Website: https://wiki.gnome.org/action/show/Projects/Rygel[Rygel]
+* Source code: https://gitlab.gnome.org/GNOME/rygel/[https://gitlab.gnome.org/GNOME/rygel/]
+* Demo: []

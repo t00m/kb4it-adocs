@@ -1,0 +1,20 @@
+= Kimai
+
+:Name:          Kimai
+:Language:      PHP
+:License:       GPL-3.0
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple time and project tracking.
+
+== References
+
+* Website: http://www.kimai.org/[Kimai]
+* Source code: https://github.com/kimai/kimai[https://github.com/kimai/kimai]
+* Demo: http://www.kimai.org/demo/[http://www.kimai.org/demo/]

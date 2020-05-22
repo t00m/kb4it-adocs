@@ -1,0 +1,20 @@
+= Alfresco Community Edition
+
+:Name:          Alfresco Community Edition
+:Language:      Java
+:License:       LGPL-3.0
+:Topic:         Content Management Systems (CMS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content.
+
+== References
+
+* Website: https://www.alfresco.com/products/community/download[Alfresco Community Edition]
+* Source code: https://hub.alfresco.com/t5/alfresco-content-services-hub/project-overview-repository/ba-p/290502[https://hub.alfresco.com/t5/alfresco-content-services-hub/project-overview-repository/ba-p/290502]
+* Demo: []

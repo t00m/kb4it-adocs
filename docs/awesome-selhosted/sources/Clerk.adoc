@@ -1,0 +1,20 @@
+= Clerk
+
+:Name:          Clerk
+:Language:      PHP
+:License:       GPL-3.0
+:Topic:         Polls and Events
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple event logger to keep track of periodic events, habits, etc. as they occur
+
+== References
+
+* Website: https://github.com/chr15m/Clerk[Clerk]
+* Source code: []
+* Demo: []

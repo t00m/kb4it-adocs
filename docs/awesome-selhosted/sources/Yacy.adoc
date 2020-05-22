@@ -1,0 +1,20 @@
+= Yacy
+
+:Name:          Yacy
+:Language:      Java
+:License:       GPL-2.0
+:Topic:         Search Engines
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Peer based, decentralized search engine server.
+
+== References
+
+* Website: http://yacy.net/en/index.html[Yacy]
+* Source code: https://github.com/yacy/yacy_search_server[https://github.com/yacy/yacy_search_server]
+* Demo: http://search.yacy.net/[http://search.yacy.net/]

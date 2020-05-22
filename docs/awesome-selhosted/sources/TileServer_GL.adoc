@@ -1,0 +1,20 @@
+= TileServer GL
+
+:Name:          TileServer GL
+:Language:      Nodejs
+:License:       BSD-2-Clause
+:Topic:         Maps and Global Positioning System (GPS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Vector and raster maps with GL styles. Server side rendering by Mapbox GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
+
+== References
+
+* Website: http://tileserver.readthedocs.io/[TileServer GL]
+* Source code: https://github.com/klokantech/tileserver-gl[https://github.com/klokantech/tileserver-gl]
+* Demo: []

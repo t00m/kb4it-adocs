@@ -1,0 +1,20 @@
+= Eclipse Che
+
+:Name:          Eclipse Che
+:Language:      Docker/Java
+:License:       EPL-1.0
+:Topic:         Software Development
+:Category:      IDE/Tools
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open source workspace server and cloud IDE.
+
+== References
+
+* Website: http://www.eclipse.org/che/[Eclipse Che]
+* Source code: https://github.com/eclipse/che[https://github.com/eclipse/che]
+* Demo: []

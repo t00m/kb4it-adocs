@@ -1,0 +1,20 @@
+= calypso
+
+:Name:          calypso
+:Language:      Python
+:License:       GPL-3.0
+:Topic:         Calendaring and Contacts Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Python-based CalDAV and CardDAV server, forked from Radicale.
+
+== References
+
+* Website: https://keithp.com/calypso/[calypso]
+* Source code: https://keithp.com/git/calypso.git[https://keithp.com/git/calypso.git]
+* Demo: []

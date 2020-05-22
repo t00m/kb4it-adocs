@@ -1,0 +1,20 @@
+= Collabora Online Development Edition
+
+:Name:          Collabora Online Development Edition
+:Language:      C++
+:License:       MPL-2.0
+:Topic:         Office Suites
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Collabora Online Development Edition
+
+== References
+
+* Website: (https://www.collaboraoffice.com/code[Collabora Online Development Edition]
+* Source code: https://cgit.freedesktop.org/libreoffice/online/[https://cgit.freedesktop.org/libreoffice/online/]
+* Demo: []

@@ -1,0 +1,20 @@
+= Maildrop
+
+:Name:          Maildrop
+:Language:      Scala
+:License:       MIT
+:Topic:         Communication systems
+:Category:      Email
+:Subcategory:   Mail Transfer Agents
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Disposable email SMTP server, also useful for development
+
+== References
+
+* Website: https://gitlab.com/markbeeson/maildrop[Maildrop]
+* Source code: []
+* Demo: []

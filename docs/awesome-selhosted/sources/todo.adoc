@@ -1,0 +1,20 @@
+= todo
+
+:Name:          todo
+:Language:      Go
+:License:       MIT
+:Topic:         Task management/To-do lists
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple todo list manager.
+
+== References
+
+* Website: https://github.com/prologic/todo[todo]
+* Source code: []
+* Demo: https://todo.mills.io[https://todo.mills.io]

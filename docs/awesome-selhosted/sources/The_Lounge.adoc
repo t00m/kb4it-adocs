@@ -1,0 +1,20 @@
+= The Lounge
+
+:Name:          The Lounge
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Communication systems
+:Category:      IRC
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Self-hosted web IRC client.
+
+== References
+
+* Website: https://thelounge.github.io/[The Lounge]
+* Source code: https://github.com/thelounge/lounge[https://github.com/thelounge/lounge]
+* Demo: https://demo.thelounge.chat/[https://demo.thelounge.chat/]

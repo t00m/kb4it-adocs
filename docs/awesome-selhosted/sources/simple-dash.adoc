@@ -1,0 +1,20 @@
+= simple-dash
+
+:Name:          simple-dash
+:Language:      Javascript
+:License:       MIT
+:Topic:         Personal Dashboards
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+A simple, fully responsive Dashboard to forward to the services of your choice.
+
+== References
+
+* Website: https://github.com/kutyla-philipp/simple-dash[simple-dash]
+* Source code: []
+* Demo: https://kutyla-philipp.github.io/simple-dash/[https://kutyla-philipp.github.io/simple-dash/]

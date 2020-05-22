@@ -1,0 +1,20 @@
+= osTicket
+
+:Name:          osTicket
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Ticketing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Manage, organize and archive all your support requests and responses in one place.
+
+== References
+
+* Website: http://osticket.com/[osTicket]
+* Source code: https://github.com/osTicket/osTicket[https://github.com/osTicket/osTicket]
+* Demo: []

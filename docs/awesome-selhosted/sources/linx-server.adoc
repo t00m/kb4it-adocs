@@ -1,0 +1,20 @@
+= linx-server
+
+:Name:          linx-server
+:Language:      Go
+:License:       GPL-3.0
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Single-click/drag-n-drop upload
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple file sharing and pastebin with API, auto-expiry, deletion keys, and web seed support.
+
+== References
+
+* Website: https://github.com/andreimarcu/linx-server[linx-server]
+* Source code: []
+* Demo: https://demo.linx-server.net/[https://demo.linx-server.net/]

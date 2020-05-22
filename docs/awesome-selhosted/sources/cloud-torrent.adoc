@@ -1,0 +1,20 @@
+= cloud-torrent
+
+:Name:          cloud-torrent
+:Language:      Go
+:License:       AGPL-3.0
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Peer-to-peer filesharing
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Torrent Web Client with HTTP retrievable or streamable downloaded files
+
+== References
+
+* Website: https://github.com/jpillora/cloud-torrent[cloud-torrent]
+* Source code: []
+* Demo: []

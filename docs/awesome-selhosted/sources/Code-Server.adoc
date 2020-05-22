@@ -1,0 +1,20 @@
+= Code-Server
+
+:Name:          Code-Server
+:Language:      Nodejs/Docker
+:License:       MIT
+:Topic:         Software Development
+:Category:      IDE/Tools
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Visual Studio Code in the browser, hosted on a remote server.
+
+== References
+
+* Website: https://coder.com/[Code-Server]
+* Source code: https://github.com/cdr/code-server[https://github.com/cdr/code-server]
+* Demo: []

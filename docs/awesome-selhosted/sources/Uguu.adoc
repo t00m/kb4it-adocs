@@ -1,0 +1,20 @@
+= Uguu
+
+:Name:          Uguu
+:Language:      PHP
+:License:       MIT
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Single-click/drag-n-drop upload
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Stores files and deletes after X amount of time.
+
+== References
+
+* Website: https://uguu.se/[Uguu]
+* Source code: https://github.com/nokonoko/uguu[https://github.com/nokonoko/uguu]
+* Demo: []

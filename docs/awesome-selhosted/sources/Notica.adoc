@@ -1,0 +1,20 @@
+= Notica
+
+:Name:          Notica
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required.
+
+== References
+
+* Website: https://notica.us[Notica]
+* Source code: https://github.com/tannercollin/Notica[https://github.com/tannercollin/Notica]
+* Demo: []

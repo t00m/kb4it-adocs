@@ -1,0 +1,20 @@
+= Fugacious
+
+:Name:          Fugacious
+:Language:      Ruby
+:License:       CC0-1.0
+:Topic:         Pastebins
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open source short-term secure messaging
+
+== References
+
+* Website: https://fugacio.us[Fugacious]
+* Source code: https://github.com/fugacious/fugacious[https://github.com/fugacious/fugacious]
+* Demo: []

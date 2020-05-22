@@ -1,0 +1,20 @@
+= TWiki
+
+:Name:          TWiki
+:Language:      Perl
+:License:       GPL-1.0
+:Topic:         Wikis
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+TWiki is a Perl-based structured wiki application, typically used to run a collaboration platform, knowledge or document management system, a knowledge base, or team portal.
+
+== References
+
+* Website: http://twiki.org/[TWiki]
+* Source code: http://svn.twiki.org/svn/twiki/[http://svn.twiki.org/svn/twiki/]
+* Demo: http://twiki.org/cgi-bin/view/Sandbox/WebHome[http://twiki.org/cgi-bin/view/Sandbox/WebHome]

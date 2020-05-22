@@ -1,0 +1,20 @@
+= Thredded
+
+:Name:          Thredded
+:Language:      Ruby
+:License:       MIT
+:Topic:         Communication systems
+:Category:      Social Networks and Forums
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Forums, feature-rich and simple.
+
+== References
+
+* Website: https://thredded.org[Thredded]
+* Source code: https://github.com/thredded/thredded[https://github.com/thredded/thredded]
+* Demo: https://thredded.org/thredded[https://thredded.org/thredded]

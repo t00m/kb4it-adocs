@@ -1,0 +1,20 @@
+= PrivateBin
+
+:Name:          PrivateBin
+:Language:      PHP
+:License:       Zlib
+:Topic:         Pastebins
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+PrivateBin is a minimalist, opensource online pastebin/discussion board where the server has zero knowledge of hosted data.
+
+== References
+
+* Website: https://privatebin.info/[PrivateBin]
+* Source code: https://github.com/PrivateBin/PrivateBin[https://github.com/PrivateBin/PrivateBin]
+* Demo: https://privatebin.net/[https://privatebin.net/]

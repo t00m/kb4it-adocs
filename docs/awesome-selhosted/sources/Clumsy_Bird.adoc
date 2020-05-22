@@ -1,0 +1,20 @@
+= Clumsy Bird
+
+:Name:          Clumsy Bird
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Games
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+MelonJS port of the famous Flappy Bird Game.
+
+== References
+
+* Website: https://github.com/ellisonleao/clumsy-bird[Clumsy Bird]
+* Source code: []
+* Demo: http://ellisonleao.github.io/clumsy-bird/[http://ellisonleao.github.io/clumsy-bird/]

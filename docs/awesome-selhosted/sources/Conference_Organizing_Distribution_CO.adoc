@@ -1,0 +1,20 @@
+= Conference Organizing Distribution (CO
+
+:Name:          Conference Organizing Distribution (CO
+:Language:      PHP
+:License:       GPL-1.0
+:Topic:         Conference Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+
+
+== References
+
+* Website: [Conference Organizing Distribution (CO]
+* Source code: http://cgit.drupalcode.org/cod[http://cgit.drupalcode.org/cod]
+* Demo: []

@@ -1,0 +1,20 @@
+= Open Web Analytics
+
+:Name:          Open Web Analytics
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Analytics
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Google Analytics and Matomo alternative.
+
+== References
+
+* Website: http://www.openwebanalytics.com/[Open Web Analytics]
+* Source code: https://github.com/padams/Open-Web-Analytics[https://github.com/padams/Open-Web-Analytics]
+* Demo: []

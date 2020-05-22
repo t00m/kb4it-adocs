@@ -1,0 +1,20 @@
+= ICEcoder
+
+:Name:          ICEcoder
+:Language:      PHP
+:License:       MIT
+:Topic:         Software Development
+:Category:      IDE/Tools
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+ICEcoder is a web IDE / browser based code editor, which allows you to develop websites directly within the web browser.
+
+== References
+
+* Website: https://icecoder.net/[ICEcoder]
+* Source code: https://github.com/icecoder/ICEcoder[https://github.com/icecoder/ICEcoder]
+* Demo: http://demo.icecoder.net/ICEcoder/[http://demo.icecoder.net/ICEcoder/]

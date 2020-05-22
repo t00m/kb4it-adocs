@@ -1,0 +1,20 @@
+= Tine 2.0
+
+:Name:          Tine 2.0
+:Language:      PHP
+:License:       AGPL-3.0/Other
+:Topic:         Groupware
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker.
+
+== References
+
+* Website: https://www.tine20.org[Tine 2.0]
+* Source code: https://packages.tine20.com/maintenance/source/[https://packages.tine20.com/maintenance/source/]
+* Demo: https://demo.tine20.net[https://demo.tine20.net]

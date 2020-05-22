@@ -1,0 +1,20 @@
+= CumulusClips
+
+:Name:          CumulusClips
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Photo and Video Galleries
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload, rate, comment on videos, and much more.
+
+== References
+
+* Website: http://cumulusclips.org/[CumulusClips]
+* Source code: []
+* Demo: http://demo.cumulusclips.org/[http://demo.cumulusclips.org/]

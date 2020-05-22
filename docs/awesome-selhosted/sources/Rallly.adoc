@@ -1,0 +1,20 @@
+= Rallly
+
+:Name:          Rallly
+:Language:      Nodejs
+:License:       CC-BY-SA-4.0
+:Topic:         Communication systems
+:Category:      Custom communication systems
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Rallly is a free collaborative scheduling service.
+
+== References
+
+* Website: http://rallly.co[Rallly]
+* Source code: https://github.com/lukevella/Rallly[https://github.com/lukevella/Rallly]
+* Demo: []

@@ -1,0 +1,20 @@
+= FreeSWITCH
+
+:Name:          FreeSWITCH
+:Language:      C
+:License:       MPL-2.0
+:Topic:         Communication systems
+:Category:      SIP
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Scalable open source cross-platform telephony platform.
+
+== References
+
+* Website: https://freeswitch.org/[FreeSWITCH]
+* Source code: https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse[https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse]
+* Demo: []

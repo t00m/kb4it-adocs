@@ -1,0 +1,20 @@
+= Sylius
+
+:Name:          Sylius
+:Language:      PHP
+:License:       MIT
+:Topic:         Content Management Systems (CMS)
+:Category:      E-commerce
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Symfony2 powered open source full-stack platform for eCommerce.
+
+== References
+
+* Website: http://sylius.org/[Sylius]
+* Source code: https://github.com/Sylius/Sylius[https://github.com/Sylius/Sylius]
+* Demo: http://sylius.org/demo[http://sylius.org/demo]

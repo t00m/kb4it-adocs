@@ -1,0 +1,20 @@
+= EveryDocs
+
+:Name:          EveryDocs
+:Language:      Ruby
+:License:       GPL-3.0
+:Topic:         Document Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+A simple Document Management System for private use with basic functionality to organize your documents digitally
+
+== References
+
+* Website: https://github.com/jonashellmann/everydocs-core/[EveryDocs]
+* Source code: []
+* Demo: []

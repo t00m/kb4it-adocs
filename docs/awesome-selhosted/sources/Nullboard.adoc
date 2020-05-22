@@ -1,0 +1,20 @@
+= Nullboard
+
+:Name:          Nullboard
+:Language:      Javascript
+:License:       BSD-2-Clause
+:Topic:         Task management/To-do lists
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Single-page minimalist kanban board; compact, highly readable and quick to use.
+
+== References
+
+* Website: https://github.com/apankrat/nullboard[Nullboard]
+* Source code: []
+* Demo: https://nullboard.io/preview[https://nullboard.io/preview]

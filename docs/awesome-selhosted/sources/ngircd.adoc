@@ -1,0 +1,20 @@
+= ngircd
+
+:Name:          ngircd
+:Language:      C
+:License:       GPL-2.0
+:Topic:         Communication systems
+:Category:      IRC
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Free, portable and lightweight Internet Relay Chat server for small or private networks.
+
+== References
+
+* Website: https://ngircd.barton.de/[ngircd]
+* Source code: https://github.com/ngircd/ngircd[https://github.com/ngircd/ngircd]
+* Demo: []

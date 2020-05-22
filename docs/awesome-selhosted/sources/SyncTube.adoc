@@ -1,0 +1,20 @@
+= SyncTube
+
+:Name:          SyncTube
+:Language:      Nodejs/Haxe
+:License:       MIT
+:Topic:         Media Streaming
+:Category:      Video Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Lightweight and very simple to setup CyTube alternative to watch videos with friends and chat.
+
+== References
+
+* Website: https://github.com/RblSb/SyncTube[SyncTube]
+* Source code: []
+* Demo: http://synctube-example.herokuapp.com/[http://synctube-example.herokuapp.com/]

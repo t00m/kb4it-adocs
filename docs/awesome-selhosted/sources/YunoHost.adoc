@@ -1,0 +1,20 @@
+= YunoHost
+
+:Name:          YunoHost
+:Language:      Python/Other
+:License:       AGPL-3.0
+:Topic:         Self-hosting Solutions
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Server operating system aiming to make self-hosting accessible to everyone.
+
+== References
+
+* Website: https://yunohost.org/[YunoHost]
+* Source code: https://github.com/YunoHost[https://github.com/YunoHost]
+* Demo: https://yunohost.org/#/try[https://yunohost.org/#/try]

@@ -1,0 +1,20 @@
+= Helpy
+
+:Name:          Helpy
+:Language:      Ruby
+:License:       MIT
+:Topic:         Ticketing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email.
+
+== References
+
+* Website: https://helpy.io[Helpy]
+* Source code: https://github.com/helpyio/helpy[https://github.com/helpyio/helpy]
+* Demo: https://demo.helpy.io[https://demo.helpy.io]

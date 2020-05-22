@@ -1,0 +1,20 @@
+= Open Conference Systems (OC
+
+:Name:          Open Conference Systems (OC
+:Language:      PHP
+:License:       GPL-1.0
+:Topic:         Conference Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+
+
+== References
+
+* Website: [Open Conference Systems (OC]
+* Source code: https://github.com/pkp/ocs[https://github.com/pkp/ocs]
+* Demo: https://pkp.sfu.ca/ocs/ocs_demo/[https://pkp.sfu.ca/ocs/ocs_demo/]

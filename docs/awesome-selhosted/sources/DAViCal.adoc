@@ -1,0 +1,20 @@
+= DAViCal
+
+:Name:          DAViCal
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Calendaring and Contacts Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Server for calendar sharing
+
+== References
+
+* Website: https://www.davical.org/[DAViCal]
+* Source code: https://gitlab.com/davical-project/davical[https://gitlab.com/davical-project/davical]
+* Demo: []

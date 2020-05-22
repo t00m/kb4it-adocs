@@ -1,0 +1,20 @@
+= Jirafeau
+
+:Name:          Jirafeau
+:Language:      PHP
+:License:       AGPL-3.0
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Single-click/drag-n-drop upload
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it.
+
+== References
+
+* Website: https://gitlab.com/mojo42/Jirafeau[Jirafeau]
+* Source code: []
+* Demo: http://jirafeau.net/[http://jirafeau.net/]

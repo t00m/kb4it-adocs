@@ -1,0 +1,20 @@
+= ejabberd
+
+:Name:          ejabberd
+:Language:      Erlang
+:License:       GPL-2.0
+:Topic:         Communication systems
+:Category:      XMPP
+:Subcategory:   XMPP Servers
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+XMPP instant messaging server.
+
+== References
+
+* Website: https://www.ejabberd.im/[ejabberd]
+* Source code: https://github.com/processone/ejabberd[https://github.com/processone/ejabberd]
+* Demo: []

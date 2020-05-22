@@ -1,0 +1,20 @@
+= Regexr
+
+:Name:          Regexr
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Software Development
+:Category:      IDE/Tools
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
+
+== References
+
+* Website: http://regexr.com/[Regexr]
+* Source code: https://github.com/gskinner/regexr[https://github.com/gskinner/regexr]
+* Demo: []

@@ -1,0 +1,20 @@
+= Blog
+
+:Name:          Blog
+:Language:      PHP
+:License:       GPL-3.0
+:Topic:         Blogging Platforms
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Facebook-styled blog. Free, extremely lightweight, single-user and easy to install
+
+== References
+
+* Website: https://github.com/m1k1o/blog[Blog]
+* Source code: []
+* Demo: []

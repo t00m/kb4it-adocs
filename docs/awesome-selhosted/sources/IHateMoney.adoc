@@ -1,0 +1,20 @@
+= IHateMoney
+
+:Name:          IHateMoney
+:Language:      Python
+:License:       BSD-3-Clause
+:Topic:         Money, Budgeting and Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Manage your shared expenses, easily.
+
+== References
+
+* Website: http://ihatemoney.org/[IHateMoney]
+* Source code: https://github.com/spiral-project/ihatemoney[https://github.com/spiral-project/ihatemoney]
+* Demo: https://ihatemoney.org/demo/[https://ihatemoney.org/demo/]

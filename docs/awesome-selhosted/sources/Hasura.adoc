@@ -1,0 +1,20 @@
+= Hasura
+
+:Name:          Hasura
+:Language:      Haskell
+:License:       Apache-2.0
+:Topic:         Software Development
+:Category:      API Management
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+
+== References
+
+* Website: https://hasura.io[Hasura]
+* Source code: https://github.com/hasura/graphql-engine[https://github.com/hasura/graphql-engine]
+* Demo: []

@@ -1,0 +1,20 @@
+= Live Helper Chat
+
+:Name:          Live Helper Chat
+:Language:      PHP
+:License:       Apache-2.0
+:Topic:         Communication systems
+:Category:      Custom communication systems
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Live Support chat for your website.
+
+== References
+
+* Website: http://livehelperchat.com/[Live Helper Chat]
+* Source code: https://github.com/LiveHelperChat/livehelperchat[https://github.com/LiveHelperChat/livehelperchat]
+* Demo: []

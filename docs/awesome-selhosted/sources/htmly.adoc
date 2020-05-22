@@ -1,0 +1,20 @@
+= htmly
+
+:Name:          htmly
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Blogging Platforms
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Databaseless Blogging Platform
+
+== References
+
+* Website: https://www.htmly.com/[htmly]
+* Source code: https://github.com/danpros/htmly[https://github.com/danpros/htmly]
+* Demo: https://www.htmly.com/demo/[https://www.htmly.com/demo/]

@@ -1,0 +1,20 @@
+= Leanote
+
+:Name:          Leanote
+:Language:      Go
+:License:       GPL-2.0
+:Topic:         Note-taking and Editors
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Leanote, Not Just A Notepad! Open source cloud notepad.
+
+== References
+
+* Website: http://leanote.org/[Leanote]
+* Source code: https://github.com/leanote/leanote[https://github.com/leanote/leanote]
+* Demo: https://leanote.com/note[https://leanote.com/note]

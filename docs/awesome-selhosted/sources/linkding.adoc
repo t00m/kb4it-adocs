@@ -1,0 +1,20 @@
+= linkding
+
+:Name:          linkding
+:Language:      Docker/Python/Nodejs
+:License:       MIT
+:Topic:         Bookmarks and Link Sharing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi.
+
+== References
+
+* Website: https://github.com/sissbruecker/linkding[linkding]
+* Source code: []
+* Demo: https://demo.linkding.link/[https://demo.linkding.link/]

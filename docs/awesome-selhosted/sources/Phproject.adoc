@@ -1,0 +1,20 @@
+= Phproject
+
+:Name:          Phproject
+:Language:      PHP
+:License:       GPL-3.0
+:Topic:         Software Development
+:Category:      Project Management
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+High performance full-featured project management system.
+
+== References
+
+* Website: http://www.phproject.org/[Phproject]
+* Source code: https://github.com/Alanaktion/phproject[https://github.com/Alanaktion/phproject]
+* Demo: http://demo.phproject.org/[http://demo.phproject.org/]

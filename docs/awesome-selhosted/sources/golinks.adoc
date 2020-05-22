@@ -1,0 +1,20 @@
+= golinks
+
+:Name:          golinks
+:Language:      Go
+:License:       MIT
+:Topic:         Bookmarks and Link Sharing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Web application that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance. Similar to bunny1 or yubnub.
+
+== References
+
+* Website: https://github.com/prologic/golinks[golinks]
+* Source code: []
+* Demo: https://search.mills.io[https://search.mills.io]

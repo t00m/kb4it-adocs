@@ -1,0 +1,20 @@
+= Sakai
+
+:Name:          Sakai
+:Language:      Java
+:License:       ECL-2.0
+:Topic:         Learning and Courses
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+The Sakai project provides a flexible and feature-rich environment for teaching, learning, research and other collaboration.
+
+== References
+
+* Website: https://www.sakaiproject.org/[Sakai]
+* Source code: https://github.com/sakaiproject/sakai[https://github.com/sakaiproject/sakai]
+* Demo: https://www.sakaiproject.org/try-sakai[https://www.sakaiproject.org/try-sakai]

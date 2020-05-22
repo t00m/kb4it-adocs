@@ -1,0 +1,20 @@
+= Docspell
+
+:Name:          Docspell
+:Language:      Scala/Java
+:License:       GPL-3.0
+:Topic:         Document Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Auo-tagging document organizer and archive.
+
+== References
+
+* Website: https://docspell.org[Docspell]
+* Source code: https://github.com/eikek/docspell[https://github.com/eikek/docspell]
+* Demo: []

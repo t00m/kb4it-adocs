@@ -1,0 +1,20 @@
+= http2-serverpush-proxy
+
+:Name:          http2-serverpush-proxy
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Proxy
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Reverse proxy that helps to automatically utilize HTTP/2.0's server push mechanism for static websites. Available as middleware and standalone application
+
+== References
+
+* Website: https://github.com/n1try/http2-serverpush-proxy[http2-serverpush-proxy]
+* Source code: []
+* Demo: []

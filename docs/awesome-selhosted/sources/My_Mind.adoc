@@ -1,0 +1,20 @@
+= My Mind
+
+:Name:          My Mind
+:Language:      Javascript
+:License:       MIT
+:Topic:         Knowledge Management Tools
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Web application for creating and managing mind maps.
+
+== References
+
+* Website: https://github.com/ondras/my-mind[My Mind]
+* Source code: []
+* Demo: https://my-mind.github.io/?url=examples%2Ffeatures.mymind[https://my-mind.github.io/?url=examples%2Ffeatures.mymind]

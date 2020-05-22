@@ -1,0 +1,20 @@
+= WebUI-aria2
+
+:Name:          WebUI-aria2
+:Language:      HTML5
+:License:       MIT
+:Topic:         Automation
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Interface to interact with the aria2 downloader. Very simple to use, just download and open index.html in any web browser.
+
+== References
+
+* Website: https://github.com/ziahamza/webui-aria2[WebUI-aria2]
+* Source code: []
+* Demo: http://ziahamza.github.io/webui-aria2/[http://ziahamza.github.io/webui-aria2/]

@@ -1,0 +1,20 @@
+= Teeworlds
+
+:Name:          Teeworlds
+:Language:      C++
+:License:       BSD-3-Clause/Other
+:Topic:         Games
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open source 2D retro multiplayer shooter.
+
+== References
+
+* Website: https://www.teeworlds.com[Teeworlds]
+* Source code: https://github.com/teeworlds/teeworlds[https://github.com/teeworlds/teeworlds]
+* Demo: []

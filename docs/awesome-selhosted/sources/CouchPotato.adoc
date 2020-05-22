@@ -1,0 +1,20 @@
+= CouchPotato
+
+:Name:          CouchPotato
+:Language:      Python
+:License:       GPL-3.0
+:Topic:         Automation
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+CouchPotato is an automatic Video Library Manager for Movies. Automatic torrent/nzb searching, downloading, and processing at the qualities you want.
+
+== References
+
+* Website: https://couchpota.to/[CouchPotato]
+* Source code: https://github.com/CouchPotato/CouchPotatoServer[https://github.com/CouchPotato/CouchPotatoServer]
+* Demo: []

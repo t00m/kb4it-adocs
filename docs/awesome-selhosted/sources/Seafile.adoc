@@ -1,0 +1,20 @@
+= Seafile
+
+:Name:          Seafile
+:Language:      C
+:License:       GPL-2.0
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   File transfer/synchronization
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+File hosting and sharing solution primary for teams and organizations.
+
+== References
+
+* Website: https://www.seafile.com/en/home/[Seafile]
+* Source code: https://github.com/haiwen/seafile[https://github.com/haiwen/seafile]
+* Demo: []

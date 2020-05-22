@@ -1,0 +1,20 @@
+= SparkleShare
+
+:Name:          SparkleShare
+:Language:      C#
+:License:       GPL-3.0
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   File transfer/synchronization
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Self hosted, instant, secure file sync.
+
+== References
+
+* Website: http://sparkleshare.org/[SparkleShare]
+* Source code: https://github.com/hbons/SparkleShare[https://github.com/hbons/SparkleShare]
+* Demo: []
