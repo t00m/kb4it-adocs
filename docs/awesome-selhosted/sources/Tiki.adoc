@@ -1,0 +1,20 @@
+= Tiki
+
+:Name:          Tiki
+:Language:      PHP
+:License:       LGPL-2.1
+:Topic:         Wikis
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Wiki CMS Groupware with the most built-in features.
+
+== References
+
+* Website: https://tiki.org[Tiki]
+* Source code: https://sourceforge.net/p/tikiwiki/code/HEAD/tree/[https://sourceforge.net/p/tikiwiki/code/HEAD/tree/]
+* Demo: https://tiki.org/Demo[https://tiki.org/Demo]

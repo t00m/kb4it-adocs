@@ -1,0 +1,20 @@
+= WonderCMS
+
+:Name:          WonderCMS
+:Language:      PHP
+:License:       MIT
+:Topic:         Content Management Systems (CMS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+WonderCMS is the smallest flat file CMS since 2008.
+
+== References
+
+* Website: http://www.wondercms.com[WonderCMS]
+* Source code: https://github.com/robiso/wondercms[https://github.com/robiso/wondercms]
+* Demo: https://www.wondercms.com/demo[https://www.wondercms.com/demo]

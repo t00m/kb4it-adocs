@@ -1,0 +1,20 @@
+= xBrowserSync
+
+:Name:          xBrowserSync
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Bookmarks and Link Sharing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open source tool for syncing browser data between browsers and devices.
+
+== References
+
+* Website: https://www.xbrowsersync.org[xBrowserSync]
+* Source code: https://github.com/xBrowserSync[https://github.com/xBrowserSync]
+* Demo: []

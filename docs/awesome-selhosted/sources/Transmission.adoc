@@ -1,0 +1,20 @@
+= Transmission
+
+:Name:          Transmission
+:Language:      C
+:License:       GPL-3.0
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Peer-to-peer filesharing
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Fast, easy, Free Bittorrent client.
+
+== References
+
+* Website: https://transmissionbt.com/[Transmission]
+* Source code: https://github.com/transmission/transmission[https://github.com/transmission/transmission]
+* Demo: []

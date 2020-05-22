@@ -1,0 +1,20 @@
+= Calagator
+
+:Name:          Calagator
+:Language:      Ruby
+:License:       MIT
+:Topic:         Polls and Events
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Event aggregator.
+
+== References
+
+* Website: http://calagator.org/[Calagator]
+* Source code: https://github.com/calagator/calagator[https://github.com/calagator/calagator]
+* Demo: []

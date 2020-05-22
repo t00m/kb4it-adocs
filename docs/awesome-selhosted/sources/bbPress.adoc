@@ -1,0 +1,20 @@
+= bbPress
+
+:Name:          bbPress
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Communication systems
+:Category:      Social Networks and Forums
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+bbPress is forum software with a twist from the creators of WordPress. Easily setup discussion forums inside your WordPress.org powered site.
+
+== References
+
+* Website: https://bbpress.org/[bbPress]
+* Source code: https://bbpress.trac.wordpress.org/browser/trunk[https://bbpress.trac.wordpress.org/browser/trunk]
+* Demo: []

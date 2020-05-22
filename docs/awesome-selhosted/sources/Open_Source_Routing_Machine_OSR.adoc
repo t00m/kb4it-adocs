@@ -1,0 +1,20 @@
+= Open Source Routing Machine (OSR
+
+:Name:          Open Source Routing Machine (OSR
+:Language:      C++
+:License:       BSD-2-Clause
+:Topic:         Maps and Global Positioning System (GPS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+
+
+== References
+
+* Website: [Open Source Routing Machine (OSR]
+* Source code: https://github.com/Project-OSRM/osrm-backend[https://github.com/Project-OSRM/osrm-backend]
+* Demo: https://map.project-osrm.org/[https://map.project-osrm.org/]

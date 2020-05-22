@@ -1,0 +1,20 @@
+= JD Esurvey
+
+:Name:          JD Esurvey
+:Language:      Java
+:License:       AGPL-3.0
+:Topic:         Polls and Events
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open source enterprise survey web application.
+
+== References
+
+* Website: https://www.jdsoft.com/jd-esurvey.html[JD Esurvey]
+* Source code: https://github.com/JD-Software/JDeSurvey[https://github.com/JD-Software/JDeSurvey]
+* Demo: []

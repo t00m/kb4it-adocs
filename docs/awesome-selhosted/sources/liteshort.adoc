@@ -1,0 +1,20 @@
+= liteshort
+
+:Name:          liteshort
+:Language:      Python
+:License:       MIT
+:Topic:         URL Shorteners
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+User-friendly, actually lightweight, and configurable URL shortener.
+
+== References
+
+* Website: https://github.com/132ikl/liteshort[liteshort]
+* Source code: []
+* Demo: https://ls.ikl.sh[https://ls.ikl.sh]

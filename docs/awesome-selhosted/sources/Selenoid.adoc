@@ -1,0 +1,20 @@
+= Selenoid
+
+:Name:          Selenoid
+:Language:      Go
+:License:       Apache-2.0
+:Topic:         Software Development
+:Category:      UX testing
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Lightweight Selenium hub implementation launching browsers within Docker containers.
+
+== References
+
+* Website: http://aerokube.com/selenoid/latest/[Selenoid]
+* Source code: https://github.com/aerokube/selenoid[https://github.com/aerokube/selenoid]
+* Demo: []

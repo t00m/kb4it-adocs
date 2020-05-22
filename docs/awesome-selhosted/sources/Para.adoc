@@ -1,0 +1,20 @@
+= Para
+
+:Name:          Para
+:Language:      Java
+:License:       Apache-2.0
+:Topic:         Software Development
+:Category:      API Management
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Flexible and modular backend framework/server for object persistence, API development and authentication.
+
+== References
+
+* Website: http://www.paraio.org[Para]
+* Source code: https://github.com/erudika/para[https://github.com/erudika/para]
+* Demo: []

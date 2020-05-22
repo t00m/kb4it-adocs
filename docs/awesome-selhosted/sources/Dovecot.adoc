@@ -1,0 +1,20 @@
+= Dovecot
+
+:Name:          Dovecot
+:Language:      C
+:License:       MIT/LGPL-2.1
+:Topic:         Communication systems
+:Category:      Email
+:Subcategory:   Mail Delivery Agents
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+IMAP and POP3 server written primarily with security in mind.
+
+== References
+
+* Website: http://www.dovecot.org/[Dovecot]
+* Source code: https://github.com/dovecot/core[https://github.com/dovecot/core]
+* Demo: []

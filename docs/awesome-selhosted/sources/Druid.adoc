@@ -1,0 +1,20 @@
+= Druid
+
+:Name:          Druid
+:Language:      Java
+:License:       Apache-2.0
+:Topic:         Analytics
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Distributed, column-oriented, real-time analytics data store.
+
+== References
+
+* Website: http://druid.io/[Druid]
+* Source code: https://github.com/druid-io/druid[https://github.com/druid-io/druid]
+* Demo: []

@@ -1,0 +1,20 @@
+= CommaFeed
+
+:Name:          CommaFeed
+:Language:      Java
+:License:       Apache-2.0
+:Topic:         Feed Readers
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Google Reader inspired self-hosted RSS reader.
+
+== References
+
+* Website: https://www.commafeed.com/[CommaFeed]
+* Source code: https://github.com/Athou/commafeed[https://github.com/Athou/commafeed]
+* Demo: []

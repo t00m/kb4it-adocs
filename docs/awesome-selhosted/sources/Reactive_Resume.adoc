@@ -1,0 +1,20 @@
+= Reactive Resume
+
+:Name:          Reactive Resume
+:Language:      Docker/Nodejs
+:License:       MIT
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever.
+
+== References
+
+* Website: http://docs.rxresu.me/[Reactive Resume]
+* Source code: https://github.com/AmruthPillai/Reactive-Resume[https://github.com/AmruthPillai/Reactive-Resume]
+* Demo: http://rxresu.me/[http://rxresu.me/]

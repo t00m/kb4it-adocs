@@ -1,0 +1,20 @@
+= DSpace
+
+:Name:          DSpace
+:Language:      Java
+:License:       BSD-3-Clause
+:Topic:         E-books and Integrated Library Systems (ILS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Turnkey repository application providing durable access to digital resources.
+
+== References
+
+* Website: http://dspace.org/[DSpace]
+* Source code: https://github.com/DSpace/DSpace[https://github.com/DSpace/DSpace]
+* Demo: []

@@ -1,0 +1,20 @@
+= Dot Ledger
+
+:Name:          Dot Ledger
+:Language:      Ruby
+:License:       Apache-2.0
+:Topic:         Money, Budgeting and Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Web-based personal finance management tool.
+
+== References
+
+* Website: https://www.dotledger.com/[Dot Ledger]
+* Source code: https://github.com/dotledger/dotledger[https://github.com/dotledger/dotledger]
+* Demo: https://demo.dotledger.com/[https://demo.dotledger.com/]

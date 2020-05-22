@@ -1,0 +1,20 @@
+= GeneWeb
+
+:Name:          GeneWeb
+:Language:      OCAML
+:License:       GPL-2.0
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service.
+
+== References
+
+* Website: https://geneweb.tuxfamily.org/wiki/GeneWeb[GeneWeb]
+* Source code: https://github.com/geneweb/geneweb[https://github.com/geneweb/geneweb]
+* Demo: https://demo.geneweb.tuxfamily.org/gw7/[https://demo.geneweb.tuxfamily.org/gw7/]

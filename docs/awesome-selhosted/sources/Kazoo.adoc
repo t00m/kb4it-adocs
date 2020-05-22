@@ -1,0 +1,20 @@
+= Kazoo
+
+:Name:          Kazoo
+:Language:      Erlang
+:License:       MPL-1.1
+:Topic:         Communication systems
+:Category:      SIP
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+KAZOO is an open-source, highly scalable software platform designed to provide carrier-grade VoIP switch functions and features.
+
+== References
+
+* Website: http://2600hz.org/[Kazoo]
+* Source code: https://github.com/2600hz/KAZOO[https://github.com/2600hz/KAZOO]
+* Demo: []

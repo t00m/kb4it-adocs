@@ -1,0 +1,20 @@
+= BigBlueButton
+
+:Name:          BigBlueButton
+:Language:      Java
+:License:       LGPL-3.0
+:Topic:         Conference Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Supports real-time sharing of audio, video, slides
+
+== References
+
+* Website: https://bigbluebutton.org/[BigBlueButton]
+* Source code: https://github.com/bigbluebutton/bigbluebutton[https://github.com/bigbluebutton/bigbluebutton]
+* Demo: https://demo.bigbluebutton.org/gl[https://demo.bigbluebutton.org/gl]

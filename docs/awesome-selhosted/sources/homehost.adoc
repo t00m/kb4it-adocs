@@ -1,0 +1,20 @@
+= homehost
+
+:Name:          homehost
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Media Streaming
+:Category:      Multimedia Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+⚠` - Self-hosted React + Redux app that streams your media collection
+
+== References
+
+* Website: https://github.com/ridhwaans/homehost[homehost]
+* Source code: []
+* Demo: []

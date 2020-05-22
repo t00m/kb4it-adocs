@@ -1,0 +1,20 @@
+= Collective Access: Providence
+
+:Name:          Collective Access: Providence
+:Language:      PHP
+:License:       GPL-3.0-only
+:Topic:         Archiving and Digital Preservation (DP)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats.
+
+== References
+
+* Website: http://collectiveaccess.org/[Collective Access: Providence]
+* Source code: https://github.com/collectiveaccess/providence[https://github.com/collectiveaccess/providence]
+* Demo: []

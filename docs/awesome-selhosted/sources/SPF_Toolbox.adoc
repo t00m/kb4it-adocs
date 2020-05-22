@@ -1,0 +1,20 @@
+= SPF Toolbox
+
+:Name:          SPF Toolbox
+:Language:      PHP
+:License:       MIT
+:Topic:         DNS
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Application to look up DNS records such as SPF, MX, Whois, and more.
+
+== References
+
+* Website: http://spftoolbox.com[SPF Toolbox]
+* Source code: https://github.com/charlesabarnes/SPFtoolbox[https://github.com/charlesabarnes/SPFtoolbox]
+* Demo: []

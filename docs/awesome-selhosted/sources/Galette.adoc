@@ -1,0 +1,20 @@
+= Galette
+
+:Name:          Galette
+:Language:      PHP
+:License:       GPL-3.0
+:Topic:         Money, Budgeting and Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Galette is a membership management web application towards non profit organizations.
+
+== References
+
+* Website: http://galette.eu/dc/[Galette]
+* Source code: http://git.tuxfamily.org/galette/galette.git/[http://git.tuxfamily.org/galette/galette.git/]
+* Demo: []

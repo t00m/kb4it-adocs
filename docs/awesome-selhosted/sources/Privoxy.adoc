@@ -1,0 +1,20 @@
+= Privoxy
+
+:Name:          Privoxy
+:Language:      C
+:License:       GPL-2.0
+:Topic:         Proxy
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk
+
+== References
+
+* Website: http://www.privoxy.org[Privoxy]
+* Source code: []
+* Demo: []

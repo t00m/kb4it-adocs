@@ -1,0 +1,20 @@
+= Rocket.Chat
+
+:Name:          Rocket.Chat
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Communication systems
+:Category:      Custom communication systems
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Teamchat solution similar to Gitter.im or Slack.
+
+== References
+
+* Website: https://rocket.chat/[Rocket.Chat]
+* Source code: https://github.com/RocketChat/Rocket.Chat[https://github.com/RocketChat/Rocket.Chat]
+* Demo: []

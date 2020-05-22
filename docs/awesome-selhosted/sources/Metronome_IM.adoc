@@ -1,0 +1,20 @@
+= Metronome IM
+
+:Name:          Metronome IM
+:Language:      Lua
+:License:       MIT
+:Topic:         Communication systems
+:Category:      XMPP
+:Subcategory:   XMPP Servers
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Fork of Prosody IM.
+
+== References
+
+* Website: https://metronome.im/[Metronome IM]
+* Source code: https://github.com/maranda/metronome[https://github.com/maranda/metronome]
+* Demo: []

@@ -1,0 +1,20 @@
+= ArchivesSpace
+
+:Name:          ArchivesSpace
+:Language:      Ruby
+:License:       ECL-2.0
+:Topic:         Archiving and Digital Preservation (DP)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Archives information management application for managing and providing Web access to archives, manuscripts and digital objects.
+
+== References
+
+* Website: https://archivesspace.org/[ArchivesSpace]
+* Source code: https://github.com/archivesspace/archivesspace[https://github.com/archivesspace/archivesspace]
+* Demo: https://archivesspace.org/application/demo/[https://archivesspace.org/application/demo/]

@@ -1,0 +1,20 @@
+= Sprut.io
+
+:Name:          Sprut.io
+:Language:      Python
+:License:       GPL-3.0
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Web based file managers
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+2 panel file manager with drag and drop features, code editor, text search, hotkeys.
+
+== References
+
+* Website: https://sprut.io[Sprut.io]
+* Source code: https://github.com/LTD-Beget/sprutio[https://github.com/LTD-Beget/sprutio]
+* Demo: https://demo.sprut.io:9443[https://demo.sprut.io:9443]

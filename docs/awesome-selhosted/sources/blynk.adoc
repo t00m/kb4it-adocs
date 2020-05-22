@@ -1,0 +1,20 @@
+= blynk
+
+:Name:          blynk
+:Language:      Java
+:License:       AGPL-3.0
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Platform with iOS and Android apps to control Arduino, ESP8266, Raspberry Pi and similar microcontroller boards over the Internet.
+
+== References
+
+* Website: https://blynk.io/[blynk]
+* Source code: https://github.com/blynkkk/blynk-server[https://github.com/blynkkk/blynk-server]
+* Demo: []

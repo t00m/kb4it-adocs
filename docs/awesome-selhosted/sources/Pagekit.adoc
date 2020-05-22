@@ -1,0 +1,20 @@
+= Pagekit
+
+:Name:          Pagekit
+:Language:      PHP
+:License:       MIT
+:Topic:         Content Management Systems (CMS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+New modern CMS to create and share.
+
+== References
+
+* Website: https://pagekit.com/[Pagekit]
+* Source code: https://github.com/pagekit/pagekit[https://github.com/pagekit/pagekit]
+* Demo: []

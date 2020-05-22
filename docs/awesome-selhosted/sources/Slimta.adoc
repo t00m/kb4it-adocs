@@ -1,0 +1,20 @@
+= Slimta
+
+:Name:          Slimta
+:Language:      Python
+:License:       MIT
+:Topic:         Communication systems
+:Category:      Email
+:Subcategory:   Mail Transfer Agents
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Mail Transfer Library built on Python.
+
+== References
+
+* Website: http://slimta.org[Slimta]
+* Source code: https://github.com/slimta/python-slimta[https://github.com/slimta/python-slimta]
+* Demo: []

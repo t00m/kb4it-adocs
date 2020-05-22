@@ -1,0 +1,20 @@
+= Friends
+
+:Name:          Friends
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Communication systems
+:Category:      Custom communication systems
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+P2P chat powered by the web.
+
+== References
+
+* Website: http://moose-team.github.io/friends/[Friends]
+* Source code: https://github.com/moose-team/friends[https://github.com/moose-team/friends]
+* Demo: []

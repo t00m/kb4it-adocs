@@ -1,0 +1,20 @@
+= Ghost
+
+:Name:          Ghost
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Blogging Platforms
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Just a blogging platform.
+
+== References
+
+* Website: https://ghost.org/[Ghost]
+* Source code: https://github.com/TryGhost/Ghost[https://github.com/TryGhost/Ghost]
+* Demo: []

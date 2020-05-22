@@ -1,0 +1,20 @@
+= Feedbin
+
+:Name:          Feedbin
+:Language:      Ruby
+:License:       MIT
+:Topic:         Feed Readers
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple, fast and nice looking RSS reader.
+
+== References
+
+* Website: https://feedbin.com/[Feedbin]
+* Source code: https://github.com/feedbin/feedbin[https://github.com/feedbin/feedbin]
+* Demo: []

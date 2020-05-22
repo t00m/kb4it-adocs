@@ -1,0 +1,20 @@
+= KChat
+
+:Name:          KChat
+:Language:      PHP
+:License:       Apache-2.0
+:Topic:         Communication systems
+:Category:      Custom communication systems
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+PHP Based Live Chat Application
+
+== References
+
+* Website: https://github.com/php-kchat/kchat[KChat]
+* Source code: []
+* Demo: []

@@ -1,0 +1,20 @@
+= Dispatch
+
+:Name:          Dispatch
+:Language:      Go
+:License:       MIT
+:Topic:         Communication systems
+:Category:      IRC
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Self-hosted web IRC client written in Go.
+
+== References
+
+* Website: https://github.com/khlieng/dispatch[Dispatch]
+* Source code: []
+* Demo: https://dispatch.khlieng.com/connect[https://dispatch.khlieng.com/connect]

@@ -1,0 +1,20 @@
+= Sandstorm
+
+:Name:          Sandstorm
+:Language:      C++/Other
+:License:       Apache-2.0
+:Topic:         Self-hosting Solutions
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Personal server for running self-hosted apps easily and securely.
+
+== References
+
+* Website: https://sandstorm.io/[Sandstorm]
+* Source code: https://github.com/sandstorm-io/sandstorm[https://github.com/sandstorm-io/sandstorm]
+* Demo: https://demo.sandstorm.io/[https://demo.sandstorm.io/]

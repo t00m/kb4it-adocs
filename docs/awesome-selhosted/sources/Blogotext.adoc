@@ -1,0 +1,20 @@
+= Blogotext
+
+:Name:          Blogotext
+:Language:      PHP
+:License:       MIT
+:Topic:         Blogging Platforms
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances.
+
+== References
+
+* Website: http://lehollandaisvolant.net/blogotext/[Blogotext]
+* Source code: https://github.com/timovn/blogotext[https://github.com/timovn/blogotext]
+* Demo: []

@@ -1,0 +1,20 @@
+= KooZic
+
+:Name:          KooZic
+:Language:      Python
+:License:       LGPL-3.0/MIT
+:Topic:         Media Streaming
+:Category:      Audio Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Music server with powerful playlist features and Subsonic compatibility.
+
+== References
+
+* Website: https://koozic.net/[KooZic]
+* Source code: https://github.com/DocMarty84/koozic[https://github.com/DocMarty84/koozic]
+* Demo: https://demo.koozic.net/public[https://demo.koozic.net/public]

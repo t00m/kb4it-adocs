@@ -1,0 +1,20 @@
+= dillinger
+
+:Name:          dillinger
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Note-taking and Editors
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+The last Markdown editor, ever.
+
+== References
+
+* Website: http://dillinger.io/[dillinger]
+* Source code: https://github.com/joemccann/dillinger[https://github.com/joemccann/dillinger]
+* Demo: []

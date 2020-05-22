@@ -1,0 +1,20 @@
+= Gollum
+
+:Name:          Gollum
+:Language:      Ruby
+:License:       MIT
+:Topic:         Wikis
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple, Git-powered wiki with a sweet API and local frontend
+
+== References
+
+* Website: https://github.com/gollum/gollum[Gollum]
+* Source code: []
+* Demo: []

@@ -1,0 +1,20 @@
+= Gerbera
+
+:Name:          Gerbera
+:Language:      C++
+:License:       GPL-2.0
+:Topic:         Media Streaming
+:Category:      Multimedia Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Gerbera is an UPnP Media Server. It allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices.
+
+== References
+
+* Website: https://gerbera.io/[Gerbera]
+* Source code: https://github.com/gerbera/gerbera[https://github.com/gerbera/gerbera]
+* Demo: []

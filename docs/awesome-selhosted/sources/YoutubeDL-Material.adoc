@@ -1,0 +1,20 @@
+= YoutubeDL-Material
+
+:Name:          YoutubeDL-Material
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Automation
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design
+
+== References
+
+* Website: https://github.com/Tzahi12345/YoutubeDL-Material[YoutubeDL-Material]
+* Source code: []
+* Demo: []

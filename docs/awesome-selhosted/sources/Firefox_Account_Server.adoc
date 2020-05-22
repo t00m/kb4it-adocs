@@ -1,0 +1,20 @@
+= Firefox Account Server
+
+:Name:          Firefox Account Server
+:Language:      Nodejs, Java
+:License:       MPL-2.0
+:Topic:         Bookmarks and Link Sharing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+This is the monorepo for Firefox Accounts
+
+== References
+
+* Website: https://mozilla.github.io/application-services/docs/accounts/welcome.html[Firefox Account Server]
+* Source code: https://github.com/mozilla/fxa[https://github.com/mozilla/fxa]
+* Demo: []

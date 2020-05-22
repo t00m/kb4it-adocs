@@ -1,0 +1,726 @@
+<!DOCTYPE Html>
+<html lang="en">
+<head>
+    <title>KB4IT - Language PHP</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Asciidoctor 2.0.10">
+    <meta name="description" content="KB4IT document">
+    <meta name="author" content="KB4IT by t00mlabs.net">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="resources/common/uikit/css/uikit.min.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/coderay-asciidoctor.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/print.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="resources/common/uikit/css/kb4it.css">
+    <script src="resources/common/uikit/js/uikit.min.js"></script>
+    <script src="resources/common/uikit/js/uikit-icons.min.js"></script>
+</head>
+<body>
+<div>
+<div id="container-1" class="uk-container uk-container-center">
+    <div id="kb4it-menu" style="z-index: 980;" uk-sticky="show-on-up: true">
+        <nav class="uk-navbar-container uk-border-rounded uk-card-hover uk-margin" style="background-color: white;" uk-navbar>
+            <div class="uk-navbar-left noprint">
+                <ul class="uk-navbar-nav">
+                    <li class="uk-link-toggle">
+                        <a class="uk-logo uk-card uk-card-hover" href="index.html">
+                            <img src="resources/themes/awesome/images/logo.png" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">Go To</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="properties.html"><span class="uk-padding-small">Properties</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="stats.html"><span class="uk-padding-small">Stats</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="uk-navbar-nav">
+                    <!-- MENU CONTENTS :: START -->
+                            <!-- <li><a href="#">Contents</a></li> -->
+                    <!-- MENU CONTENTS :: END -->
+                </ul>
+            </div>
+            <div class="uk-navbar-center">
+                <!-- DOCUMENT TITLE :: START -->
+<span class="uk-text-danger uk-text-truncate uk-text-bolder">Language PHP</span>
+                <!-- DOCUMENT TITLE :: END -->
+            </div>
+            <div class="uk-navbar-right noprint">
+                <ul class="uk-navbar-nav">
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">About</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_app.html"><span class="uk-padding-small">About this app</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_theme.html"><span class="uk-padding-small">About this theme</span></a>
+                                </li>
+                                <li class="uk-nav-divider"></li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_kb4it.html"><span class="uk-padding-small">About KB4IT</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+<!-- CONTENT :: START -->
+<div class="uk-container uk-container-center">
+        <!-- PAGINATION_HEAD.tpl :: START -->
+        <!-- PAGINATION :: START -->
+<ul class="uk-pagination uk-flex-center" uk-margin>
+
+<li uk-tooltip="Page 0: 0-30/289"><a href="Language_PHP.html"><span>0</span></a></li>
+<li uk-tooltip="Page 1: 30-60/289"><a href="Language_PHP-1.html"><span>1</span></a></li>
+<li uk-tooltip="Page 2: 60-90/289"><a href="Language_PHP-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 3: 90-120/289"><a href="Language_PHP-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 4: 120-150/289"><a href="Language_PHP-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 5: 150-180/289"><a href="Language_PHP-5.html"><span>5</span></a></li>
+<li class="uk-active"><span uk-tooltip="Page 6: 180-210/289">6</span></li>
+
+<li uk-tooltip="Page 7: 210-240/289"><a href="Language_PHP-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 8: 240-270/289"><a href="Language_PHP-8.html"><span>8</span></a></li>
+<li uk-tooltip="Page 9: 270-300/289"><a href="Language_PHP-9.html"><span>9</span></a></li>
+</ul>
+
+
+        <!-- PAGINATION :: END -->
+        <div uk-filter="target: .js-filter">
+            <!-- Search entry :: Start -->
+            <form action="" method="post" class="uk-search uk-search-default uk-width-1-1 uk-margin-medium-bottom">
+                <input id="text_filter" type="search" name="" value="" class="uk-search-input uk-padding-small" autocomplete="off" placeholder="Filter results by title..." autofocus/>
+            </form>
+            <a id="filter" href="#" class="uk-active" uk-filter-control="" hidden></a>
+            <!-- Search entry :: End -->
+            <!-- Filtered rows :: Start -->
+            <ul class="js-filter uk-child-width-1-3@m" uk-grid>
+            <li data-title="osTicket">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="osTicket"><a class="uk-link-heading uk-text-meta" href="osTicket.html"><span class="">osTicket</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Manage, organize and archive all your support requests and responses in one place.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="ownCloud">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="ownCloud"><a class="uk-link-heading uk-text-meta" href="ownCloud.html"><span class="">ownCloud</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="OXID_eShop">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="OXID eShop"><a class="uk-link-heading uk-text-meta" href="OXID_eShop.html"><span class="">OXID eShop</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">OXID eShop is a flexible open source e-commerce software with a wide range of functionalities.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Oxwall">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Oxwall"><a class="uk-link-heading uk-text-meta" href="Oxwall.html"><span class="">Oxwall</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Oxwall is used for a wide range of projects starting from family sites and custom social networks to collaboration tools and enterprise community solutions.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Pagekit">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Pagekit"><a class="uk-link-heading uk-text-meta" href="Pagekit.html"><span class="">Pagekit</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">New modern CMS to create and share.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Paperwork">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Paperwork"><a class="uk-link-heading uk-text-meta" href="Paperwork.html"><span class="">Paperwork</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">OpenSource note-taking and archiving alternative to Evernote, Microsoft OneNote and Google Keep.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="PartKeepr">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="PartKeepr"><a class="uk-link-heading uk-text-meta" href="PartKeepr.html"><span class="">PartKeepr</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">PartKeepr is an electronic part inventory management software. It helps you to keep track of your available parts and assist you with re-ordering parts.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Passbolt">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Passbolt"><a class="uk-link-heading uk-text-meta" href="Passbolt.html"><span class="">Passbolt</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Paste">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Paste"><a class="uk-link-heading uk-text-meta" href="Paste.html"><span class="">Paste</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Paste is forked from the original source pastebin.com used before it was bought.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Pepperminty_Wiki">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Pepperminty Wiki"><a class="uk-link-heading uk-text-meta" href="Pepperminty_Wiki.html"><span class="">Pepperminty Wiki</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Complete markdown-powered wiki contained in a single PHP file.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Personal_management_system">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Personal management system"><a class="uk-link-heading uk-text-meta" href="Personal_management_system.html"><span class="">Personal management system</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Central point for managing personal data</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Phabricator">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Phabricator"><a class="uk-link-heading uk-text-meta" href="Phabricator.html"><span class="">Phabricator</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Collection of web applications that help build better software.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="PhotoLight">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="PhotoLight"><a class="uk-link-heading uk-text-meta" href="PhotoLight.html"><span class="">PhotoLight</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">The easiest photo gallery there is</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="PHP-Proxy">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="PHP-Proxy"><a class="uk-link-heading uk-text-meta" href="PHP-Proxy.html"><span class="">PHP-Proxy</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Web proxy script built specifically to be fast, easy to modify and to support video sites such as YouTube.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="PHP_TaskTodo_list">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="PHP Task/Todo list"><a class="uk-link-heading uk-text-meta" href="PHP_TaskTodo_list.html"><span class="">PHP Task/Todo list</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Simple task/todo list that uses a JSON text file for the tasks</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="PHPBack">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="PHPBack"><a class="uk-link-heading uk-text-meta" href="PHPBack.html"><span class="">PHPBack</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">The open source feedback system.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="phpBB">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="phpBB"><a class="uk-link-heading uk-text-meta" href="phpBB.html"><span class="">phpBB</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="phpList">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="phpList"><a class="uk-link-heading uk-text-meta" href="phpList.html"><span class="">phpList</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Newsletter and email marketing with advanced management of subscribers, bounces, and plugins.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="PHPOffice">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="PHPOffice"><a class="uk-link-heading uk-text-meta" href="PHPOffice.html"><span class="">PHPOffice</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">PHPOffice contains libraries which permits to write and read files from most office suites</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Phproject">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Phproject"><a class="uk-link-heading uk-text-meta" href="Phproject.html"><span class="">Phproject</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">High performance full-featured project management system.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Pico">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Pico"><a class="uk-link-heading uk-text-meta" href="Pico.html"><span class="">Pico</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Stupidly simple, blazing fast, flat file CMS.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="PictShare">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="PictShare"><a class="uk-link-heading uk-text-meta" href="PictShare.html"><span class="">PictShare</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">PictShare is a multi lingual, open source image hosting service with a simple resizing and upload API.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Pimcore">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Pimcore"><a class="uk-link-heading uk-text-meta" href="Pimcore.html"><span class="">Pimcore</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Multi-Channel Experience and Engagement Management Platform.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="PineDocs">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="PineDocs"><a class="uk-link-heading uk-text-meta" href="PineDocs.html"><span class="">PineDocs</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Simple, fast, customizable and lightweight site for browsing files</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Piwigo">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Piwigo"><a class="uk-link-heading uk-text-meta" href="Piwigo.html"><span class="">Piwigo</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Photo gallery software for the web, built by an active community of users and developers.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="PluXml">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="PluXml"><a class="uk-link-heading uk-text-meta" href="PluXml.html"><span class="">PluXml</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">XML-based blog/CMS platform.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="PmWiki">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="PmWiki"><a class="uk-link-heading uk-text-meta" href="PmWiki.html"><span class="">PmWiki</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Wiki-based system for collaborative creation and maintenance of websites</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Polr">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Polr"><a class="uk-link-heading uk-text-meta" href="Polr.html"><span class="">Polr</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Modern, minimalist, modular, and lightweight URL shortener.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="Pomf">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Pomf"><a class="uk-link-heading uk-text-meta" href="Pomf.html"><span class="">Pomf</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">Simple file uploading and sharing, source for the now shut down site Pomf.se</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>            <li data-title="PrestaShop">
+                        <!-- DOC_CARD.tpl :: START -->
+                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                            <div class="uk-card-header">
+                                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                    <div class="uk-width-expand">
+                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="PrestaShop"><a class="uk-link-heading uk-text-meta" href="PrestaShop.html"><span class="">PrestaShop</span></a></div>
+                                        <p class="uk-text-meta uk-margin-remove-top"></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-text-meta uk-padding-small">PrestaShop offers a free, open-source and fully scalable e-commerce solution.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- DOC_CARD.tpl :: END -->
+
+            </li>
+            </ul> <!-- Filtered rows :: End -->
+        </div>
+        <!-- PAGINATION_HEAD.tpl :: END -->            <!-- FOOTER :: START -->
+            <div class="uk-flex uk-flex-center uk-flex-wrap">
+<!--
+                <div class="uk-card uk-card-body">
+                    <span class="uk-text-meta">Last update on Sat, May 23, 2020 at 01:29</span>
+                </div>
+-->
+            </div>
+            <!-- FOOTER :: END -->
+        </div>
+    </div>
+    <!-- CONTENTS (Document) :: END -->
+<script>
+<!-- Necessary javascript for filtering results -->
+<!-- Hack found in: https://codepen.io/acidrums4/pen/GBpYbO -->
+var input = document.getElementById('text_filter');
+var filter = document.getElementById('filter');
+
+input.addEventListener( 'keyup', function(event)
+{
+    if ( input.value == "" )
+    {
+        filter.setAttribute( 'uk-filter-control', '' );
+    }
+
+    else
+    {
+        filter.setAttribute( 'uk-filter-control', 'filter:[data-title*=\'' + input.value + '\'i]' );
+    }
+
+    filter.click();
+});
+</script>
+<script>
+function copyToClipboard() {
+  var copyText = document.getElementById("source-code");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  alert("Text copied to clipboard");
+}
+</script>
+<!-- GRID LAYOUT :: END -->
+</body>
+</html>

@@ -1,0 +1,20 @@
+= PHP Task/Todo list
+
+:Name:          PHP Task/Todo list
+:Language:      PHP
+:License:       MIT
+:Topic:         Task management/To-do lists
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple task/todo list that uses a JSON text file for the tasks
+
+== References
+
+* Website: https://github.com/lgg/tasks.php[PHP Task/Todo list]
+* Source code: []
+* Demo: []

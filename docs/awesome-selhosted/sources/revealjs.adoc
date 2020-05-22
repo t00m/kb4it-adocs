@@ -1,0 +1,20 @@
+= revealjs
+
+:Name:          revealjs
+:Language:      JavaScript
+:License:       MIT
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Framework for easily creating beautiful presentations using HTML.
+
+== References
+
+* Website: https://revealjs.com[revealjs]
+* Source code: https://github.com/hakimel/reveal.js[https://github.com/hakimel/reveal.js]
+* Demo: https://revealjs.com/[https://revealjs.com/]

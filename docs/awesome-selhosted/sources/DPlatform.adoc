@@ -1,0 +1,20 @@
+= DPlatform
+
+:Name:          DPlatform
+:Language:      Shell
+:License:       MIT
+:Topic:         Self-hosting Solutions
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Deploy self-hosted apps easily: simple, bloat-free, independent installation.
+
+== References
+
+* Website: https://dfabric.github.io/DPlatform-Shell/[DPlatform]
+* Source code: https://github.com/j8r/DPlatform[https://github.com/j8r/DPlatform]
+* Demo: []

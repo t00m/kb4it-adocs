@@ -1,0 +1,20 @@
+= Syndie
+
+:Name:          Syndie
+:Language:      Java
+:License:       CC0-1.0
+:Topic:         Communication systems
+:Category:      Custom communication systems
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Syndie is a libre system for operating distributed forums
+
+== References
+
+* Website: https://syndie.de[Syndie]
+* Source code: []
+* Demo: []

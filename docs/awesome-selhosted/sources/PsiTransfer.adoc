@@ -1,0 +1,20 @@
+= PsiTransfer
+
+:Name:          PsiTransfer
+:Language:      Nodejs
+:License:       BSD-2-Clause
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Single-click/drag-n-drop upload
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple open source self-hosted file sharing solution with robust up-/download-resume and password protection
+
+== References
+
+* Website: https://github.com/psi-4ward/psitransfer[PsiTransfer]
+* Source code: []
+* Demo: []

@@ -1,0 +1,20 @@
+= Stikked
+
+:Name:          Stikked
+:Language:      PHP
+:License:       GPL-3.0
+:Topic:         Pastebins
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Advanced and beautiful pastebin.
+
+== References
+
+* Website: https://github.com/claudehohl/Stikked[Stikked]
+* Source code: []
+* Demo: https://paste.scratchbook.ch/[https://paste.scratchbook.ch/]

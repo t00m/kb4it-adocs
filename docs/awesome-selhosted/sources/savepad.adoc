@@ -1,0 +1,20 @@
+= savepad
+
+:Name:          savepad
+:Language:      PHP
+:License:       MIT
+:Topic:         Note-taking and Editors
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Minimalist notepad based on notepad.cc
+
+== References
+
+* Website: https://github.com/shelltr/textpad[savepad]
+* Source code: []
+* Demo: []

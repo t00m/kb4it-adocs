@@ -1,0 +1,20 @@
+= Endpoint
+
+:Name:          Endpoint
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Software Development
+:Category:      API Management
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Super simple mock HTTP API endpoints that return static JSON data, for testing webhooks and client libraries in development
+
+== References
+
+* Website: https://github.com/LINKIWI/endpoint[Endpoint]
+* Source code: []
+* Demo: []

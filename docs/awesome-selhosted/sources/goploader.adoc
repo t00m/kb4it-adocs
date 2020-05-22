@@ -1,0 +1,20 @@
+= goploader
+
+:Name:          goploader
+:Language:      Go
+:License:       MIT
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Single-click/drag-n-drop upload
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Easy file sharing with server-side encryption, curl/httpie/wget compliant.
+
+== References
+
+* Website: https://gpldr.in/[goploader]
+* Source code: https://github.com/Depado/goploader[https://github.com/Depado/goploader]
+* Demo: []

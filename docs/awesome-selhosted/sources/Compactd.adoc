@@ -1,0 +1,20 @@
+= Compactd
+
+:Name:          Compactd
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Media Streaming
+:Category:      Audio Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Remote music player that supports adding content
+
+== References
+
+* Website: https://github.com/compactd/compactd[Compactd]
+* Source code: []
+* Demo: []

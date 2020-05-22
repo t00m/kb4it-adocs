@@ -1,0 +1,20 @@
+= HomelabOS
+
+:Name:          HomelabOS
+:Language:      Docker
+:License:       MIT
+:Topic:         Self-hosting Solutions
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Your very own offline-first privacy-centric open-source data-center
+
+== References
+
+* Website: https://gitlab.com/NickBusey/HomelabOS[HomelabOS]
+* Source code: []
+* Demo: []

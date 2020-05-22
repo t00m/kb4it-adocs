@@ -1,0 +1,20 @@
+= CouchCMS
+
+:Name:          CouchCMS
+:Language:      PHP
+:License:       CPAL-1.0
+:Topic:         Content Management Systems (CMS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple Open-Source CMS for designers.
+
+== References
+
+* Website: http://www.couchcms.com/[CouchCMS]
+* Source code: https://github.com/CouchCMS/CouchCMS[https://github.com/CouchCMS/CouchCMS]
+* Demo: []

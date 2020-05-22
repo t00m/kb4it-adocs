@@ -1,0 +1,20 @@
+= Sendmail
+
+:Name:          Sendmail
+:Language:      C
+:License:       Sendmail
+:Topic:         Communication systems
+:Category:      Email
+:Subcategory:   Mail Transfer Agents
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Message transfer agent
+
+== References
+
+* Website: http://www.sendmail.com/sm/open_source/[Sendmail]
+* Source code: []
+* Demo: []

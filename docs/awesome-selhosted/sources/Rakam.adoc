@@ -1,0 +1,20 @@
+= Rakam
+
+:Name:          Rakam
+:Language:      Java
+:License:       Apache-2.0
+:Topic:         Analytics
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Custom analytics platform that allows you to create your own analytics services. Integrate with any data source
+
+== References
+
+* Website: https://rakam.io/[Rakam]
+* Source code: https://github.com/rakam-io/rakam[https://github.com/rakam-io/rakam]
+* Demo: []

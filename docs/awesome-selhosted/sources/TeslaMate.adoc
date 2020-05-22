@@ -1,0 +1,20 @@
+= TeslaMate
+
+:Name:          TeslaMate
+:Language:      Elixir
+:License:       MIT
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+A powerful data logger for Tesla vehicles
+
+== References
+
+* Website: https://github.com/adriankumpf/teslamate[TeslaMate]
+* Source code: []
+* Demo: []

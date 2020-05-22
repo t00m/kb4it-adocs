@@ -1,0 +1,20 @@
+= Cockpit
+
+:Name:          Cockpit
+:Language:      PHP
+:License:       MIT
+:Topic:         Content Management Systems (CMS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple Content Platform to manage any structured content.
+
+== References
+
+* Website: http://getcockpit.com[Cockpit]
+* Source code: https://github.com/agentejo/cockpit[https://github.com/agentejo/cockpit]
+* Demo: []

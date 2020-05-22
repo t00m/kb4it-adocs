@@ -1,0 +1,20 @@
+= sysPass
+
+:Name:          sysPass
+:Language:      PHP
+:License:       GPL-3.0
+:Topic:         Password Managers
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Multiuser password management system.
+
+== References
+
+* Website: http://www.syspass.org/[sysPass]
+* Source code: https://github.com/nuxsmin/sysPass[https://github.com/nuxsmin/sysPass]
+* Demo: http://demo.syspass.org/[http://demo.syspass.org/]

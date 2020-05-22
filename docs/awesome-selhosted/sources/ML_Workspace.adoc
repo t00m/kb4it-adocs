@@ -1,0 +1,20 @@
+= ML Workspace
+
+:Name:          ML Workspace
+:Language:      Docker
+:License:       Apache-2.0
+:Topic:         Software Development
+:Category:      IDE/Tools
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+All-in-one web-based IDE for machine learning and data science
+
+== References
+
+* Website: https://github.com/ml-tooling/ml-workspace[ML Workspace]
+* Source code: []
+* Demo: []

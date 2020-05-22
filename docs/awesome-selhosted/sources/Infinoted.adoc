@@ -1,0 +1,20 @@
+= Infinoted
+
+:Name:          Infinoted
+:Language:      C++
+:License:       MIT
+:Topic:         Office Suites
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Server for [Gobby]
+
+== References
+
+* Website: https://github.com/gobby/gobby/wiki/Dedicated%20Server[Infinoted]
+* Source code: https://github.com/gobby/gobby[https://github.com/gobby/gobby]
+* Demo: []

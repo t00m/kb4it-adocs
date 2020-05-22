@@ -1,0 +1,20 @@
+= Anuko
+
+:Name:          Anuko
+:Language:      PHP
+:License:       Other
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Anuko provides simple time and project tracking on a selfhosted basis.
+
+== References
+
+* Website: https://www.anuko.com/time_tracker/index.htm[Anuko]
+* Source code: https://github.com/anuko/timetracker[https://github.com/anuko/timetracker]
+* Demo: https://timetracker.anuko.com/[https://timetracker.anuko.com/]

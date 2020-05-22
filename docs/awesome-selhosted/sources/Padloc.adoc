@@ -1,0 +1,20 @@
+= Padloc
+
+:Name:          Padloc
+:Language:      Nodejs
+:License:       GPL-3.0
+:Topic:         Password Managers
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+A modern, open source password manager for individuals and teams.
+
+== References
+
+* Website: https://padloc.app/[Padloc]
+* Source code: https://github.com/padloc/padloc[https://github.com/padloc/padloc]
+* Demo: []

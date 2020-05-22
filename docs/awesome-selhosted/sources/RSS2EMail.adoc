@@ -1,0 +1,20 @@
+= RSS2EMail
+
+:Name:          RSS2EMail
+:Language:      Python
+:License:       GPL-2.0
+:Topic:         Feed Readers
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML
+
+== References
+
+* Website: https://github.com/wking/rss2email[RSS2EMail]
+* Source code: []
+* Demo: []

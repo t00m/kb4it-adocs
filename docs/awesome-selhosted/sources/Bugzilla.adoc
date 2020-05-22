@@ -1,0 +1,20 @@
+= Bugzilla
+
+:Name:          Bugzilla
+:Language:      Perl
+:License:       MPL-2.0
+:Topic:         Ticketing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+General-purpose bugtracker and testing tool originally developed and used by the Mozilla project
+
+== References
+
+* Website: https://www.bugzilla.org/[Bugzilla]
+* Source code: []
+* Demo: []

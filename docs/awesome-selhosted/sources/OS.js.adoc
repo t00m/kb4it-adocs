@@ -1,0 +1,20 @@
+= OS.js
+
+:Name:          OS.js
+:Language:      Nodejs
+:License:       BSD-2-Clause
+:Topic:         Gateways and terminal sharing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction.
+
+== References
+
+* Website: https://www.os-js.org/[OS.js]
+* Source code: https://github.com/os-js/OS.js[https://github.com/os-js/OS.js]
+* Demo: https://demo.os-js.org/[https://demo.os-js.org/]

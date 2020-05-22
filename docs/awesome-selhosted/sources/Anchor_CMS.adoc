@@ -1,0 +1,20 @@
+= Anchor CMS
+
+:Name:          Anchor CMS
+:Language:      PHP
+:License:       GPL-3.0
+:Topic:         Blogging Platforms
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts.
+
+== References
+
+* Website: https://anchorcms.com/[Anchor CMS]
+* Source code: https://github.com/anchorcms/anchor-cms[https://github.com/anchorcms/anchor-cms]
+* Demo: []

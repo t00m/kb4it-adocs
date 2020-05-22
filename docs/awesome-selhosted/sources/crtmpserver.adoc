@@ -1,0 +1,20 @@
+= crtmpserver
+
+:Name:          crtmpserver
+:Language:      C++
+:License:       GPL-3.0
+:Topic:         Media Streaming
+:Category:      Video Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+High performance RTMP/RTSP streaming server
+
+== References
+
+* Website: https://packages.debian.org/stable/crtmpserver[crtmpserver]
+* Source code: []
+* Demo: []

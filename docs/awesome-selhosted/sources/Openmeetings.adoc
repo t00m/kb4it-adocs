@@ -1,0 +1,20 @@
+= Openmeetings
+
+:Name:          Openmeetings
+:Language:      Java
+:License:       Apache-2.0
+:Topic:         Groupware
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming.
+
+== References
+
+* Website: https://openmeetings.apache.org/index.html[Openmeetings]
+* Source code: https://openmeetings.apache.org/scm.html[https://openmeetings.apache.org/scm.html]
+* Demo: []

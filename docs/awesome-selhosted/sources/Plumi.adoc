@@ -1,0 +1,20 @@
+= Plumi
+
+:Name:          Plumi
+:Language:      Python
+:License:       GPL-2.0
+:Topic:         Photo and Video Galleries
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Create your own sophisticated video-sharing site.
+
+== References
+
+* Website: http://blog.plumi.org/[Plumi]
+* Source code: https://github.com/plumi/plumi.app[https://github.com/plumi/plumi.app]
+* Demo: []

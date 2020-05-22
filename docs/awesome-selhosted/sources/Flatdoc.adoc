@@ -1,0 +1,20 @@
+= Flatdoc
+
+:Name:          Flatdoc
+:Language:      Javascript
+:License:       MIT
+:Topic:         Software Development
+:Category:      Documentation Generators
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Small Javascript file that fetches Markdown files and renders them as full pages
+
+== References
+
+* Website: http://ricostacruz.com/flatdoc/[Flatdoc]
+* Source code: []
+* Demo: []

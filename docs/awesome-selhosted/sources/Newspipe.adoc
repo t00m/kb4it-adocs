@@ -1,0 +1,20 @@
+= Newspipe
+
+:Name:          Newspipe
+:Language:      Python
+:License:       AGPL-3.0
+:Topic:         Feed Readers
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Newspipe is a web news reader.
+
+== References
+
+* Website: https://git.sr.ht/~cedric/newspipe[Newspipe]
+* Source code: []
+* Demo: https://www.newspipe.org/signup[https://www.newspipe.org/signup]

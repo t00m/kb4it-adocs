@@ -1,0 +1,20 @@
+= GoAccess
+
+:Name:          GoAccess
+:Language:      C
+:License:       GPL-2.0
+:Topic:         Analytics
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Real-time web log analyzer and interactive viewer that runs in a terminal.
+
+== References
+
+* Website: http://goaccess.io/[GoAccess]
+* Source code: https://github.com/allinurl/goaccess[https://github.com/allinurl/goaccess]
+* Demo: []

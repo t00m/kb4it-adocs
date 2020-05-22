@@ -1,0 +1,20 @@
+= RSS Fulltext Proxy
+
+:Name:          RSS Fulltext Proxy
+:Language:      NodeJS
+:License:       MIT
+:Topic:         Feed Readers
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Mirrors RSS feeds to return the full content of the items, extracted from the website
+
+== References
+
+* Website: https://github.com/Kombustor/rss-fulltext-proxy[RSS Fulltext Proxy]
+* Source code: []
+* Demo: []

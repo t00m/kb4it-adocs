@@ -1,0 +1,20 @@
+= bittorrent-tracker
+
+:Name:          bittorrent-tracker
+:Language:      Nodejs
+:License:       MIT
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Peer-to-peer filesharing
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple, robust, BitTorrent tracker
+
+== References
+
+* Website: https://webtorrent.io/[bittorrent-tracker]
+* Source code: https://github.com/feross/bittorrent-tracker[https://github.com/feross/bittorrent-tracker]
+* Demo: []

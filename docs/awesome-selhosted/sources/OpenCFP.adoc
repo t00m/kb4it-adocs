@@ -1,0 +1,20 @@
+= OpenCFP
+
+:Name:          OpenCFP
+:Language:      PHP
+:License:       MIT
+:Topic:         Conference Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+OpenCFP is a PHP-based conference talk submission system
+
+== References
+
+* Website: https://github.com/opencfp/opencfp[OpenCFP]
+* Source code: []
+* Demo: []

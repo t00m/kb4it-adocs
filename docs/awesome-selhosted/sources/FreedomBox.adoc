@@ -1,0 +1,20 @@
+= FreedomBox
+
+:Name:          FreedomBox
+:Language:      Python/Other
+:License:       GPL-3.0
+:Topic:         Self-hosting Solutions
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Community project to develop, design and promote personal servers running free software for private, personal, communications
+
+== References
+
+* Website: https://wiki.debian.org/FreedomBox[FreedomBox]
+* Source code: []
+* Demo: []

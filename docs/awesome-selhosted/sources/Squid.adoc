@@ -1,0 +1,20 @@
+= Squid
+
+:Name:          Squid
+:Language:      C
+:License:       GPL-2.0
+:Topic:         Proxy
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages.
+
+== References
+
+* Website: http://www.squid-cache.org/[Squid]
+* Source code: https://code.launchpad.net/squid[https://code.launchpad.net/squid]
+* Demo: []

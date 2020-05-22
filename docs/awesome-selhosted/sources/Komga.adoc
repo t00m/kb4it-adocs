@@ -1,0 +1,20 @@
+= Komga
+
+:Name:          Komga
+:Language:      Java/Docker
+:License:       MIT
+:Topic:         E-books and Integrated Library Systems (ILS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader.
+
+== References
+
+* Website: https://komga.org[Komga]
+* Source code: https://github.com/gotson/komga[https://github.com/gotson/komga]
+* Demo: []

@@ -1,0 +1,20 @@
+= Tuber
+
+:Name:          Tuber
+:Language:      Javascript
+:License:       MIT
+:Topic:         Communication systems
+:Category:      Custom communication systems
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Peer-to-peer video chat that works.
+
+== References
+
+* Website: https://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber/[Tuber]
+* Source code: https://github.com/trailofbits/tubertc[https://github.com/trailofbits/tubertc]
+* Demo: []

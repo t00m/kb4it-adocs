@@ -1,0 +1,20 @@
+= Open Food Network
+
+:Name:          Open Food Network
+:Language:      Ruby
+:License:       AGPL-3.0
+:Topic:         Content Management Systems (CMS)
+:Category:      E-commerce
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs with individuals and local businesses.
+
+== References
+
+* Website: https://openfoodnetwork.org/[Open Food Network]
+* Source code: https://github.com/openfoodfoundation/openfoodnetwork[https://github.com/openfoodfoundation/openfoodnetwork]
+* Demo: []

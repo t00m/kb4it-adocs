@@ -1,0 +1,20 @@
+= YouTransfer
+
+:Name:          YouTransfer
+:Language:      Nodejs
+:License:       Apache-2.0
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Single-click/drag-n-drop upload
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+YouTransfer is a simple but elegant self-hosted file transfer and sharing solution.
+
+== References
+
+* Website: http://www.youtransfer.io[YouTransfer]
+* Source code: https://github.com/remie/YouTransfer[https://github.com/remie/YouTransfer]
+* Demo: http://demo.youtransfer.io/[http://demo.youtransfer.io/]

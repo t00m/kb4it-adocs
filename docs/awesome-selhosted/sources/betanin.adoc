@@ -1,0 +1,20 @@
+= betanin
+
+:Name:          betanin
+:Language:      Python
+:License:       GPL-3.0
+:Topic:         Automation
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Music organization man-in-the-middle of your torrent client and music player. Based on beets.io, similar to Sonarr and Radarr
+
+== References
+
+* Website: https://github.com/sentriz/betanin/[betanin]
+* Source code: []
+* Demo: []

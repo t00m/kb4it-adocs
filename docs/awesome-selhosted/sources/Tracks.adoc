@@ -1,0 +1,20 @@
+= Tracks
+
+:Name:          Tracks
+:Language:      Ruby
+:License:       GPL-2.0
+:Topic:         Task management/To-do lists
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Web-based application to help you implement David Allen’s [Getting Things Done™]
+
+== References
+
+* Website: http://www.getontracks.org/[Tracks]
+* Source code: https://github.com/TracksApp/tracks[https://github.com/TracksApp/tracks]
+* Demo: []

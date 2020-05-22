@@ -1,0 +1,20 @@
+= Firefly III
+
+:Name:          Firefly III
+:Language:      PHP
+:License:       AGPL-3.0
+:Topic:         Money, Budgeting and Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. It's powered by Laravel and requires PHP7.3.
+
+== References
+
+* Website: https://firefly-iii.org/[Firefly III]
+* Source code: https://github.com/firefly-iii/firefly-iii[https://github.com/firefly-iii/firefly-iii]
+* Demo: https://demo.firefly-iii.org/[https://demo.firefly-iii.org/]

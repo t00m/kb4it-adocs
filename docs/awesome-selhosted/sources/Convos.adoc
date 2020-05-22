@@ -1,0 +1,20 @@
+= Convos
+
+:Name:          Convos
+:Language:      Perl
+:License:       Artistic-2.0
+:Topic:         Communication systems
+:Category:      IRC
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Always online web IRC client.
+
+== References
+
+* Website: http://convos.by/[Convos]
+* Source code: http://github.com/nordaaker/convos[http://github.com/nordaaker/convos]
+* Demo: http://demo.convos.by[http://demo.convos.by]

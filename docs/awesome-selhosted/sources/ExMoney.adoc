@@ -1,0 +1,20 @@
+= ExMoney
+
+:Name:          ExMoney
+:Language:      Elixir
+:License:       ISC
+:Topic:         Money, Budgeting and Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Self-hosted personal finance app
+
+== References
+
+* Website: https://github.com/gaynetdinov/ex_money[ExMoney]
+* Source code: []
+* Demo: []

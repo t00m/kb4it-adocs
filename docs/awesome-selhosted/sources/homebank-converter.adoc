@@ -1,0 +1,20 @@
+= homebank-converter
+
+:Name:          homebank-converter
+:Language:      HTML5
+:License:       AGPL-3.0
+:Topic:         Automation
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Web app to convert an export bank file to compatible Homebank csv.
+
+== References
+
+* Website: https://github.com/Binnette/homebank-converter[homebank-converter]
+* Source code: []
+* Demo: http://binnette.github.io/homebank-converter/[http://binnette.github.io/homebank-converter/]

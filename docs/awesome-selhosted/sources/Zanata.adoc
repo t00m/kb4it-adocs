@@ -1,0 +1,20 @@
+= Zanata
+
+:Name:          Zanata
+:Language:      Java
+:License:       GPL-2.0
+:Topic:         Software Development
+:Category:      Localization
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Web-based translation platform for translators, content creators and developers to manage localisation projects.
+
+== References
+
+* Website: http://zanata.org[Zanata]
+* Source code: https://github.com/zanata/zanata-platform[https://github.com/zanata/zanata-platform]
+* Demo: []

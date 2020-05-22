@@ -1,0 +1,20 @@
+= explorer
+
+:Name:          explorer
+:Language:      Nodejs
+:License:       MIT
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Web based file managers
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Highly-configurable directory listing made with nodejs.
+
+== References
+
+* Website: https://soyuka.github.io/explorer/[explorer]
+* Source code: https://github.com/soyuka/explorer[https://github.com/soyuka/explorer]
+* Demo: []

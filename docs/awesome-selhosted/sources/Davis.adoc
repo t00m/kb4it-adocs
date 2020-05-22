@@ -1,0 +1,20 @@
+= Davis
+
+:Name:          Davis
+:Language:      PHP
+:License:       MIT
+:Topic:         Calendaring and Contacts Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+A simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal
+
+== References
+
+* Website: https://github.com/tchapi/davis/[Davis]
+* Source code: []
+* Demo: []

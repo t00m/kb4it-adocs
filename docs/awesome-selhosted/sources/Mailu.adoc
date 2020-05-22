@@ -1,0 +1,20 @@
+= Mailu
+
+:Name:          Mailu
+:Language:      Docker/Python
+:License:       MIT
+:Topic:         Communication systems
+:Category:      Email
+:Subcategory:   Complete solutions
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Mailu is a simple yet full-featured mail server as a set of Docker images.
+
+== References
+
+* Website: https://mailu.io/[Mailu]
+* Source code: https://github.com/Mailu/Mailu[https://github.com/Mailu/Mailu]
+* Demo: https://github.com/Mailu/Mailu/wiki/Demo-server[https://github.com/Mailu/Mailu/wiki/Demo-server]

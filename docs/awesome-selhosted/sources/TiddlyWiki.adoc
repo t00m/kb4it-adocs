@@ -1,0 +1,20 @@
+= TiddlyWiki
+
+:Name:          TiddlyWiki
+:Language:      Nodejs
+:License:       BSD-3-Clause
+:Topic:         Wikis
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Reusable non-linear personal web notebook.
+
+== References
+
+* Website: http://tiddlywiki.com/[TiddlyWiki]
+* Source code: https://github.com/Jermolene/TiddlyWiki5[https://github.com/Jermolene/TiddlyWiki5]
+* Demo: []

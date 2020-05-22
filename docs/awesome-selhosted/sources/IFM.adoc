@@ -1,0 +1,20 @@
+= IFM
+
+:Name:          IFM
+:Language:      PHP
+:License:       MIT
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Web based file managers
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Single script file manager
+
+== References
+
+* Website: https://github.com/misterunknown/ifm[IFM]
+* Source code: []
+* Demo: []

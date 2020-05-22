@@ -1,0 +1,20 @@
+= ytdl-webserver
+
+:Name:          ytdl-webserver
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Docker-ready webserver for downloading youtube videos
+
+== References
+
+* Website: https://github.com/Algram/ytdl-webserver[ytdl-webserver]
+* Source code: []
+* Demo: []

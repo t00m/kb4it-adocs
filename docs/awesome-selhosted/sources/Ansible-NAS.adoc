@@ -1,0 +1,20 @@
+= Ansible-NAS
+
+:Name:          Ansible-NAS
+:Language:      YAML/Docker
+:License:       MIT
+:Topic:         Self-hosting Solutions
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Build a full-featured home server with this playbook and an Ubuntu box
+
+== References
+
+* Website: https://github.com/DaveStephens/ansible-nas[Ansible-NAS]
+* Source code: []
+* Demo: []

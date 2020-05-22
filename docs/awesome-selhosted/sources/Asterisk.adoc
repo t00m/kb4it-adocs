@@ -1,0 +1,20 @@
+= Asterisk
+
+:Name:          Asterisk
+:Language:      C
+:License:       GPL-2.0
+:Topic:         Communication systems
+:Category:      SIP
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Easy to use but advanced IP PBX system, VoIP gateway and conference server
+
+== References
+
+* Website: http://www.asterisk.org/[Asterisk]
+* Source code: []
+* Demo: []

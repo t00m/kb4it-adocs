@@ -1,0 +1,20 @@
+= OpenConferenceWare
+
+:Name:          OpenConferenceWare
+:Language:      Ruby
+:License:       MIT
+:Topic:         Conference Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+An open source web application for supporting conference-like events. This customizable, general-purpose platform provides proposals, sessions, schedules, tracks, user profiles.
+
+== References
+
+* Website: http://openconferenceware.org/[OpenConferenceWare]
+* Source code: https://github.com/osbridge/openconferenceware[https://github.com/osbridge/openconferenceware]
+* Demo: []

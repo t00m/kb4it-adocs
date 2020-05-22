@@ -1,0 +1,20 @@
+= BookStack
+
+:Name:          BookStack
+:Language:      PHP
+:License:       MIT
+:Topic:         Wikis
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion.
+
+== References
+
+* Website: https://www.bookstackapp.com/[BookStack]
+* Source code: https://github.com/ssddanbrown/BookStack[https://github.com/ssddanbrown/BookStack]
+* Demo: https://www.bookstackapp.com/#demo[https://www.bookstackapp.com/#demo]

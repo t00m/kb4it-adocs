@@ -1,0 +1,20 @@
+= PrestaShop
+
+:Name:          PrestaShop
+:Language:      PHP
+:License:       OSL-3.0
+:Topic:         Content Management Systems (CMS)
+:Category:      E-commerce
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+PrestaShop offers a free, open-source and fully scalable e-commerce solution.
+
+== References
+
+* Website: https://www.prestashop.com/[PrestaShop]
+* Source code: https://github.com/PrestaShop/PrestaShop[https://github.com/PrestaShop/PrestaShop]
+* Demo: http://demo.prestashop.com/[http://demo.prestashop.com/]

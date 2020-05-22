@@ -1,0 +1,20 @@
+= Uier
+
+:Name:          Uier
+:Language:      Nodejs
+:License:       Apache-2.0
+:Topic:         Software Development
+:Category:      UX testing
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Codeless or low-code User Experience test editing and management using Selenium to perform testing or UI automation. Uier tends to be a free self hostable alternative to Applitools, Endtest, Ghost Inspector, Usetrace, Screenster and many others
+
+== References
+
+* Website: https://github.com/sjoerdvanderhoorn/Uier[Uier]
+* Source code: []
+* Demo: []

@@ -1,0 +1,20 @@
+= OSSN
+
+:Name:          OSSN
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Communication systems
+:Category:      Social Networks and Forums
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open Source Social Network
+
+== References
+
+* Website: https://www.opensource-socialnetwork.org/[OSSN]
+* Source code: https://github.com/opensource-socialnetwork/opensource-socialnetwork[https://github.com/opensource-socialnetwork/opensource-socialnetwork]
+* Demo: []

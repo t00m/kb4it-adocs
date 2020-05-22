@@ -1,0 +1,20 @@
+= Baby Buddy
+
+:Name:          Baby Buddy
+:Language:      Python
+:License:       BSD-2-Clause
+:Topic:         Personal Dashboards
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Helps caregivers track baby sleep, feedings, diaper changes, and tummy time.
+
+== References
+
+* Website: https://github.com/cdubz/babybuddy[Baby Buddy]
+* Source code: []
+* Demo: https://babybuddy.herokuapp.com/[https://babybuddy.herokuapp.com/]

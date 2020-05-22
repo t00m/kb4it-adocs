@@ -1,0 +1,20 @@
+= Misago
+
+:Name:          Misago
+:Language:      Python
+:License:       GPL-2.0
+:Topic:         Communication systems
+:Category:      Social Networks and Forums
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Misago is fully featured modern forum application that is fast, scalable and responsive.
+
+== References
+
+* Website: https://misago-project.org/[Misago]
+* Source code: https://github.com/rafalp/Misago[https://github.com/rafalp/Misago]
+* Demo: []

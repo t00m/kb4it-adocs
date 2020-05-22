@@ -1,0 +1,20 @@
+= OwnTracks Recorder
+
+:Name:          OwnTracks Recorder
+:Language:      Lua
+:License:       C
+:Topic:         Maps and Global Positioning System (GPS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+⚠` - Store and access data published by [OwnTracks]
+
+== References
+
+* Website: https://github.com/owntracks/recorder[OwnTracks Recorder]
+* Source code: []
+* Demo: []

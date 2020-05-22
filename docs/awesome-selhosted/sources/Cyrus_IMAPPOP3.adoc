@@ -1,0 +1,20 @@
+= Cyrus IMAP/POP3
+
+:Name:          Cyrus IMAP/POP3
+:Language:      C
+:License:       BSD-3-Clause-Attribution
+:Topic:         Communication systems
+:Category:      Email
+:Subcategory:   Mail Delivery Agents
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Intended to be run on sealed servers, where normal users are not permitted to log in.
+
+== References
+
+* Website: https://www.cyrusimap.org/[Cyrus IMAP/POP3]
+* Source code: https://github.com/cyrusimap/cyrus-imapd [https://github.com/cyrusimap/cyrus-imapd ]
+* Demo: []

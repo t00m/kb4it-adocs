@@ -1,0 +1,20 @@
+= Shaarli
+
+:Name:          Shaarli
+:Language:      PHP
+:License:       Zlib
+:Topic:         Bookmarks and Link Sharing
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Personal, minimalist, super-fast, no-database bookmarking and link sharing platform.
+
+== References
+
+* Website: https://github.com/shaarli/Shaarli[Shaarli]
+* Source code: []
+* Demo: https://demo.shaarli.org[https://demo.shaarli.org]

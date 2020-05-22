@@ -1,0 +1,20 @@
+= schort
+
+:Name:          schort
+:Language:      Python
+:License:       CC0-1.0
+:Topic:         URL Shorteners
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+No login, no javascript, just short links.
+
+== References
+
+* Website: https://github.com/sqozz/schort[schort]
+* Source code: []
+* Demo: https://s.wx0.de[https://s.wx0.de]

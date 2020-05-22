@@ -1,0 +1,20 @@
+= Filestash
+
+:Name:          Filestash
+:Language:      Go
+:License:       AGPL-3.0
+:Topic:         File Sharing and Synchronization
+:Category:      Distributed filesystems
+:Subcategory:   Web based file managers
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive .
+
+== References
+
+* Website: https://www.filestash.app/[Filestash]
+* Source code: https://github.com/mickael-kerjean/filestash[https://github.com/mickael-kerjean/filestash]
+* Demo: https://demo.filestash.app/[https://demo.filestash.app/]

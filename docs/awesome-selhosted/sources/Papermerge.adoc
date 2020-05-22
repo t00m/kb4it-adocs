@@ -1,0 +1,20 @@
+= Papermerge
+
+:Name:          Papermerge
+:Language:      Python
+:License:       Apache-2.0
+:Topic:         Document Management
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open Source Document Management System focused on scanned documents
+
+== References
+
+* Website: https://www.papermerge.com[Papermerge]
+* Source code: https://github.com/ciur/papermerge[https://github.com/ciur/papermerge]
+* Demo: []

@@ -1,0 +1,20 @@
+= Titra
+
+:Name:          Titra
+:Language:      JavaScript
+:License:       GPL-3.0
+:Topic:         Software Development
+:Category:      Project Management
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Time-tracking solution for freelancers and small teams.
+
+== References
+
+* Website: https://titra.io/en/free-time-tracking-online/[Titra]
+* Source code: https://github.com/kromitgmbh/titra[https://github.com/kromitgmbh/titra]
+* Demo: https://app.titra.io/try[https://app.titra.io/try]

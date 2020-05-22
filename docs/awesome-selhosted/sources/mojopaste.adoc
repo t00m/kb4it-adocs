@@ -1,0 +1,20 @@
+= mojopaste
+
+:Name:          mojopaste
+:Language:      Perl
+:License:       Artistic-2.0
+:Topic:         Pastebins
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Perl based pastebin.
+
+== References
+
+* Website: http://search.cpan.org/dist/App-mojopaste/[mojopaste]
+* Source code: https://github.com/jhthorsen/app-mojopaste[https://github.com/jhthorsen/app-mojopaste]
+* Demo: http://p.thorsen.pm/[http://p.thorsen.pm/]

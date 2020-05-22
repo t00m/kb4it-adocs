@@ -1,0 +1,20 @@
+= EtherCalc
+
+:Name:          EtherCalc
+:Language:      Nodejs
+:License:       CPAL-1.0/Other
+:Topic:         Office Suites
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Web spreadsheet.
+
+== References
+
+* Website: https://ethercalc.org/[EtherCalc]
+* Source code: https://github.com/audreyt/ethercalc[https://github.com/audreyt/ethercalc]
+* Demo: []

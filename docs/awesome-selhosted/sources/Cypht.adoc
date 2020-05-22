@@ -1,0 +1,20 @@
+= Cypht
+
+:Name:          Cypht
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Communication systems
+:Category:      Email
+:Subcategory:   Webmail clients
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Feed reader for your email accounts.
+
+== References
+
+* Website: http://cypht.org/index.html[Cypht]
+* Source code: https://github.com/jasonmunro/hm3[https://github.com/jasonmunro/hm3]
+* Demo: []

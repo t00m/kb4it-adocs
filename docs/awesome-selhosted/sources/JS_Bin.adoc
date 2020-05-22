@@ -1,0 +1,20 @@
+= JS Bin
+
+:Name:          JS Bin
+:Language:      Nodejs
+:License:       MIT
+:Topic:         Software Development
+:Category:      IDE/Tools
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Open source collaborative web development debugging tool.
+
+== References
+
+* Website: http://jsbin.com/[JS Bin]
+* Source code: https://github.com/jsbin/jsbin[https://github.com/jsbin/jsbin]
+* Demo: []

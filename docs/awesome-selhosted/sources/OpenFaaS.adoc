@@ -1,0 +1,20 @@
+= OpenFaaS
+
+:Name:          OpenFaaS
+:Language:      Go
+:License:       MIT
+:Topic:         Software Development
+:Category:      FaaS/Serverless
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Serverless Functions Made Simple for Docker & Kubernetes.
+
+== References
+
+* Website: https://www.openfaas.com/[OpenFaaS]
+* Source code: https://github.com/openfaas/faas[https://github.com/openfaas/faas]
+* Demo: []

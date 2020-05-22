@@ -1,0 +1,20 @@
+= wiki
+
+:Name:          wiki
+:Language:      Go
+:License:       MIT
+:Topic:         Wikis
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple Markdown based wiki engine.
+
+== References
+
+* Website: https://github.com/prologic/wiki[wiki]
+* Source code: []
+* Demo: https://wiki.mills.io[https://wiki.mills.io]

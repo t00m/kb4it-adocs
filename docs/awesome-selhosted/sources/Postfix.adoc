@@ -1,0 +1,20 @@
+= Postfix
+
+:Name:          Postfix
+:Language:      C
+:License:       IPL-1.0
+:Topic:         Communication systems
+:Category:      Email
+:Subcategory:   Mail Transfer Agents
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Fast, easy to administer, and secure Sendmail replacement
+
+== References
+
+* Website: http://www.postfix.org/[Postfix]
+* Source code: []
+* Demo: []

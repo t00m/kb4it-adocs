@@ -1,0 +1,20 @@
+= Canvas LMS
+
+:Name:          Canvas LMS
+:Language:      Ruby
+:License:       AGPL-3.0
+:Topic:         Learning and Courses
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Canvas is the trusted, open-source learning management system
+
+== References
+
+* Website: https://www.canvaslms.com/[Canvas LMS]
+* Source code: https://github.com/instructure/canvas-lms[https://github.com/instructure/canvas-lms]
+* Demo: https://canvas.instructure.com/register[https://canvas.instructure.com/register]

@@ -1,0 +1,20 @@
+= flaskbb
+
+:Name:          flaskbb
+:Language:      Python
+:License:       BSD-3-Clause
+:Topic:         Communication systems
+:Category:      Social Networks and Forums
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+FlaskBB is forum software written in Python using the microframework Flask. You can easily create new topics, posts and send other users private messages. It also includes basic administration and moderation tools.
+
+== References
+
+* Website: https://flaskbb.org/[flaskbb]
+* Source code: https://github.com/sh4nks/flaskbb[https://github.com/sh4nks/flaskbb]
+* Demo: []

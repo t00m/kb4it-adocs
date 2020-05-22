@@ -1,0 +1,20 @@
+= VideoLAN Client (VL
+
+:Name:          VideoLAN Client (VL
+:Language:      C
+:License:       Multiple
+:Topic:         Media Streaming
+:Category:      Video Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+
+
+== References
+
+* Website: [VideoLAN Client (VL]
+* Source code: https://github.com/videolan/vlc[https://github.com/videolan/vlc]
+* Demo: []

@@ -1,0 +1,20 @@
+= Read the Docs
+
+:Name:          Read the Docs
+:Language:      Python
+:License:       MIT
+:Topic:         Software Development
+:Category:      Documentation Generators
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar.
+
+== References
+
+* Website: https://docs.readthedocs.org/en/latest/install.html[Read the Docs]
+* Source code: https://github.com/rtfd/readthedocs.org[https://github.com/rtfd/readthedocs.org]
+* Demo: https://readthedocs.org/projects/[https://readthedocs.org/projects/]

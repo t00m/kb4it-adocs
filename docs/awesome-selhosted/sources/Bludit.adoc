@@ -1,0 +1,20 @@
+= Bludit
+
+:Name:          Bludit
+:Language:      PHP
+:License:       MIT
+:Topic:         Blogging Platforms
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+⚠` - Simple application to build a site or blog in seconds. Bludit uses flat-files
+
+== References
+
+* Website: https://www.bludit.com/[Bludit]
+* Source code: https://github.com/dignajar/bludit[https://github.com/dignajar/bludit]
+* Demo: https://demo.bludit.com/[https://demo.bludit.com/]

@@ -1,0 +1,20 @@
+= Publify
+
+:Name:          Publify
+:Language:      Ruby
+:License:       MIT
+:Topic:         Content Management Systems (CMS)
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Simple but full featured web publishing software.
+
+== References
+
+* Website: https://publify.github.io/[Publify]
+* Source code: https://github.com/publify/publify[https://github.com/publify/publify]
+* Demo: []

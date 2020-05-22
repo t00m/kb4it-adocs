@@ -1,0 +1,20 @@
+= BuddyPress
+
+:Name:          BuddyPress
+:Language:      PHP
+:License:       GPL-2.0
+:Topic:         Communication systems
+:Category:      Social Networks and Forums
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more.
+
+== References
+
+* Website: https://buddypress.org/about/[BuddyPress]
+* Source code: https://github.com/buddypress/BuddyPress[https://github.com/buddypress/BuddyPress]
+* Demo: []

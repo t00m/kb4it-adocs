@@ -1,0 +1,20 @@
+= Beets
+
+:Name:          Beets
+:Language:      Python
+:License:       MIT
+:Topic:         Media Streaming
+:Category:      Audio Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Music library manager and MusicBrainz tagger
+
+== References
+
+* Website: http://beets.io/[Beets]
+* Source code: https://github.com/beetbox/beets[https://github.com/beetbox/beets]
+* Demo: []
