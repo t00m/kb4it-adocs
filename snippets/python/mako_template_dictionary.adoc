@@ -1,0 +1,24 @@
+= Using a mako template with a dictionary parameter
+
+:Module:        mako
+:Type:          mako.template.Template
+:Method:        render
+:Tag:           template, dictionary
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Example
+
+[source, python]
+----
+from mako.template import Template
+tpl = Template("hello ${person['name']}!!")
+person = {'name': 'Jack'}
+print(tpl.render(person=person))
+----
+
+.Output
+----
+hello Jack!!
+----

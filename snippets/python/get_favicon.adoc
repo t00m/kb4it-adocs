@@ -1,0 +1,27 @@
+= Download favicon from website
+
+:Module:        urllib.parse
+:Function:      urlparse
+:Tag:           parse, favicon, download, google, icon, url
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+You need to get the favicon.ico from websites.
+Most of the sites place this file in the root directory (Eg.: www.example.com/favicon.ico_).
+But others not.
+
+A smart way to get rid of this problem is to ask Google for a *link* to this image.
+
+== Solution
+
+[source, python]
+----
+from urllib.parse import urlparse
+
+def get_favicon_url(link):
+    o = urlparse(link)
+    return "https://www.google.com/s2/favicons?domain=%s" % o.netloc
+----
