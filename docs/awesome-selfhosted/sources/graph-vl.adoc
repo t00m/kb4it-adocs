@@ -1,0 +1,20 @@
+= graph-vl
+
+:Name:          graph-vl
+:Language:      graph-vl
+:License:       MIT
+:Topic:         Misc/Other
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Identity document verification using Machine Learning and GraphQL
+
+== References
+
+* Website: https://github.com/verifid/graph-vl[graph-vl]
+* Source code: []
+* Demo: []

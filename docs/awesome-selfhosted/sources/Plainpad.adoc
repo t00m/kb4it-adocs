@@ -1,0 +1,20 @@
+= Plainpad
+
+:Name:          Plainpad
+:Language:      Plainpad
+:License:       GPL-3.0
+:Topic:         Note-taking and Editors
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+A modern note taking application for the cloud, utilizing the best features of progressive web apps technology.
+
+== References
+
+* Website: https://alextselegidis.com/get/plainpad/[Plainpad]
+* Source code: https://github.com/alextselegidis/plainpad[https://github.com/alextselegidis/plainpad]
+* Demo: https://alextselegidis.com/try/plainpad/[https://alextselegidis.com/try/plainpad/]

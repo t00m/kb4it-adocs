@@ -1,0 +1,20 @@
+= DailyNotes
+
+:Name:          DailyNotes
+:Language:      DailyNotes
+:License:       MIT
+:Topic:         Note-taking and Editors
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+App for taking notes and tracking tasks on a daily basis in Markdown
+
+== References
+
+* Website: https://github.com/m0ngr31/DailyNotes/[DailyNotes]
+* Source code: []
+* Demo: []
