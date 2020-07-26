@@ -1,7 +1,7 @@
 = Docstore
 
 :Name:          Docstore
-:Language:      Javascript
+:Language:      Docstore
 :License:       BSD-3-Clause
 :Topic:         Software Development
 :Category:      Documentation Generators

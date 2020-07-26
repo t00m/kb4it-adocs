@@ -1,7 +1,7 @@
 = Openmeetings
 
 :Name:          Openmeetings
-:Language:      Java
+:Language:      Openmeetings
 :License:       Apache-2.0
 :Topic:         Groupware
 :Category:      

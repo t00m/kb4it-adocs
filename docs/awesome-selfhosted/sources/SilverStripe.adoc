@@ -1,7 +1,7 @@
 = SilverStripe
 
 :Name:          SilverStripe
-:Language:      PHP
+:Language:      SilverStripe
 :License:       BSD-3-Clause
 :Topic:         Content Management Systems (CMS)
 :Category:      

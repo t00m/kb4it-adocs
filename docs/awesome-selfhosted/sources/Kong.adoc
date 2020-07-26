@@ -1,7 +1,7 @@
 = Kong
 
 :Name:          Kong
-:Language:      Lua
+:Language:      Kong
 :License:       Apache-2.0
 :Topic:         Software Development
 :Category:      API Management

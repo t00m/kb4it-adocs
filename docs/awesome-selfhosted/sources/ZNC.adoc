@@ -1,7 +1,7 @@
 = ZNC
 
 :Name:          ZNC
-:Language:      C++
+:Language:      ZNC
 :License:       Apache-2.0
 :Topic:         Communication systems
 :Category:      IRC

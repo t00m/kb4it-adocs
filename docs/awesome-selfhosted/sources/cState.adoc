@@ -1,7 +1,7 @@
 = cState
 
 :Name:          cState
-:Language:      Go
+:Language:      cState
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

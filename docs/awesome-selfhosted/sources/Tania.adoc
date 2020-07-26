@@ -1,7 +1,7 @@
 = Tania
 
 :Name:          Tania
-:Language:      Go
+:Language:      Tania
 :License:       Apache-2.0
 :Topic:         Resource Planning
 :Category:      

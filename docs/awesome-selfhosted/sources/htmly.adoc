@@ -1,7 +1,7 @@
 = htmly
 
 :Name:          htmly
-:Language:      PHP
+:Language:      htmly
 :License:       GPL-2.0
 :Topic:         Blogging Platforms
 :Category:      

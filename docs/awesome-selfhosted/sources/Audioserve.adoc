@@ -1,7 +1,7 @@
 = Audioserve
 
 :Name:          Audioserve
-:Language:      Rust
+:Language:      Audioserve
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Audio Streaming

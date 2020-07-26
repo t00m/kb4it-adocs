@@ -1,7 +1,7 @@
 = Pound
 
 :Name:          Pound
-:Language:      C
+:Language:      Pound
 :License:       GPL-2.0
 :Topic:         Proxy
 :Category:      

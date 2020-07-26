@@ -1,7 +1,7 @@
 = Horde
 
 :Name:          Horde
-:Language:      PHP
+:Language:      Horde
 :License:       GPL-2.0
 :Topic:         Groupware
 :Category:      

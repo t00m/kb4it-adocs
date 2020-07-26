@@ -1,7 +1,7 @@
 = ExMoney
 
 :Name:          ExMoney
-:Language:      Elixir
+:Language:      ExMoney
 :License:       ISC
 :Topic:         Money, Budgeting and Management
 :Category:      

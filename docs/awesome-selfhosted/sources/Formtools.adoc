@@ -1,7 +1,7 @@
 = Formtools
 
 :Name:          Formtools
-:Language:      PHP
+:Language:      Formtools
 :License:       GPL-2.0
 :Topic:         Blogging Platforms
 :Category:      

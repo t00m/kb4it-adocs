@@ -1,7 +1,7 @@
 = pbnh
 
 :Name:          pbnh
-:Language:      Python
+:Language:      pbnh
 :License:       MIT
 :Topic:         Pastebins
 :Category:      

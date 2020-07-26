@@ -1,7 +1,7 @@
 = Titra
 
 :Name:          Titra
-:Language:      JavaScript
+:Language:      Titra
 :License:       GPL-3.0
 :Topic:         Software Development
 :Category:      Project Management

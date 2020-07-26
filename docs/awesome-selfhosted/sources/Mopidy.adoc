@@ -1,7 +1,7 @@
 = Mopidy
 
 :Name:          Mopidy
-:Language:      Python
+:Language:      Mopidy
 :License:       Apache-2.0
 :Topic:         Media Streaming
 :Category:      Audio Streaming

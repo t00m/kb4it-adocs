@@ -1,7 +1,7 @@
 = sish
 
 :Name:          sish
-:Language:      Go
+:Language:      sish
 :License:       MIT
 :Topic:         Proxy
 :Category:      

@@ -1,7 +1,7 @@
 = TileServer PHP
 
 :Name:          TileServer PHP
-:Language:      PHP
+:Language:      TileServer PHP
 :License:       BSD-2-Clause
 :Topic:         Maps and Global Positioning System (GPS)
 :Category:      

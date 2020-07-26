@@ -80,21 +80,45 @@
 <div class="uk-container uk-container-center">
         <!-- PAGINATION_HEAD.tpl :: START -->
         <!-- PAGINATION :: START -->
-<ul class="uk-pagination uk-flex-center" uk-margin>
+        <ul class="uk-pagination uk-flex-center" uk-margin>
+            <li class="uk-active">
+    <span uk-tooltip="Page 0: 0-21/186}">0</span>
+</li>
 
-<li uk-tooltip="Page 0: 0-21/182"><a href="License_GPL-3.0.html"><span>0</span></a></li>
-<li uk-tooltip="Page 1: 21-42/182"><a href="License_GPL-3.0-1.html"><span>1</span></a></li>
-<li class="uk-active"><span uk-tooltip="Page 2: 42-63/182">2</span></li>
+<li uk-tooltip="Page 21: 42-1/186"><a href="License_GPL-3.0-1.html"><span>1</span></a></li>
+<li uk-tooltip="Page 42: 63-2/186"><a href="License_GPL-3.0-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 63: 84-3/186"><a href="License_GPL-3.0-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 84: 105-4/186"><a href="License_GPL-3.0-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 105: 126-5/186"><a href="License_GPL-3.0-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 126: 147-6/186"><a href="License_GPL-3.0-6.html"><span>6</span></a></li>
+<li uk-tooltip="Page 147: 168-7/186"><a href="License_GPL-3.0-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 168: 189-8/186"><a href="License_GPL-3.0-8.html"><span>8</span></a></li>
+<li uk-tooltip="Page 0: 21-0/186"><a href="License_GPL-3.0.html"><span>0</span></a></li>
+<li class="uk-active">
+    <span uk-tooltip="Page 1: 21-42/186}">1</span>
+</li>
 
-<li uk-tooltip="Page 3: 63-84/182"><a href="License_GPL-3.0-3.html"><span>3</span></a></li>
-<li uk-tooltip="Page 4: 84-105/182"><a href="License_GPL-3.0-4.html"><span>4</span></a></li>
-<li uk-tooltip="Page 5: 105-126/182"><a href="License_GPL-3.0-5.html"><span>5</span></a></li>
-<li uk-tooltip="Page 6: 126-147/182"><a href="License_GPL-3.0-6.html"><span>6</span></a></li>
-<li uk-tooltip="Page 7: 147-168/182"><a href="License_GPL-3.0-7.html"><span>7</span></a></li>
-<li uk-tooltip="Page 8: 168-189/182"><a href="License_GPL-3.0-8.html"><span>8</span></a></li>
-</ul>
+<li uk-tooltip="Page 42: 63-2/186"><a href="License_GPL-3.0-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 63: 84-3/186"><a href="License_GPL-3.0-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 84: 105-4/186"><a href="License_GPL-3.0-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 105: 126-5/186"><a href="License_GPL-3.0-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 126: 147-6/186"><a href="License_GPL-3.0-6.html"><span>6</span></a></li>
+<li uk-tooltip="Page 147: 168-7/186"><a href="License_GPL-3.0-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 168: 189-8/186"><a href="License_GPL-3.0-8.html"><span>8</span></a></li>
+<li uk-tooltip="Page 0: 21-0/186"><a href="License_GPL-3.0.html"><span>0</span></a></li>
+<li uk-tooltip="Page 21: 42-1/186"><a href="License_GPL-3.0-1.html"><span>1</span></a></li>
+<li class="uk-active">
+    <span uk-tooltip="Page 2: 42-63/186}">2</span>
+</li>
 
+<li uk-tooltip="Page 63: 84-3/186"><a href="License_GPL-3.0-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 84: 105-4/186"><a href="License_GPL-3.0-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 105: 126-5/186"><a href="License_GPL-3.0-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 126: 147-6/186"><a href="License_GPL-3.0-6.html"><span>6</span></a></li>
+<li uk-tooltip="Page 147: 168-7/186"><a href="License_GPL-3.0-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 168: 189-8/186"><a href="License_GPL-3.0-8.html"><span>8</span></a></li>
 
+        </ul>
         <!-- PAGINATION :: END -->
         <div uk-filter="target: .js-filter">
             <!-- Search entry :: Start -->
@@ -105,415 +129,413 @@
             <!-- Search entry :: End -->
             <!-- Filtered rows :: Start -->
             <ul class="js-filter uk-child-width-1-3@m" uk-grid>
-            <li data-title="EveryDocs">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="EveryDocs"><a class="uk-link-heading uk-text-meta" href="EveryDocs.html"><span class="">EveryDocs</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
+                            <li data-title="EveryDocs">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="EveryDocs">
+                                    <a class="uk-link-heading uk-text-meta" href="EveryDocs.html">EveryDocs</a>
+
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">A simple Document Management System for private use with basic functionality to organize your documents digitally</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    A simple Document Management System for private use with basic functionality to organize your documents digitally
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Exim">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Exim">
+                                    <a class="uk-link-heading uk-text-meta" href="Exim.html">Exim</a>
 
-            </li>            <li data-title="Exim">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Exim"><a class="uk-link-heading uk-text-meta" href="Exim.html"><span class="">Exim</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Message transfer agent</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Message transfer agent
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="feed2toot">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="feed2toot">
+                                    <a class="uk-link-heading uk-text-meta" href="feed2toot.html">feed2toot</a>
 
-            </li>            <li data-title="feed2toot">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="feed2toot"><a class="uk-link-heading uk-text-meta" href="feed2toot.html"><span class="">feed2toot</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Feed2toot parses a RSS feed, extracts the last entries and sends them to Mastodon.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Feed2toot parses a RSS feed, extracts the last entries and sends them to Mastodon.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="FHEM">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="FHEM">
+                                    <a class="uk-link-heading uk-text-meta" href="FHEM.html">FHEM</a>
 
-            </li>            <li data-title="FHEM">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="FHEM"><a class="uk-link-heading uk-text-meta" href="FHEM.html"><span class="">FHEM</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">FHEM is used to automate common tasks in the household like switching lamps and heating. It can also be used to log events like temperature or power consumption. You can control it via web or smartphone frontends, telnet or TCP/IP directly.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    FHEM is used to automate common tasks in the household like switching lamps and heating. It can also be used to log events like temperature or power consumption. You can control it via web or smartphone frontends, telnet or TCP/IP directly.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Files_Sharing">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Files Sharing">
+                                    <a class="uk-link-heading uk-text-meta" href="Files_Sharing.html">Files Sharing</a>
 
-            </li>            <li data-title="Files_Sharing">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Files Sharing"><a class="uk-link-heading uk-text-meta" href="Files_Sharing.html"><span class="">Files Sharing</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Open Source and self-hosted files sharing application based on unique and temporary links</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Open Source and self-hosted files sharing application based on unique and temporary links
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="FileShelter">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="FileShelter">
+                                    <a class="uk-link-heading uk-text-meta" href="FileShelter.html">FileShelter</a>
 
-            </li>            <li data-title="FileShelter">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="FileShelter"><a class="uk-link-heading uk-text-meta" href="FileShelter.html"><span class="">FileShelter</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">FileShelter is a self-hosted software that allows you to easily share files over the Internet.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    FileShelter is a self-hosted software that allows you to easily share files over the Internet.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="FreedomBox">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="FreedomBox">
+                                    <a class="uk-link-heading uk-text-meta" href="FreedomBox.html">FreedomBox</a>
 
-            </li>            <li data-title="FreedomBox">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="FreedomBox"><a class="uk-link-heading uk-text-meta" href="FreedomBox.html"><span class="">FreedomBox</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Community project to develop, design and promote personal servers running free software for private, personal, communications</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Community project to develop, design and promote personal servers running free software for private, personal, communications
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Full-Text_RSS">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Full-Text RSS">
+                                    <a class="uk-link-heading uk-text-meta" href="Full-Text_RSS.html">Full-Text RSS</a>
 
-            </li>            <li data-title="Full-Text_RSS">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Full-Text RSS"><a class="uk-link-heading uk-text-meta" href="Full-Text_RSS.html"><span class="">Full-Text RSS</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Extract article content from news sites and blogs and convert RSS feeds that contain only extracts of stories to full-text feeds. Developed by FiveFilters.org.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Extract article content from news sites and blogs and convert RSS feeds that contain only extracts of stories to full-text feeds. Developed by FiveFilters.org.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Galette">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Galette">
+                                    <a class="uk-link-heading uk-text-meta" href="Galette.html">Galette</a>
 
-            </li>            <li data-title="Galette">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Galette"><a class="uk-link-heading uk-text-meta" href="Galette.html"><span class="">Galette</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Galette is a membership management web application towards non profit organizations.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Galette is a membership management web application towards non profit organizations.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="GetSimple_CMS">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="GetSimple CMS">
+                                    <a class="uk-link-heading uk-text-meta" href="GetSimple_CMS.html">GetSimple CMS</a>
 
-            </li>            <li data-title="GetSimple_CMS">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="GetSimple CMS"><a class="uk-link-heading uk-text-meta" href="GetSimple_CMS.html"><span class="">GetSimple CMS</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">The Simplest Content Management System. Ever.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    The Simplest Content Management System. Ever.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="GIST">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="GIST">
+                                    <a class="uk-link-heading uk-text-meta" href="GIST.html">GIST</a>
 
-            </li>            <li data-title="GIST">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="GIST"><a class="uk-link-heading uk-text-meta" href="GIST.html"><span class="">GIST</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">GIST is an open-source application to share code.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    GIST is an open-source application to share code.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Git_Annex">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Git Annex">
+                                    <a class="uk-link-heading uk-text-meta" href="Git_Annex.html">Git Annex</a>
 
-            </li>            <li data-title="Git_Annex">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Git Annex"><a class="uk-link-heading uk-text-meta" href="Git_Annex.html"><span class="">Git Annex</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">File synchronization between computers, servers, external drives.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    File synchronization between computers, servers, external drives.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Glosa">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Glosa">
+                                    <a class="uk-link-heading uk-text-meta" href="Glosa.html">Glosa</a>
 
-            </li>            <li data-title="GNUnet">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="GNUnet"><a class="uk-link-heading uk-text-meta" href="GNUnet.html"><span class="">GNUnet</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Free software framework for decentralized, peer-to-peer networking.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Open source commentary system easy to integrate with static pages. You can import from Disqus
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="GNUnet">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="GNUnet">
+                                    <a class="uk-link-heading uk-text-meta" href="GNUnet.html">GNUnet</a>
 
-            </li>            <li data-title="goBrowser">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="goBrowser"><a class="uk-link-heading uk-text-meta" href="goBrowser.html"><span class="">goBrowser</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Simple http file browser</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Free software framework for decentralized, peer-to-peer networking.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="goBrowser">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="goBrowser">
+                                    <a class="uk-link-heading uk-text-meta" href="goBrowser.html">goBrowser</a>
 
-            </li>            <li data-title="gonic">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="gonic"><a class="uk-link-heading uk-text-meta" href="gonic.html"><span class="">gonic</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Lightweight music streaming server. Subsonic compatible</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Simple http file browser
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="gonic">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="gonic">
+                                    <a class="uk-link-heading uk-text-meta" href="gonic.html">gonic</a>
 
-            </li>            <li data-title="Gosora">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Gosora"><a class="uk-link-heading uk-text-meta" href="Gosora.html"><span class="">Gosora</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Gosora is an ultra-fast and secure forum software written in Go that balances usability with functionality.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Lightweight music streaming server. Subsonic compatible
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Gosora">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Gosora">
+                                    <a class="uk-link-heading uk-text-meta" href="Gosora.html">Gosora</a>
 
-            </li>            <li data-title="gShort">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="gShort"><a class="uk-link-heading uk-text-meta" href="gShort.html"><span class="">gShort</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Privacy-friendly self-hosted URL shortener.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Gosora is an ultra-fast and secure forum software written in Go that balances usability with functionality.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="gShort">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="gShort">
+                                    <a class="uk-link-heading uk-text-meta" href="gShort.html">gShort</a>
 
-            </li>            <li data-title="Headphones">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Headphones"><a class="uk-link-heading uk-text-meta" href="Headphones.html"><span class="">Headphones</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Privacy-friendly self-hosted URL shortener.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Headphones">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Headphones">
+                                    <a class="uk-link-heading uk-text-meta" href="Headphones.html">Headphones</a>
 
-            </li>            <li data-title="Hextris">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Hextris"><a class="uk-link-heading uk-text-meta" href="Hextris.html"><span class="">Hextris</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Fast paced HTML5 puzzle game inspired by Tetris.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Hextris">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Hextris">
+                                    <a class="uk-link-heading uk-text-meta" href="Hextris.html">Hextris</a>
 
-            </li>            <li data-title="homebox">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="homebox"><a class="uk-link-heading uk-text-meta" href="homebox.html"><span class="">homebox</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Fast paced HTML5 puzzle game inspired by Tetris.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="homebox">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="homebox">
+                                    <a class="uk-link-heading uk-text-meta" href="homebox.html">homebox</a>
 
-            </li>            <li data-title="Hospital_Run">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Hospital Run"><a class="uk-link-heading uk-text-meta" href="Hospital_Run.html"><span class="">Hospital Run</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Hospital Run is offline enabled hospital management software.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
 
-            </li>
             </ul> <!-- Filtered rows :: End -->
         </div>
         <!-- PAGINATION_HEAD.tpl :: END -->            <!-- FOOTER :: START -->
             <div class="uk-flex uk-flex-center uk-flex-wrap">
-<!--
                 <div class="uk-card uk-card-body">
-                    <span class="uk-text-meta">Last update on Sat, May 23, 2020 at 11:27</span>
+                    <span class="uk-text-meta">Last update on Sun, Jul 26, 2020 at 22:16</span>
                 </div>
--->
             </div>
             <!-- FOOTER :: END -->
         </div>

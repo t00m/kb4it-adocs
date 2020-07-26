@@ -1,7 +1,7 @@
 = OrangeHRM
 
 :Name:          OrangeHRM
-:Language:      PHP
+:Language:      OrangeHRM
 :License:       GPL-2.0
 :Topic:         Human Resources Management (HRM)
 :Category:      

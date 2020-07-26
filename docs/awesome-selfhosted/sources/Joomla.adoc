@@ -1,7 +1,7 @@
 = Joomla!
 
 :Name:          Joomla!
-:Language:      PHP
+:Language:      Joomla!
 :License:       GPL-2.0
 :Topic:         Content Management Systems (CMS)
 :Category:      

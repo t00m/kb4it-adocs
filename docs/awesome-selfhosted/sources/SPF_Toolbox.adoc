@@ -1,7 +1,7 @@
 = SPF Toolbox
 
 :Name:          SPF Toolbox
-:Language:      PHP
+:Language:      SPF Toolbox
 :License:       MIT
 :Topic:         DNS
 :Category:      

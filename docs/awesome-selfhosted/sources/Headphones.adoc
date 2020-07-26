@@ -1,7 +1,7 @@
 = Headphones
 
 :Name:          Headphones
-:Language:      Python
+:Language:      Headphones
 :License:       GPL-3.0
 :Topic:         Automation
 :Category:      

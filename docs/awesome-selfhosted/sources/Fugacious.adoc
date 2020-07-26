@@ -1,7 +1,7 @@
 = Fugacious
 
 :Name:          Fugacious
-:Language:      Ruby
+:Language:      Fugacious
 :License:       CC0-1.0
 :Topic:         Pastebins
 :Category:      

@@ -1,7 +1,7 @@
 = ownCloud
 
 :Name:          ownCloud
-:Language:      PHP
+:Language:      ownCloud
 :License:       AGPL-3.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

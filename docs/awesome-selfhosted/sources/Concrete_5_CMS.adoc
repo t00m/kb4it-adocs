@@ -1,7 +1,7 @@
 = Concrete 5 CMS
 
 :Name:          Concrete 5 CMS
-:Language:      PHP
+:Language:      Concrete 5 CMS
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

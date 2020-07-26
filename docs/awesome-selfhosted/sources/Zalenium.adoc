@@ -1,7 +1,7 @@
 = Zalenium
 
 :Name:          Zalenium
-:Language:      Java/Shell
+:Language:      Zalenium
 :License:       Apache-2.0
 :Topic:         Software Development
 :Category:      UX testing

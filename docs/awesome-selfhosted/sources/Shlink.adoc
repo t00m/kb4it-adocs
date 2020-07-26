@@ -1,7 +1,7 @@
 = Shlink
 
 :Name:          Shlink
-:Language:      PHP
+:Language:      Shlink
 :License:       MIT
 :Topic:         URL Shorteners
 :Category:      

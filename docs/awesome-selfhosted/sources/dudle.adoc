@@ -1,7 +1,7 @@
 = dudle
 
 :Name:          dudle
-:Language:      Ruby
+:Language:      dudle
 :License:       AGPL-3.0
 :Topic:         Polls and Events
 :Category:      

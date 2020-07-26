@@ -1,7 +1,7 @@
 = ubookmark
 
 :Name:          ubookmark
-:Language:      Python
+:Language:      ubookmark
 :License:       GPL-2.0
 :Topic:         Bookmarks and Link Sharing
 :Category:      

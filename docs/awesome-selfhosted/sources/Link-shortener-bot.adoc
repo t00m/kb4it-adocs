@@ -1,7 +1,7 @@
 = Link-shortener-bot
 
 :Name:          Link-shortener-bot
-:Language:      Ruby
+:Language:      Link-shortener-bot
 :License:       MIT
 :Topic:         URL Shorteners
 :Category:      

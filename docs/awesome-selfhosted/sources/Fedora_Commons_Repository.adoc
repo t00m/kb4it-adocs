@@ -1,7 +1,7 @@
 = Fedora Commons Repository
 
 :Name:          Fedora Commons Repository
-:Language:      Java
+:Language:      Fedora Commons Repository
 :License:       Apache-2.0
 :Topic:         E-books and Integrated Library Systems (ILS)
 :Category:      

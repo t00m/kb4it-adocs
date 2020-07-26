@@ -1,7 +1,7 @@
 = Nullboard
 
 :Name:          Nullboard
-:Language:      Javascript
+:Language:      Nullboard
 :License:       BSD-2-Clause
 :Topic:         Task management/To-do lists
 :Category:      

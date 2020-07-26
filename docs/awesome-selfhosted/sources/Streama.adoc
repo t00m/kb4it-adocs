@@ -1,7 +1,7 @@
 = Streama
 
 :Name:          Streama
-:Language:      Java
+:Language:      Streama
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Video Streaming

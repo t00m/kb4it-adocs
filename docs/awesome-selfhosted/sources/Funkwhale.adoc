@@ -1,7 +1,7 @@
 = Funkwhale
 
 :Name:          Funkwhale
-:Language:      Python/Django
+:Language:      Funkwhale
 :License:       BSD-3-Clause
 :Topic:         Media Streaming
 :Category:      Audio Streaming

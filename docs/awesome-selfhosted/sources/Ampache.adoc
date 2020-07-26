@@ -1,7 +1,7 @@
 = Ampache
 
 :Name:          Ampache
-:Language:      PHP
+:Language:      Ampache
 :License:       AGPL-3.0
 :Topic:         Media Streaming
 :Category:      Audio Streaming

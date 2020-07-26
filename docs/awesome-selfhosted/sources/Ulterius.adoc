@@ -1,7 +1,7 @@
 = Ulterius
 
 :Name:          Ulterius
-:Language:      C#
+:Language:      Ulterius
 :License:       MPL-2.0
 :Topic:         Misc/Other
 :Category:      

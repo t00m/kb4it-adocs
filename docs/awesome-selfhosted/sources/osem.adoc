@@ -1,7 +1,7 @@
 = osem
 
 :Name:          osem
-:Language:      Ruby
+:Language:      osem
 :License:       MIT
 :Topic:         Conference Management
 :Category:      

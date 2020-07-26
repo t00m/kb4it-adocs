@@ -1,7 +1,7 @@
 = μlogger
 
 :Name:          μlogger
-:Language:      PHP
+:Language:      μlogger
 :License:       GPL-3.0
 :Topic:         Maps and Global Positioning System (GPS)
 :Category:      

@@ -1,7 +1,7 @@
 = Redaxscript
 
 :Name:          Redaxscript
-:Language:      PHP
+:Language:      Redaxscript
 :License:       GPL-3.0
 :Topic:         Content Management Systems (CMS)
 :Category:      

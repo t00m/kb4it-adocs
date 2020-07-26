@@ -1,7 +1,7 @@
 = Infinoted
 
 :Name:          Infinoted
-:Language:      C++
+:Language:      Infinoted
 :License:       MIT
 :Topic:         Office Suites
 :Category:      

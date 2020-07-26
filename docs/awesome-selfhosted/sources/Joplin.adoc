@@ -1,7 +1,7 @@
 = Joplin
 
 :Name:          Joplin
-:Language:      Nodejs
+:Language:      Joplin
 :License:       MIT
 :Topic:         Note-taking and Editors
 :Category:      

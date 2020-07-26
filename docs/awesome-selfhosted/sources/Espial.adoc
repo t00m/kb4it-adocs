@@ -1,7 +1,7 @@
 = Espial
 
 :Name:          Espial
-:Language:      Haskell
+:Language:      Espial
 :License:       AGPL-3.0
 :Topic:         Bookmarks and Link Sharing
 :Category:      

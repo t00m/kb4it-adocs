@@ -1,7 +1,7 @@
 = Maildrop
 
 :Name:          Maildrop
-:Language:      Scala
+:Language:      Maildrop
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Email

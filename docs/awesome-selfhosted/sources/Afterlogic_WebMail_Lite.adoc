@@ -1,7 +1,7 @@
 = Afterlogic WebMail Lite
 
 :Name:          Afterlogic WebMail Lite
-:Language:      PHP
+:Language:      Afterlogic WebMail Lite
 :License:       AGPL-3.0
 :Topic:         Communication systems
 :Category:      Email

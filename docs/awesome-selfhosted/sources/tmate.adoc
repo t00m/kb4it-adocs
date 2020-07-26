@@ -1,7 +1,7 @@
 = tmate
 
 :Name:          tmate
-:Language:      C
+:Language:      tmate
 :License:       ISC
 :Topic:         Gateways and terminal sharing
 :Category:      

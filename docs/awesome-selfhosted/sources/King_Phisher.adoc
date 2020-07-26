@@ -1,7 +1,7 @@
 = King Phisher
 
 :Name:          King Phisher
-:Language:      Python
+:Language:      King Phisher
 :License:       BSD-3-Clause
 :Topic:         Misc/Other
 :Category:      

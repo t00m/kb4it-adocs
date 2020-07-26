@@ -1,7 +1,7 @@
 = ProjectSend
 
 :Name:          ProjectSend
-:Language:      PHP
+:Language:      ProjectSend
 :License:       GPL-2.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

@@ -1,7 +1,7 @@
 = RSS2EMail
 
 :Name:          RSS2EMail
-:Language:      Python
+:Language:      RSS2EMail
 :License:       GPL-2.0
 :Topic:         Feed Readers
 :Category:      
@@ -15,6 +15,6 @@ Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OP
 
 == References
 
-* Website: https://github.com/wking/rss2email[RSS2EMail]
+* Website: https://github.com/rss2email/rss2email[RSS2EMail]
 * Source code: []
 * Demo: []

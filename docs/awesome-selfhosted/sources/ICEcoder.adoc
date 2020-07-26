@@ -1,7 +1,7 @@
 = ICEcoder
 
 :Name:          ICEcoder
-:Language:      PHP
+:Language:      ICEcoder
 :License:       MIT
 :Topic:         Software Development
 :Category:      IDE/Tools

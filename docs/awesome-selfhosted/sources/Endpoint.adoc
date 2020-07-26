@@ -1,7 +1,7 @@
 = Endpoint
 
 :Name:          Endpoint
-:Language:      Nodejs
+:Language:      Endpoint
 :License:       MIT
 :Topic:         Software Development
 :Category:      API Management

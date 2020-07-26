@@ -1,7 +1,7 @@
 = Z-Push
 
 :Name:          Z-Push
-:Language:      PHP
+:Language:      Z-Push
 :License:       AGPL-3.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

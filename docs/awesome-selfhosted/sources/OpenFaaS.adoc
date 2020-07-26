@@ -1,7 +1,7 @@
 = OpenFaaS
 
 :Name:          OpenFaaS
-:Language:      Go
+:Language:      OpenFaaS
 :License:       MIT
 :Topic:         Software Development
 :Category:      FaaS/Serverless

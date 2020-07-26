@@ -1,7 +1,7 @@
 = Subrion
 
 :Name:          Subrion
-:Language:      PHP
+:Language:      Subrion
 :License:       GPL-3.0
 :Topic:         Content Management Systems (CMS)
 :Category:      

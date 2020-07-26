@@ -1,7 +1,7 @@
 = PrivateBin
 
 :Name:          PrivateBin
-:Language:      PHP
+:Language:      PrivateBin
 :License:       Zlib
 :Topic:         Pastebins
 :Category:      

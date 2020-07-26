@@ -1,7 +1,7 @@
 = CaseBox
 
 :Name:          CaseBox
-:Language:      PHP/Java
+:Language:      CaseBox
 :License:       AGPL-3.0
 :Topic:         Document Management
 :Category:      

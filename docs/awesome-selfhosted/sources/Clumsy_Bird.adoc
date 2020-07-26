@@ -1,7 +1,7 @@
 = Clumsy Bird
 
 :Name:          Clumsy Bird
-:Language:      Nodejs
+:Language:      Clumsy Bird
 :License:       MIT
 :Topic:         Games
 :Category:      

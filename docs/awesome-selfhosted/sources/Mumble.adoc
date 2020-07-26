@@ -1,7 +1,7 @@
 = Mumble
 
 :Name:          Mumble
-:Language:      C++
+:Language:      Mumble
 :License:       BSD-3-Clause
 :Topic:         Communication systems
 :Category:      Custom communication systems

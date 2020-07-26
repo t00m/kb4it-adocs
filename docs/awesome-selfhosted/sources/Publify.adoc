@@ -1,7 +1,7 @@
 = Publify
 
 :Name:          Publify
-:Language:      Ruby
+:Language:      Publify
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

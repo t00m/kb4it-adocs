@@ -1,7 +1,7 @@
 = SharpPaste
 
 :Name:          SharpPaste
-:Language:      C#/NancyFX
+:Language:      SharpPaste
 :License:       MIT
 :Topic:         Pastebins
 :Category:      

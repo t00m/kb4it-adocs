@@ -1,7 +1,7 @@
 = filite
 
 :Name:          filite
-:Language:      Rust
+:Language:      filite
 :License:       MIT
 :Topic:         Pastebins
 :Category:      

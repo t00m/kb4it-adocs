@@ -1,7 +1,7 @@
 = Boodle
 
 :Name:          Boodle
-:Language:      Clojure
+:Language:      Boodle
 :License:       EPL-1.0
 :Topic:         Money, Budgeting and Management
 :Category:      

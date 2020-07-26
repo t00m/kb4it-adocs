@@ -1,7 +1,7 @@
 = Traefik
 
 :Name:          Traefik
-:Language:      Go
+:Language:      Traefik
 :License:       MIT
 :Topic:         Proxy
 :Category:      

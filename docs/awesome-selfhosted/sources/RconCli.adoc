@@ -1,7 +1,7 @@
 = RconCli
 
 :Name:          RconCli
-:Language:      Go
+:Language:      RconCli
 :License:       MIT
 :Topic:         Games
 :Category:      

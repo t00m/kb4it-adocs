@@ -1,7 +1,7 @@
 = http2-serverpush-proxy
 
 :Name:          http2-serverpush-proxy
-:Language:      Nodejs
+:Language:      http2-serverpush-proxy
 :License:       MIT
 :Topic:         Proxy
 :Category:      

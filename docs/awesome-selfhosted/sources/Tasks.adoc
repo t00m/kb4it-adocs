@@ -1,7 +1,7 @@
 = Tasks
 
 :Name:          Tasks
-:Language:      Go
+:Language:      Tasks
 :License:       MIT
 :Topic:         Task management/To-do lists
 :Category:      

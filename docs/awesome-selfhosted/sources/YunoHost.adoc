@@ -1,7 +1,7 @@
 = YunoHost
 
 :Name:          YunoHost
-:Language:      Python/Other
+:Language:      YunoHost
 :License:       AGPL-3.0
 :Topic:         Self-hosting Solutions
 :Category:      

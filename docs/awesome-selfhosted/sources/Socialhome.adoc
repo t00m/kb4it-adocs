@@ -1,7 +1,7 @@
 = Socialhome
 
 :Name:          Socialhome
-:Language:      Python
+:Language:      Socialhome
 :License:       AGPL-3.0
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

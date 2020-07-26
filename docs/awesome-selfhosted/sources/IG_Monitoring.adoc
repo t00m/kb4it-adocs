@@ -1,7 +1,7 @@
 = IG Monitoring
 
 :Name:          IG Monitoring
-:Language:      PHP
+:Language:      IG Monitoring
 :License:       MIT
 :Topic:         Analytics
 :Category:      

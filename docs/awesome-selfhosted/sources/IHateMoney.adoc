@@ -1,7 +1,7 @@
 = IHateMoney
 
 :Name:          IHateMoney
-:Language:      Python
+:Language:      IHateMoney
 :License:       BSD-3-Clause
 :Topic:         Money, Budgeting and Management
 :Category:      

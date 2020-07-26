@@ -1,7 +1,7 @@
 = ngircd
 
 :Name:          ngircd
-:Language:      C
+:Language:      ngircd
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      IRC

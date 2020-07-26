@@ -1,7 +1,7 @@
 = Microweber
 
 :Name:          Microweber
-:Language:      PHP
+:Language:      Microweber
 :License:       Apache-2.0
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

@@ -1,7 +1,7 @@
 = musikcube
 
 :Name:          musikcube
-:Language:      C++
+:Language:      musikcube
 :License:       BSD-3-Clause
 :Topic:         Media Streaming
 :Category:      Audio Streaming

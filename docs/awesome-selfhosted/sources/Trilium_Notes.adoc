@@ -1,7 +1,7 @@
 = Trilium Notes
 
 :Name:          Trilium Notes
-:Language:      Nodejs
+:Language:      Trilium Notes
 :License:       AGPL-3.0
 :Topic:         Note-taking and Editors
 :Category:      

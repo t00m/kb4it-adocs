@@ -1,7 +1,7 @@
 = Known
 
 :Name:          Known
-:Language:      PHP
+:Language:      Known
 :License:       Apache-2.0
 :Topic:         Blogging Platforms
 :Category:      

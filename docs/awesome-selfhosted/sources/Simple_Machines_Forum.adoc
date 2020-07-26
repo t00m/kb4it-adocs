@@ -1,7 +1,7 @@
 = Simple Machines Forum
 
 :Name:          Simple Machines Forum
-:Language:      PHP
+:Language:      Simple Machines Forum
 :License:       BSD-3-Clause
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

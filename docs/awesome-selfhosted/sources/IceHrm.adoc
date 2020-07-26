@@ -1,7 +1,7 @@
 = IceHrm
 
 :Name:          IceHrm
-:Language:      PHP
+:Language:      IceHrm
 :License:       Apache-2.0
 :Topic:         Human Resources Management (HRM)
 :Category:      

@@ -1,7 +1,7 @@
 = cartulary
 
 :Name:          cartulary
-:Language:      PHP
+:Language:      cartulary
 :License:       CDDL-1.0
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

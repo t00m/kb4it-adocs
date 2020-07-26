@@ -1,7 +1,7 @@
 = twister
 
 :Name:          twister
-:Language:      C++
+:Language:      twister
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

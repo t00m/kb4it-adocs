@@ -1,7 +1,7 @@
 = Mayan EDMS
 
 :Name:          Mayan EDMS
-:Language:      Python
+:Language:      Mayan EDMS
 :License:       Apache-2.0
 :Topic:         Document Management
 :Category:      

@@ -1,7 +1,7 @@
 = fx
 
 :Name:          fx
-:Language:      Go
+:Language:      fx
 :License:       MIT
 :Topic:         Software Development
 :Category:      FaaS/Serverless

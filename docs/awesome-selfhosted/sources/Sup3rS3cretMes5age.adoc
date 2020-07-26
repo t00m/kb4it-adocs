@@ -1,7 +1,7 @@
 = Sup3rS3cretMes5age
 
 :Name:          Sup3rS3cretMes5age
-:Language:      Go
+:Language:      Sup3rS3cretMes5age
 :License:       MIT
 :Topic:         Pastebins
 :Category:      

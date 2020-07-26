@@ -1,7 +1,7 @@
 = Serposcope
 
 :Name:          Serposcope
-:Language:      Java
+:Language:      Serposcope
 :License:       MIT
 :Topic:         Analytics
 :Category:      

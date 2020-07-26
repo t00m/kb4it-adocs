@@ -1,7 +1,7 @@
 = frab
 
 :Name:          frab
-:Language:      Ruby
+:Language:      frab
 :License:       MIT
 :Topic:         Conference Management
 :Category:      

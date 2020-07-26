@@ -1,7 +1,7 @@
 = RSS Merger
 
 :Name:          RSS Merger
-:Language:      PHP
+:Language:      RSS Merger
 :License:       GPL-2.0
 :Topic:         Feed Readers
 :Category:      

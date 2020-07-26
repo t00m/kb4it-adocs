@@ -1,7 +1,7 @@
 = FusionPBX
 
 :Name:          FusionPBX
-:Language:      PHP
+:Language:      FusionPBX
 :License:       MPL-1.1
 :Topic:         Communication systems
 :Category:      SIP

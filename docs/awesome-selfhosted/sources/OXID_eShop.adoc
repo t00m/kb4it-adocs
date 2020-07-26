@@ -1,7 +1,7 @@
 = OXID eShop
 
 :Name:          OXID eShop
-:Language:      PHP
+:Language:      OXID eShop
 :License:       GPL-3.0
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

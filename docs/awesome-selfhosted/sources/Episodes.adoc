@@ -1,7 +1,7 @@
 = Episodes
 
 :Name:          Episodes
-:Language:      Python
+:Language:      Episodes
 :License:       MIT
 :Topic:         Automation
 :Category:      

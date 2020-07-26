@@ -1,7 +1,7 @@
 = Kanbana
 
 :Name:          Kanbana
-:Language:      Nodejs
+:Language:      Kanbana
 :License:       MIT
 :Topic:         Task management/To-do lists
 :Category:      

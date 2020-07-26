@@ -1,7 +1,7 @@
 = JD Esurvey
 
 :Name:          JD Esurvey
-:Language:      Java
+:Language:      JD Esurvey
 :License:       AGPL-3.0
 :Topic:         Polls and Events
 :Category:      

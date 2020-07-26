@@ -1,7 +1,7 @@
 = EtherCalc
 
 :Name:          EtherCalc
-:Language:      Nodejs
+:Language:      EtherCalc
 :License:       CPAL-1.0/Other
 :Topic:         Office Suites
 :Category:      

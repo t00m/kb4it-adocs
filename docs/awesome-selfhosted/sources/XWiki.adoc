@@ -1,7 +1,7 @@
 = XWiki
 
 :Name:          XWiki
-:Language:      Java
+:Language:      XWiki
 :License:       LGPL-2.1
 :Topic:         Wikis
 :Category:      

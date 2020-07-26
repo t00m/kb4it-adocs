@@ -1,7 +1,7 @@
 = Freshlytics
 
 :Name:          Freshlytics
-:Language:      Docker/Nodejs
+:Language:      Freshlytics
 :License:       MIT
 :Topic:         Analytics
 :Category:      

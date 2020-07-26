@@ -1,7 +1,7 @@
 = farmOS
 
 :Name:          farmOS
-:Language:      PHP
+:Language:      farmOS
 :License:       GPL-2.0
 :Topic:         Resource Planning
 :Category:      

@@ -1,7 +1,7 @@
 = StockazNG
 
 :Name:          StockazNG
-:Language:      Python
+:Language:      StockazNG
 :License:       MIT
 :Topic:         Money, Budgeting and Management
 :Category:      

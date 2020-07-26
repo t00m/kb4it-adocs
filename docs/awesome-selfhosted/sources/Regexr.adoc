@@ -1,7 +1,7 @@
 = Regexr
 
 :Name:          Regexr
-:Language:      Nodejs
+:Language:      Regexr
 :License:       MIT
 :Topic:         Software Development
 :Category:      IDE/Tools

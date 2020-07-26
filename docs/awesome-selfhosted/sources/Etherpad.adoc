@@ -1,7 +1,7 @@
 = Etherpad
 
 :Name:          Etherpad
-:Language:      Nodejs
+:Language:      Etherpad
 :License:       Apache-2.0
 :Topic:         Office Suites
 :Category:      

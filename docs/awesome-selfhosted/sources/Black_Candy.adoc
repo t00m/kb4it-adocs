@@ -1,7 +1,7 @@
 = Black Candy
 
 :Name:          Black Candy
-:Language:      Ruby
+:Language:      Black Candy
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Audio Streaming

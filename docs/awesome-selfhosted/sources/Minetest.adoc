@@ -1,7 +1,7 @@
 = Minetest
 
 :Name:          Minetest
-:Language:      C++
+:Language:      Minetest
 :License:       LGPL-2.1/CC-BY-SA-3.0/Other
 :Topic:         Games
 :Category:      

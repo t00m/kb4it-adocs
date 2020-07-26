@@ -1,7 +1,7 @@
 = dyu/comments
 
 :Name:          dyu/comments
-:Language:      Java
+:Language:      dyu/comments
 :License:       Apache-2.0
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

@@ -1,7 +1,7 @@
 = Dat Project
 
 :Name:          Dat Project
-:Language:      Nodejs
+:Language:      Dat Project
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

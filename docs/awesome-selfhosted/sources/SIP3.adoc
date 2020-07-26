@@ -1,7 +1,7 @@
 = SIP3
 
 :Name:          SIP3
-:Language:      Kotlin
+:Language:      SIP3
 :License:       Apache-2.0
 :Topic:         Communication systems
 :Category:      SIP

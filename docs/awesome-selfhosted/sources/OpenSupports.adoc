@@ -1,7 +1,7 @@
 = OpenSupports
 
 :Name:          OpenSupports
-:Language:      PHP
+:Language:      OpenSupports
 :License:       GPL-3.0
 :Topic:         Ticketing
 :Category:      

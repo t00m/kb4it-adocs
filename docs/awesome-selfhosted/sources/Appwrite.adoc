@@ -1,7 +1,7 @@
 = Appwrite
 
 :Name:          Appwrite
-:Language:      PHP
+:Language:      Appwrite
 :License:       BSD 3-Clause
 :Topic:         Software Development
 :Category:      FaaS/Serverless

@@ -1,7 +1,7 @@
 = Canvas LMS
 
 :Name:          Canvas LMS
-:Language:      Ruby
+:Language:      Canvas LMS
 :License:       AGPL-3.0
 :Topic:         Learning and Courses
 :Category:      

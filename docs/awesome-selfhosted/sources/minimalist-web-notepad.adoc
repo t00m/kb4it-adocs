@@ -1,7 +1,7 @@
 = minimalist-web-notepad
 
 :Name:          minimalist-web-notepad
-:Language:      PHP
+:Language:      minimalist-web-notepad
 :License:       Apache-2.0
 :Topic:         Note-taking and Editors
 :Category:      

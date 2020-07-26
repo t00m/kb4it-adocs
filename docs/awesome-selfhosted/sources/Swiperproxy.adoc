@@ -1,7 +1,7 @@
 = Swiperproxy
 
 :Name:          Swiperproxy
-:Language:      Python
+:Language:      Swiperproxy
 :License:       MIT
 :Topic:         Proxy
 :Category:      

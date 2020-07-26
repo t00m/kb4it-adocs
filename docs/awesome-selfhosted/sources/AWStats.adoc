@@ -1,7 +1,7 @@
 = AWStats
 
 :Name:          AWStats
-:Language:      Perl
+:Language:      AWStats
 :License:       GPL-3.0
 :Topic:         Analytics
 :Category:      

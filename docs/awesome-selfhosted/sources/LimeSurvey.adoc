@@ -1,7 +1,7 @@
 = LimeSurvey
 
 :Name:          LimeSurvey
-:Language:      PHP
+:Language:      LimeSurvey
 :License:       GPL-2.0
 :Topic:         Polls and Events
 :Category:      

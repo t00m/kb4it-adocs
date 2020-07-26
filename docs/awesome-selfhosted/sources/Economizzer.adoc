@@ -1,7 +1,7 @@
 = Economizzer
 
 :Name:          Economizzer
-:Language:      PHP
+:Language:      Economizzer
 :License:       MIT
 :Topic:         Money, Budgeting and Management
 :Category:      

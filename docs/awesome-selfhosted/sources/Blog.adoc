@@ -1,7 +1,7 @@
 = Blog
 
 :Name:          Blog
-:Language:      PHP
+:Language:      Blog
 :License:       GPL-3.0
 :Topic:         Blogging Platforms
 :Category:      
@@ -11,10 +11,10 @@
 
 == Description
 
-Facebook-styled blog. Free, extremely lightweight, single-user and easy to install
+Facebook-styled blog. Free, extremely lightweight, single-user and easy to install.
 
 == References
 
 * Website: https://github.com/m1k1o/blog[Blog]
 * Source code: []
-* Demo: []
+* Demo: https://blog.m1k1o.net/[https://blog.m1k1o.net/]

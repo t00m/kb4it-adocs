@@ -1,7 +1,7 @@
 = Sylius
 
 :Name:          Sylius
-:Language:      PHP
+:Language:      Sylius
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

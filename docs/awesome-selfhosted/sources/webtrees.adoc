@@ -1,7 +1,7 @@
 = webtrees
 
 :Name:          webtrees
-:Language:      PHP
+:Language:      webtrees
 :License:       GPL-3.0
 :Topic:         Misc/Other
 :Category:      

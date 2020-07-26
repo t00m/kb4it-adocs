@@ -1,7 +1,7 @@
 = Buddycloud
 
 :Name:          Buddycloud
-:Language:      Java
+:Language:      Buddycloud
 :License:       Apache-2.0
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

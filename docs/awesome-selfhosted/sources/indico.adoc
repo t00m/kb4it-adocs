@@ -1,7 +1,7 @@
 = indico
 
 :Name:          indico
-:Language:      Python
+:Language:      indico
 :License:       MIT
 :Topic:         Conference Management
 :Category:      

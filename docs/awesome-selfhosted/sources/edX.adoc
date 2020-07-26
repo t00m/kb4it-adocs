@@ -1,7 +1,7 @@
 = edX
 
 :Name:          edX
-:Language:      Python
+:Language:      edX
 :License:       AGPL-3.0
 :Topic:         Learning and Courses
 :Category:      

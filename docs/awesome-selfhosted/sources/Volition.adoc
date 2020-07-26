@@ -1,7 +1,7 @@
 = Volition
 
 :Name:          Volition
-:Language:      Ruby
+:Language:      Volition
 :License:       MIT
 :Topic:         Task management/To-do lists
 :Category:      

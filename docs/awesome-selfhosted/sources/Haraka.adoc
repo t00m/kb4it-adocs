@@ -1,7 +1,7 @@
 = Haraka
 
 :Name:          Haraka
-:Language:      Javascript
+:Language:      Haraka
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Email

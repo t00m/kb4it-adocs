@@ -1,7 +1,7 @@
 = Syncthing
 
 :Name:          Syncthing
-:Language:      Go
+:Language:      Syncthing
 :License:       MPL-2.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

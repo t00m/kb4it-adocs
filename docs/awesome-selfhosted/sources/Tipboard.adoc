@@ -1,7 +1,7 @@
 = Tipboard
 
 :Name:          Tipboard
-:Language:      Python
+:Language:      Tipboard
 :License:       Apache-2.0
 :Topic:         Personal Dashboards
 :Category:      

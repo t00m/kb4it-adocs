@@ -1,7 +1,7 @@
 = DietPi
 
 :Name:          DietPi
-:Language:      Shell
+:Language:      DietPi
 :License:       GPL-2.0
 :Topic:         Self-hosting Solutions
 :Category:      

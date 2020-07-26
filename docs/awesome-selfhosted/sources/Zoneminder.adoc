@@ -1,7 +1,7 @@
 = Zoneminder
 
 :Name:          Zoneminder
-:Language:      PHP
+:Language:      Zoneminder
 :License:       GPL-2.0
 :Topic:         Media Streaming
 :Category:      Video Streaming

@@ -1,7 +1,7 @@
 = Zenko CloudServer
 
 :Name:          Zenko CloudServer
-:Language:      Nodejs
+:Language:      Zenko CloudServer
 :License:       Apache-2.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

@@ -1,7 +1,7 @@
 = Photofloat
 
 :Name:          Photofloat
-:Language:      Python
+:Language:      Photofloat
 :License:       GPL-2.0
 :Topic:         Photo and Video Galleries
 :Category:      

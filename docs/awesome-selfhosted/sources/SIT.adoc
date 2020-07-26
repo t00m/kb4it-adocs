@@ -1,7 +1,7 @@
 = SIT
 
 :Name:          SIT
-:Language:      Rust
+:Language:      SIT
 :License:       Apache-2.0
 :Topic:         Ticketing
 :Category:      

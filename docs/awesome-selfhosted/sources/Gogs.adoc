@@ -1,7 +1,7 @@
 = Gogs
 
 :Name:          Gogs
-:Language:      Go
+:Language:      Gogs
 :License:       MIT
 :Topic:         Software Development
 :Category:      Project Management

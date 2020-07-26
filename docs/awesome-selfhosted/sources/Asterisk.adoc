@@ -1,7 +1,7 @@
 = Asterisk
 
 :Name:          Asterisk
-:Language:      C
+:Language:      Asterisk
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      SIP

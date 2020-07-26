@@ -1,7 +1,7 @@
 = Pretix
 
 :Name:          Pretix
-:Language:      Python
+:Language:      Pretix
 :License:       Apache-2.0
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

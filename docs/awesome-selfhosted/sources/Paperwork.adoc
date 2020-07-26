@@ -1,7 +1,7 @@
 = Paperwork
 
 :Name:          Paperwork
-:Language:      PHP
+:Language:      Paperwork
 :License:       MIT
 :Topic:         Note-taking and Editors
 :Category:      

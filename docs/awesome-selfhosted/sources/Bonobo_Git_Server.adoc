@@ -1,7 +1,7 @@
 = Bonobo Git Server
 
 :Name:          Bonobo Git Server
-:Language:      C#
+:Language:      Bonobo Git Server
 :License:       MIT
 :Topic:         Software Development
 :Category:      Project Management

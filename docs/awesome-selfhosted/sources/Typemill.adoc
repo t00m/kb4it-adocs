@@ -1,7 +1,7 @@
 = Typemill
 
 :Name:          Typemill
-:Language:      PHP
+:Language:      Typemill
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

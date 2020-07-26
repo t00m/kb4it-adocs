@@ -1,7 +1,7 @@
 = explorer
 
 :Name:          explorer
-:Language:      Nodejs
+:Language:      explorer
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

@@ -1,7 +1,7 @@
 = Slimta
 
 :Name:          Slimta
-:Language:      Python
+:Language:      Slimta
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Email

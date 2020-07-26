@@ -1,7 +1,7 @@
 = SimpleLogin
 
 :Name:          SimpleLogin
-:Language:      Docker/Python
+:Language:      SimpleLogin
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Email

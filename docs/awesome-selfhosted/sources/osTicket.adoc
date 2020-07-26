@@ -1,7 +1,7 @@
 = osTicket
 
 :Name:          osTicket
-:Language:      PHP
+:Language:      osTicket
 :License:       GPL-2.0
 :Topic:         Ticketing
 :Category:      

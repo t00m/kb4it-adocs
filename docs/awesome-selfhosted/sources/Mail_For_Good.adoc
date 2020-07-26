@@ -1,7 +1,7 @@
 = Mail For Good
 
 :Name:          Mail For Good
-:Language:      Javascript
+:Language:      Mail For Good
 :License:       BSD-3-Clause
 :Topic:         Communication systems
 :Category:      Email

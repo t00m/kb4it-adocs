@@ -1,7 +1,7 @@
 = UVDesk
 
 :Name:          UVDesk
-:Language:      PHP
+:Language:      UVDesk
 :License:       MIT
 :Topic:         Software Development
 :Category:      Project Management

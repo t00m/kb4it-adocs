@@ -1,7 +1,7 @@
 = ZenTao
 
 :Name:          ZenTao
-:Language:      PHP
+:Language:      ZenTao
 :License:       ZPL-1.2
 :Topic:         Software Development
 :Category:      Project Management

@@ -1,7 +1,7 @@
 = Conference Organizing Distribution (CO
 
 :Name:          Conference Organizing Distribution (CO
-:Language:      PHP
+:Language:      Conference Organizing Distribution (CO
 :License:       GPL-1.0
 :Topic:         Conference Management
 :Category:      

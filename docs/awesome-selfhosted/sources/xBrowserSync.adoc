@@ -1,7 +1,7 @@
 = xBrowserSync
 
 :Name:          xBrowserSync
-:Language:      Nodejs
+:Language:      xBrowserSync
 :License:       MIT
 :Topic:         Bookmarks and Link Sharing
 :Category:      

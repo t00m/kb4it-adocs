@@ -1,7 +1,7 @@
 = Fider
 
 :Name:          Fider
-:Language:      Go
+:Language:      Fider
 :License:       MIT
 :Topic:         Polls and Events
 :Category:      

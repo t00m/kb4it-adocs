@@ -1,7 +1,7 @@
 = TagTool
 
 :Name:          TagTool
-:Language:      Python
+:Language:      TagTool
 :License:       MIT
 :Topic:         Knowledge Management Tools
 :Category:      

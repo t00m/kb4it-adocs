@@ -1,7 +1,7 @@
 = Padloc
 
 :Name:          Padloc
-:Language:      Nodejs
+:Language:      Padloc
 :License:       GPL-3.0
 :Topic:         Password Managers
 :Category:      

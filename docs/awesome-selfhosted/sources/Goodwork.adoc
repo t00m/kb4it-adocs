@@ -1,7 +1,7 @@
 = Goodwork
 
 :Name:          Goodwork
-:Language:      PHP
+:Language:      Goodwork
 :License:       MIT
 :Topic:         Software Development
 :Category:      Project Management

@@ -1,7 +1,7 @@
 = Reader-Self
 
 :Name:          Reader-Self
-:Language:      PHP
+:Language:      Reader-Self
 :License:       GPL-3.0
 :Topic:         Feed Readers
 :Category:      

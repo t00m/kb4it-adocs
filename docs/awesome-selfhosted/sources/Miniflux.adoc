@@ -1,7 +1,7 @@
 = Miniflux
 
 :Name:          Miniflux
-:Language:      Go
+:Language:      Miniflux
 :License:       Apache-2.0
 :Topic:         Feed Readers
 :Category:      

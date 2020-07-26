@@ -1,7 +1,7 @@
 = Apostrophe
 
 :Name:          Apostrophe
-:Language:      Nodejs
+:Language:      Apostrophe
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

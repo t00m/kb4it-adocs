@@ -1,7 +1,7 @@
 = Node-Chat
 
 :Name:          Node-Chat
-:Language:      Nodejs
+:Language:      Node-Chat
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Custom communication systems

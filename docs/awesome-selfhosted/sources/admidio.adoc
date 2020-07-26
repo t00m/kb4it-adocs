@@ -1,7 +1,7 @@
 = admidio
 
 :Name:          admidio
-:Language:      PHP
+:Language:      admidio
 :License:       GPL-2.0
 :Topic:         Human Resources Management (HRM)
 :Category:      

@@ -1,7 +1,7 @@
 = sist2
 
 :Name:          sist2
-:Language:      C
+:Language:      sist2
 :License:       GPL-3.0
 :Topic:         Search Engines
 :Category:      
@@ -17,4 +17,4 @@ Lightning-fast file system indexer and search tool.
 
 * Website: https://github.com/simon987/sist2[sist2]
 * Source code: []
-* Demo: https://searchin.the-eye.eu/[https://searchin.the-eye.eu/]
+* Demo: https://sist2.simon987.net/[https://sist2.simon987.net/]

@@ -1,7 +1,7 @@
 = Pepperminty Wiki
 
 :Name:          Pepperminty Wiki
-:Language:      PHP
+:Language:      Pepperminty Wiki
 :License:       MPL-2.0
 :Topic:         Wikis
 :Category:      

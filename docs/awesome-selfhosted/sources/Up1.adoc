@@ -1,7 +1,7 @@
 = Up1
 
 :Name:          Up1
-:Language:      Nodejs
+:Language:      Up1
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

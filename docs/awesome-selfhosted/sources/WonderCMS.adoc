@@ -1,7 +1,7 @@
 = WonderCMS
 
 :Name:          WonderCMS
-:Language:      PHP
+:Language:      WonderCMS
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

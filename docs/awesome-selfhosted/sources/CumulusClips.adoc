@@ -1,7 +1,7 @@
 = CumulusClips
 
 :Name:          CumulusClips
-:Language:      PHP
+:Language:      CumulusClips
 :License:       GPL-2.0
 :Topic:         Photo and Video Galleries
 :Category:      

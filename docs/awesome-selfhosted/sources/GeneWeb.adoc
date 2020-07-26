@@ -1,7 +1,7 @@
 = GeneWeb
 
 :Name:          GeneWeb
-:Language:      OCAML
+:Language:      GeneWeb
 :License:       GPL-2.0
 :Topic:         Misc/Other
 :Category:      

@@ -1,7 +1,7 @@
 = Attendize
 
 :Name:          Attendize
-:Language:      PHP
+:Language:      Attendize
 :License:       AAL
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

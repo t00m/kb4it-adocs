@@ -1,7 +1,7 @@
 = YouTransfer
 
 :Name:          YouTransfer
-:Language:      Nodejs
+:Language:      YouTransfer
 :License:       Apache-2.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

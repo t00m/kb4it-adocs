@@ -1,7 +1,7 @@
 = Cockpit
 
 :Name:          Cockpit
-:Language:      PHP
+:Language:      Cockpit
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

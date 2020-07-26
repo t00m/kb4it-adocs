@@ -1,7 +1,7 @@
 = OnionShare
 
 :Name:          OnionShare
-:Language:      Python
+:Language:      OnionShare
 :License:       GPL-2.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

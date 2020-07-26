@@ -1,7 +1,7 @@
 = bepasty
 
 :Name:          bepasty
-:Language:      Python
+:Language:      bepasty
 :License:       BSD-2-Clause
 :Topic:         Pastebins
 :Category:      

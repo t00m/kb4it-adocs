@@ -1,7 +1,7 @@
 = Rudder
 
 :Name:          Rudder
-:Language:      Go
+:Language:      Rudder
 :License:       SSPL-1.0
 :Topic:         Analytics
 :Category:      

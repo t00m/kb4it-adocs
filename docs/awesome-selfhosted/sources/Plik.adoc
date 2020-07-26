@@ -1,7 +1,7 @@
 = Plik
 
 :Name:          Plik
-:Language:      Go
+:Language:      Plik
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

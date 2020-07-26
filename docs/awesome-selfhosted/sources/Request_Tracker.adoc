@@ -1,7 +1,7 @@
 = Request Tracker
 
 :Name:          Request Tracker
-:Language:      Perl
+:Language:      Request Tracker
 :License:       GPL-2.0
 :Topic:         Ticketing
 :Category:      

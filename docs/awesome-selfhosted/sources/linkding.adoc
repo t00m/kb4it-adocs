@@ -1,7 +1,7 @@
 = linkding
 
 :Name:          linkding
-:Language:      Docker/Python/Nodejs
+:Language:      linkding
 :License:       MIT
 :Topic:         Bookmarks and Link Sharing
 :Category:      

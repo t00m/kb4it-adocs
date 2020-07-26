@@ -1,7 +1,7 @@
 = OpenConferenceWare
 
 :Name:          OpenConferenceWare
-:Language:      Ruby
+:Language:      OpenConferenceWare
 :License:       MIT
 :Topic:         Conference Management
 :Category:      

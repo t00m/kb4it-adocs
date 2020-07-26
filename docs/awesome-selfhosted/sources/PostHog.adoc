@@ -1,7 +1,7 @@
 = PostHog
 
 :Name:          PostHog
-:Language:      Python
+:Language:      PostHog
 :License:       MIT
 :Topic:         Analytics
 :Category:      

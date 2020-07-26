@@ -1,7 +1,7 @@
 = Mailu
 
 :Name:          Mailu
-:Language:      Docker/Python
+:Language:      Mailu
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Email

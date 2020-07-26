@@ -1,7 +1,7 @@
 = PhotoLight
 
 :Name:          PhotoLight
-:Language:      PHP
+:Language:      PhotoLight
 :License:       GPL-3.0
 :Topic:         Photo and Video Galleries
 :Category:      

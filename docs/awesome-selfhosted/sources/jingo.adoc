@@ -1,7 +1,7 @@
 = jingo
 
 :Name:          jingo
-:Language:      Nodejs
+:Language:      jingo
 :License:       MIT
 :Topic:         Wikis
 :Category:      

@@ -1,7 +1,7 @@
 = DOCAT
 
 :Name:          DOCAT
-:Language:      Python/docker
+:Language:      DOCAT
 :License:       MIT
 :Topic:         Document Management
 :Category:      

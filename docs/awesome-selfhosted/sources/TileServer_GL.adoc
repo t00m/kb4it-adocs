@@ -1,7 +1,7 @@
 = TileServer GL
 
 :Name:          TileServer GL
-:Language:      Nodejs
+:Language:      TileServer GL
 :License:       BSD-2-Clause
 :Topic:         Maps and Global Positioning System (GPS)
 :Category:      

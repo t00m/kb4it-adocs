@@ -1,7 +1,7 @@
 = Metronome IM
 
 :Name:          Metronome IM
-:Language:      Lua
+:Language:      Metronome IM
 :License:       MIT
 :Topic:         Communication systems
 :Category:      XMPP

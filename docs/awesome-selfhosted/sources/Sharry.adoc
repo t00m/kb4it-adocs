@@ -1,7 +1,7 @@
 = Sharry
 
 :Name:          Sharry
-:Language:      Scala/Java
+:Language:      Sharry
 :License:       GPL-3.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

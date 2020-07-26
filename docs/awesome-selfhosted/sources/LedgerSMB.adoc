@@ -1,7 +1,7 @@
 = LedgerSMB
 
 :Name:          LedgerSMB
-:Language:      Perl
+:Language:      LedgerSMB
 :License:       GPL-2.0
 :Topic:         Resource Planning
 :Category:      Enterprise Resource Planning

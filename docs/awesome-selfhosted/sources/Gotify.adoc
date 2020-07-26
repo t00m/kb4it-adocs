@@ -1,7 +1,7 @@
 = Gotify
 
 :Name:          Gotify
-:Language:      Go
+:Language:      Gotify
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Custom communication systems

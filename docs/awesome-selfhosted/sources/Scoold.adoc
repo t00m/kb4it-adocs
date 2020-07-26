@@ -1,7 +1,7 @@
 = Scoold
 
 :Name:          Scoold
-:Language:      Java
+:Language:      Scoold
 :License:       Apache-2.0
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

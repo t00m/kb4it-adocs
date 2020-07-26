@@ -1,7 +1,7 @@
 = Restreamer
 
 :Name:          Restreamer
-:Language:      Nodejs/Docker
+:Language:      Restreamer
 :License:       Apache-2.0
 :Topic:         Media Streaming
 :Category:      Video Streaming

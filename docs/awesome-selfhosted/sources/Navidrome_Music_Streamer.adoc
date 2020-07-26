@@ -1,7 +1,7 @@
 = Navidrome Music Streamer
 
 :Name:          Navidrome Music Streamer
-:Language:      Go/JavaScript
+:Language:      Navidrome Music Streamer
 :License:       GPL-3.0
 :Topic:         Media Streaming
 :Category:      Audio Streaming
@@ -17,4 +17,4 @@ Modern Music Server and Streamer, compatible with Subsonic/Airsonic.
 
 * Website: https://www.navidrome.org[Navidrome Music Streamer]
 * Source code: https://github.com/deluan/navidrome), [Clients](https://www.navidrome.org/docs/overview/#apps[https://github.com/deluan/navidrome), [Clients](https://www.navidrome.org/docs/overview/#apps]
-* Demo: []
+* Demo: https://www.navidrome.org/demo[https://www.navidrome.org/demo]

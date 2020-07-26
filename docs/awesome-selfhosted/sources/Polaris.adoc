@@ -1,7 +1,7 @@
 = Polaris
 
 :Name:          Polaris
-:Language:      Rust
+:Language:      Polaris
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Audio Streaming

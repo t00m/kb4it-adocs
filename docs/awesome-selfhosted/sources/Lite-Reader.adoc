@@ -1,7 +1,7 @@
 = Lite-Reader
 
 :Name:          Lite-Reader
-:Language:      PHP
+:Language:      Lite-Reader
 :License:       BSD-3-Clause
 :Topic:         Feed Readers
 :Category:      

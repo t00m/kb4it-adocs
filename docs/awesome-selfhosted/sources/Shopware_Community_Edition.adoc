@@ -1,8 +1,8 @@
 = Shopware Community Edition
 
 :Name:          Shopware Community Edition
-:Language:      PHP
-:License:       AGPL-3.0
+:Language:      Shopware Community Edition
+:License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce
 :Subcategory:   
@@ -16,5 +16,5 @@ PHP based open source e-commerce software made in Germany.
 == References
 
 * Website: https://shopware.com/community/[Shopware Community Edition]
-* Source code: https://github.com/shopware/shopware[https://github.com/shopware/shopware]
+* Source code: https://github.com/shopware/platform[https://github.com/shopware/platform]
 * Demo: https://www.shopware.com/en/test-demo/[https://www.shopware.com/en/test-demo/]

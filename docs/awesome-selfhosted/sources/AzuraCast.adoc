@@ -1,7 +1,7 @@
 = AzuraCast
 
 :Name:          AzuraCast
-:Language:      PHP
+:Language:      AzuraCast
 :License:       Apache-2.0
 :Topic:         Media Streaming
 :Category:      Audio Streaming

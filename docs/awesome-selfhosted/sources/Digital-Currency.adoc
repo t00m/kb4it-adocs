@@ -1,7 +1,7 @@
 = Digital-Currency
 
 :Name:          Digital-Currency
-:Language:      Nodejs
+:Language:      Digital-Currency
 :License:       GPL-3.0
 :Topic:         Misc/Other
 :Category:      

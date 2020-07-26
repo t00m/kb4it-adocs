@@ -1,7 +1,7 @@
 = Tracks
 
 :Name:          Tracks
-:Language:      Ruby
+:Language:      Tracks
 :License:       GPL-2.0
 :Topic:         Task management/To-do lists
 :Category:      

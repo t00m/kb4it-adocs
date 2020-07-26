@@ -1,7 +1,7 @@
 = Flox
 
 :Name:          Flox
-:Language:      PHP
+:Language:      Flox
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

@@ -1,7 +1,7 @@
 = CouchPotato
 
 :Name:          CouchPotato
-:Language:      Python
+:Language:      CouchPotato
 :License:       GPL-3.0
 :Topic:         Automation
 :Category:      
