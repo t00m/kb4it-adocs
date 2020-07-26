@@ -1,0 +1,20 @@
+= Trusted-CGI
+
+:Name:          Trusted-CGI
+:Language:      Trusted-CGI
+:License:       MIT
+:Topic:         Software Development
+:Category:      FaaS/Serverless
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Lightweight self-hosted lambda/applications/cgi/serverless-functions platform
+
+== References
+
+* Website: https://github.com/reddec/trusted-cgi[Trusted-CGI]
+* Source code: []
+* Demo: []

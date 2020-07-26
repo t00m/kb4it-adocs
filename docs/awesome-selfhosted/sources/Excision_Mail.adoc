@@ -1,0 +1,20 @@
+= Excision Mail
+
+:Name:          Excision Mail
+:Language:      Excision Mail
+:License:       ISC
+:Topic:         Communication systems
+:Category:      Email
+:Subcategory:   Complete solutions
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible.
+
+== References
+
+* Website: https://excision.bsd.ac[Excision Mail]
+* Source code: https://github.com/Excision-Mail/Excision-Mail[https://github.com/Excision-Mail/Excision-Mail]
+* Demo: []

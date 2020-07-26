@@ -1,0 +1,20 @@
+= Zim
+
+:Name:          Zim
+:Language:      Zim
+:License:       GPL-2.0
+:Topic:         Wikis
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images.
+
+== References
+
+* Website: https://zim-wiki.org/[Zim]
+* Source code: []
+* Demo: []

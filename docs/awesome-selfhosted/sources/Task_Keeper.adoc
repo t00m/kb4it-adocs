@@ -1,0 +1,20 @@
+= Task Keeper
+
+:Name:          Task Keeper
+:Language:      Task Keeper
+:License:       Apache-2.0
+:Topic:         Task management/To-do lists
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+List editor for power users, backed by a self-hosted server
+
+== References
+
+* Website: https://github.com/nymanjens/piga[Task Keeper]
+* Source code: []
+* Demo: []

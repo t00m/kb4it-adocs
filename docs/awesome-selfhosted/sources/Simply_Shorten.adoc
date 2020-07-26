@@ -1,0 +1,20 @@
+= Simply Shorten
+
+:Name:          Simply Shorten
+:Language:      Simply Shorten
+:License:       MIT
+:Topic:         URL Shorteners
+:Category:      
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+A simple URL shortener that just shortens links
+
+== References
+
+* Website: https://github.com/draganczukp/simply-shorten[Simply Shorten]
+* Source code: []
+* Demo: []

@@ -1,0 +1,20 @@
+= moOde Audio
+
+:Name:          moOde Audio
+:Language:      moOde Audio
+:License:       GPL-3.0
+:Topic:         Media Streaming
+:Category:      Audio Streaming
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers.
+
+== References
+
+* Website: https://moodeaudio.org/[moOde Audio]
+* Source code: https://github.com/moode-player/moode[https://github.com/moode-player/moode]
+* Demo: []

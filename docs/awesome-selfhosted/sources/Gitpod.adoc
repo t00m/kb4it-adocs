@@ -1,0 +1,20 @@
+= Gitpod
+
+:Name:          Gitpod
+:Language:      Gitpod
+:License:       EPL-2.0
+:Topic:         Software Development
+:Category:      IDE/Tools
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+Online IDE for GitHub and GitLab
+
+== References
+
+* Website: https://gitpod.io/[Gitpod]
+* Source code: https://github.com/gitpod-io/self-hosted[https://github.com/gitpod-io/self-hosted]
+* Demo: https://gitpod.io/#https://github.com/awesome-selfhosted/awesome-selfhosted[https://gitpod.io/#https://github.com/awesome-selfhosted/awesome-selfhosted]

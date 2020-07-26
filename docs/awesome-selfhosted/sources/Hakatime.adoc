@@ -1,0 +1,20 @@
+= Hakatime
+
+:Name:          Hakatime
+:Language:      Hakatime
+:License:       Unlicense
+:Topic:         Software Development
+:Category:      IDE/Tools
+:Subcategory:   
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Description
+
+WakaTime server implementation with analytics dashboard
+
+== References
+
+* Website: https://github.com/mujx/hakatime[Hakatime]
+* Source code: []
+* Demo: []
