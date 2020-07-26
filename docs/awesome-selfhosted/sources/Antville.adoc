@@ -1,7 +1,7 @@
 = Antville
 
 :Name:          Antville
-:Language:      Javascript
+:Language:      Antville
 :License:       Apache-2.0
 :Topic:         Blogging Platforms
 :Category:      

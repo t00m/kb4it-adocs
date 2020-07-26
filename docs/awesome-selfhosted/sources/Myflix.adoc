@@ -1,7 +1,7 @@
 = Myflix
 
 :Name:          Myflix
-:Language:      Shell
+:Language:      Myflix
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Video Streaming

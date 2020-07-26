@@ -1,7 +1,7 @@
 = Bootcamp
 
 :Name:          Bootcamp
-:Language:      Python
+:Language:      Bootcamp
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

@@ -1,7 +1,7 @@
 = PeerTube
 
 :Name:          PeerTube
-:Language:      Nodejs
+:Language:      PeerTube
 :License:       AGPL-3.0
 :Topic:         Media Streaming
 :Category:      Video Streaming

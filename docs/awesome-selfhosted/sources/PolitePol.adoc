@@ -1,7 +1,7 @@
 = PolitePol
 
 :Name:          PolitePol
-:Language:      Python
+:Language:      PolitePol
 :License:       MIT
 :Topic:         Feed Readers
 :Category:      

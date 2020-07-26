@@ -1,7 +1,7 @@
 = Centrifugo
 
 :Name:          Centrifugo
-:Language:      Go
+:Language:      Centrifugo
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Custom communication systems

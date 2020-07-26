@@ -1,7 +1,7 @@
 = DSpace
 
 :Name:          DSpace
-:Language:      Java
+:Language:      DSpace
 :License:       BSD-3-Clause
 :Topic:         E-books and Integrated Library Systems (ILS)
 :Category:      

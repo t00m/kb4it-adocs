@@ -1,7 +1,7 @@
 = Feedbin
 
 :Name:          Feedbin
-:Language:      Ruby
+:Language:      Feedbin
 :License:       MIT
 :Topic:         Feed Readers
 :Category:      

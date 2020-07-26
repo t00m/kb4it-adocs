@@ -1,7 +1,7 @@
 = LibreTime
 
 :Name:          LibreTime
-:Language:      PHP
+:Language:      LibreTime
 :License:       AGPL-3.0
 :Topic:         Media Streaming
 :Category:      Audio Streaming

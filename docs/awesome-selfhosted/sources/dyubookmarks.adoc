@@ -1,7 +1,7 @@
 = dyu/bookmarks
 
 :Name:          dyu/bookmarks
-:Language:      Java
+:Language:      dyu/bookmarks
 :License:       Apache-2.0
 :Topic:         Bookmarks and Link Sharing
 :Category:      

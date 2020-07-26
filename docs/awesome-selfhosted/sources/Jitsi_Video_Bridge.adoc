@@ -1,7 +1,7 @@
 = Jitsi Video Bridge
 
 :Name:          Jitsi Video Bridge
-:Language:      Java
+:Language:      Jitsi Video Bridge
 :License:       Apache-2.0
 :Topic:         Communication systems
 :Category:      Custom communication systems

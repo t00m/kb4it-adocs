@@ -1,7 +1,7 @@
 = Sakai
 
 :Name:          Sakai
-:Language:      Java
+:Language:      Sakai
 :License:       ECL-2.0
 :Topic:         Learning and Courses
 :Category:      

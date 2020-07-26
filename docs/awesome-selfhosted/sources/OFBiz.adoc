@@ -1,7 +1,7 @@
 = OFBiz
 
 :Name:          OFBiz
-:Language:      Java
+:Language:      OFBiz
 :License:       Apache-2.0
 :Topic:         Resource Planning
 :Category:      Enterprise Resource Planning

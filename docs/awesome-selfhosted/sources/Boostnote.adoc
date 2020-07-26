@@ -1,7 +1,7 @@
 = Boostnote
 
 :Name:          Boostnote
-:Language:      JavaScript
+:Language:      Boostnote
 :License:       GPL-3.0
 :Topic:         Note-taking and Editors
 :Category:      

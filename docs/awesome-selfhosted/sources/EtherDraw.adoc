@@ -1,7 +1,7 @@
 = EtherDraw
 
 :Name:          EtherDraw
-:Language:      Nodejs
+:Language:      EtherDraw
 :License:       Apache-2.0
 :Topic:         Office Suites
 :Category:      

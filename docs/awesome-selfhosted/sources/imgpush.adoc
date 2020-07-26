@@ -1,7 +1,7 @@
 = imgpush
 
 :Name:          imgpush
-:Language:      Python
+:Language:      imgpush
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

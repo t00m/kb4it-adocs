@@ -1,7 +1,7 @@
 = JSXC
 
 :Name:          JSXC
-:Language:      Javascript
+:Language:      JSXC
 :License:       MIT
 :Topic:         Communication systems
 :Category:      XMPP

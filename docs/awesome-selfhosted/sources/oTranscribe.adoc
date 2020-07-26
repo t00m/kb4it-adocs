@@ -1,7 +1,7 @@
 = oTranscribe
 
 :Name:          oTranscribe
-:Language:      JavaScript
+:Language:      oTranscribe
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

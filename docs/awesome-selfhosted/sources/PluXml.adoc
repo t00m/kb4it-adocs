@@ -1,7 +1,7 @@
 = PluXml
 
 :Name:          PluXml
-:Language:      PHP
+:Language:      PluXml
 :License:       GPL-1.0
 :Topic:         Blogging Platforms
 :Category:      

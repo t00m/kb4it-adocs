@@ -1,7 +1,7 @@
 = OpenNote
 
 :Name:          OpenNote
-:Language:      HTML5
+:Language:      OpenNote
 :License:       MIT
 :Topic:         Note-taking and Editors
 :Category:      

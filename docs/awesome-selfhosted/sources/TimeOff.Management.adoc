@@ -1,7 +1,7 @@
 = TimeOff.Management
 
 :Name:          TimeOff.Management
-:Language:      Nodejs
+:Language:      TimeOff.Management
 :License:       MIT
 :Topic:         Human Resources Management (HRM)
 :Category:      

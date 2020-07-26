@@ -1,7 +1,7 @@
 = Oranjeproxy
 
 :Name:          Oranjeproxy
-:Language:      PHP
+:Language:      Oranjeproxy
 :License:       GPL-2.0
 :Topic:         Proxy
 :Category:      

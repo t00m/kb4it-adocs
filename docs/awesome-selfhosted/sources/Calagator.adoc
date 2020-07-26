@@ -1,7 +1,7 @@
 = Calagator
 
 :Name:          Calagator
-:Language:      Ruby
+:Language:      Calagator
 :License:       MIT
 :Topic:         Polls and Events
 :Category:      

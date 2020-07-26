@@ -1,7 +1,7 @@
 = Seafile
 
 :Name:          Seafile
-:Language:      C
+:Language:      Seafile
 :License:       GPL-2.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

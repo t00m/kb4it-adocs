@@ -1,7 +1,7 @@
 = betanin
 
 :Name:          betanin
-:Language:      Python
+:Language:      betanin
 :License:       GPL-3.0
 :Topic:         Automation
 :Category:      

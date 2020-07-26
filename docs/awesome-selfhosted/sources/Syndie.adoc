@@ -1,7 +1,7 @@
 = Syndie
 
 :Name:          Syndie
-:Language:      Java
+:Language:      Syndie
 :License:       CC0-1.0
 :Topic:         Communication systems
 :Category:      Custom communication systems

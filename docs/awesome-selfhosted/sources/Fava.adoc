@@ -1,7 +1,7 @@
 = Fava
 
 :Name:          Fava
-:Language:      Python
+:Language:      Fava
 :License:       MIT
 :Topic:         Money, Budgeting and Management
 :Category:      

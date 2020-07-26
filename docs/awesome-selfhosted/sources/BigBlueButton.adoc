@@ -1,7 +1,7 @@
 = BigBlueButton
 
 :Name:          BigBlueButton
-:Language:      Java
+:Language:      BigBlueButton
 :License:       LGPL-3.0
 :Topic:         Conference Management
 :Category:      

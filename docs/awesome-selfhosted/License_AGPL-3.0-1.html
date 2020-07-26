@@ -80,21 +80,33 @@
 <div class="uk-container uk-container-center">
         <!-- PAGINATION_HEAD.tpl :: START -->
         <!-- PAGINATION :: START -->
-<ul class="uk-pagination uk-flex-center" uk-margin>
+        <ul class="uk-pagination uk-flex-center" uk-margin>
+            <li class="uk-active">
+    <span uk-tooltip="Page 0: 0-15/126}">0</span>
+</li>
 
-<li uk-tooltip="Page 0: 0-15/126"><a href="License_AGPL-3.0.html"><span>0</span></a></li>
-<li class="uk-active"><span uk-tooltip="Page 1: 15-30/126">1</span></li>
+<li uk-tooltip="Page 15: 30-1/126"><a href="License_AGPL-3.0-1.html"><span>1</span></a></li>
+<li uk-tooltip="Page 30: 45-2/126"><a href="License_AGPL-3.0-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 45: 60-3/126"><a href="License_AGPL-3.0-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 60: 75-4/126"><a href="License_AGPL-3.0-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 75: 90-5/126"><a href="License_AGPL-3.0-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 90: 105-6/126"><a href="License_AGPL-3.0-6.html"><span>6</span></a></li>
+<li uk-tooltip="Page 105: 120-7/126"><a href="License_AGPL-3.0-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 120: 135-8/126"><a href="License_AGPL-3.0-8.html"><span>8</span></a></li>
+<li uk-tooltip="Page 0: 15-0/126"><a href="License_AGPL-3.0.html"><span>0</span></a></li>
+<li class="uk-active">
+    <span uk-tooltip="Page 1: 15-30/126}">1</span>
+</li>
 
-<li uk-tooltip="Page 2: 30-45/126"><a href="License_AGPL-3.0-2.html"><span>2</span></a></li>
-<li uk-tooltip="Page 3: 45-60/126"><a href="License_AGPL-3.0-3.html"><span>3</span></a></li>
-<li uk-tooltip="Page 4: 60-75/126"><a href="License_AGPL-3.0-4.html"><span>4</span></a></li>
-<li uk-tooltip="Page 5: 75-90/126"><a href="License_AGPL-3.0-5.html"><span>5</span></a></li>
-<li uk-tooltip="Page 6: 90-105/126"><a href="License_AGPL-3.0-6.html"><span>6</span></a></li>
-<li uk-tooltip="Page 7: 105-120/126"><a href="License_AGPL-3.0-7.html"><span>7</span></a></li>
-<li uk-tooltip="Page 8: 120-135/126"><a href="License_AGPL-3.0-8.html"><span>8</span></a></li>
-</ul>
+<li uk-tooltip="Page 30: 45-2/126"><a href="License_AGPL-3.0-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 45: 60-3/126"><a href="License_AGPL-3.0-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 60: 75-4/126"><a href="License_AGPL-3.0-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 75: 90-5/126"><a href="License_AGPL-3.0-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 90: 105-6/126"><a href="License_AGPL-3.0-6.html"><span>6</span></a></li>
+<li uk-tooltip="Page 105: 120-7/126"><a href="License_AGPL-3.0-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 120: 135-8/126"><a href="License_AGPL-3.0-8.html"><span>8</span></a></li>
 
-
+        </ul>
         <!-- PAGINATION :: END -->
         <div uk-filter="target: .js-filter">
             <!-- Search entry :: Start -->
@@ -105,301 +117,299 @@
             <!-- Search entry :: End -->
             <!-- Filtered rows :: Start -->
             <ul class="js-filter uk-child-width-1-3@m" uk-grid>
-            <li data-title="Countly">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Countly"><a class="uk-link-heading uk-text-meta" href="Countly.html"><span class="">Countly</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
+                            <li data-title="Countly">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Countly">
+                                    <a class="uk-link-heading uk-text-meta" href="Countly.html">Countly</a>
+
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Real time mobile and web analytics, crash reporting and push notifications platform.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Real time mobile and web analytics, crash reporting and push notifications platform.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="CryptPad">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="CryptPad">
+                                    <a class="uk-link-heading uk-text-meta" href="CryptPad.html">CryptPad</a>
 
-            </li>            <li data-title="CryptPad">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="CryptPad"><a class="uk-link-heading uk-text-meta" href="CryptPad.html"><span class="">CryptPad</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">CryptPad is the zero knowledge realtime collaborative editor</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    CryptPad is the zero knowledge realtime collaborative editor
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="diaspora">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="diaspora*">
+                                    <a class="uk-link-heading uk-text-meta" href="diaspora.html">diaspora*</a>
 
-            </li>            <li data-title="diaspora">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="diaspora*"><a class="uk-link-heading uk-text-meta" href="diaspora.html"><span class="">diaspora*</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Distributed social networking server.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Distributed social networking server.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Dnote">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Dnote">
+                                    <a class="uk-link-heading uk-text-meta" href="Dnote.html">Dnote</a>
 
-            </li>            <li data-title="Dnote">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Dnote"><a class="uk-link-heading uk-text-meta" href="Dnote.html"><span class="">Dnote</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">A simple command line notebook with multi-device sync and web interface.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    A simple command line notebook with multi-device sync and web interface.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Documize">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Documize">
+                                    <a class="uk-link-heading uk-text-meta" href="Documize.html">Documize</a>
 
-            </li>            <li data-title="Documize">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Documize"><a class="uk-link-heading uk-text-meta" href="Documize.html"><span class="">Documize</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="dudle">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="dudle">
+                                    <a class="uk-link-heading uk-text-meta" href="dudle.html">dudle</a>
 
-            </li>            <li data-title="dudle">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="dudle"><a class="uk-link-heading uk-text-meta" href="dudle.html"><span class="">dudle</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Online scheduling application.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Online scheduling application.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="edX">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="edX">
+                                    <a class="uk-link-heading uk-text-meta" href="edX.html">edX</a>
 
-            </li>            <li data-title="edX">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="edX"><a class="uk-link-heading uk-text-meta" href="edX.html"><span class="">edX</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">The Open edX platform is open-source code that powers edX.org.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    The Open edX platform is open-source code that powers edX.org.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="eLabFTW">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="eLabFTW">
+                                    <a class="uk-link-heading uk-text-meta" href="eLabFTW.html">eLabFTW</a>
 
-            </li>            <li data-title="eLabFTW">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="eLabFTW"><a class="uk-link-heading uk-text-meta" href="eLabFTW.html"><span class="">eLabFTW</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Online lab notebook for research labs. Store experiments, use a database to find reagents or protocols, use trusted timestamping to legally timestamp an experiment, export as pdf or zip archive, share with collaborators….</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Online lab notebook for research labs. Store experiments, use a database to find reagents or protocols, use trusted timestamping to legally timestamp an experiment, export as pdf or zip archive, share with collaborators….
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="elixire">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="elixire">
+                                    <a class="uk-link-heading uk-text-meta" href="elixire.html">elixire</a>
 
-            </li>            <li data-title="elixire">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="elixire"><a class="uk-link-heading uk-text-meta" href="elixire.html"><span class="">elixire</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Simple yet advanced screenshot uploading and link shortening service.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Simple yet advanced screenshot uploading and link shortening service.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Espial">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Espial">
+                                    <a class="uk-link-heading uk-text-meta" href="Espial.html">Espial</a>
 
-            </li>            <li data-title="Espial">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Espial"><a class="uk-link-heading uk-text-meta" href="Espial.html"><span class="">Espial</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">An open-source, web-based bookmarking server</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    An open-source, web-based bookmarking server
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="EteSync_Server">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="EteSync Server">
+                                    <a class="uk-link-heading uk-text-meta" href="EteSync_Server.html">EteSync Server</a>
 
-            </li>            <li data-title="EteSync_Server">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="EteSync Server"><a class="uk-link-heading uk-text-meta" href="EteSync_Server.html"><span class="">EteSync Server</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="EteSync_Web">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="EteSync Web">
+                                    <a class="uk-link-heading uk-text-meta" href="EteSync_Web.html">EteSync Web</a>
 
-            </li>            <li data-title="EteSync_Web">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="EteSync Web"><a class="uk-link-heading uk-text-meta" href="EteSync_Web.html"><span class="">EteSync Web</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">EteSync's official Web-based client</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    EteSync's official Web-based client
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Feedka">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Feedka">
+                                    <a class="uk-link-heading uk-text-meta" href="Feedka.html">Feedka</a>
 
-            </li>            <li data-title="Filestash">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Filestash"><a class="uk-link-heading uk-text-meta" href="Filestash.html"><span class="">Filestash</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive .</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Filestash">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Filestash">
+                                    <a class="uk-link-heading uk-text-meta" href="Filestash.html">Filestash</a>
 
-            </li>            <li data-title="Firefly_III">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Firefly III"><a class="uk-link-heading uk-text-meta" href="Firefly_III.html"><span class="">Firefly III</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small">Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. It's powered by Laravel and requires PHP7.3.</p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive .
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Firefly_III">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Firefly III">
+                                    <a class="uk-link-heading uk-text-meta" href="Firefly_III.html">Firefly III</a>
 
-            </li>            <li data-title="formspree">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-small uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="formspree"><a class="uk-link-heading uk-text-meta" href="formspree.html"><span class="">formspree</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                <div class="uk-width-expand">
-                                    <p class="uk-text-meta uk-padding-small"></p>
-                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks.
+                                </p>
                             </div>
                         </div>
-                        <!-- DOC_CARD.tpl :: END -->
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
 
-            </li>
             </ul> <!-- Filtered rows :: End -->
         </div>
         <!-- PAGINATION_HEAD.tpl :: END -->            <!-- FOOTER :: START -->
             <div class="uk-flex uk-flex-center uk-flex-wrap">
-<!--
                 <div class="uk-card uk-card-body">
-                    <span class="uk-text-meta">Last update on Sat, May 23, 2020 at 11:27</span>
+                    <span class="uk-text-meta">Last update on Sun, Jul 26, 2020 at 22:16</span>
                 </div>
--->
             </div>
             <!-- FOOTER :: END -->
         </div>

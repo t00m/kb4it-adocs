@@ -1,7 +1,7 @@
 = TaskBoard
 
 :Name:          TaskBoard
-:Language:      PHP
+:Language:      TaskBoard
 :License:       MIT
 :Topic:         Task management/To-do lists
 :Category:      

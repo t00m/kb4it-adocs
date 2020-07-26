@@ -1,7 +1,7 @@
 = Open Food Network
 
 :Name:          Open Food Network
-:Language:      Ruby
+:Language:      Open Food Network
 :License:       AGPL-3.0
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

@@ -1,7 +1,7 @@
 = gitbucket
 
 :Name:          gitbucket
-:Language:      Scala/Java
+:Language:      gitbucket
 :License:       Apache-2.0
 :Topic:         Software Development
 :Category:      Project Management

@@ -1,7 +1,7 @@
 = unmark
 
 :Name:          unmark
-:Language:      PHP
+:Language:      unmark
 :License:       MIT
 :Topic:         Bookmarks and Link Sharing
 :Category:      

@@ -1,7 +1,7 @@
 = TWiki
 
 :Name:          TWiki
-:Language:      Perl
+:Language:      TWiki
 :License:       GPL-1.0
 :Topic:         Wikis
 :Category:      

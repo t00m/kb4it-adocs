@@ -1,7 +1,7 @@
 = PHP Task/Todo list
 
 :Name:          PHP Task/Todo list
-:Language:      PHP
+:Language:      PHP Task/Todo list
 :License:       MIT
 :Topic:         Task management/To-do lists
 :Category:      

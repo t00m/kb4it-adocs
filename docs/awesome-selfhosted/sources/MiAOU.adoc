@@ -1,7 +1,7 @@
 = MiAOU
 
 :Name:          MiAOU
-:Language:      Nodejs
+:Language:      MiAOU
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Custom communication systems
@@ -15,6 +15,6 @@ Multi-room persistent chat server.
 
 == References
 
-* Website: https://dystroy.org/miaou/login[MiAOU]
+* Website: https://miaou.dystroy.org/login[MiAOU]
 * Source code: https://github.com/Canop/miaou[https://github.com/Canop/miaou]
 * Demo: []

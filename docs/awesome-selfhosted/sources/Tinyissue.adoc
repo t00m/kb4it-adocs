@@ -1,7 +1,7 @@
 = Tinyissue
 
 :Name:          Tinyissue
-:Language:      PHP
+:Language:      Tinyissue
 :License:       MIT
 :Topic:         Task management/To-do lists
 :Category:      

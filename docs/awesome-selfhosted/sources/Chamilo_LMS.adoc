@@ -1,7 +1,7 @@
 = Chamilo LMS
 
 :Name:          Chamilo LMS
-:Language:      PHP
+:Language:      Chamilo LMS
 :License:       GPL-3.0
 :Topic:         Learning and Courses
 :Category:      

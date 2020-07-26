@@ -1,7 +1,7 @@
 = Traccar
 
 :Name:          Traccar
-:Language:      Java
+:Language:      Traccar
 :License:       Apache-2.0
 :Topic:         Maps and Global Positioning System (GPS)
 :Category:      

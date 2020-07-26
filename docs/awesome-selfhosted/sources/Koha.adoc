@@ -1,7 +1,7 @@
 = Koha
 
 :Name:          Koha
-:Language:      Perl
+:Language:      Koha
 :License:       GPL-3.0
 :Topic:         E-books and Integrated Library Systems (ILS)
 :Category:      

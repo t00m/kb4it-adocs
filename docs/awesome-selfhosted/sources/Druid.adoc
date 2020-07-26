@@ -1,7 +1,7 @@
 = Druid
 
 :Name:          Druid
-:Language:      Java
+:Language:      Druid
 :License:       Apache-2.0
 :Topic:         Analytics
 :Category:      

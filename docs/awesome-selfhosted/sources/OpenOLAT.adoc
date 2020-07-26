@@ -1,7 +1,7 @@
 = OpenOLAT
 
 :Name:          OpenOLAT
-:Language:      Java
+:Language:      OpenOLAT
 :License:       Apache-2.0
 :Topic:         Learning and Courses
 :Category:      

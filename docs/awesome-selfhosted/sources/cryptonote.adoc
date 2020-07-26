@@ -1,7 +1,7 @@
 = cryptonote
 
 :Name:          cryptonote
-:Language:      Ruby
+:Language:      cryptonote
 :License:       MIT
 :Topic:         Pastebins
 :Category:      

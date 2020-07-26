@@ -1,7 +1,7 @@
 = Fossil
 
 :Name:          Fossil
-:Language:      C
+:Language:      Fossil
 :License:       BSD-2-Clause-FreeBSD
 :Topic:         Software Development
 :Category:      Project Management

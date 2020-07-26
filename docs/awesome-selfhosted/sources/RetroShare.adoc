@@ -1,7 +1,7 @@
 = RetroShare
 
 :Name:          RetroShare
-:Language:      С++
+:Language:      RetroShare
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      Custom communication systems

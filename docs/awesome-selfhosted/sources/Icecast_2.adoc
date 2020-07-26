@@ -1,7 +1,7 @@
 = Icecast 2
 
 :Name:          Icecast 2
-:Language:      C
+:Language:      Icecast 2
 :License:       GPL-2.0
 :Topic:         Media Streaming
 :Category:      Multimedia Streaming
@@ -16,5 +16,5 @@ streaming audio/video server which can be used to create an Internet radio stati
 == References
 
 * Website: http://www.icecast.org/[Icecast 2]
-* Source code: https://git.xiph.org/?p=icecast-server.git;a=summary), [Clients](http://www.icecast.org/apps/[https://git.xiph.org/?p=icecast-server.git;a=summary), [Clients](http://www.icecast.org/apps/]
+* Source code: https://gitlab.xiph.org/xiph/icecast-server), [Clients](http://www.icecast.org/apps/[https://gitlab.xiph.org/xiph/icecast-server), [Clients](http://www.icecast.org/apps/]
 * Demo: []

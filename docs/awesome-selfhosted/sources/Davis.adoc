@@ -1,7 +1,7 @@
 = Davis
 
 :Name:          Davis
-:Language:      PHP
+:Language:      Davis
 :License:       MIT
 :Topic:         Calendaring and Contacts Management
 :Category:      

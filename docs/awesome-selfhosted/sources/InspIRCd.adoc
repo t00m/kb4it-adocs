@@ -1,7 +1,7 @@
 = InspIRCd
 
 :Name:          InspIRCd
-:Language:      C++
+:Language:      InspIRCd
 :License:       GFDL-1.2-only
 :Topic:         Communication systems
 :Category:      IRC

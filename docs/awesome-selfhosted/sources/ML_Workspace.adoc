@@ -1,7 +1,7 @@
 = ML Workspace
 
 :Name:          ML Workspace
-:Language:      Docker
+:Language:      ML Workspace
 :License:       Apache-2.0
 :Topic:         Software Development
 :Category:      IDE/Tools

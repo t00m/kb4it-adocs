@@ -1,7 +1,7 @@
 = Open Web Analytics
 
 :Name:          Open Web Analytics
-:Language:      PHP
+:Language:      Open Web Analytics
 :License:       GPL-2.0
 :Topic:         Analytics
 :Category:      

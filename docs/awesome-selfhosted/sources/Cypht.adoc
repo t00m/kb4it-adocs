@@ -1,7 +1,7 @@
 = Cypht
 
 :Name:          Cypht
-:Language:      PHP
+:Language:      Cypht
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      Email

@@ -1,7 +1,7 @@
 = Wallabag
 
 :Name:          Wallabag
-:Language:      PHP
+:Language:      Wallabag
 :License:       MIT
 :Topic:         Read it Later Lists
 :Category:      

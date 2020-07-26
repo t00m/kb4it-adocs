@@ -1,7 +1,7 @@
 = grocy
 
 :Name:          grocy
-:Language:      PHP
+:Language:      grocy
 :License:       MIT
 :Topic:         Resource Planning
 :Category:      

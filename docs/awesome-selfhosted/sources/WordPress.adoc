@@ -1,7 +1,7 @@
 = WordPress
 
 :Name:          WordPress
-:Language:      PHP
+:Language:      WordPress
 :License:       GPL-2.0
 :Topic:         Content Management Systems (CMS)
 :Category:      

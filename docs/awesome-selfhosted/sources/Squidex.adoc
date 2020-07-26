@@ -1,7 +1,7 @@
 = Squidex
 
 :Name:          Squidex
-:Language:      .NET
+:Language:      Squidex
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

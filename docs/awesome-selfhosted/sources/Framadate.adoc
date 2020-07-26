@@ -1,7 +1,7 @@
 = Framadate
 
 :Name:          Framadate
-:Language:      PHP
+:Language:      Framadate
 :License:       CECILL-B
 :Topic:         Polls and Events
 :Category:      

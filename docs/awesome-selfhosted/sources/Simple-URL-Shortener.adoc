@@ -1,7 +1,7 @@
 = Simple-URL-Shortener
 
 :Name:          Simple-URL-Shortener
-:Language:      PHP
+:Language:      Simple-URL-Shortener
 :License:       MIT
 :Topic:         URL Shorteners
 :Category:      

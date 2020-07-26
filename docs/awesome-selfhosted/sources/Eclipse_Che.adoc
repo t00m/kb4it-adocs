@@ -1,7 +1,7 @@
 = Eclipse Che
 
 :Name:          Eclipse Che
-:Language:      Docker/Java
+:Language:      Eclipse Che
 :License:       EPL-1.0
 :Topic:         Software Development
 :Category:      IDE/Tools

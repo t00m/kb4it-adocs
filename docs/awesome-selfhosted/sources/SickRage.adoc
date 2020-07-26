@@ -1,7 +1,7 @@
 = SickRage
 
 :Name:          SickRage
-:Language:      Python
+:Language:      SickRage
 :License:       GPL-3.0
 :Topic:         Automation
 :Category:      

@@ -1,7 +1,7 @@
 = CoreDNS
 
 :Name:          CoreDNS
-:Language:      Go
+:Language:      CoreDNS
 :License:       Apache-2.0
 :Topic:         DNS
 :Category:      

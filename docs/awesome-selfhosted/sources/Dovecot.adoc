@@ -1,7 +1,7 @@
 = Dovecot
 
 :Name:          Dovecot
-:Language:      C
+:Language:      Dovecot
 :License:       MIT/LGPL-2.1
 :Topic:         Communication systems
 :Category:      Email

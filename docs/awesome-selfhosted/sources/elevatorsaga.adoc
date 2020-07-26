@@ -1,7 +1,7 @@
 = elevatorsaga
 
 :Name:          elevatorsaga
-:Language:      Javascript
+:Language:      elevatorsaga
 :License:       MIT
 :Topic:         Games
 :Category:      

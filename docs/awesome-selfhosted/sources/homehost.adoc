@@ -1,7 +1,7 @@
 = homehost
 
 :Name:          homehost
-:Language:      Nodejs
+:Language:      homehost
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Multimedia Streaming

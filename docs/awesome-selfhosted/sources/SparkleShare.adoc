@@ -1,7 +1,7 @@
 = SparkleShare
 
 :Name:          SparkleShare
-:Language:      C#
+:Language:      SparkleShare
 :License:       GPL-3.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

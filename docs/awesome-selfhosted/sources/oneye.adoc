@@ -1,7 +1,7 @@
 = oneye
 
 :Name:          oneye
-:Language:      PHP
+:Language:      oneye
 :License:       AGPL-3.0
 :Topic:         Gateways and terminal sharing
 :Category:      

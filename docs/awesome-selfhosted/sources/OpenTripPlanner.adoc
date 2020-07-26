@@ -1,7 +1,7 @@
 = OpenTripPlanner
 
 :Name:          OpenTripPlanner
-:Language:      Java/JavaScript
+:Language:      OpenTripPlanner
 :License:       LGPL-3.0
 :Topic:         Maps and Global Positioning System (GPS)
 :Category:      

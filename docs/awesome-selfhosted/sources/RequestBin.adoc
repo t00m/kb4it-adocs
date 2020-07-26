@@ -1,7 +1,7 @@
 = RequestBin
 
 :Name:          RequestBin
-:Language:      python
+:Language:      RequestBin
 :License:       MIT
 :Topic:         Software Development
 :Category:      IDE/Tools

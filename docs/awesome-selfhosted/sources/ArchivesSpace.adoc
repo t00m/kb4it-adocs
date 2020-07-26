@@ -1,7 +1,7 @@
 = ArchivesSpace
 
 :Name:          ArchivesSpace
-:Language:      Ruby
+:Language:      ArchivesSpace
 :License:       ECL-2.0
 :Topic:         Archiving and Digital Preservation (DP)
 :Category:      

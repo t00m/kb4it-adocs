@@ -1,7 +1,7 @@
 = Sismics Reader
 
 :Name:          Sismics Reader
-:Language:      Java
+:Language:      Sismics Reader
 :License:       GPL-2.0
 :Topic:         Feed Readers
 :Category:      

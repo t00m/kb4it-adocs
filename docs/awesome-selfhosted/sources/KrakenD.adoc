@@ -1,7 +1,7 @@
 = KrakenD
 
 :Name:          KrakenD
-:Language:      Go
+:Language:      KrakenD
 :License:       Apache-2.0
 :Topic:         Software Development
 :Category:      API Management

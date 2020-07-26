@@ -1,7 +1,7 @@
 = RELATE
 
 :Name:          RELATE
-:Language:      Python
+:Language:      RELATE
 :License:       MIT
 :Topic:         Learning and Courses
 :Category:      

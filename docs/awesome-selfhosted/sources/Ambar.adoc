@@ -1,7 +1,7 @@
 = Ambar
 
 :Name:          Ambar
-:Language:      Nodejs/Python
+:Language:      Ambar
 :License:       MIT
 :Topic:         Search Engines
 :Category:      

@@ -1,7 +1,7 @@
 = Lets-Chat
 
 :Name:          Lets-Chat
-:Language:      Nodejs
+:Language:      Lets-Chat
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Custom communication systems

@@ -1,7 +1,7 @@
 = Re:Backlogs
 
 :Name:          Re:Backlogs
-:Language:      Ruby
+:Language:      Re:Backlogs
 :License:       MIT
 :Topic:         Software Development
 :Category:      Project Management

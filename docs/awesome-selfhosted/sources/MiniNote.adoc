@@ -1,7 +1,7 @@
 = MiniNote
 
 :Name:          MiniNote
-:Language:      Nodejs
+:Language:      MiniNote
 :License:       MIT
 :Topic:         Note-taking and Editors
 :Category:      

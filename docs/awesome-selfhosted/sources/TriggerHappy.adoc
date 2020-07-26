@@ -1,7 +1,7 @@
 = TriggerHappy
 
 :Name:          TriggerHappy
-:Language:      Python
+:Language:      TriggerHappy
 :License:       BSD-3-Clause
 :Topic:         Automation
 :Category:      

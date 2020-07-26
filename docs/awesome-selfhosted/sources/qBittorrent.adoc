@@ -1,7 +1,7 @@
 = qBittorrent
 
 :Name:          qBittorrent
-:Language:      C++
+:Language:      qBittorrent
 :License:       GPL-2.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

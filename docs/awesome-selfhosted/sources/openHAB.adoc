@@ -1,7 +1,7 @@
 = openHAB
 
 :Name:          openHAB
-:Language:      Java
+:Language:      openHAB
 :License:       EPL-1.0
 :Topic:         Internet Of Things (IoT)
 :Category:      

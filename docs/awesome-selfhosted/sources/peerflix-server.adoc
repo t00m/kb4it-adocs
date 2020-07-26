@@ -1,7 +1,7 @@
 = peerflix-server
 
 :Name:          peerflix-server
-:Language:      Nodejs
+:Language:      peerflix-server
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

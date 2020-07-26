@@ -1,7 +1,7 @@
 = Shuup
 
 :Name:          Shuup
-:Language:      Python
+:Language:      Shuup
 :License:       AGPL-3.0
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

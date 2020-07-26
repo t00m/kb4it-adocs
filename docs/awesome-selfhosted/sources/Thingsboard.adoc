@@ -1,7 +1,7 @@
 = Thingsboard
 
 :Name:          Thingsboard
-:Language:      Java
+:Language:      Thingsboard
 :License:       Apache-2.0
 :Topic:         Internet Of Things (IoT)
 :Category:      

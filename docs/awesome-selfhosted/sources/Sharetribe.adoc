@@ -1,7 +1,7 @@
 = Sharetribe
 
 :Name:          Sharetribe
-:Language:      Ruby
+:Language:      Sharetribe
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

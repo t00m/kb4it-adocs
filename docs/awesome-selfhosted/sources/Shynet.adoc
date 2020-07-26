@@ -1,7 +1,7 @@
 = Shynet
 
 :Name:          Shynet
-:Language:      Python
+:Language:      Shynet
 :License:       Apache-2.0
 :Topic:         Analytics
 :Category:      

@@ -1,7 +1,7 @@
 = MailHog
 
 :Name:          MailHog
-:Language:      Go
+:Language:      MailHog
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Email

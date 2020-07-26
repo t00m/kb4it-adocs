@@ -1,7 +1,7 @@
 = Strapi
 
 :Name:          Strapi
-:Language:      Nodejs
+:Language:      Strapi
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

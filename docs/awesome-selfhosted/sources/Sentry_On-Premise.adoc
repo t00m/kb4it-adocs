@@ -1,7 +1,7 @@
 = Sentry On-Premise
 
 :Name:          Sentry On-Premise
-:Language:      Python/Django
+:Language:      Sentry On-Premise
 :License:       BSD-3-Clause
 :Topic:         Ticketing
 :Category:      

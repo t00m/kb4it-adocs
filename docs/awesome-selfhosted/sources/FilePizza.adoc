@@ -1,7 +1,7 @@
 = FilePizza
 
 :Name:          FilePizza
-:Language:      Nodejs
+:Language:      FilePizza
 :License:       BSD-3-Clause
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

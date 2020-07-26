@@ -1,7 +1,7 @@
 = Postleaf
 
 :Name:          Postleaf
-:Language:      Nodejs
+:Language:      Postleaf
 :License:       MIT
 :Topic:         Blogging Platforms
 :Category:      

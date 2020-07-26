@@ -1,7 +1,7 @@
 = Archivematica
 
 :Name:          Archivematica
-:Language:      Python
+:Language:      Archivematica
 :License:       AGPL-3.0-only
 :Topic:         Archiving and Digital Preservation (DP)
 :Category:      

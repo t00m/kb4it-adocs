@@ -1,7 +1,7 @@
 = Pagekit
 
 :Name:          Pagekit
-:Language:      PHP
+:Language:      Pagekit
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

@@ -1,7 +1,7 @@
 = Rapidbay
 
 :Name:          Rapidbay
-:Language:      Python/Docker
+:Language:      Rapidbay
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Video Streaming

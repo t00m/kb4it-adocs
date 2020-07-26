@@ -1,7 +1,7 @@
 = The Lounge
 
 :Name:          The Lounge
-:Language:      Nodejs
+:Language:      The Lounge
 :License:       MIT
 :Topic:         Communication systems
 :Category:      IRC

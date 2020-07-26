@@ -1,7 +1,7 @@
 = Bagisto
 
 :Name:          Bagisto
-:Language:      PHP
+:Language:      Bagisto
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

@@ -1,7 +1,7 @@
 = URL-Shortener
 
 :Name:          URL-Shortener
-:Language:      PHP
+:Language:      URL-Shortener
 :License:       GPL-3.0
 :Topic:         URL Shorteners
 :Category:      

@@ -1,7 +1,7 @@
 = Corteza
 
 :Name:          Corteza
-:Language:      Go
+:Language:      Corteza
 :License:       Apache-2.0
 :Topic:         Groupware
 :Category:      

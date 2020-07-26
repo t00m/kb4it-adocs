@@ -1,7 +1,7 @@
 = Lstu
 
 :Name:          Lstu
-:Language:      Perl
+:Language:      Lstu
 :License:       WTFPL
 :Topic:         URL Shorteners
 :Category:      

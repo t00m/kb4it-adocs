@@ -1,7 +1,7 @@
 = Gladys
 
 :Name:          Gladys
-:Language:      Nodejs
+:Language:      Gladys
 :License:       MIT
 :Topic:         Internet Of Things (IoT)
 :Category:      

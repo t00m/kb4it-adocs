@@ -1,7 +1,7 @@
 = OwnTracks Recorder
 
 :Name:          OwnTracks Recorder
-:Language:      Lua
+:Language:      OwnTracks Recorder
 :License:       C
 :Topic:         Maps and Global Positioning System (GPS)
 :Category:      

@@ -1,7 +1,7 @@
 = GoAccess
 
 :Name:          GoAccess
-:Language:      C
+:Language:      GoAccess
 :License:       GPL-2.0
 :Topic:         Analytics
 :Category:      

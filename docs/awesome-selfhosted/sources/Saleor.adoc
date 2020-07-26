@@ -1,7 +1,7 @@
 = Saleor
 
 :Name:          Saleor
-:Language:      Python
+:Language:      Saleor
 :License:       BSD-3-Clause
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

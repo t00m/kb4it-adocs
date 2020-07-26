@@ -1,7 +1,7 @@
 = Gerbera
 
 :Name:          Gerbera
-:Language:      C++
+:Language:      Gerbera
 :License:       GPL-2.0
 :Topic:         Media Streaming
 :Category:      Multimedia Streaming

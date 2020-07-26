@@ -1,7 +1,7 @@
 = FreshRSS
 
 :Name:          FreshRSS
-:Language:      PHP
+:Language:      FreshRSS
 :License:       AGPL-3.0
 :Topic:         Feed Readers
 :Category:      

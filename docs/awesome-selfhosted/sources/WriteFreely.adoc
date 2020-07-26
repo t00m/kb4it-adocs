@@ -1,7 +1,7 @@
 = WriteFreely
 
 :Name:          WriteFreely
-:Language:      Go
+:Language:      WriteFreely
 :License:       AGPL-3.0
 :Topic:         Content Management Systems (CMS)
 :Category:      

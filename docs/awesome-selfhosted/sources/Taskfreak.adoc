@@ -1,7 +1,7 @@
 = Taskfreak
 
 :Name:          Taskfreak
-:Language:      PHP
+:Language:      Taskfreak
 :License:       GPL-3.0
 :Topic:         Task management/To-do lists
 :Category:      

@@ -1,7 +1,7 @@
 = Sentrifugo
 
 :Name:          Sentrifugo
-:Language:      PHP
+:Language:      Sentrifugo
 :License:       GPL-3.0
 :Topic:         Human Resources Management (HRM)
 :Category:      

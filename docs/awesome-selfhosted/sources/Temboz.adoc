@@ -1,7 +1,7 @@
 = Temboz
 
 :Name:          Temboz
-:Language:      Python
+:Language:      Temboz
 :License:       MIT
 :Topic:         Feed Readers
 :Category:      

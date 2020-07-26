@@ -1,7 +1,7 @@
 = Pomerium
 
 :Name:          Pomerium
-:Language:      Go
+:Language:      Pomerium
 :License:       Apache-2.0
 :Topic:         Proxy
 :Category:      

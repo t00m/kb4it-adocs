@@ -1,7 +1,7 @@
 = 1Backend
 
 :Name:          1Backend
-:Language:      Go
+:Language:      1Backend
 :License:       AGPL-3.0
 :Topic:         Self-hosting Solutions
 :Category:      

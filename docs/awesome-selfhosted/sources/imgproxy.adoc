@@ -1,7 +1,7 @@
 = imgproxy
 
 :Name:          imgproxy
-:Language:      Go/Docker
+:Language:      imgproxy
 :License:       MIT
 :Topic:         Proxy
 :Category:      

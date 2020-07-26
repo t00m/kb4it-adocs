@@ -1,7 +1,7 @@
 = Firefox Send
 
 :Name:          Firefox Send
-:Language:      Nodejs
+:Language:      Firefox Send
 :License:       MPL-2.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

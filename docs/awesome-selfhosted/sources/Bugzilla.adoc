@@ -1,7 +1,7 @@
 = Bugzilla
 
 :Name:          Bugzilla
-:Language:      Perl
+:Language:      Bugzilla
 :License:       MPL-2.0
 :Topic:         Ticketing
 :Category:      

@@ -1,7 +1,7 @@
 = simple-dash
 
 :Name:          simple-dash
-:Language:      Javascript
+:Language:      simple-dash
 :License:       MIT
 :Topic:         Personal Dashboards
 :Category:      

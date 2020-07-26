@@ -1,7 +1,7 @@
 = mpd
 
 :Name:          mpd
-:Language:      C++
+:Language:      mpd
 :License:       GPL-2.0
 :Topic:         Media Streaming
 :Category:      Audio Streaming

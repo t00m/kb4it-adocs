@@ -1,8 +1,8 @@
 = GoatCounter
 
 :Name:          GoatCounter
-:Language:      Go
-:License:       AGPL-3.0
+:Language:      GoatCounter
+:License:       EUPL-1.2
 :Topic:         Analytics
 :Category:      
 :Subcategory:   
@@ -11,7 +11,7 @@
 
 == Description
 
-Simple web statistics. No tracking of personal data.
+Easy web statistics. No tracking of personal data.
 
 == References
 

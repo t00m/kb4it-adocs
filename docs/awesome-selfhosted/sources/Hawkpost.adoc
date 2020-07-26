@@ -1,7 +1,7 @@
 = Hawkpost
 
 :Name:          Hawkpost
-:Language:      Python
+:Language:      Hawkpost
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Custom communication systems

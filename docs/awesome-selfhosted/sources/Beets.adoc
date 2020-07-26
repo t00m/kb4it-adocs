@@ -1,7 +1,7 @@
 = Beets
 
 :Name:          Beets
-:Language:      Python
+:Language:      Beets
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Audio Streaming

@@ -1,7 +1,7 @@
 = Backdrop CMS
 
 :Name:          Backdrop CMS
-:Language:      PHP
+:Language:      Backdrop CMS
 :License:       GPL-2.0
 :Topic:         Content Management Systems (CMS)
 :Category:      

@@ -1,7 +1,7 @@
 = Tuber
 
 :Name:          Tuber
-:Language:      Javascript
+:Language:      Tuber
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Custom communication systems

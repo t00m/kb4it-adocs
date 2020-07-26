@@ -1,7 +1,7 @@
 = DAViCal
 
 :Name:          DAViCal
-:Language:      PHP
+:Language:      DAViCal
 :License:       GPL-2.0
 :Topic:         Calendaring and Contacts Management
 :Category:      

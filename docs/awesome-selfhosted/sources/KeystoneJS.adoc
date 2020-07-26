@@ -1,7 +1,7 @@
 = KeystoneJS
 
 :Name:          KeystoneJS
-:Language:      Nodejs
+:Language:      KeystoneJS
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

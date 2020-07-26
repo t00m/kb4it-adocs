@@ -1,7 +1,7 @@
 = BTCPay Server
 
 :Name:          BTCPay Server
-:Language:      C#
+:Language:      BTCPay Server
 :License:       MIT
 :Topic:         Money, Budgeting and Management
 :Category:      

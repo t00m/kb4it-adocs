@@ -1,7 +1,7 @@
 = EdPaper
 
 :Name:          EdPaper
-:Language:      PHP
+:Language:      EdPaper
 :License:       MIT
 :Topic:         Document Management
 :Category:      

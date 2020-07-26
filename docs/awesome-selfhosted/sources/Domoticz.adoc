@@ -1,7 +1,7 @@
 = Domoticz
 
 :Name:          Domoticz
-:Language:      C/C++
+:Language:      Domoticz
 :License:       GPL-3.0
 :Topic:         Internet Of Things (IoT)
 :Category:      

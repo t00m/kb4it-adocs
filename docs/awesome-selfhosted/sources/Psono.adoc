@@ -1,7 +1,7 @@
 = Psono
 
 :Name:          Psono
-:Language:      Python
+:Language:      Psono
 :License:       Apache-2.0
 :Topic:         Password Managers
 :Category:      

@@ -1,7 +1,7 @@
 = ytdl-webserver
 
 :Name:          ytdl-webserver
-:Language:      Nodejs
+:Language:      ytdl-webserver
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

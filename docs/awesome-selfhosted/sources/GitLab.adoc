@@ -1,7 +1,7 @@
 = GitLab
 
 :Name:          GitLab
-:Language:      Ruby
+:Language:      GitLab
 :License:       MIT
 :Topic:         Software Development
 :Category:      Project Management

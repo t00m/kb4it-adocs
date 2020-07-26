@@ -1,7 +1,7 @@
 = Patchwork
 
 :Name:          Patchwork
-:Language:      NodeJS
+:Language:      Patchwork
 :License:       AGPL-3.0-only
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

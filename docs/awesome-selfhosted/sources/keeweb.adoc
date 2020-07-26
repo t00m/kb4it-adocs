@@ -1,7 +1,7 @@
 = keeweb
 
 :Name:          keeweb
-:Language:      HTML5
+:Language:      keeweb
 :License:       MIT
 :Topic:         Password Managers
 :Category:      

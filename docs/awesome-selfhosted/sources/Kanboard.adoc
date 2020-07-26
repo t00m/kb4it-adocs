@@ -1,7 +1,7 @@
 = Kanboard
 
 :Name:          Kanboard
-:Language:      PHP
+:Language:      Kanboard
 :License:       MIT
 :Topic:         Task management/To-do lists
 :Category:      

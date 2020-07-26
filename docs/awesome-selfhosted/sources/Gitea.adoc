@@ -1,7 +1,7 @@
 = Gitea
 
 :Name:          Gitea
-:Language:      Go
+:Language:      Gitea
 :License:       MIT
 :Topic:         Software Development
 :Category:      Project Management

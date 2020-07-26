@@ -1,7 +1,7 @@
 = Files Sharing
 
 :Name:          Files Sharing
-:Language:      PHP
+:Language:      Files Sharing
 :License:       GPL-3.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

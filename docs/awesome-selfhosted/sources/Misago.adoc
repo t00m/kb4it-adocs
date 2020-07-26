@@ -1,7 +1,7 @@
 = Misago
 
 :Name:          Misago
-:Language:      Python
+:Language:      Misago
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

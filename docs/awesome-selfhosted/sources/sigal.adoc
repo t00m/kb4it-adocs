@@ -1,7 +1,7 @@
 = sigal
 
 :Name:          sigal
-:Language:      Python
+:Language:      sigal
 :License:       MIT
 :Topic:         Photo and Video Galleries
 :Category:      

@@ -1,7 +1,7 @@
 = Modoboa
 
 :Name:          Modoboa
-:Language:      Python
+:Language:      Modoboa
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Email

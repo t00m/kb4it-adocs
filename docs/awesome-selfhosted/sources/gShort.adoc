@@ -1,7 +1,7 @@
 = gShort
 
 :Name:          gShort
-:Language:      Go
+:Language:      gShort
 :License:       GPL-3.0
 :Topic:         URL Shorteners
 :Category:      

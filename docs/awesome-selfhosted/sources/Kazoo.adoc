@@ -1,7 +1,7 @@
 = Kazoo
 
 :Name:          Kazoo
-:Language:      Erlang
+:Language:      Kazoo
 :License:       MPL-1.1
 :Topic:         Communication systems
 :Category:      SIP

@@ -1,7 +1,7 @@
 = Friends
 
 :Name:          Friends
-:Language:      Nodejs
+:Language:      Friends
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Custom communication systems

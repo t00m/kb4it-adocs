@@ -1,7 +1,7 @@
 = url-shortener
 
 :Name:          url-shortener
-:Language:      Nodejs
+:Language:      url-shortener
 :License:       MIT
 :Topic:         URL Shorteners
 :Category:      

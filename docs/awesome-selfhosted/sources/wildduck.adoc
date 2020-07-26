@@ -1,7 +1,7 @@
 = wildduck
 
 :Name:          wildduck
-:Language:      Node.js
+:Language:      wildduck
 :License:       EUPL-1.2
 :Topic:         Communication systems
 :Category:      Email

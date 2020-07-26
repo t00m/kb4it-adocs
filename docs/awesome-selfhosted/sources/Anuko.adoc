@@ -1,7 +1,7 @@
 = Anuko
 
 :Name:          Anuko
-:Language:      PHP
+:Language:      Anuko
 :License:       Other
 :Topic:         Misc/Other
 :Category:      

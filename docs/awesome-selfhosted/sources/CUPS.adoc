@@ -1,7 +1,7 @@
 = CUPS
 
 :Name:          CUPS
-:Language:      C
+:Language:      CUPS
 :License:       GPL-2.0
 :Topic:         Misc/Other
 :Category:      

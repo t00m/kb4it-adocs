@@ -1,7 +1,7 @@
 = Healthchecks
 
 :Name:          Healthchecks
-:Language:      Python
+:Language:      Healthchecks
 :License:       BSD-3-Clause
 :Topic:         Automation
 :Category:      

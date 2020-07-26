@@ -1,7 +1,7 @@
 = DecSync CC
 
 :Name:          DecSync CC
-:Language:      Kotlin
+:Language:      DecSync CC
 :License:       GPL-3.0
 :Topic:         Calendaring and Contacts Management
 :Category:      

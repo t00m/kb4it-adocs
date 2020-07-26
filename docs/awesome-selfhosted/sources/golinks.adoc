@@ -1,7 +1,7 @@
 = golinks
 
 :Name:          golinks
-:Language:      Go
+:Language:      golinks
 :License:       MIT
 :Topic:         Bookmarks and Link Sharing
 :Category:      

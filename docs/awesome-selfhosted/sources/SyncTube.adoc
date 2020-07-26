@@ -1,7 +1,7 @@
 = SyncTube
 
 :Name:          SyncTube
-:Language:      Nodejs/Haxe
+:Language:      SyncTube
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Video Streaming

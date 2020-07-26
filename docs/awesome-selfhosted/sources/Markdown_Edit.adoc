@@ -1,7 +1,7 @@
 = Markdown Edit
 
 :Name:          Markdown Edit
-:Language:      HTML5
+:Language:      Markdown Edit
 :License:       MIT
 :Topic:         Note-taking and Editors
 :Category:      

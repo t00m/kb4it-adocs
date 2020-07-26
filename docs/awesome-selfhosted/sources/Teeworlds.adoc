@@ -1,7 +1,7 @@
 = Teeworlds
 
 :Name:          Teeworlds
-:Language:      C++
+:Language:      Teeworlds
 :License:       BSD-3-Clause/Other
 :Topic:         Games
 :Category:      

@@ -1,7 +1,7 @@
 = InvoicePlane
 
 :Name:          InvoicePlane
-:Language:      PHP
+:Language:      InvoicePlane
 :License:       MIT
 :Topic:         Money, Budgeting and Management
 :Category:      

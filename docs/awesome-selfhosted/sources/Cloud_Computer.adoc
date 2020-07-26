@@ -1,7 +1,7 @@
 = Cloud Computer
 
 :Name:          Cloud Computer
-:Language:      Docker
+:Language:      Cloud Computer
 :License:       MIT
 :Topic:         Self-hosting Solutions
 :Category:      

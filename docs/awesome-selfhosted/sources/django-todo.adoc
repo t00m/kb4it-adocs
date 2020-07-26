@@ -1,7 +1,7 @@
 = django-todo
 
 :Name:          django-todo
-:Language:      Python/Django
+:Language:      django-todo
 :License:       BSD-3-Clause
 :Topic:         Ticketing
 :Category:      

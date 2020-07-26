@@ -1,7 +1,7 @@
 = VideoLAN Client (VL
 
 :Name:          VideoLAN Client (VL
-:Language:      C
+:Language:      VideoLAN Client (VL
 :License:       Multiple
 :Topic:         Media Streaming
 :Category:      Video Streaming

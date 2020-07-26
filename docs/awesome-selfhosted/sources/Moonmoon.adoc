@@ -1,7 +1,7 @@
 = Moonmoon
 
 :Name:          Moonmoon
-:Language:      PHP
+:Language:      Moonmoon
 :License:       BSD-3-Clause
 :Topic:         Feed Readers
 :Category:      

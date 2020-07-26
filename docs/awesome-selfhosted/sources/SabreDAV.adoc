@@ -1,7 +1,7 @@
 = SabreDAV
 
 :Name:          SabreDAV
-:Language:      PHP
+:Language:      SabreDAV
 :License:       MIT
 :Topic:         Calendaring and Contacts Management
 :Category:      

@@ -1,7 +1,7 @@
 = Gitit
 
 :Name:          Gitit
-:Language:      Haskell
+:Language:      Gitit
 :License:       GPL-2.0
 :Topic:         Wikis
 :Category:      

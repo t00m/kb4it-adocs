@@ -1,7 +1,7 @@
 = Tube
 
 :Name:          Tube
-:Language:      Go
+:Language:      Tube
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Video Streaming

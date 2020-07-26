@@ -1,7 +1,7 @@
 = IronFunctions
 
 :Name:          IronFunctions
-:Language:      Go
+:Language:      IronFunctions
 :License:       Apache-2.0
 :Topic:         Software Development
 :Category:      FaaS/Serverless

@@ -1,7 +1,7 @@
 = PineDocs
 
 :Name:          PineDocs
-:Language:      PHP
+:Language:      PineDocs
 :License:       GPL-3.0
 :Topic:         Wikis
 :Category:      

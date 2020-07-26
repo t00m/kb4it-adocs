@@ -1,7 +1,7 @@
 = Kolab
 
 :Name:          Kolab
-:Language:      C++/Python/PHP
+:Language:      Kolab
 :License:       GPL-2.0/LGPL-2.1/GPL-3.0
 :Topic:         Groupware
 :Category:      

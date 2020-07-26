@@ -1,7 +1,7 @@
 = Reactive Resume
 
 :Name:          Reactive Resume
-:Language:      Docker/Nodejs
+:Language:      Reactive Resume
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

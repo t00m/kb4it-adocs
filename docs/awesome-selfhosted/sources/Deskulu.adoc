@@ -1,7 +1,7 @@
 = Deskulu
 
 :Name:          Deskulu
-:Language:      PHP
+:Language:      Deskulu
 :License:       GPL-2.0
 :Topic:         Ticketing
 :Category:      

@@ -1,7 +1,7 @@
 = Maza ad blocking
 
 :Name:          Maza ad blocking
-:Language:      Bash
+:Language:      Maza ad blocking
 :License:       Apache-2.0
 :Topic:         DNS
 :Category:      

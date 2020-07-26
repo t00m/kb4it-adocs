@@ -1,7 +1,7 @@
 = Wagtail
 
 :Name:          Wagtail
-:Language:      Python
+:Language:      Wagtail
 :License:       BSD-3-Clause
 :Topic:         Content Management Systems (CMS)
 :Category:      

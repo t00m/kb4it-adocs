@@ -1,7 +1,7 @@
 = Homepage
 
 :Name:          Homepage
-:Language:      PHP
+:Language:      Homepage
 :License:       MIT
 :Topic:         Personal Dashboards
 :Category:      

@@ -1,7 +1,7 @@
 = CyTube
 
 :Name:          CyTube
-:Language:      Nodejs
+:Language:      CyTube
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Video Streaming

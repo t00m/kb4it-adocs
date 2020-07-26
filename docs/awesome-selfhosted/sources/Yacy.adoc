@@ -1,7 +1,7 @@
 = Yacy
 
 :Name:          Yacy
-:Language:      Java
+:Language:      Yacy
 :License:       GPL-2.0
 :Topic:         Search Engines
 :Category:      

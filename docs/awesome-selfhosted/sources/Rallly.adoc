@@ -1,7 +1,7 @@
 = Rallly
 
 :Name:          Rallly
-:Language:      Nodejs
+:Language:      Rallly
 :License:       CC-BY-SA-4.0
 :Topic:         Communication systems
 :Category:      Custom communication systems

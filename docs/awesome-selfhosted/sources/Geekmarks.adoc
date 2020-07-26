@@ -1,7 +1,7 @@
 = Geekmarks
 
 :Name:          Geekmarks
-:Language:      Go
+:Language:      Geekmarks
 :License:       BSD-2-Clause
 :Topic:         Bookmarks and Link Sharing
 :Category:      

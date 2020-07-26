@@ -1,7 +1,7 @@
 = MongooseIM
 
 :Name:          MongooseIM
-:Language:      Erlang
+:Language:      MongooseIM
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      XMPP

@@ -1,7 +1,7 @@
 = schort
 
 :Name:          schort
-:Language:      Python
+:Language:      schort
 :License:       CC0-1.0
 :Topic:         URL Shorteners
 :Category:      

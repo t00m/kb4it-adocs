@@ -1,7 +1,7 @@
 = ONLYOFFICE
 
 :Name:          ONLYOFFICE
-:Language:      Nodejs
+:Language:      ONLYOFFICE
 :License:       AGPL-3.0
 :Topic:         Office Suites
 :Category:      

@@ -1,7 +1,7 @@
 = pastebin
 
 :Name:          pastebin
-:Language:      Go
+:Language:      pastebin
 :License:       MIT
 :Topic:         Pastebins
 :Category:      
@@ -11,10 +11,10 @@
 
 == Description
 
-Simple pastebin service with convenient api and CLI.
+Simple, fast, feature-rich, standalone pastebin service
 
 == References
 
-* Website: https://github.com/prologic/pastebin[pastebin]
+* Website: https://github.com/mkaczanowski/pastebin[pastebin]
 * Source code: []
-* Demo: https://paste.mills.io[https://paste.mills.io]
+* Demo: []

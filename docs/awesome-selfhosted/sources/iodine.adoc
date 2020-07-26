@@ -1,7 +1,7 @@
 = iodine
 
 :Name:          iodine
-:Language:      C
+:Language:      iodine
 :License:       ISC
 :Topic:         Proxy
 :Category:      

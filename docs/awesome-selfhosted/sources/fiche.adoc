@@ -1,7 +1,7 @@
 = fiche
 
 :Name:          fiche
-:Language:      C
+:Language:      fiche
 :License:       MIT
 :Topic:         Pastebins
 :Category:      

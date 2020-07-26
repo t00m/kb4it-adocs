@@ -1,7 +1,7 @@
 = Rocket.Chat
 
 :Name:          Rocket.Chat
-:Language:      Nodejs
+:Language:      Rocket.Chat
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Custom communication systems

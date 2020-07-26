@@ -1,7 +1,7 @@
 = Web fonts repository
 
 :Name:          Web fonts repository
-:Language:      PHP
+:Language:      Web fonts repository
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

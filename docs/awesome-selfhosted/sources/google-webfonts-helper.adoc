@@ -1,7 +1,7 @@
 = google-webfonts-helper
 
 :Name:          google-webfonts-helper
-:Language:      Nodejs
+:Language:      google-webfonts-helper
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

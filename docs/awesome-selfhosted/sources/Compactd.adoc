@@ -1,7 +1,7 @@
 = Compactd
 
 :Name:          Compactd
-:Language:      Nodejs
+:Language:      Compactd
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Audio Streaming

@@ -1,7 +1,7 @@
 = microproxy
 
 :Name:          microproxy
-:Language:      Go
+:Language:      microproxy
 :License:       MIT
 :Topic:         Proxy
 :Category:      

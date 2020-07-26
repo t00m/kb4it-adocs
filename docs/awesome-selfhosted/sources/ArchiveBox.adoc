@@ -1,7 +1,7 @@
 = ArchiveBox
 
 :Name:          ArchiveBox
-:Language:      Python
+:Language:      ArchiveBox
 :License:       MIT
 :Topic:         Archiving and Digital Preservation (DP)
 :Category:      

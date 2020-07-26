@@ -1,7 +1,7 @@
 = Coquelicot
 
 :Name:          Coquelicot
-:Language:      Ruby
+:Language:      Coquelicot
 :License:       AGPL-3.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

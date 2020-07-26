@@ -1,7 +1,7 @@
 = Hapttic
 
 :Name:          Hapttic
-:Language:      Go
+:Language:      Hapttic
 :License:       Apache-2.0
 :Topic:         Software Development
 :Category:      API Management

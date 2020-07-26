@@ -1,7 +1,7 @@
 = Freenet
 
 :Name:          Freenet
-:Language:      Java
+:Language:      Freenet
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      Custom communication systems

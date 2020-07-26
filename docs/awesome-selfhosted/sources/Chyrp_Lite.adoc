@@ -1,7 +1,7 @@
 = Chyrp Lite
 
 :Name:          Chyrp Lite
-:Language:      PHP
+:Language:      Chyrp Lite
 :License:       BSD-3-Clause
 :Topic:         Blogging Platforms
 :Category:      

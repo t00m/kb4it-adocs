@@ -1,7 +1,7 @@
 = asciinema
 
 :Name:          asciinema
-:Language:      Elixir/Docker
+:Language:      asciinema
 :License:       Apache-2.0
 :Topic:         Gateways and terminal sharing
 :Category:      

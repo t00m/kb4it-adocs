@@ -1,7 +1,7 @@
 = Tinyproxy
 
 :Name:          Tinyproxy
-:Language:      C
+:Language:      Tinyproxy
 :License:       GPL-2.0
 :Topic:         Proxy
 :Category:      

@@ -1,7 +1,7 @@
 = reduc.io
 
 :Name:          reduc.io
-:Language:      Scala
+:Language:      reduc.io
 :License:       MIT
 :Topic:         URL Shorteners
 :Category:      

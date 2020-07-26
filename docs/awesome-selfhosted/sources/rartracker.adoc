@@ -1,7 +1,7 @@
 = rartracker
 
 :Name:          rartracker
-:Language:      PHP
+:Language:      rartracker
 :License:       WTFPL
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

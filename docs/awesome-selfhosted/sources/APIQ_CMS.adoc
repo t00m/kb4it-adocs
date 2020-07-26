@@ -1,7 +1,7 @@
 = APIQ CMS
 
 :Name:          APIQ CMS
-:Language:      Ruby
+:Language:      APIQ CMS
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

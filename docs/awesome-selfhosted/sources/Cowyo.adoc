@@ -1,7 +1,7 @@
 = Cowyo
 
 :Name:          Cowyo
-:Language:      Go
+:Language:      Cowyo
 :License:       MIT
 :Topic:         Wikis
 :Category:      

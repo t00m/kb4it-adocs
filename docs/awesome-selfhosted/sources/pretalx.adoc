@@ -1,7 +1,7 @@
 = pretalx
 
 :Name:          pretalx
-:Language:      Python
+:Language:      pretalx
 :License:       Apache-2.0
 :Topic:         Conference Management
 :Category:      

@@ -1,7 +1,7 @@
 = Koding
 
 :Name:          Koding
-:Language:      Nodejs
+:Language:      Koding
 :License:       Apache-2.0
 :Topic:         Software Development
 :Category:      IDE/Tools

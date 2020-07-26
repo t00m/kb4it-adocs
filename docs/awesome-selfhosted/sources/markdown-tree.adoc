@@ -1,7 +1,7 @@
 = markdown-tree
 
 :Name:          markdown-tree
-:Language:      Ruby
+:Language:      markdown-tree
 :License:       MIT
 :Topic:         Software Development
 :Category:      Documentation Generators

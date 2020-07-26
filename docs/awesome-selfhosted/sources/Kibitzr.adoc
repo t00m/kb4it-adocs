@@ -1,7 +1,7 @@
 = Kibitzr
 
 :Name:          Kibitzr
-:Language:      Python
+:Language:      Kibitzr
 :License:       MIT
 :Topic:         Automation
 :Category:      

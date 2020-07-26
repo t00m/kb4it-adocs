@@ -1,7 +1,7 @@
 = remark42
 
 :Name:          remark42
-:Language:      Go
+:Language:      remark42
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

@@ -1,7 +1,7 @@
 = Open Event Server
 
 :Name:          Open Event Server
-:Language:      Python
+:Language:      Open Event Server
 :License:       GPL-3.0
 :Topic:         Polls and Events
 :Category:      

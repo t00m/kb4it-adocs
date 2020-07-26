@@ -1,7 +1,7 @@
 = CalendarServer
 
 :Name:          CalendarServer
-:Language:      Python
+:Language:      CalendarServer
 :License:       Apache-2.0
 :Topic:         Calendaring and Contacts Management
 :Category:      

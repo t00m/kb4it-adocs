@@ -1,7 +1,7 @@
 = savepad
 
 :Name:          savepad
-:Language:      PHP
+:Language:      savepad
 :License:       MIT
 :Topic:         Note-taking and Editors
 :Category:      

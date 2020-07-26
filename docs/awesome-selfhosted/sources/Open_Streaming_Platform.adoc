@@ -1,7 +1,7 @@
 = Open Streaming Platform
 
 :Name:          Open Streaming Platform
-:Language:      Python
+:Language:      Open Streaming Platform
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Video Streaming

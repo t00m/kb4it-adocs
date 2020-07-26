@@ -1,7 +1,7 @@
 = ReadyMedia
 
 :Name:          ReadyMedia
-:Language:      C
+:Language:      ReadyMedia
 :License:       GPL-2.0
 :Topic:         Media Streaming
 :Category:      Multimedia Streaming

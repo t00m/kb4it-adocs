@@ -1,7 +1,7 @@
 = Octobox
 
 :Name:          Octobox
-:Language:      Ruby
+:Language:      Octobox
 :License:       AGPL-3.0
 :Topic:         Software Development
 :Category:      Project Management

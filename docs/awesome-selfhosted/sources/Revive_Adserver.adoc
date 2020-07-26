@@ -1,7 +1,7 @@
 = Revive Adserver
 
 :Name:          Revive Adserver
-:Language:      PHP
+:Language:      Revive Adserver
 :License:       GPL-2.0-or-later
 :Topic:         Misc/Other
 :Category:      

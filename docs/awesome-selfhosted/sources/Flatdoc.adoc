@@ -1,7 +1,7 @@
 = Flatdoc
 
 :Name:          Flatdoc
-:Language:      Javascript
+:Language:      Flatdoc
 :License:       MIT
 :Topic:         Software Development
 :Category:      Documentation Generators

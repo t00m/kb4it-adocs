@@ -1,7 +1,7 @@
 = Unison
 
 :Name:          Unison
-:Language:      OCaml
+:Language:      Unison
 :License:       GPL-3.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

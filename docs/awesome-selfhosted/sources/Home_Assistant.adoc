@@ -1,7 +1,7 @@
 = Home Assistant
 
 :Name:          Home Assistant
-:Language:      Python
+:Language:      Home Assistant
 :License:       MIT
 :Topic:         Internet Of Things (IoT)
 :Category:      

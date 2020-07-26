@@ -1,7 +1,7 @@
 = Cerb
 
 :Name:          Cerb
-:Language:      PHP
+:Language:      Cerb
 :License:       DPL
 :Topic:         Ticketing
 :Category:      

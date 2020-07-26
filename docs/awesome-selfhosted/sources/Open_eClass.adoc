@@ -1,7 +1,7 @@
 = Open eClass
 
 :Name:          Open eClass
-:Language:      PHP
+:Language:      Open eClass
 :License:       GPL-2.0
 :Topic:         Learning and Courses
 :Category:      

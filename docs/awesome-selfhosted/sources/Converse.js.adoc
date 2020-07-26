@@ -1,7 +1,7 @@
 = Converse.js
 
 :Name:          Converse.js
-:Language:      Javascript
+:Language:      Converse.js
 :License:       MPL-2.0
 :Topic:         Communication systems
 :Category:      XMPP
