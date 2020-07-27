@@ -1,7 +1,7 @@
 = todo
 
 :Name:          todo
-:Language:      todo
+:Language:      Go
 :License:       MIT
 :Topic:         Task management/To-do lists
 :Category:      

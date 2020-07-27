@@ -1,7 +1,7 @@
 = MapBBCodeShare
 
 :Name:          MapBBCodeShare
-:Language:      MapBBCodeShare
+:Language:      PHP
 :License:       WTFPL/Other
 :Topic:         Maps and Global Positioning System (GPS)
 :Category:      

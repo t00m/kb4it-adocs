@@ -1,7 +1,7 @@
 = RSS Fulltext Proxy
 
 :Name:          RSS Fulltext Proxy
-:Language:      RSS Fulltext Proxy
+:Language:      NodeJS
 :License:       MIT
 :Topic:         Feed Readers
 :Category:      

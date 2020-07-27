@@ -1,7 +1,7 @@
 = LocalStack
 
 :Name:          LocalStack
-:Language:      LocalStack
+:Language:      Python/Other
 :License:       Apache-2.0
 :Topic:         Software Development
 :Category:      FaaS/Serverless

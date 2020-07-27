@@ -1,7 +1,7 @@
 = Kutt
 
 :Name:          Kutt
-:Language:      Kutt
+:Language:      Nodejs
 :License:       MIT
 :Topic:         URL Shorteners
 :Category:      

@@ -1,7 +1,7 @@
 = Screaming Liquid Tiger
 
 :Name:          Screaming Liquid Tiger
-:Language:      Screaming Liquid Tiger
+:Language:      PHP
 :License:       MIT
 :Topic:         Feed Readers
 :Category:      

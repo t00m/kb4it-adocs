@@ -1,7 +1,7 @@
 = RSS Monster
 
 :Name:          RSS Monster
-:Language:      RSS Monster
+:Language:      PHP
 :License:       MIT
 :Topic:         Feed Readers
 :Category:      

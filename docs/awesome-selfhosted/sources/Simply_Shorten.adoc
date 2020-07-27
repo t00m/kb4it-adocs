@@ -1,7 +1,7 @@
 = Simply Shorten
 
 :Name:          Simply Shorten
-:Language:      Simply Shorten
+:Language:      Java
 :License:       MIT
 :Topic:         URL Shorteners
 :Category:      

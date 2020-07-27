@@ -1,7 +1,7 @@
 = draw.io
 
 :Name:          draw.io
-:Language:      draw.io
+:Language:      JavaScript
 :License:       Apache-2.0
 :Topic:         Note-taking and Editors
 :Category:      

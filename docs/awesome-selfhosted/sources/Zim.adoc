@@ -1,7 +1,7 @@
 = Zim
 
 :Name:          Zim
-:Language:      Zim
+:Language:      Python
 :License:       GPL-2.0
 :Topic:         Wikis
 :Category:      

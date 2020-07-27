@@ -1,7 +1,7 @@
 = mojopaste
 
 :Name:          mojopaste
-:Language:      mojopaste
+:Language:      Perl
 :License:       Artistic-2.0
 :Topic:         Pastebins
 :Category:      

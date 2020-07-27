@@ -1,7 +1,7 @@
 = TeslaMate
 
 :Name:          TeslaMate
-:Language:      TeslaMate
+:Language:      Elixir
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

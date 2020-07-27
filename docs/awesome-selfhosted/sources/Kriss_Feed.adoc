@@ -1,7 +1,7 @@
 = Kriss Feed
 
 :Name:          Kriss Feed
-:Language:      Kriss Feed
+:Language:      PHP
 :License:       CC0-1.0
 :Topic:         Feed Readers
 :Category:      

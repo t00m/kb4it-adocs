@@ -1,7 +1,7 @@
 = Tuleap
 
 :Name:          Tuleap
-:Language:      Tuleap
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         Software Development
 :Category:      Project Management

@@ -1,7 +1,7 @@
 = Traduora
 
 :Name:          Traduora
-:Language:      Traduora
+:Language:      Docker/Nodejs
 :License:       AGPL-3.0
 :Topic:         Software Development
 :Category:      Localization

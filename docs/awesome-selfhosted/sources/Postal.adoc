@@ -1,7 +1,7 @@
 = Postal
 
 :Name:          Postal
-:Language:      Postal
+:Language:      Ruby
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Email

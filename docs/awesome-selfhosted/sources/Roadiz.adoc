@@ -1,7 +1,7 @@
 = Roadiz
 
 :Name:          Roadiz
-:Language:      Roadiz
+:Language:      PHP
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

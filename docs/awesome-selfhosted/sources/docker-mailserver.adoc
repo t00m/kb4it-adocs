@@ -1,7 +1,7 @@
 = docker-mailserver
 
 :Name:          docker-mailserver
-:Language:      docker-mailserver
+:Language:      Docker
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Email

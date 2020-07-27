@@ -1,7 +1,7 @@
 = OnTrack
 
 :Name:          OnTrack
-:Language:      OnTrack
+:Language:      Ruby/React
 :License:       MIT
 :Topic:         Money, Budgeting and Management
 :Category:      

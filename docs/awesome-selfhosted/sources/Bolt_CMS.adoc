@@ -1,7 +1,7 @@
 = Bolt CMS
 
 :Name:          Bolt CMS
-:Language:      Bolt CMS
+:Language:      PHP
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

@@ -1,7 +1,7 @@
 = Abilian SBE
 
 :Name:          Abilian SBE
-:Language:      Abilian SBE
+:Language:      Python
 :License:       LGPL-2.1
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

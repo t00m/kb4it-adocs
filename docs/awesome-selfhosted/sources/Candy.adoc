@@ -1,7 +1,7 @@
 = Candy
 
 :Name:          Candy
-:Language:      Candy
+:Language:      Javascript
 :License:       MIT
 :Topic:         Communication systems
 :Category:      XMPP

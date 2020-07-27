@@ -1,7 +1,7 @@
 = Dj Diabetes
 
 :Name:          Dj Diabetes
-:Language:      Dj Diabetes
+:Language:      Python
 :License:       BSD-3-Clause
 :Topic:         Personal Dashboards
 :Category:      

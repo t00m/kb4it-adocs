@@ -1,7 +1,7 @@
 = Uier
 
 :Name:          Uier
-:Language:      Uier
+:Language:      Nodejs
 :License:       Apache-2.0
 :Topic:         Software Development
 :Category:      UX testing

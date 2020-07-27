@@ -1,7 +1,7 @@
 = turndown
 
 :Name:          turndown
-:Language:      turndown
+:Language:      Javascript
 :License:       MIT
 :Topic:         Note-taking and Editors
 :Category:      

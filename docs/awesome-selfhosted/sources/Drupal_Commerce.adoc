@@ -1,7 +1,7 @@
 = Drupal Commerce
 
 :Name:          Drupal Commerce
-:Language:      Drupal Commerce
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

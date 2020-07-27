@@ -1,7 +1,7 @@
 = sourcegraph
 
 :Name:          sourcegraph
-:Language:      sourcegraph
+:Language:      Go
 :License:       Apache-2.0
 :Topic:         Software Development
 :Category:      IDE/Tools

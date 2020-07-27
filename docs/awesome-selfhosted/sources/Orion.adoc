@@ -1,7 +1,7 @@
 = Orion
 
 :Name:          Orion
-:Language:      Orion
+:Language:      Python/Nodejs
 :License:       MIT
 :Topic:         Maps and Global Positioning System (GPS)
 :Category:      

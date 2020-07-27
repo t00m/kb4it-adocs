@@ -1,7 +1,7 @@
 = shorturl
 
 :Name:          shorturl
-:Language:      shorturl
+:Language:      Go
 :License:       MIT
 :Topic:         URL Shorteners
 :Category:      

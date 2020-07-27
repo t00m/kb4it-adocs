@@ -1,7 +1,7 @@
 = Kamailio
 
 :Name:          Kamailio
-:Language:      Kamailio
+:Language:      C
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      SIP

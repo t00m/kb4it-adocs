@@ -1,7 +1,7 @@
 = phpBB
 
 :Name:          phpBB
-:Language:      phpBB
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

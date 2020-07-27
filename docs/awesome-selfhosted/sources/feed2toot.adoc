@@ -1,7 +1,7 @@
 = feed2toot
 
 :Name:          feed2toot
-:Language:      feed2toot
+:Language:      Python
 :License:       GPL-3.0
 :Topic:         Automation
 :Category:      

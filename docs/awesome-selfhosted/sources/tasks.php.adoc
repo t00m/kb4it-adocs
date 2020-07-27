@@ -1,7 +1,7 @@
 = tasks.php
 
 :Name:          tasks.php
-:Language:      tasks.php
+:Language:      PHP
 :License:       MIT
 :Topic:         Task management/To-do lists
 :Category:      

@@ -1,7 +1,7 @@
 = Family Accounting Tool
 
 :Name:          Family Accounting Tool
-:Language:      Family Accounting Tool
+:Language:      Scala
 :License:       Apache-2.0
 :Topic:         Money, Budgeting and Management
 :Category:      

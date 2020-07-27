@@ -1,7 +1,7 @@
 = CKAN
 
 :Name:          CKAN
-:Language:      CKAN
+:Language:      Python
 :License:       AGPL-3.0
 :Topic:         Archiving and Digital Preservation (DP)
 :Category:      

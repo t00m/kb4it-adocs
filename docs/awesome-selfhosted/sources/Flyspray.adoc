@@ -1,7 +1,7 @@
 = Flyspray
 
 :Name:          Flyspray
-:Language:      Flyspray
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         Ticketing
 :Category:      

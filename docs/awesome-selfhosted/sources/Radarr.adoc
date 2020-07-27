@@ -1,7 +1,7 @@
 = Radarr
 
 :Name:          Radarr
-:Language:      Radarr
+:Language:      C-SHARP
 :License:       GPL-3.0
 :Topic:         Automation
 :Category:      

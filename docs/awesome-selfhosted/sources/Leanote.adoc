@@ -1,7 +1,7 @@
 = Leanote
 
 :Name:          Leanote
-:Language:      Leanote
+:Language:      Go
 :License:       GPL-2.0
 :Topic:         Note-taking and Editors
 :Category:      

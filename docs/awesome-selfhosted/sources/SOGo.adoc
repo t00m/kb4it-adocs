@@ -1,7 +1,7 @@
 = SOGo
 
 :Name:          SOGo
-:Language:      SOGo
+:Language:      Objective-C
 :License:       LGPL-2.1
 :Topic:         Groupware
 :Category:      

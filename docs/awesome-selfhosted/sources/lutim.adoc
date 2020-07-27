@@ -1,7 +1,7 @@
 = lutim
 
 :Name:          lutim
-:Language:      lutim
+:Language:      Perl
 :License:       AGPL-3.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

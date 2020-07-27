@@ -1,7 +1,7 @@
 = october
 
 :Name:          october
-:Language:      october
+:Language:      PHP
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

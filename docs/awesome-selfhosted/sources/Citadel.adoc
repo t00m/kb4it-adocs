@@ -1,7 +1,7 @@
 = Citadel
 
 :Name:          Citadel
-:Language:      Citadel
+:Language:      C
 :License:       GPL-3.0
 :Topic:         Groupware
 :Category:      

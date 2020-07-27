@@ -1,7 +1,7 @@
 = Turtl
 
 :Name:          Turtl
-:Language:      Turtl
+:Language:      CommonLisp
 :License:       GPL-3.0
 :Topic:         Note-taking and Editors
 :Category:      

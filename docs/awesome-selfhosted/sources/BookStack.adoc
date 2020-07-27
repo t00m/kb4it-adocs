@@ -1,7 +1,7 @@
 = BookStack
 
 :Name:          BookStack
-:Language:      BookStack
+:Language:      PHP
 :License:       MIT
 :Topic:         Wikis
 :Category:      

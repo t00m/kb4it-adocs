@@ -1,7 +1,7 @@
 = Mediawiki
 
 :Name:          Mediawiki
-:Language:      Mediawiki
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         Wikis
 :Category:      

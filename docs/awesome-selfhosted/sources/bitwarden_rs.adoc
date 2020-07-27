@@ -1,7 +1,7 @@
 = bitwarden_rs
 
 :Name:          bitwarden_rs
-:Language:      bitwarden_rs
+:Language:      Rust
 :License:       GPL-3.0
 :Topic:         Password Managers
 :Category:      

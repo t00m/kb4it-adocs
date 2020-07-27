@@ -1,7 +1,7 @@
 = Nominatim
 
 :Name:          Nominatim
-:Language:      Nominatim
+:Language:      C
 :License:       GPL-2.0
 :Topic:         Maps and Global Positioning System (GPS)
 :Category:      

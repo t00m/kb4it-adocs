@@ -1,7 +1,7 @@
 = ymarks
 
 :Name:          ymarks
-:Language:      ymarks
+:Language:      C
 :License:       WTFPL
 :Topic:         Bookmarks and Link Sharing
 :Category:      

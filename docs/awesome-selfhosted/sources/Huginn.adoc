@@ -1,7 +1,7 @@
 = Huginn
 
 :Name:          Huginn
-:Language:      Huginn
+:Language:      Ruby
 :License:       MIT
 :Topic:         Automation
 :Category:      

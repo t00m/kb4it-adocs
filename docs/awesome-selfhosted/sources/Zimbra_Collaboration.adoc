@@ -1,7 +1,7 @@
 = Zimbra Collaboration
 
 :Name:          Zimbra Collaboration
-:Language:      Zimbra Collaboration
+:Language:      Java
 :License:       GPL-2.0/CPAL-1.0
 :Topic:         Groupware
 :Category:      

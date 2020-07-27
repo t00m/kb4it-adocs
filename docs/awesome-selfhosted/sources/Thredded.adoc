@@ -1,7 +1,7 @@
 = Thredded
 
 :Name:          Thredded
-:Language:      Thredded
+:Language:      Ruby
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

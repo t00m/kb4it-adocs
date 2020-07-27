@@ -1,7 +1,7 @@
 = NewsBlur
 
 :Name:          NewsBlur
-:Language:      NewsBlur
+:Language:      Python
 :License:       MIT
 :Topic:         Feed Readers
 :Category:      

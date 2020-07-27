@@ -1,7 +1,7 @@
 = CommaFeed
 
 :Name:          CommaFeed
-:Language:      CommaFeed
+:Language:      Java
 :License:       Apache-2.0
 :Topic:         Feed Readers
 :Category:      

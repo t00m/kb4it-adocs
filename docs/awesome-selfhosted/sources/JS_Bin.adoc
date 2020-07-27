@@ -1,7 +1,7 @@
 = JS Bin
 
 :Name:          JS Bin
-:Language:      JS Bin
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Software Development
 :Category:      IDE/Tools

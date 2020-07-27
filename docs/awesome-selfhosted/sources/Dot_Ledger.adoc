@@ -1,7 +1,7 @@
 = Dot Ledger
 
 :Name:          Dot Ledger
-:Language:      Dot Ledger
+:Language:      Ruby
 :License:       Apache-2.0
 :Topic:         Money, Budgeting and Management
 :Category:      

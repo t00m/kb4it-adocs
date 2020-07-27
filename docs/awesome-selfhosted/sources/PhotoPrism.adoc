@@ -1,7 +1,7 @@
 = PhotoPrism
 
 :Name:          PhotoPrism
-:Language:      PhotoPrism
+:Language:      Go
 :License:       MIT
 :Topic:         Photo and Video Galleries
 :Category:      

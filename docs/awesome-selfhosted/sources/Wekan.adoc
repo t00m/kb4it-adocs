@@ -1,7 +1,7 @@
 = Wekan
 
 :Name:          Wekan
-:Language:      Wekan
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Task management/To-do lists
 :Category:      

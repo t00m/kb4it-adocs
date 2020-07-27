@@ -1,7 +1,7 @@
 = PiGallery 2
 
 :Name:          PiGallery 2
-:Language:      PiGallery 2
+:Language:      Docker/Nodejs
 :License:       MIT
 :Topic:         Photo and Video Galleries
 :Category:      

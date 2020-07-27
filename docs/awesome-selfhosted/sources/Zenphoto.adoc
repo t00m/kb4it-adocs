@@ -1,7 +1,7 @@
 = Zenphoto
 
 :Name:          Zenphoto
-:Language:      Zenphoto
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         Photo and Video Galleries
 :Category:      

@@ -1,7 +1,7 @@
 = AnonAddy
 
 :Name:          AnonAddy
-:Language:      AnonAddy
+:Language:      PHP
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Email

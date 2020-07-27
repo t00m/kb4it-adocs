@@ -1,7 +1,7 @@
 = FHEM
 
 :Name:          FHEM
-:Language:      FHEM
+:Language:      Perl
 :License:       GPL-3.0
 :Topic:         Internet Of Things (IoT)
 :Category:      

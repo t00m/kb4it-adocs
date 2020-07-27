@@ -1,7 +1,7 @@
 = SparkleShare
 
 :Name:          SparkleShare
-:Language:      SparkleShare
+:Language:      C-SHARP
 :License:       GPL-3.0
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

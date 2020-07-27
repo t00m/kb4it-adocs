@@ -1,7 +1,7 @@
 = Guacamole
 
 :Name:          Guacamole
-:Language:      Guacamole
+:Language:      Java/C
 :License:       Apache-2.0
 :Topic:         Gateways and terminal sharing
 :Category:      

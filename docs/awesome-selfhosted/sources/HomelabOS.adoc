@@ -1,7 +1,7 @@
 = HomelabOS
 
 :Name:          HomelabOS
-:Language:      HomelabOS
+:Language:      Docker
 :License:       MIT
 :Topic:         Self-hosting Solutions
 :Category:      

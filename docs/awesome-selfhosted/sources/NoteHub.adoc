@@ -1,7 +1,7 @@
 = NoteHub
 
 :Name:          NoteHub
-:Language:      NoteHub
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Pastebins
 :Category:      

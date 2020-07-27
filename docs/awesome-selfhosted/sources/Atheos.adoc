@@ -1,7 +1,7 @@
 = Atheos
 
 :Name:          Atheos
-:Language:      Atheos
+:Language:      PHP
 :License:       MIT
 :Topic:         Software Development
 :Category:      IDE/Tools

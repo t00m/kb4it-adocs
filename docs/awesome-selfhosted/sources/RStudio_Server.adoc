@@ -1,7 +1,7 @@
 = RStudio Server
 
 :Name:          RStudio Server
-:Language:      RStudio Server
+:Language:      Java/C-PLUS-PLUS
 :License:       AGPL-3.0
 :Topic:         Software Development
 :Category:      IDE/Tools

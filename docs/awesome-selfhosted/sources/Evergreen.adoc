@@ -1,7 +1,7 @@
 = Evergreen
 
 :Name:          Evergreen
-:Language:      Evergreen
+:Language:      PL/pgSQL
 :License:       GPL-2.0
 :Topic:         E-books and Integrated Library Systems (ILS)
 :Category:      

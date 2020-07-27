@@ -1,7 +1,7 @@
 = Leon
 
 :Name:          Leon
-:Language:      Leon
+:Language:      Node.js
 :License:       MIT
 :Topic:         Automation
 :Category:      

@@ -1,7 +1,7 @@
 = Journal
 
 :Name:          Journal
-:Language:      Journal
+:Language:      Ruby
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

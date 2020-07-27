@@ -1,7 +1,7 @@
 = Sendmail
 
 :Name:          Sendmail
-:Language:      Sendmail
+:Language:      C
 :License:       Sendmail
 :Topic:         Communication systems
 :Category:      Email

@@ -1,7 +1,7 @@
 = miniProxy
 
 :Name:          miniProxy
-:Language:      miniProxy
+:Language:      PHP
 :License:       GPL-3.0
 :Topic:         Proxy
 :Category:      

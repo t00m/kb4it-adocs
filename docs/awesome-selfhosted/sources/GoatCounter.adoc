@@ -1,7 +1,7 @@
 = GoatCounter
 
 :Name:          GoatCounter
-:Language:      GoatCounter
+:Language:      Go
 :License:       EUPL-1.2
 :Topic:         Analytics
 :Category:      

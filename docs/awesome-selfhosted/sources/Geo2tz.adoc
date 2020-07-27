@@ -1,7 +1,7 @@
 = Geo2tz
 
 :Name:          Geo2tz
-:Language:      Geo2tz
+:Language:      Go/Docker
 :License:       MIT
 :Topic:         Maps and Global Positioning System (GPS)
 :Category:      

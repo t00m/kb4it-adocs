@@ -1,7 +1,7 @@
 = Gitolite
 
 :Name:          Gitolite
-:Language:      Gitolite
+:Language:      Perl
 :License:       GPL-2.0
 :Topic:         Software Development
 :Category:      Project Management

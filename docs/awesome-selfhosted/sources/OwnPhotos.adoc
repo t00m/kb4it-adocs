@@ -1,7 +1,7 @@
 = OwnPhotos
 
 :Name:          OwnPhotos
-:Language:      OwnPhotos
+:Language:      Python
 :License:       MIT
 :Topic:         Photo and Video Galleries
 :Category:      

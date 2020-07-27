@@ -1,7 +1,7 @@
 = Gollum
 
 :Name:          Gollum
-:Language:      Gollum
+:Language:      Ruby
 :License:       MIT
 :Topic:         Wikis
 :Category:      

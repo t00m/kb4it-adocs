@@ -1,7 +1,7 @@
 = Groove Basin
 
 :Name:          Groove Basin
-:Language:      Groove Basin
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Audio Streaming

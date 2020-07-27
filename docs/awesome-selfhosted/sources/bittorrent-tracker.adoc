@@ -1,7 +1,7 @@
 = bittorrent-tracker
 
 :Name:          bittorrent-tracker
-:Language:      bittorrent-tracker
+:Language:      Nodejs
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

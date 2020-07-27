@@ -1,7 +1,7 @@
 = Hastic
 
 :Name:          Hastic
-:Language:      Hastic
+:Language:      Python/Nodejs
 :License:       Apache-2.0
 :Topic:         Analytics
 :Category:      

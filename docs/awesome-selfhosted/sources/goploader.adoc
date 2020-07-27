@@ -1,7 +1,7 @@
 = goploader
 
 :Name:          goploader
-:Language:      goploader
+:Language:      Go
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

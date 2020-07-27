@@ -1,7 +1,7 @@
 = Heimdall
 
 :Name:          Heimdall
-:Language:      Heimdall
+:Language:      PHP
 :License:       MIT
 :Topic:         Personal Dashboards
 :Category:      

@@ -1,7 +1,7 @@
 = DockSTARTer
 
 :Name:          DockSTARTer
-:Language:      DockSTARTer
+:Language:      Shell
 :License:       MIT
 :Topic:         Self-hosting Solutions
 :Category:      

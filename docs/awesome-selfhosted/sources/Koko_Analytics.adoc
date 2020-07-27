@@ -1,7 +1,7 @@
 = Koko Analytics
 
 :Name:          Koko Analytics
-:Language:      Koko Analytics
+:Language:      PHP
 :License:       GPL-3.0
 :Topic:         Analytics
 :Category:      

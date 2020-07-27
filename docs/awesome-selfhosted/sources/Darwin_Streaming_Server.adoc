@@ -1,7 +1,7 @@
 = Darwin Streaming Server
 
 :Name:          Darwin Streaming Server
-:Language:      Darwin Streaming Server
+:Language:      C-PLUS-PLUS
 :License:       APSL-2.0
 :Topic:         Media Streaming
 :Category:      Multimedia Streaming

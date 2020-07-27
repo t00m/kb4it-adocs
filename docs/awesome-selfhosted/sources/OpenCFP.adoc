@@ -1,7 +1,7 @@
 = OpenCFP
 
 :Name:          OpenCFP
-:Language:      OpenCFP
+:Language:      PHP
 :License:       MIT
 :Topic:         Conference Management
 :Category:      

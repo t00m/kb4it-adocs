@@ -1,7 +1,7 @@
 = CouchCMS
 
 :Name:          CouchCMS
-:Language:      CouchCMS
+:Language:      PHP
 :License:       CPAL-1.0
 :Topic:         Content Management Systems (CMS)
 :Category:      

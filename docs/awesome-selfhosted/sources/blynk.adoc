@@ -1,7 +1,7 @@
 = blynk
 
 :Name:          blynk
-:Language:      blynk
+:Language:      Java
 :License:       AGPL-3.0
 :Topic:         Misc/Other
 :Category:      

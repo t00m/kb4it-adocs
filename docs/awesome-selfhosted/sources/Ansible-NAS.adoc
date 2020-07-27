@@ -1,7 +1,7 @@
 = Ansible-NAS
 
 :Name:          Ansible-NAS
-:Language:      Ansible-NAS
+:Language:      YAML/Docker
 :License:       MIT
 :Topic:         Self-hosting Solutions
 :Category:      

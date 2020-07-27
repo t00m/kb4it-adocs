@@ -1,7 +1,7 @@
 = h5ai
 
 :Name:          h5ai
-:Language:      h5ai
+:Language:      PHP
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

@@ -1,7 +1,7 @@
 = Writing
 
 :Name:          Writing
-:Language:      Writing
+:Language:      Javascript
 :License:       MIT
 :Topic:         Note-taking and Editors
 :Category:      

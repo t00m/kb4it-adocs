@@ -1,7 +1,7 @@
 = MeiliSearch
 
 :Name:          MeiliSearch
-:Language:      MeiliSearch
+:Language:      Rust
 :License:       MIT
 :Topic:         Search Engines
 :Category:      

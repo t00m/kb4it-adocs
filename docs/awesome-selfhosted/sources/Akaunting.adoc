@@ -1,7 +1,7 @@
 = Akaunting
 
 :Name:          Akaunting
-:Language:      Akaunting
+:Language:      PHP
 :License:       GPL-3.0
 :Topic:         Money, Budgeting and Management
 :Category:      

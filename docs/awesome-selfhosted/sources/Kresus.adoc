@@ -1,7 +1,7 @@
 = Kresus
 
 :Name:          Kresus
-:Language:      Kresus
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Money, Budgeting and Management
 :Category:      

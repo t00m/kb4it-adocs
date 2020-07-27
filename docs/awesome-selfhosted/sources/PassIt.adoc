@@ -1,7 +1,7 @@
 = PassIt
 
 :Name:          PassIt
-:Language:      PassIt
+:Language:      Python
 :License:       AGPL-3.0
 :Topic:         Password Managers
 :Category:      

@@ -1,7 +1,7 @@
 = Taskwarrior
 
 :Name:          Taskwarrior
-:Language:      Taskwarrior
+:Language:      C-PLUS-PLUS
 :License:       MIT
 :Topic:         Task management/To-do lists
 :Category:      

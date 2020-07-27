@@ -1,7 +1,7 @@
 = Prosody IM
 
 :Name:          Prosody IM
-:Language:      Prosody IM
+:Language:      Lua
 :License:       MIT
 :Topic:         Communication systems
 :Category:      XMPP

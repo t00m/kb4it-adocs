@@ -1,7 +1,7 @@
 = Homer
 
 :Name:          Homer
-:Language:      Homer
+:Language:      HTML5
 :License:       Apache-2.0
 :Topic:         Personal Dashboards
 :Category:      

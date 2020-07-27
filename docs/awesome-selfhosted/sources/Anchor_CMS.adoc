@@ -1,7 +1,7 @@
 = Anchor CMS
 
 :Name:          Anchor CMS
-:Language:      Anchor CMS
+:Language:      PHP
 :License:       GPL-3.0
 :Topic:         Blogging Platforms
 :Category:      

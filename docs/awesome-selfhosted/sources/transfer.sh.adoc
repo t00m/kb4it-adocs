@@ -1,7 +1,7 @@
 = transfer.sh
 
 :Name:          transfer.sh
-:Language:      transfer.sh
+:Language:      Go
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

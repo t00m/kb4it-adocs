@@ -1,7 +1,7 @@
 = pastebin
 
 :Name:          pastebin
-:Language:      pastebin
+:Language:      Rust
 :License:       MIT
 :Topic:         Pastebins
 :Category:      

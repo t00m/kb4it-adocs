@@ -1,7 +1,7 @@
 = Karaoke Forever
 
 :Name:          Karaoke Forever
-:Language:      Karaoke Forever
+:Language:      Nodejs
 :License:       ISC
 :Topic:         Media Streaming
 :Category:      Multimedia Streaming

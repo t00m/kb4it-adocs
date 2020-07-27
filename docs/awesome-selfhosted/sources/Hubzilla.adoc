@@ -1,7 +1,7 @@
 = Hubzilla
 
 :Name:          Hubzilla
-:Language:      Hubzilla
+:Language:      PHP
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

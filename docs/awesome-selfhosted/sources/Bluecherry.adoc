@@ -1,7 +1,7 @@
 = Bluecherry
 
 :Name:          Bluecherry
-:Language:      Bluecherry
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         Media Streaming
 :Category:      Video Streaming

@@ -1,7 +1,7 @@
 = Cadmus
 
 :Name:          Cadmus
-:Language:      Cadmus
+:Language:      PHP
 :License:       MIT
 :Topic:         Blogging Platforms
 :Category:      

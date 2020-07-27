@@ -1,7 +1,7 @@
 = wiki
 
 :Name:          wiki
-:Language:      wiki
+:Language:      Go
 :License:       MIT
 :Topic:         Wikis
 :Category:      

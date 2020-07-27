@@ -1,7 +1,7 @@
 = ActiveWorkflow
 
 :Name:          ActiveWorkflow
-:Language:      ActiveWorkflow
+:Language:      Ruby
 :License:       MIT
 :Topic:         Automation
 :Category:      

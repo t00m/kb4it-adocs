@@ -1,0 +1,651 @@
+<!DOCTYPE Html>
+<html lang="en">
+<head>
+    <title>KB4IT - Language PHP</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Asciidoctor 2.0.10">
+    <meta name="description" content="KB4IT document">
+    <meta name="author" content="KB4IT by t00mlabs.net">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="resources/common/uikit/css/uikit.min.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/coderay-asciidoctor.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/print.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="resources/common/uikit/css/kb4it.css">
+    <script src="resources/common/uikit/js/uikit.min.js"></script>
+    <script src="resources/common/uikit/js/uikit-icons.min.js"></script>
+</head>
+<body>
+<div>
+<div id="container-1" class="uk-container uk-container-center">
+    <div id="kb4it-menu" style="z-index: 980;" uk-sticky="show-on-up: true">
+        <nav class="uk-navbar-container uk-border-rounded uk-card-hover uk-margin" style="background-color: white;" uk-navbar>
+            <div class="uk-navbar-left noprint">
+                <ul class="uk-navbar-nav">
+                    <li class="uk-link-toggle">
+                        <a class="uk-logo uk-card uk-card-hover" href="index.html">
+                            <img src="resources/themes/awesome/images/logo.png" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">Go To</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="properties.html"><span class="uk-padding-small">Properties</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="stats.html"><span class="uk-padding-small">Stats</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="uk-navbar-nav">
+                    <!-- MENU CONTENTS :: START -->
+                            <!-- <li><a href="#">Contents</a></li> -->
+                    <!-- MENU CONTENTS :: END -->
+                </ul>
+            </div>
+            <div class="uk-navbar-center">
+                <!-- DOCUMENT TITLE :: START -->
+<span class="uk-text-danger uk-text-truncate uk-text-bolder">Language PHP</span>
+                <!-- DOCUMENT TITLE :: END -->
+            </div>
+            <div class="uk-navbar-right noprint">
+                <ul class="uk-navbar-nav">
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">About</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_app.html"><span class="uk-padding-small">About this app</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_theme.html"><span class="uk-padding-small">About this theme</span></a>
+                                </li>
+                                <li class="uk-nav-divider"></li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_kb4it.html"><span class="uk-padding-small">About KB4IT</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+<!-- CONTENT :: START -->
+<div class="uk-container uk-container-center">
+        <!-- PAGINATION_HEAD.tpl :: START -->
+        <!-- PAGINATION :: START -->
+        <ul class="uk-pagination uk-flex-center" uk-margin>
+            <li class="uk-active">
+    <span uk-tooltip="Page 0: 0-30/290}">0</span>
+</li>
+
+<li uk-tooltip="Page 30: 60-1/290"><a href="Language_PHP-1.html"><span>1</span></a></li>
+<li uk-tooltip="Page 60: 90-2/290"><a href="Language_PHP-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 90: 120-3/290"><a href="Language_PHP-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 120: 150-4/290"><a href="Language_PHP-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 150: 180-5/290"><a href="Language_PHP-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 180: 210-6/290"><a href="Language_PHP-6.html"><span>6</span></a></li>
+<li uk-tooltip="Page 210: 240-7/290"><a href="Language_PHP-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 240: 270-8/290"><a href="Language_PHP-8.html"><span>8</span></a></li>
+<li uk-tooltip="Page 270: 300-9/290"><a href="Language_PHP-9.html"><span>9</span></a></li>
+<li uk-tooltip="Page 0: 30-0/290"><a href="Language_PHP.html"><span>0</span></a></li>
+<li class="uk-active">
+    <span uk-tooltip="Page 1: 30-60/290}">1</span>
+</li>
+
+<li uk-tooltip="Page 60: 90-2/290"><a href="Language_PHP-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 90: 120-3/290"><a href="Language_PHP-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 120: 150-4/290"><a href="Language_PHP-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 150: 180-5/290"><a href="Language_PHP-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 180: 210-6/290"><a href="Language_PHP-6.html"><span>6</span></a></li>
+<li uk-tooltip="Page 210: 240-7/290"><a href="Language_PHP-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 240: 270-8/290"><a href="Language_PHP-8.html"><span>8</span></a></li>
+<li uk-tooltip="Page 270: 300-9/290"><a href="Language_PHP-9.html"><span>9</span></a></li>
+<li uk-tooltip="Page 0: 30-0/290"><a href="Language_PHP.html"><span>0</span></a></li>
+<li uk-tooltip="Page 30: 60-1/290"><a href="Language_PHP-1.html"><span>1</span></a></li>
+<li class="uk-active">
+    <span uk-tooltip="Page 2: 60-90/290}">2</span>
+</li>
+
+<li uk-tooltip="Page 90: 120-3/290"><a href="Language_PHP-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 120: 150-4/290"><a href="Language_PHP-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 150: 180-5/290"><a href="Language_PHP-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 180: 210-6/290"><a href="Language_PHP-6.html"><span>6</span></a></li>
+<li uk-tooltip="Page 210: 240-7/290"><a href="Language_PHP-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 240: 270-8/290"><a href="Language_PHP-8.html"><span>8</span></a></li>
+<li uk-tooltip="Page 270: 300-9/290"><a href="Language_PHP-9.html"><span>9</span></a></li>
+<li uk-tooltip="Page 0: 30-0/290"><a href="Language_PHP.html"><span>0</span></a></li>
+<li uk-tooltip="Page 30: 60-1/290"><a href="Language_PHP-1.html"><span>1</span></a></li>
+<li uk-tooltip="Page 60: 90-2/290"><a href="Language_PHP-2.html"><span>2</span></a></li>
+<li class="uk-active">
+    <span uk-tooltip="Page 3: 90-120/290}">3</span>
+</li>
+
+<li uk-tooltip="Page 120: 150-4/290"><a href="Language_PHP-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 150: 180-5/290"><a href="Language_PHP-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 180: 210-6/290"><a href="Language_PHP-6.html"><span>6</span></a></li>
+<li uk-tooltip="Page 210: 240-7/290"><a href="Language_PHP-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 240: 270-8/290"><a href="Language_PHP-8.html"><span>8</span></a></li>
+<li uk-tooltip="Page 270: 300-9/290"><a href="Language_PHP-9.html"><span>9</span></a></li>
+<li uk-tooltip="Page 0: 30-0/290"><a href="Language_PHP.html"><span>0</span></a></li>
+<li uk-tooltip="Page 30: 60-1/290"><a href="Language_PHP-1.html"><span>1</span></a></li>
+<li uk-tooltip="Page 60: 90-2/290"><a href="Language_PHP-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 90: 120-3/290"><a href="Language_PHP-3.html"><span>3</span></a></li>
+<li class="uk-active">
+    <span uk-tooltip="Page 4: 120-150/290}">4</span>
+</li>
+
+<li uk-tooltip="Page 150: 180-5/290"><a href="Language_PHP-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 180: 210-6/290"><a href="Language_PHP-6.html"><span>6</span></a></li>
+<li uk-tooltip="Page 210: 240-7/290"><a href="Language_PHP-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 240: 270-8/290"><a href="Language_PHP-8.html"><span>8</span></a></li>
+<li uk-tooltip="Page 270: 300-9/290"><a href="Language_PHP-9.html"><span>9</span></a></li>
+<li uk-tooltip="Page 0: 30-0/290"><a href="Language_PHP.html"><span>0</span></a></li>
+<li uk-tooltip="Page 30: 60-1/290"><a href="Language_PHP-1.html"><span>1</span></a></li>
+<li uk-tooltip="Page 60: 90-2/290"><a href="Language_PHP-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 90: 120-3/290"><a href="Language_PHP-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 120: 150-4/290"><a href="Language_PHP-4.html"><span>4</span></a></li>
+<li class="uk-active">
+    <span uk-tooltip="Page 5: 150-180/290}">5</span>
+</li>
+
+<li uk-tooltip="Page 180: 210-6/290"><a href="Language_PHP-6.html"><span>6</span></a></li>
+<li uk-tooltip="Page 210: 240-7/290"><a href="Language_PHP-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 240: 270-8/290"><a href="Language_PHP-8.html"><span>8</span></a></li>
+<li uk-tooltip="Page 270: 300-9/290"><a href="Language_PHP-9.html"><span>9</span></a></li>
+<li uk-tooltip="Page 0: 30-0/290"><a href="Language_PHP.html"><span>0</span></a></li>
+<li uk-tooltip="Page 30: 60-1/290"><a href="Language_PHP-1.html"><span>1</span></a></li>
+<li uk-tooltip="Page 60: 90-2/290"><a href="Language_PHP-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 90: 120-3/290"><a href="Language_PHP-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 120: 150-4/290"><a href="Language_PHP-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 150: 180-5/290"><a href="Language_PHP-5.html"><span>5</span></a></li>
+<li class="uk-active">
+    <span uk-tooltip="Page 6: 180-210/290}">6</span>
+</li>
+
+<li uk-tooltip="Page 210: 240-7/290"><a href="Language_PHP-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 240: 270-8/290"><a href="Language_PHP-8.html"><span>8</span></a></li>
+<li uk-tooltip="Page 270: 300-9/290"><a href="Language_PHP-9.html"><span>9</span></a></li>
+<li uk-tooltip="Page 0: 30-0/290"><a href="Language_PHP.html"><span>0</span></a></li>
+<li uk-tooltip="Page 30: 60-1/290"><a href="Language_PHP-1.html"><span>1</span></a></li>
+<li uk-tooltip="Page 60: 90-2/290"><a href="Language_PHP-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 90: 120-3/290"><a href="Language_PHP-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 120: 150-4/290"><a href="Language_PHP-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 150: 180-5/290"><a href="Language_PHP-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 180: 210-6/290"><a href="Language_PHP-6.html"><span>6</span></a></li>
+<li class="uk-active">
+    <span uk-tooltip="Page 7: 210-240/290}">7</span>
+</li>
+
+<li uk-tooltip="Page 240: 270-8/290"><a href="Language_PHP-8.html"><span>8</span></a></li>
+<li uk-tooltip="Page 270: 300-9/290"><a href="Language_PHP-9.html"><span>9</span></a></li>
+<li uk-tooltip="Page 0: 30-0/290"><a href="Language_PHP.html"><span>0</span></a></li>
+<li uk-tooltip="Page 30: 60-1/290"><a href="Language_PHP-1.html"><span>1</span></a></li>
+<li uk-tooltip="Page 60: 90-2/290"><a href="Language_PHP-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 90: 120-3/290"><a href="Language_PHP-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 120: 150-4/290"><a href="Language_PHP-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 150: 180-5/290"><a href="Language_PHP-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 180: 210-6/290"><a href="Language_PHP-6.html"><span>6</span></a></li>
+<li uk-tooltip="Page 210: 240-7/290"><a href="Language_PHP-7.html"><span>7</span></a></li>
+<li class="uk-active">
+    <span uk-tooltip="Page 8: 240-270/290}">8</span>
+</li>
+
+<li uk-tooltip="Page 270: 300-9/290"><a href="Language_PHP-9.html"><span>9</span></a></li>
+<li uk-tooltip="Page 0: 30-0/290"><a href="Language_PHP.html"><span>0</span></a></li>
+<li uk-tooltip="Page 30: 60-1/290"><a href="Language_PHP-1.html"><span>1</span></a></li>
+<li uk-tooltip="Page 60: 90-2/290"><a href="Language_PHP-2.html"><span>2</span></a></li>
+<li uk-tooltip="Page 90: 120-3/290"><a href="Language_PHP-3.html"><span>3</span></a></li>
+<li uk-tooltip="Page 120: 150-4/290"><a href="Language_PHP-4.html"><span>4</span></a></li>
+<li uk-tooltip="Page 150: 180-5/290"><a href="Language_PHP-5.html"><span>5</span></a></li>
+<li uk-tooltip="Page 180: 210-6/290"><a href="Language_PHP-6.html"><span>6</span></a></li>
+<li uk-tooltip="Page 210: 240-7/290"><a href="Language_PHP-7.html"><span>7</span></a></li>
+<li uk-tooltip="Page 240: 270-8/290"><a href="Language_PHP-8.html"><span>8</span></a></li>
+<li class="uk-active">
+    <span uk-tooltip="Page 9: 270-300/290}">9</span>
+</li>
+
+
+        </ul>
+        <!-- PAGINATION :: END -->
+        <div uk-filter="target: .js-filter">
+            <!-- Search entry :: Start -->
+            <form action="" method="post" class="uk-search uk-search-default uk-width-1-1 uk-margin-medium-bottom">
+                <input id="text_filter" type="search" name="" value="" class="uk-search-input uk-padding-small" autocomplete="off" placeholder="Filter results by title..." autofocus/>
+            </form>
+            <a id="filter" href="#" class="uk-active" uk-filter-control="" hidden></a>
+            <!-- Search entry :: End -->
+            <!-- Filtered rows :: Start -->
+            <ul class="js-filter uk-child-width-1-3@m" uk-grid>
+                            <li data-title="uPste">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="uPste">
+                                    <a class="uk-link-heading uk-text-meta" href="uPste.html">uPste</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Private file hosting application with an emphasis on serving technology communities.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="URL-Shortener">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="URL-Shortener">
+                                    <a class="uk-link-heading uk-text-meta" href="URL-Shortener.html">URL-Shortener</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Make your long links short and only uses lowercase, so you can write and spell them faster.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="UVDesk">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="UVDesk">
+                                    <a class="uk-link-heading uk-text-meta" href="UVDesk.html">UVDesk</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Vanilla_Forums">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Vanilla Forums">
+                                    <a class="uk-link-heading uk-text-meta" href="Vanilla_Forums.html">Vanilla Forums</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Simple and flexible forum software.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="ViMbAdmin">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="ViMbAdmin">
+                                    <a class="uk-link-heading uk-text-meta" href="ViMbAdmin.html">ViMbAdmin</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Provides a web based virtual mailbox administration system to allow mail administrators to easily manage domains, mailboxes and aliases.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Wallabag">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Wallabag">
+                                    <a class="uk-link-heading uk-text-meta" href="Wallabag.html">Wallabag</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Web_fonts_repository">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Web fonts repository">
+                                    <a class="uk-link-heading uk-text-meta" href="Web_fonts_repository.html">Web fonts repository</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Simple webfont hosting. Google Fonts alternative for your own fonts
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="webtrees">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="webtrees">
+                                    <a class="uk-link-heading uk-text-meta" href="webtrees.html">webtrees</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Webtrees is the web's leading on-line collaborative genealogy application.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="WiKiss">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="WiKiss">
+                                    <a class="uk-link-heading uk-text-meta" href="WiKiss.html">WiKiss</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Wiki, simple to use and install.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="WonderCMS">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="WonderCMS">
+                                    <a class="uk-link-heading uk-text-meta" href="WonderCMS.html">WonderCMS</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    WonderCMS is the smallest flat file CMS since 2008.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="WooCommerce">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="WooCommerce">
+                                    <a class="uk-link-heading uk-text-meta" href="WooCommerce.html">WooCommerce</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    WordPress based e-commerce solution.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="WordPress">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="WordPress">
+                                    <a class="uk-link-heading uk-text-meta" href="WordPress.html">WordPress</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    World's most-used blogging and CMS engine.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="XBackBone">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="XBackBone">
+                                    <a class="uk-link-heading uk-text-meta" href="XBackBone.html">XBackBone</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    A simple, fast and lightweight file manager with instant sharing tools integration, like ShareX
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="YOURLS">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="YOURLS">
+                                    <a class="uk-link-heading uk-text-meta" href="YOURLS.html">YOURLS</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Z-Push">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Z-Push">
+                                    <a class="uk-link-heading uk-text-meta" href="Z-Push.html">Z-Push</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Implementation of Microsoft’s [ActiveSync]
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Zenphoto">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Zenphoto">
+                                    <a class="uk-link-heading uk-text-meta" href="Zenphoto.html">Zenphoto</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Open-source gallery and CMS project.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="ZenTao">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="ZenTao">
+                                    <a class="uk-link-heading uk-text-meta" href="ZenTao.html">ZenTao</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    An agile
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Zoneminder">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Zoneminder">
+                                    <a class="uk-link-heading uk-text-meta" href="Zoneminder.html">Zoneminder</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Closed-circuit television
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Zusam">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Zusam">
+                                    <a class="uk-link-heading uk-text-meta" href="Zusam.html">Zusam</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Free and open-source way to self-host private forums for groups of friends or family.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="μlogger">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="μlogger">
+                                    <a class="uk-link-heading uk-text-meta" href="μlogger.html">μlogger</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Collect geolocation from users in real-time and display their GPS tracks on a website.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+
+            </ul> <!-- Filtered rows :: End -->
+        </div>
+        <!-- PAGINATION_HEAD.tpl :: END -->            <!-- FOOTER :: START -->
+            <div class="uk-flex uk-flex-center uk-flex-wrap">
+                <div class="uk-card uk-card-body">
+                    <span class="uk-text-meta">Last update on Mon, Jul 27, 2020 at 19:34</span>
+                </div>
+            </div>
+            <!-- FOOTER :: END -->
+        </div>
+    </div>
+    <!-- CONTENTS (Document) :: END -->
+<script>
+<!-- Necessary javascript for filtering results -->
+<!-- Hack found in: https://codepen.io/acidrums4/pen/GBpYbO -->
+var input = document.getElementById('text_filter');
+var filter = document.getElementById('filter');
+
+input.addEventListener( 'keyup', function(event)
+{
+    if ( input.value == "" )
+    {
+        filter.setAttribute( 'uk-filter-control', '' );
+    }
+
+    else
+    {
+        filter.setAttribute( 'uk-filter-control', 'filter:[data-title*=\'' + input.value + '\'i]' );
+    }
+
+    filter.click();
+});
+</script>
+<script>
+function copyToClipboard() {
+  var copyText = document.getElementById("source-code");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  alert("Text copied to clipboard");
+}
+</script>
+<!-- GRID LAYOUT :: END -->
+</body>
+</html>

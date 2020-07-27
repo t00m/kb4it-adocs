@@ -1,7 +1,7 @@
 = Tiki
 
 :Name:          Tiki
-:Language:      Tiki
+:Language:      PHP
 :License:       LGPL-2.1
 :Topic:         Wikis
 :Category:      

@@ -1,7 +1,7 @@
 = FreedomBone
 
 :Name:          FreedomBone
-:Language:      FreedomBone
+:Language:      Shell
 :License:       AGPL-3.0
 :Topic:         Self-hosting Solutions
 :Category:      

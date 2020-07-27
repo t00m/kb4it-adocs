@@ -1,7 +1,7 @@
 = TheBugGenie
 
 :Name:          TheBugGenie
-:Language:      TheBugGenie
+:Language:      PHP
 :License:       MPL-2.0
 :Topic:         Ticketing
 :Category:      

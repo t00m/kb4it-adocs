@@ -1,7 +1,7 @@
 = Bennedetto
 
 :Name:          Bennedetto
-:Language:      Bennedetto
+:Language:      Python
 :License:       GPL-3.0
 :Topic:         Money, Budgeting and Management
 :Category:      

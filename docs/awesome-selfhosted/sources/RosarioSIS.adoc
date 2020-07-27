@@ -1,7 +1,7 @@
 = RosarioSIS
 
 :Name:          RosarioSIS
-:Language:      RosarioSIS
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         Learning and Courses
 :Category:      

@@ -1,7 +1,7 @@
 = Read the Docs
 
 :Name:          Read the Docs
-:Language:      Read the Docs
+:Language:      Python
 :License:       MIT
 :Topic:         Software Development
 :Category:      Documentation Generators

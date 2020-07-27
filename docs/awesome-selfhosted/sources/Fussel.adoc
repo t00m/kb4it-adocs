@@ -1,7 +1,7 @@
 = Fussel
 
 :Name:          Fussel
-:Language:      Fussel
+:Language:      Python
 :License:       MIT
 :Topic:         Photo and Video Galleries
 :Category:      

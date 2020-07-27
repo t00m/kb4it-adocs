@@ -1,7 +1,7 @@
 = Hospital Run
 
 :Name:          Hospital Run
-:Language:      Hospital Run
+:Language:      Nodejs
 :License:       GPL-3.0
 :Topic:         Money, Budgeting and Management
 :Category:      

@@ -1,7 +1,7 @@
 = PPnet
 
 :Name:          PPnet
-:Language:      PPnet
+:Language:      Javascript
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

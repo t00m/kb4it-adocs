@@ -1,7 +1,7 @@
 = Klaus
 
 :Name:          Klaus
-:Language:      Klaus
+:Language:      Python
 :License:       ISC
 :Topic:         Software Development
 :Category:      Project Management

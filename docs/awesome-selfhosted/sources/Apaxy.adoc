@@ -1,7 +1,7 @@
 = Apaxy
 
 :Name:          Apaxy
-:Language:      Apaxy
+:Language:      HTML
 :License:       Unlicense
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

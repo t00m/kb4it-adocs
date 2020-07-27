@@ -1,7 +1,7 @@
 = ReleaseBell
 
 :Name:          ReleaseBell
-:Language:      ReleaseBell
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

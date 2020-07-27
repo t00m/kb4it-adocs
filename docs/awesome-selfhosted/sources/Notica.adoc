@@ -1,7 +1,7 @@
 = Notica
 
 :Name:          Notica
-:Language:      Notica
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

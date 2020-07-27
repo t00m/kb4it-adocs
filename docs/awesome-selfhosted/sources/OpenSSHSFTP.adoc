@@ -1,7 +1,7 @@
 = OpenSSH/SFTP
 
 :Name:          OpenSSH/SFTP
-:Language:      OpenSSH/SFTP
+:Language:      C
 :License:       BSD-2-Clause
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

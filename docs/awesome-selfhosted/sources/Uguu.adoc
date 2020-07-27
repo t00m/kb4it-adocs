@@ -1,7 +1,7 @@
 = Uguu
 
 :Name:          Uguu
-:Language:      Uguu
+:Language:      PHP
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

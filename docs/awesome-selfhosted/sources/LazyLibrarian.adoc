@@ -1,7 +1,7 @@
 = LazyLibrarian
 
 :Name:          LazyLibrarian
-:Language:      LazyLibrarian
+:Language:      Python
 :License:       GPL-3.0
 :Topic:         Automation
 :Category:      

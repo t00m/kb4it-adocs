@@ -1,7 +1,7 @@
 = Photoview
 
 :Name:          Photoview
-:Language:      Photoview
+:Language:      Go
 :License:       GPL-3.0
 :Topic:         Photo and Video Galleries
 :Category:      

@@ -1,7 +1,7 @@
 = Redbird
 
 :Name:          Redbird
-:Language:      Redbird
+:Language:      Javascript
 :License:       BSD-2-Clause
 :Topic:         Proxy
 :Category:      

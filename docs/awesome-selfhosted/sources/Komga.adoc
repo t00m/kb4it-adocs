@@ -1,7 +1,7 @@
 = Komga
 
 :Name:          Komga
-:Language:      Komga
+:Language:      Java/Docker
 :License:       MIT
 :Topic:         E-books and Integrated Library Systems (ILS)
 :Category:      

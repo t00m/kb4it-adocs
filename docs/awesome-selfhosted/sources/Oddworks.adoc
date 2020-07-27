@@ -1,7 +1,7 @@
 = Oddworks
 
 :Name:          Oddworks
-:Language:      Oddworks
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Video Streaming

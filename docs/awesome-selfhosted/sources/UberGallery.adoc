@@ -1,7 +1,7 @@
 = UberGallery
 
 :Name:          UberGallery
-:Language:      UberGallery
+:Language:      PHP
 :License:       MIT
 :Topic:         Photo and Video Galleries
 :Category:      

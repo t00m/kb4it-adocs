@@ -1,7 +1,7 @@
 = PmWiki
 
 :Name:          PmWiki
-:Language:      PmWiki
+:Language:      PHP
 :License:       GPL-3.0
 :Topic:         Wikis
 :Category:      

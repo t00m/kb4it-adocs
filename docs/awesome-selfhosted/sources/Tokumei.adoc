@@ -1,7 +1,7 @@
 = Tokumei
 
 :Name:          Tokumei
-:Language:      Tokumei
+:Language:      rc
 :License:       ISC
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

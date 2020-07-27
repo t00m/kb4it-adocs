@@ -1,7 +1,7 @@
 = Squid
 
 :Name:          Squid
-:Language:      Squid
+:Language:      C
 :License:       GPL-2.0
 :Topic:         Proxy
 :Category:      

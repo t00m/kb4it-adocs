@@ -1,7 +1,7 @@
 = Weaviate
 
 :Name:          Weaviate
-:Language:      Weaviate
+:Language:      Go
 :License:       BSD-3-Clause
 :Topic:         Knowledge Management Tools
 :Category:      

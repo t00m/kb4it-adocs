@@ -1,7 +1,7 @@
 = IMP
 
 :Name:          IMP
-:Language:      IMP
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      Email

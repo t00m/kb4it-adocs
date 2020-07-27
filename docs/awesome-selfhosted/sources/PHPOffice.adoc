@@ -1,7 +1,7 @@
 = PHPOffice
 
 :Name:          PHPOffice
-:Language:      PHPOffice
+:Language:      PHP
 :License:       LGPL-3.0
 :Topic:         Office Suites
 :Category:      

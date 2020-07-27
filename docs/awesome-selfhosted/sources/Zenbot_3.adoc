@@ -1,7 +1,7 @@
 = Zenbot 3
 
 :Name:          Zenbot 3
-:Language:      Zenbot 3
+:Language:      Node.js
 :License:       MIT
 :Topic:         Automation
 :Category:      

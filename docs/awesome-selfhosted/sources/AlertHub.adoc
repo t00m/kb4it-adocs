@@ -1,7 +1,7 @@
 = AlertHub
 
 :Name:          AlertHub
-:Language:      AlertHub
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

@@ -1,7 +1,7 @@
 = uMap
 
 :Name:          uMap
-:Language:      uMap
+:Language:      Python
 :License:       WTFPL
 :Topic:         Maps and Global Positioning System (GPS)
 :Category:      

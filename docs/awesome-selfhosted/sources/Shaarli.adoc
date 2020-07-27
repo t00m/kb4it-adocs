@@ -1,7 +1,7 @@
 = Shaarli
 
 :Name:          Shaarli
-:Language:      Shaarli
+:Language:      PHP
 :License:       Zlib
 :Topic:         Bookmarks and Link Sharing
 :Category:      
