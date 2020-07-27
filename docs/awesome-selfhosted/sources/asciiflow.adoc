@@ -1,7 +1,7 @@
 = asciiflow
 
 :Name:          asciiflow
-:Language:      asciiflow
+:Language:      Java/JavaScript
 :License:       GPL-3.0
 :Topic:         Misc/Other
 :Category:      

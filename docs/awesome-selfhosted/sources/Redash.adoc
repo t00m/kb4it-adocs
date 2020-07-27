@@ -1,7 +1,7 @@
 = Redash
 
 :Name:          Redash
-:Language:      Redash
+:Language:      Python
 :License:       BSD-2-Clause
 :Topic:         Analytics
 :Category:      

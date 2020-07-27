@@ -1,7 +1,7 @@
 = Hexo
 
 :Name:          Hexo
-:Language:      Hexo
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Blogging Platforms
 :Category:      

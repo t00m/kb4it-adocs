@@ -1,7 +1,7 @@
 = Spree Commerce
 
 :Name:          Spree Commerce
-:Language:      Spree Commerce
+:Language:      Ruby
 :License:       BSD-3-Clause
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

@@ -1,7 +1,7 @@
 = Pimcore
 
 :Name:          Pimcore
-:Language:      Pimcore
+:Language:      PHP
 :License:       GPL-3.0-or-later
 :Topic:         Content Management Systems (CMS)
 :Category:      

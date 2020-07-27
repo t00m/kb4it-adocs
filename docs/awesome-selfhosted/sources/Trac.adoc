@@ -1,7 +1,7 @@
 = Trac
 
 :Name:          Trac
-:Language:      Trac
+:Language:      Python
 :License:       BSD-3-Clause
 :Topic:         Software Development
 :Category:      Project Management

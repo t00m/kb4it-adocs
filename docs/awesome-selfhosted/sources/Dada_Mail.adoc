@@ -1,7 +1,7 @@
 = Dada Mail
 
 :Name:          Dada Mail
-:Language:      Dada Mail
+:Language:      Perl
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      Email

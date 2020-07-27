@@ -1,7 +1,7 @@
 = Ulterius
 
 :Name:          Ulterius
-:Language:      Ulterius
+:Language:      C-SHARP
 :License:       MPL-2.0
 :Topic:         Misc/Other
 :Category:      

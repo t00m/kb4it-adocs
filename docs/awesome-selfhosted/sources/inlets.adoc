@@ -1,7 +1,7 @@
 = inlets
 
 :Name:          inlets
-:Language:      inlets
+:Language:      Go/Docker
 :License:       MIT
 :Topic:         Proxy
 :Category:      

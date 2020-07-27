@@ -1,7 +1,7 @@
 = Easy!Appointments
 
 :Name:          Easy!Appointments
-:Language:      Easy!Appointments
+:Language:      PHP
 :License:       GPL-3.0
 :Topic:         Polls and Events
 :Category:      Booking and Scheduling

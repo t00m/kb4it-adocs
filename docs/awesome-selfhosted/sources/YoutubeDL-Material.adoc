@@ -1,7 +1,7 @@
 = YoutubeDL-Material
 
 :Name:          YoutubeDL-Material
-:Language:      YoutubeDL-Material
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Automation
 :Category:      

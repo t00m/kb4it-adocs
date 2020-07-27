@@ -1,7 +1,7 @@
 = Zulip
 
 :Name:          Zulip
-:Language:      Zulip
+:Language:      Python
 :License:       Apache-2.0/Other
 :Topic:         Communication systems
 :Category:      Custom communication systems

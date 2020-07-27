@@ -1,7 +1,7 @@
 = Meemo
 
 :Name:          Meemo
-:Language:      Meemo
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Note-taking and Editors
 :Category:      

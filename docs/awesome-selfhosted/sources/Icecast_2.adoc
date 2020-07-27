@@ -1,7 +1,7 @@
 = Icecast 2
 
 :Name:          Icecast 2
-:Language:      Icecast 2
+:Language:      C
 :License:       GPL-2.0
 :Topic:         Media Streaming
 :Category:      Multimedia Streaming

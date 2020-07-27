@@ -1,7 +1,7 @@
 = Budget App
 
 :Name:          Budget App
-:Language:      Budget App
+:Language:      Java
 :License:       Apache-2.0
 :Topic:         Money, Budgeting and Management
 :Category:      

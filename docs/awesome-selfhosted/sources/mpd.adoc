@@ -1,7 +1,7 @@
 = mpd
 
 :Name:          mpd
-:Language:      mpd
+:Language:      C-PLUS-PLUS
 :License:       GPL-2.0
 :Topic:         Media Streaming
 :Category:      Audio Streaming

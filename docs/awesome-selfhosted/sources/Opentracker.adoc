@@ -1,7 +1,7 @@
 = Opentracker
 
 :Name:          Opentracker
-:Language:      Opentracker
+:Language:      C
 :License:       Beerware
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

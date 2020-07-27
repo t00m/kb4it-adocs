@@ -1,7 +1,7 @@
 = Access to Memory (Ato
 
 :Name:          Access to Memory (Ato
-:Language:      Access to Memory (Ato
+:Language:      PHP
 :License:       AGPL-3.0-only
 :Topic:         Archiving and Digital Preservation (DP)
 :Category:      

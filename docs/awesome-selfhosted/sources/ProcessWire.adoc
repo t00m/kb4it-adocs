@@ -1,7 +1,7 @@
 = ProcessWire
 
 :Name:          ProcessWire
-:Language:      ProcessWire
+:Language:      PHP
 :License:       MPL-2.0
 :Topic:         Content Management Systems (CMS)
 :Category:      

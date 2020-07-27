@@ -1,7 +1,7 @@
 = snipt
 
 :Name:          snipt
-:Language:      snipt
+:Language:      Python
 :License:       MIT
 :Topic:         Pastebins
 :Category:      

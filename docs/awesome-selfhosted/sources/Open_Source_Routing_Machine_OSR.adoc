@@ -1,7 +1,7 @@
 = Open Source Routing Machine (OSR
 
 :Name:          Open Source Routing Machine (OSR
-:Language:      Open Source Routing Machine (OSR
+:Language:      C-PLUS-PLUS
 :License:       BSD-2-Clause
 :Topic:         Maps and Global Positioning System (GPS)
 :Category:      

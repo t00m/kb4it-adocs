@@ -1,7 +1,7 @@
 = ProjeQtOr
 
 :Name:          ProjeQtOr
-:Language:      ProjeQtOr
+:Language:      PHP
 :License:       AGPL-3.0
 :Topic:         Software Development
 :Category:      Project Management

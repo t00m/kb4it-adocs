@@ -1,7 +1,7 @@
 = HuBoard
 
 :Name:          HuBoard
-:Language:      HuBoard
+:Language:      Ruby
 :License:       MIT
 :Topic:         Ticketing
 :Category:      

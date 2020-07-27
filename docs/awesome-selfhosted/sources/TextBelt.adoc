@@ -1,7 +1,7 @@
 = TextBelt
 
 :Name:          TextBelt
-:Language:      TextBelt
+:Language:      Javascript
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Custom communication systems

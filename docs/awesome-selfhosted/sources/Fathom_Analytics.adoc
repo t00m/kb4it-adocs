@@ -1,7 +1,7 @@
 = Fathom Analytics
 
 :Name:          Fathom Analytics
-:Language:      Fathom Analytics
+:Language:      Go
 :License:       MIT
 :Topic:         Analytics
 :Category:      

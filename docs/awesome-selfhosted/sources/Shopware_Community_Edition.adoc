@@ -1,7 +1,7 @@
 = Shopware Community Edition
 
 :Name:          Shopware Community Edition
-:Language:      Shopware Community Edition
+:Language:      PHP
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

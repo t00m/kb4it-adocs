@@ -1,7 +1,7 @@
 = FreedomBox
 
 :Name:          FreedomBox
-:Language:      FreedomBox
+:Language:      Python/Other
 :License:       GPL-3.0
 :Topic:         Self-hosting Solutions
 :Category:      

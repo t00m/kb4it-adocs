@@ -1,7 +1,7 @@
 = Net64+
 
 :Name:          Net64+
-:Language:      Net64+
+:Language:      Nodejs/Typescript
 :License:       MIT
 :Topic:         Games
 :Category:      

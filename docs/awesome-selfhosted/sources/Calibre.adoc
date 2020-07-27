@@ -1,7 +1,7 @@
 = Calibre
 
 :Name:          Calibre
-:Language:      Calibre
+:Language:      Python
 :License:       GPL-3.0
 :Topic:         E-books and Integrated Library Systems (ILS)
 :Category:      

@@ -1,7 +1,7 @@
 = Beauties
 
 :Name:          Beauties
-:Language:      Beauties
+:Language:      Go
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

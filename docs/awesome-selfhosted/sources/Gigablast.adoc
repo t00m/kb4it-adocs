@@ -1,7 +1,7 @@
 = Gigablast
 
 :Name:          Gigablast
-:Language:      Gigablast
+:Language:      C-PLUS-PLUS
 :License:       Apache-2.0
 :Topic:         Search Engines
 :Category:      

@@ -1,7 +1,7 @@
 = Accent
 
 :Name:          Accent
-:Language:      Accent
+:Language:      Elixir
 :License:       BSD-3-Clause
 :Topic:         Software Development
 :Category:      Localization

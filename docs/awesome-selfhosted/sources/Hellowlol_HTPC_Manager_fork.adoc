@@ -1,7 +1,7 @@
 = Hellowlol HTPC Manager fork
 
 :Name:          Hellowlol HTPC Manager fork
-:Language:      Hellowlol HTPC Manager fork
+:Language:      Python
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Video Streaming

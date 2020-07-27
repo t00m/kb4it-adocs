@@ -1,7 +1,7 @@
 = Stringer
 
 :Name:          Stringer
-:Language:      Stringer
+:Language:      Ruby
 :License:       MIT
 :Topic:         Feed Readers
 :Category:      

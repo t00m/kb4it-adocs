@@ -1,7 +1,7 @@
 = Node RED
 
 :Name:          Node RED
-:Language:      Node RED
+:Language:      Nodejs
 :License:       Apache-2.0
 :Topic:         Internet Of Things (IoT)
 :Category:      

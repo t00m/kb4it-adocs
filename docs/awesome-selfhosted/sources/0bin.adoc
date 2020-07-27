@@ -1,7 +1,7 @@
 = 0bin
 
 :Name:          0bin
-:Language:      0bin
+:Language:      Python
 :License:       WTFPL
 :Topic:         Pastebins
 :Category:      

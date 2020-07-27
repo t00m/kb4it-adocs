@@ -1,7 +1,7 @@
 = PHP-Proxy
 
 :Name:          PHP-Proxy
-:Language:      PHP-Proxy
+:Language:      PHP
 :License:       MIT
 :Topic:         Proxy
 :Category:      

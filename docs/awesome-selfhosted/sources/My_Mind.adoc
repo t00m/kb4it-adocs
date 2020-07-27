@@ -1,7 +1,7 @@
 = My Mind
 
 :Name:          My Mind
-:Language:      My Mind
+:Language:      Javascript
 :License:       MIT
 :Topic:         Knowledge Management Tools
 :Category:      

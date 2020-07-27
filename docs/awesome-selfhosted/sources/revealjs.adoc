@@ -1,7 +1,7 @@
 = revealjs
 
 :Name:          revealjs
-:Language:      revealjs
+:Language:      JavaScript
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

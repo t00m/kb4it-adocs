@@ -1,7 +1,7 @@
 = Tine 2.0
 
 :Name:          Tine 2.0
-:Language:      Tine 2.0
+:Language:      PHP
 :License:       AGPL-3.0/Other
 :Topic:         Groupware
 :Category:      

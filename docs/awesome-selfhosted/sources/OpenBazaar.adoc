@@ -1,7 +1,7 @@
 = OpenBazaar
 
 :Name:          OpenBazaar
-:Language:      OpenBazaar
+:Language:      Go
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      E-commerce

@@ -1,7 +1,7 @@
 = Polr
 
 :Name:          Polr
-:Language:      Polr
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         URL Shorteners
 :Category:      

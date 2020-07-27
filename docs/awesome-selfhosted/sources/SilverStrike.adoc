@@ -1,7 +1,7 @@
 = SilverStrike
 
 :Name:          SilverStrike
-:Language:      SilverStrike
+:Language:      Python/Django
 :License:       MIT
 :Topic:         Money, Budgeting and Management
 :Category:      

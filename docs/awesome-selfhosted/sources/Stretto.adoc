@@ -1,7 +1,7 @@
 = Stretto
 
 :Name:          Stretto
-:Language:      Stretto
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Media Streaming
 :Category:      Audio Streaming

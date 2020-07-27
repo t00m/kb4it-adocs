@@ -1,7 +1,7 @@
 = EdPaste
 
 :Name:          EdPaste
-:Language:      EdPaste
+:Language:      PHP
 :License:       MIT
 :Topic:         Pastebins
 :Category:      

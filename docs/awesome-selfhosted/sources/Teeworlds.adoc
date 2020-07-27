@@ -1,7 +1,7 @@
 = Teeworlds
 
 :Name:          Teeworlds
-:Language:      Teeworlds
+:Language:      C-PLUS-PLUS
 :License:       BSD-3-Clause/Other
 :Topic:         Games
 :Category:      

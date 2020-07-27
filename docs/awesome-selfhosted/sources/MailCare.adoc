@@ -1,7 +1,7 @@
 = MailCare
 
 :Name:          MailCare
-:Language:      MailCare
+:Language:      PHP
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Email

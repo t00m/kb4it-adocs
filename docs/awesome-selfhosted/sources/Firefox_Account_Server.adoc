@@ -1,7 +1,7 @@
 = Firefox Account Server
 
 :Name:          Firefox Account Server
-:Language:      Firefox Account Server
+:Language:      Nodejs, Java
 :License:       MPL-2.0
 :Topic:         Bookmarks and Link Sharing
 :Category:      

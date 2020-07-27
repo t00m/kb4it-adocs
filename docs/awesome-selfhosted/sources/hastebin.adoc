@@ -1,7 +1,7 @@
 = hastebin
 
 :Name:          hastebin
-:Language:      hastebin
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Pastebins
 :Category:      

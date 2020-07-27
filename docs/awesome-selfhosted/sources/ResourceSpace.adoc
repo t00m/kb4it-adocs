@@ -1,7 +1,7 @@
 = ResourceSpace
 
 :Name:          ResourceSpace
-:Language:      ResourceSpace
+:Language:      PHP
 :License:       Other
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

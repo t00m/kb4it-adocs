@@ -1,7 +1,7 @@
 = Noddity
 
 :Name:          Noddity
-:Language:      Noddity
+:Language:      Nodejs
 :License:       WTFPL
 :Topic:         Blogging Platforms
 :Category:      

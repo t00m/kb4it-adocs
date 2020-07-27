@@ -1,7 +1,7 @@
 = Outline
 
 :Name:          Outline
-:Language:      Outline
+:Language:      Nodejs
 :License:       BSD-3-Clause
 :Topic:         Wikis
 :Category:      

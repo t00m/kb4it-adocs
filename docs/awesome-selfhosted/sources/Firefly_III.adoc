@@ -1,7 +1,7 @@
 = Firefly III
 
 :Name:          Firefly III
-:Language:      Firefly III
+:Language:      PHP
 :License:       AGPL-3.0
 :Topic:         Money, Budgeting and Management
 :Category:      

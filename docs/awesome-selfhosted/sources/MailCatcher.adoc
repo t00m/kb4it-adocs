@@ -1,7 +1,7 @@
 = MailCatcher
 
 :Name:          MailCatcher
-:Language:      MailCatcher
+:Language:      Ruby
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Email

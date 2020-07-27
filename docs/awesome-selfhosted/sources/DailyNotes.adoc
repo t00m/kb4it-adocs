@@ -1,7 +1,7 @@
 = DailyNotes
 
 :Name:          DailyNotes
-:Language:      DailyNotes
+:Language:      Python
 :License:       MIT
 :Topic:         Note-taking and Editors
 :Category:      

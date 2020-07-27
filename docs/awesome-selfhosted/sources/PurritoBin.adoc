@@ -1,7 +1,7 @@
 = PurritoBin
 
 :Name:          PurritoBin
-:Language:      PurritoBin
+:Language:      C-PLUS-PLUS
 :License:       ISC
 :Topic:         Pastebins
 :Category:      

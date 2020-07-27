@@ -1,7 +1,7 @@
 = Posio
 
 :Name:          Posio
-:Language:      Posio
+:Language:      Python
 :License:       MIT
 :Topic:         Games
 :Category:      

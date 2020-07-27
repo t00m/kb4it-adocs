@@ -1,7 +1,7 @@
 = ILIAS
 
 :Name:          ILIAS
-:Language:      ILIAS
+:Language:      PHP
 :License:       GPL-3.0
 :Topic:         Learning and Courses
 :Category:      

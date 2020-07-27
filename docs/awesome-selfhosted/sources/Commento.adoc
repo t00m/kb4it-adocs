@@ -1,7 +1,7 @@
 = Commento
 
 :Name:          Commento
-:Language:      Commento
+:Language:      GO
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

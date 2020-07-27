@@ -1,7 +1,7 @@
 = ${var['name']}
 
 :Name:          ${var['name']}
-:Language:      ${var['name']}
+:Language:      ${var['language']}
 :License:       ${var['license']}
 :Topic:         ${var['topic']}
 :Category:      ${var['category']}

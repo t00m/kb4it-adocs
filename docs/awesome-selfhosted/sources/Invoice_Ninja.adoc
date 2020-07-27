@@ -1,7 +1,7 @@
 = Invoice Ninja
 
 :Name:          Invoice Ninja
-:Language:      Invoice Ninja
+:Language:      PHP
 :License:       AAL
 :Topic:         Money, Budgeting and Management
 :Category:      

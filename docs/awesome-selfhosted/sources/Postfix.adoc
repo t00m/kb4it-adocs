@@ -1,7 +1,7 @@
 = Postfix
 
 :Name:          Postfix
-:Language:      Postfix
+:Language:      C
 :License:       IPL-1.0
 :Topic:         Communication systems
 :Category:      Email

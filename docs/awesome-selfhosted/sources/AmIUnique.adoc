@@ -1,7 +1,7 @@
 = AmIUnique
 
 :Name:          AmIUnique
-:Language:      AmIUnique
+:Language:      Java
 :License:       MIT
 :Topic:         Automation
 :Category:      

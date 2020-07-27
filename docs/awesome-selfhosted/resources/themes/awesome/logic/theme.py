@@ -92,6 +92,8 @@ class Theme(KB4ITBuilder):
                 # Language
                 sl = line[:-1].rfind('`')
                 lang = line[sl+1:-1]
+                lang = lang.replace('#', '-SHARP')
+                lang = lang.replace('+', '-PLUS')
                 line = line[:sl-1]
                 solution['language'] = lang
 
@@ -179,7 +181,6 @@ class Theme(KB4ITBuilder):
             self.log.error(error)
             exit()
 
-
     def write_page(self, solution):
         PAGE = self.template('PAGE')
         NAME = valid_filename(solution['name'])
@@ -195,11 +196,12 @@ class Theme(KB4ITBuilder):
         all_keys = self.srvdtb.get_all_keys()
         var = {}
 
-        custom_buttons = ''
+        custom_buttons = []
         for key in all_keys:
             ignored_keys = self.srvdtb.get_ignored_keys()
             if key not in ignored_keys:
                 html = self.create_tagcloud_from_key(key)
+                # ~ self.log.error(html)
                 values = self.srvdtb.get_all_values_for_key(key)
                 frequency = len(values)
                 size = get_font_size(frequency, max_frequency)
@@ -212,8 +214,8 @@ class Theme(KB4ITBuilder):
                 btn['key'] = key
                 btn['content'] = html
                 button = TPL_KEY_MODAL_BUTTON.render(var=btn) # % (, tooltip, size, key, valid_filename(key), valid_filename(key), key, html)
-                custom_buttons += button
-                self.properties[key] = html
+                custom_buttons .append(button)
+                self.properties[key] = button
         var['buttons'] = custom_buttons
         content = TPL_PROPS_PAGE.render(var=var)
         self.distribute('properties', content)
@@ -227,7 +229,7 @@ class Theme(KB4ITBuilder):
         PAGE = self.template('PAGE_INDEX')
         var = {}
         var['index'] = self.index
-        var['topic'] = self.properties['Topic']
+        var['topic'] = self.create_tagcloud_from_key('Topic')
         CONTENT = PAGE.render(var=var)
         self.distribute('index', CONTENT)
 

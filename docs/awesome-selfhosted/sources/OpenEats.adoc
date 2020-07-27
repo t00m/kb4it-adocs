@@ -1,7 +1,7 @@
 = OpenEats
 
 :Name:          OpenEats
-:Language:      OpenEats
+:Language:      Python
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

@@ -1,7 +1,7 @@
 = DirectoryLister
 
 :Name:          DirectoryLister
-:Language:      DirectoryLister
+:Language:      PHP
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

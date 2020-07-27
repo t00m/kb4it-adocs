@@ -1,7 +1,7 @@
 = Http2pic
 
 :Name:          Http2pic
-:Language:      Http2pic
+:Language:      PHP/Javascript
 :License:       Apache-2.0
 :Topic:         Automation
 :Category:      

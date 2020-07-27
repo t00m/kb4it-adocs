@@ -1,7 +1,7 @@
 = Baby Buddy
 
 :Name:          Baby Buddy
-:Language:      Baby Buddy
+:Language:      Python
 :License:       BSD-2-Clause
 :Topic:         Personal Dashboards
 :Category:      

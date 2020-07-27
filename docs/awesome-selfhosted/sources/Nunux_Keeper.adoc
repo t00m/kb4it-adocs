@@ -1,7 +1,7 @@
 = Nunux Keeper
 
 :Name:          Nunux Keeper
-:Language:      Nunux Keeper
+:Language:      Nodejs
 :License:       GPL-3.0
 :Topic:         Read it Later Lists
 :Category:      

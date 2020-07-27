@@ -1,7 +1,7 @@
 = crtmpserver
 
 :Name:          crtmpserver
-:Language:      crtmpserver
+:Language:      C-PLUS-PLUS
 :License:       GPL-3.0
 :Topic:         Media Streaming
 :Category:      Video Streaming

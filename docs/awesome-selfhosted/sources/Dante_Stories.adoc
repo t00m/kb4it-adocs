@@ -1,7 +1,7 @@
 = Dante Stories
 
 :Name:          Dante Stories
-:Language:      Dante Stories
+:Language:      Ruby
 :License:       MIT
 :Topic:         Blogging Platforms
 :Category:      

@@ -1,7 +1,7 @@
 = Snibox
 
 :Name:          Snibox
-:Language:      Snibox
+:Language:      Ruby
 :License:       MIT
 :Topic:         Pastebins
 :Category:      

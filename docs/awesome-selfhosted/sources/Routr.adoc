@@ -1,7 +1,7 @@
 = Routr
 
 :Name:          Routr
-:Language:      Routr
+:Language:      JavaScript
 :License:       MIT
 :Topic:         Communication systems
 :Category:      SIP

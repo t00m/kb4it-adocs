@@ -1,7 +1,7 @@
 = Mozilla Gateway
 
 :Name:          Mozilla Gateway
-:Language:      Mozilla Gateway
+:Language:      NodeJS
 :License:       MPL-2.0
 :Topic:         Internet Of Things (IoT)
 :Category:      

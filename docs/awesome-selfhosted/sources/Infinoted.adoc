@@ -1,7 +1,7 @@
 = Infinoted
 
 :Name:          Infinoted
-:Language:      Infinoted
+:Language:      C-PLUS-PLUS
 :License:       MIT
 :Topic:         Office Suites
 :Category:      

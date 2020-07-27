@@ -1,7 +1,7 @@
 = Linkr
 
 :Name:          Linkr
-:Language:      Linkr
+:Language:      Python/Nodejs
 :License:       MIT
 :Topic:         URL Shorteners
 :Category:      

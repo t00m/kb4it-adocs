@@ -1,7 +1,7 @@
 = MantisBT
 
 :Name:          MantisBT
-:Language:      MantisBT
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         Ticketing
 :Category:      

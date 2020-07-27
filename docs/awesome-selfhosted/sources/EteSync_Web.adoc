@@ -1,7 +1,7 @@
 = EteSync Web
 
 :Name:          EteSync Web
-:Language:      EteSync Web
+:Language:      TypeScript
 :License:       AGPL-3.0
 :Topic:         Calendaring and Contacts Management
 :Category:      

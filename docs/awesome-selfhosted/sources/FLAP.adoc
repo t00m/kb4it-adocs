@@ -1,7 +1,7 @@
 = FLAP
 
 :Name:          FLAP
-:Language:      FLAP
+:Language:      Docker/Shell
 :License:       AGPL-3.0
 :Topic:         Self-hosting Solutions
 :Category:      

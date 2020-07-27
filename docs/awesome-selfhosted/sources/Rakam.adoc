@@ -1,7 +1,7 @@
 = Rakam
 
 :Name:          Rakam
-:Language:      Rakam
+:Language:      Java
 :License:       Apache-2.0
 :Topic:         Analytics
 :Category:      

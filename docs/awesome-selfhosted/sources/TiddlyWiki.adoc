@@ -1,7 +1,7 @@
 = TiddlyWiki
 
 :Name:          TiddlyWiki
-:Language:      TiddlyWiki
+:Language:      Nodejs
 :License:       BSD-3-Clause
 :Topic:         Wikis
 :Category:      

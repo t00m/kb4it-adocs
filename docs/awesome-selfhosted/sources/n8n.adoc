@@ -1,7 +1,7 @@
 = n8n
 
 :Name:          n8n
-:Language:      n8n
+:Language:      Nodejs
 :License:       Apache-2.0
 :Topic:         Automation
 :Category:      

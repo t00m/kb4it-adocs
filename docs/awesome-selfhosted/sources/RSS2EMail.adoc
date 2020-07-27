@@ -1,7 +1,7 @@
 = RSS2EMail
 
 :Name:          RSS2EMail
-:Language:      RSS2EMail
+:Language:      Python
 :License:       GPL-2.0
 :Topic:         Feed Readers
 :Category:      

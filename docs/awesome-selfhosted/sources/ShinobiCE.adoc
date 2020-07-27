@@ -1,7 +1,7 @@
 = ShinobiCE
 
 :Name:          ShinobiCE
-:Language:      ShinobiCE
+:Language:      Nodejs
 :License:       AGPL-3.0/GPL-3.0
 :Topic:         Media Streaming
 :Category:      Video Streaming

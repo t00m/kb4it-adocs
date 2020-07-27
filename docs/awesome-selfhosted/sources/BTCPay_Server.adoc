@@ -1,7 +1,7 @@
 = BTCPay Server
 
 :Name:          BTCPay Server
-:Language:      BTCPay Server
+:Language:      C-SHARP
 :License:       MIT
 :Topic:         Money, Budgeting and Management
 :Category:      

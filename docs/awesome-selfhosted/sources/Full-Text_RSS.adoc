@@ -1,7 +1,7 @@
 = Full-Text RSS
 
 :Name:          Full-Text RSS
-:Language:      Full-Text RSS
+:Language:      PHP
 :License:       GPL-3.0
 :Topic:         Feed Readers
 :Category:      

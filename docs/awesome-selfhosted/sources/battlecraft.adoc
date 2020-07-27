@@ -1,7 +1,7 @@
 = battlecraft
 
 :Name:          battlecraft
-:Language:      battlecraft
+:Language:      Erlang
 :License:       Apache-2.0
 :Topic:         Games
 :Category:      

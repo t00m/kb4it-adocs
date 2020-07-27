@@ -1,7 +1,7 @@
 = Photo Stream
 
 :Name:          Photo Stream
-:Language:      Photo Stream
+:Language:      Ruby
 :License:       MIT
 :Topic:         Photo and Video Galleries
 :Category:      

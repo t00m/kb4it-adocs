@@ -1,7 +1,7 @@
 = homebank-converter
 
 :Name:          homebank-converter
-:Language:      homebank-converter
+:Language:      HTML5
 :License:       AGPL-3.0
 :Topic:         Automation
 :Category:      

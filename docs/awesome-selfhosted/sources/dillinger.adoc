@@ -1,7 +1,7 @@
 = dillinger
 
 :Name:          dillinger
-:Language:      dillinger
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Note-taking and Editors
 :Category:      

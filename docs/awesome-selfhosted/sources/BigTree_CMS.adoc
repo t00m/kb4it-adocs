@@ -1,7 +1,7 @@
 = BigTree CMS
 
 :Name:          BigTree CMS
-:Language:      BigTree CMS
+:Language:      PHP
 :License:       LGPL-2.1
 :Topic:         Content Management Systems (CMS)
 :Category:      

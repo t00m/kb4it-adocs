@@ -1,7 +1,7 @@
 = Qmail
 
 :Name:          Qmail
-:Language:      Qmail
+:Language:      C
 :License:       CC0-1.0
 :Topic:         Communication systems
 :Category:      Email

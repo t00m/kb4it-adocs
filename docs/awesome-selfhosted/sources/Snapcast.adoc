@@ -1,7 +1,7 @@
 = Snapcast
 
 :Name:          Snapcast
-:Language:      Snapcast
+:Language:      C-PLUS-PLUS
 :License:       GPL-3.0
 :Topic:         Media Streaming
 :Category:      Audio Streaming

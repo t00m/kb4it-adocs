@@ -1,7 +1,7 @@
 = Robust IRC
 
 :Name:          Robust IRC
-:Language:      Robust IRC
+:Language:      Go
 :License:       BSD-3-Clause
 :Topic:         Communication systems
 :Category:      IRC

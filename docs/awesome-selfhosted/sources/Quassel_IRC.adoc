@@ -1,7 +1,7 @@
 = Quassel IRC
 
 :Name:          Quassel IRC
-:Language:      Quassel IRC
+:Language:      C-PLUS-PLUS
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      IRC

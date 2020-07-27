@@ -1,7 +1,7 @@
 = Dispatch
 
 :Name:          Dispatch
-:Language:      Dispatch
+:Language:      Go
 :License:       MIT
 :Topic:         Communication systems
 :Category:      IRC

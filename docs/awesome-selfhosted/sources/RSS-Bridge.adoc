@@ -1,7 +1,7 @@
 = RSS-Bridge
 
 :Name:          RSS-Bridge
-:Language:      RSS-Bridge
+:Language:      PHP
 :License:       Unlicense
 :Topic:         Feed Readers
 :Category:      

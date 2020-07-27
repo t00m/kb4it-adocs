@@ -1,7 +1,7 @@
 = Shiori
 
 :Name:          Shiori
-:Language:      Shiori
+:Language:      Go
 :License:       MIT
 :Topic:         Bookmarks and Link Sharing
 :Category:      

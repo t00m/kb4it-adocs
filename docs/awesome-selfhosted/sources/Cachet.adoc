@@ -1,7 +1,7 @@
 = Cachet
 
 :Name:          Cachet
-:Language:      Cachet
+:Language:      PHP
 :License:       BSD-3-Clause
 :Topic:         Misc/Other
 :Category:      

@@ -1,7 +1,7 @@
 = Agar.IO Clone
 
 :Name:          Agar.IO Clone
-:Language:      Agar.IO Clone
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Games
 :Category:      

@@ -1,7 +1,7 @@
 = Lobsters
 
 :Name:          Lobsters
-:Language:      Lobsters
+:Language:      Ruby
 :License:       BSD-3-Clause
 :Topic:         Bookmarks and Link Sharing
 :Category:      

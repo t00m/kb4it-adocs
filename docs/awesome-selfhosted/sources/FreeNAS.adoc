@@ -1,7 +1,7 @@
 = FreeNAS
 
 :Name:          FreeNAS
-:Language:      FreeNAS
+:Language:      Python/Other
 :License:       BSD-3-Clause
 :Topic:         Self-hosting Solutions
 :Category:      

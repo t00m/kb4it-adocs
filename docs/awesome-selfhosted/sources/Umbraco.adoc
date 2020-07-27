@@ -1,7 +1,7 @@
 = Umbraco
 
 :Name:          Umbraco
-:Language:      Umbraco
+:Language:      .NET
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

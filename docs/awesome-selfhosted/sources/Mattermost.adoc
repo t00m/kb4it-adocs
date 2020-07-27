@@ -1,7 +1,7 @@
 = Mattermost
 
 :Name:          Mattermost
-:Language:      Mattermost
+:Language:      Go
 :License:       AGPL-3.0/Apache-2.0
 :Topic:         Communication systems
 :Category:      Custom communication systems

@@ -1,7 +1,7 @@
 = Baïkal
 
 :Name:          Baïkal
-:Language:      Baïkal
+:Language:      PHP
 :License:       GPL-3.0
 :Topic:         Calendaring and Contacts Management
 :Category:      

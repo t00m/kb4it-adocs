@@ -1,7 +1,7 @@
 = Snowplow
 
 :Name:          Snowplow
-:Language:      Snowplow
+:Language:      Scala
 :License:       Apache-2.0
 :Topic:         Analytics
 :Category:      

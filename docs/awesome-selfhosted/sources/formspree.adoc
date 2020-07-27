@@ -1,7 +1,7 @@
 = formspree
 
 :Name:          formspree
-:Language:      formspree
+:Language:      Python
 :License:       AGPL-3.0
 :Topic:         Misc/Other
 :Category:      

@@ -1,7 +1,7 @@
 = Qmailtoaster
 
 :Name:          Qmailtoaster
-:Language:      Qmailtoaster
+:Language:      Linux
 :License:       Multiple
 :Topic:         Communication systems
 :Category:      Email

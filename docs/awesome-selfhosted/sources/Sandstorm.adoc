@@ -1,7 +1,7 @@
 = Sandstorm
 
 :Name:          Sandstorm
-:Language:      Sandstorm
+:Language:      C-PLUS-PLUS/Other
 :License:       Apache-2.0
 :Topic:         Self-hosting Solutions
 :Category:      

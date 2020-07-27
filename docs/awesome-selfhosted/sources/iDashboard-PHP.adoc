@@ -1,7 +1,7 @@
 = iDashboard-PHP
 
 :Name:          iDashboard-PHP
-:Language:      iDashboard-PHP
+:Language:      PHP
 :License:       MIT
 :Topic:         Personal Dashboards
 :Category:      

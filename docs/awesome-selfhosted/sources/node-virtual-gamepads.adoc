@@ -1,7 +1,7 @@
 = node-virtual-gamepads
 
 :Name:          node-virtual-gamepads
-:Language:      node-virtual-gamepads
+:Language:      Nodejs/CoffeScript
 :License:       MIT
 :Topic:         Games
 :Category:      

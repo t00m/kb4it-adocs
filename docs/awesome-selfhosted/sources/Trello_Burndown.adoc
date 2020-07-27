@@ -1,7 +1,7 @@
 = Trello Burndown
 
 :Name:          Trello Burndown
-:Language:      Trello Burndown
+:Language:      Go/Docker
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

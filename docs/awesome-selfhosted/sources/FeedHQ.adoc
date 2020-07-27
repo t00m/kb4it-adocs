@@ -1,7 +1,7 @@
 = FeedHQ
 
 :Name:          FeedHQ
-:Language:      FeedHQ
+:Language:      Python
 :License:       BSD-3-Clause
 :Topic:         Feed Readers
 :Category:      

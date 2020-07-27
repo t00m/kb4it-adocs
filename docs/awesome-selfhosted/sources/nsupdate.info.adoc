@@ -1,7 +1,7 @@
 = nsupdate.info
 
 :Name:          nsupdate.info
-:Language:      nsupdate.info
+:Language:      Python
 :License:       BSD-3-Clause
 :Topic:         DNS
 :Category:      

@@ -1,7 +1,7 @@
 = Bumpy Booby
 
 :Name:          Bumpy Booby
-:Language:      Bumpy Booby
+:Language:      PHP
 :License:       MIT
 :Topic:         Ticketing
 :Category:      

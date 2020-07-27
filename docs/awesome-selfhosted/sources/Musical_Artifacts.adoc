@@ -1,7 +1,7 @@
 = Musical Artifacts
 
 :Name:          Musical Artifacts
-:Language:      Musical Artifacts
+:Language:      Ruby
 :License:       MIT
 :Topic:         Misc/Other
 :Category:      

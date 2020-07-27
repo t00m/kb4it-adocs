@@ -1,7 +1,7 @@
 = JARR
 
 :Name:          JARR
-:Language:      JARR
+:Language:      Python
 :License:       AGPL-3.0
 :Topic:         Feed Readers
 :Category:      

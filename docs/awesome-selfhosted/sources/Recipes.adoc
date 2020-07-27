@@ -1,7 +1,7 @@
 = Recipes
 
 :Name:          Recipes
-:Language:      Recipes
+:Language:      Python
 :License:       MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

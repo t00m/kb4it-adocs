@@ -1,7 +1,7 @@
 = Personal management system
 
 :Name:          Personal management system
-:Language:      Personal management system
+:Language:      PHP
 :License:       MIT
 :Topic:         Personal Dashboards
 :Category:      

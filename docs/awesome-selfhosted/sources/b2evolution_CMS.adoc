@@ -1,7 +1,7 @@
 = b2evolution CMS
 
 :Name:          b2evolution CMS
-:Language:      b2evolution CMS
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         Content Management Systems (CMS)
 :Category:      

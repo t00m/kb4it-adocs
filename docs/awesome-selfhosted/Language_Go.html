@@ -1,0 +1,1682 @@
+<!DOCTYPE Html>
+<html lang="en">
+<head>
+    <title>KB4IT - Language Go</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Asciidoctor 2.0.10">
+    <meta name="description" content="KB4IT document">
+    <meta name="author" content="KB4IT by t00mlabs.net">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="resources/common/uikit/css/uikit.min.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/coderay-asciidoctor.css">
+    <link rel="stylesheet" href="resources/common/uikit/css/print.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="resources/common/uikit/css/kb4it.css">
+    <script src="resources/common/uikit/js/uikit.min.js"></script>
+    <script src="resources/common/uikit/js/uikit-icons.min.js"></script>
+</head>
+<body>
+<div>
+<div id="container-1" class="uk-container uk-container-center">
+    <div id="kb4it-menu" style="z-index: 980;" uk-sticky="show-on-up: true">
+        <nav class="uk-navbar-container uk-border-rounded uk-card-hover uk-margin" style="background-color: white;" uk-navbar>
+            <div class="uk-navbar-left noprint">
+                <ul class="uk-navbar-nav">
+                    <li class="uk-link-toggle">
+                        <a class="uk-logo uk-card uk-card-hover" href="index.html">
+                            <img src="resources/themes/awesome/images/logo.png" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">Go To</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="properties.html"><span class="uk-padding-small">Properties</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="stats.html"><span class="uk-padding-small">Stats</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="uk-navbar-nav">
+                    <!-- MENU CONTENTS :: START -->
+                            <!-- <li><a href="#">Contents</a></li> -->
+                    <!-- MENU CONTENTS :: END -->
+                </ul>
+            </div>
+            <div class="uk-navbar-center">
+                <!-- DOCUMENT TITLE :: START -->
+<span class="uk-text-danger uk-text-truncate uk-text-bolder">Language Go</span>
+                <!-- DOCUMENT TITLE :: END -->
+            </div>
+            <div class="uk-navbar-right noprint">
+                <ul class="uk-navbar-nav">
+                    <li>
+                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">About</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_app.html"><span class="uk-padding-small">About this app</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_theme.html"><span class="uk-padding-small">About this theme</span></a>
+                                </li>
+                                <li class="uk-nav-divider"></li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_kb4it.html"><span class="uk-padding-small">About KB4IT</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+<!-- CONTENT :: START -->
+<div class="uk-container uk-container-center">
+        <!-- PAGINATION_HEAD.tpl :: START -->
+        <!-- PAGINATION :: START -->
+        <ul class="uk-pagination uk-flex-center" uk-margin>
+            <li class="uk-active"></li>
+
+
+        </ul>
+        <!-- PAGINATION :: END -->
+        <div uk-filter="target: .js-filter">
+            <!-- Search entry :: Start -->
+            <form action="" method="post" class="uk-search uk-search-default uk-width-1-1 uk-margin-medium-bottom">
+                <input id="text_filter" type="search" name="" value="" class="uk-search-input uk-padding-small" autocomplete="off" placeholder="Filter results by title..." autofocus/>
+            </form>
+            <a id="filter" href="#" class="uk-active" uk-filter-control="" hidden></a>
+            <!-- Search entry :: End -->
+            <!-- Filtered rows :: Start -->
+            <ul class="js-filter uk-child-width-1-3@m" uk-grid>
+                            <li data-title="1Backend">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="1Backend">
+                                    <a class="uk-link-heading uk-text-meta" href="1Backend.html">1Backend</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Self-host web apps, microservices and lambdas on your server. Advanced features enable service reuse and composition
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Babelfish">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Babelfish">
+                                    <a class="uk-link-heading uk-text-meta" href="Babelfish.html">Babelfish</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Self-hosted server for source code parsing. It can parse any file, in any supported language, extract an Abstract Syntax Tree from it, and convert it to a Universal Abstract Syntax Tree which can enable further analysis and transformation
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Beauties">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Beauties">
+                                    <a class="uk-link-heading uk-text-meta" href="Beauties.html">Beauties</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Minimalist file sharing written in Go, to be used primarily from Unix shell
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Beehive">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Beehive">
+                                    <a class="uk-link-heading uk-text-meta" href="Beehive.html">Beehive</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Flexible event and agent system, which allows you to create your own agents that perform automated tasks triggered by events and filters
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Centrifugo">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Centrifugo">
+                                    <a class="uk-link-heading uk-text-meta" href="Centrifugo.html">Centrifugo</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Language-agnostic real-time messaging
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="chasquid">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="chasquid">
+                                    <a class="uk-link-heading uk-text-meta" href="chasquid.html">chasquid</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    SMTP
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Cherry">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Cherry">
+                                    <a class="uk-link-heading uk-text-meta" href="Cherry.html">Cherry</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Tiny webchat server
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="cloud-torrent">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="cloud-torrent">
+                                    <a class="uk-link-heading uk-text-meta" href="cloud-torrent.html">cloud-torrent</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Torrent Web Client with HTTP retrievable or streamable downloaded files
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="CoreDNS">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="CoreDNS">
+                                    <a class="uk-link-heading uk-text-meta" href="CoreDNS.html">CoreDNS</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Plugin driven DNS Server with support for proxying to Google's DNS-over-HTTPS.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Corteza">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Corteza">
+                                    <a class="uk-link-heading uk-text-meta" href="Corteza.html">Corteza</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Cowyo">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Cowyo">
+                                    <a class="uk-link-heading uk-text-meta" href="Cowyo.html">Cowyo</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Cowyo is a feature-rich wiki for minimalists.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="cState">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="cState">
+                                    <a class="uk-link-heading uk-text-meta" href="cState.html">cState</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Dispatch">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Dispatch">
+                                    <a class="uk-link-heading uk-text-meta" href="Dispatch.html">Dispatch</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Self-hosted web IRC client written in Go.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Dnote">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Dnote">
+                                    <a class="uk-link-heading uk-text-meta" href="Dnote.html">Dnote</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    A simple command line notebook with multi-device sync and web interface.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Documize">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Documize">
+                                    <a class="uk-link-heading uk-text-meta" href="Documize.html">Documize</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Fathom_Analytics">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Fathom Analytics">
+                                    <a class="uk-link-heading uk-text-meta" href="Fathom_Analytics.html">Fathom Analytics</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Simple & trustworthy website analytics
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Fider">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Fider">
+                                    <a class="uk-link-heading uk-text-meta" href="Fider.html">Fider</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Open source alternative to UserVoice for customer feedback.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Filestash">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Filestash">
+                                    <a class="uk-link-heading uk-text-meta" href="Filestash.html">Filestash</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive .
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="fx">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="fx">
+                                    <a class="uk-link-heading uk-text-meta" href="fx.html">fx</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    fx is a tool to help you do Function as a Service with painless on your own servers
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Geekmarks">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Geekmarks">
+                                    <a class="uk-link-heading uk-text-meta" href="Geekmarks.html">Geekmarks</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Personal bookmarking service focused on speed and organization using hierarchical tags.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Gitea">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Gitea">
+                                    <a class="uk-link-heading uk-text-meta" href="Gitea.html">Gitea</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Community managed fork of Gogs, lightweight code hosting solution.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="GoatCounter">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="GoatCounter">
+                                    <a class="uk-link-heading uk-text-meta" href="GoatCounter.html">GoatCounter</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Easy web statistics. No tracking of personal data.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="goBrowser">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="goBrowser">
+                                    <a class="uk-link-heading uk-text-meta" href="goBrowser.html">goBrowser</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Simple http file browser
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Gogs">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Gogs">
+                                    <a class="uk-link-heading uk-text-meta" href="Gogs.html">Gogs</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Painless self-hosted Git Service written in Go.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="golinks">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="golinks">
+                                    <a class="uk-link-heading uk-text-meta" href="golinks.html">golinks</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Web application that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance. Similar to bunny1 or yubnub.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="gonic">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="gonic">
+                                    <a class="uk-link-heading uk-text-meta" href="gonic.html">gonic</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Lightweight music streaming server. Subsonic compatible
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="goploader">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="goploader">
+                                    <a class="uk-link-heading uk-text-meta" href="goploader.html">goploader</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Easy file sharing with server-side encryption, curl/httpie/wget compliant.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Gosora">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Gosora">
+                                    <a class="uk-link-heading uk-text-meta" href="Gosora.html">Gosora</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Gosora is an ultra-fast and secure forum software written in Go that balances usability with functionality.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Gossa">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Gossa">
+                                    <a class="uk-link-heading uk-text-meta" href="Gossa.html">Gossa</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Gossa is a light and simple webserver for your files
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Gotify">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Gotify">
+                                    <a class="uk-link-heading uk-text-meta" href="Gotify.html">Gotify</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Self-hosted notification server with Android and CLI clients, similar to PushBullet.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="gShort">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="gShort">
+                                    <a class="uk-link-heading uk-text-meta" href="gShort.html">gShort</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Privacy-friendly self-hosted URL shortener.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Hapttic">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Hapttic">
+                                    <a class="uk-link-heading uk-text-meta" href="Hapttic.html">Hapttic</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Simple HTTP server that forwards all requests to a shell script to handle webhooks you receive
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="IronFunctions">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="IronFunctions">
+                                    <a class="uk-link-heading uk-text-meta" href="IronFunctions.html">IronFunctions</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    The serverless microservices platform by [iron.io]
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="KISSS">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="KISSS">
+                                    <a class="uk-link-heading uk-text-meta" href="KISSS.html">KISSS</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Very minimalistic
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="KrakenD">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="KrakenD">
+                                    <a class="uk-link-heading uk-text-meta" href="KrakenD.html">KrakenD</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Open source High-Performance API Gateway.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Leanote">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Leanote">
+                                    <a class="uk-link-heading uk-text-meta" href="Leanote.html">Leanote</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Leanote, Not Just A Notepad! Open source cloud notepad.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="linx-server">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="linx-server">
+                                    <a class="uk-link-heading uk-text-meta" href="linx-server.html">linx-server</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Simple file sharing and pastebin with API, auto-expiry, deletion keys, and web seed support.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Listmonk">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Listmonk">
+                                    <a class="uk-link-heading uk-text-meta" href="Listmonk.html">Listmonk</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    High performance, self-hosted newsletter and mailing list manager with a modern dashboard.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="MailHog">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="MailHog">
+                                    <a class="uk-link-heading uk-text-meta" href="MailHog.html">MailHog</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Small Golang executable which runs an SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="MailyGo">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="MailyGo">
+                                    <a class="uk-link-heading uk-text-meta" href="MailyGo.html">MailyGo</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    MailyGo is a small tool written in Go that allows to send HTML forms, for example from static websites without a dynamic backend, via email
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Mattermost">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Mattermost">
+                                    <a class="uk-link-heading uk-text-meta" href="Mattermost.html">Mattermost</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Open-source, on-prem Slack-alternative. It can be integrated with Gitlab.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="microproxy">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="microproxy">
+                                    <a class="uk-link-heading uk-text-meta" href="microproxy.html">microproxy</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    lightweight non-caching HTTP/HTTPS proxy server
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Miniflux">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Miniflux">
+                                    <a class="uk-link-heading uk-text-meta" href="Miniflux.html">Miniflux</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Miniflux 2 is a minimalist and open source news reader, written in Go and PostgreSQL.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Minio">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Minio">
+                                    <a class="uk-link-heading uk-text-meta" href="Minio.html">Minio</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Minio is an open source object storage server compatible with Amazon S3 APIs.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="OpenBazaar">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="OpenBazaar">
+                                    <a class="uk-link-heading uk-text-meta" href="OpenBazaar.html">OpenBazaar</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Decentralized marketplace using cryptocurrency.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="OpenFaaS">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="OpenFaaS">
+                                    <a class="uk-link-heading uk-text-meta" href="OpenFaaS.html">OpenFaaS</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Serverless Functions Made Simple for Docker & Kubernetes.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Orange_Forum">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Orange Forum">
+                                    <a class="uk-link-heading uk-text-meta" href="Orange_Forum.html">Orange Forum</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Orange Forum is an easy to deploy forum that has minimal dependencies and uses very little javascript.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="OTS">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="OTS">
+                                    <a class="uk-link-heading uk-text-meta" href="OTS.html">OTS</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="PhotoPrism">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="PhotoPrism">
+                                    <a class="uk-link-heading uk-text-meta" href="PhotoPrism.html">PhotoPrism</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Photoview">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Photoview">
+                                    <a class="uk-link-heading uk-text-meta" href="Photoview.html">Photoview</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Plik">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Plik">
+                                    <a class="uk-link-heading uk-text-meta" href="Plik.html">Plik</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Plik is a scalable and friendly temporary file upload system.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Pomerium">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Pomerium">
+                                    <a class="uk-link-heading uk-text-meta" href="Pomerium.html">Pomerium</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    An identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="RconCli">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="RconCli">
+                                    <a class="uk-link-heading uk-text-meta" href="RconCli.html">RconCli</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="remark42">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="remark42">
+                                    <a class="uk-link-heading uk-text-meta" href="remark42.html">remark42</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    A lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Robust_IRC">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Robust IRC">
+                                    <a class="uk-link-heading uk-text-meta" href="Robust_IRC.html">Robust IRC</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    RobustIRC is IRC without netsplits. Distributed IRC server, based on RobustSession protocol.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Rudder">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Rudder">
+                                    <a class="uk-link-heading uk-text-meta" href="Rudder.html">Rudder</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Customer Data Infrastructure software for collecting, storing, processing and routing event data from apps and websites to dozens of marketing tools & analytics platforms
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="s3server">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="s3server">
+                                    <a class="uk-link-heading uk-text-meta" href="s3server.html">s3server</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Simple HTTP interface to index and browse files in a public S3 or Google Cloud Storage bucket
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Satellity">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Satellity">
+                                    <a class="uk-link-heading uk-text-meta" href="Satellity.html">Satellity</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Yet another open source forum written in Golang, React and PostgreSQL.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Selenoid">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Selenoid">
+                                    <a class="uk-link-heading uk-text-meta" href="Selenoid.html">Selenoid</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Lightweight Selenium hub implementation launching browsers within Docker containers.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Shiori">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Shiori">
+                                    <a class="uk-link-heading uk-text-meta" href="Shiori.html">Shiori</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Simple bookmark manager built with Go
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="shorturl">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="shorturl">
+                                    <a class="uk-link-heading uk-text-meta" href="shorturl.html">shorturl</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Simple URL shortener with very tiny URLs.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="sish">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="sish">
+                                    <a class="uk-link-heading uk-text-meta" href="sish.html">sish</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Open source serveo/ngrok alternative providing HTTP
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="SOCKS5Engine">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="SOCKS5Engine">
+                                    <a class="uk-link-heading uk-text-meta" href="SOCKS5Engine.html">SOCKS5Engine</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="sorcia">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="sorcia">
+                                    <a class="uk-link-heading uk-text-meta" href="sorcia.html">sorcia</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Sorcia is a minimalist web frontend for Git repositories with fine-grained user access controls, multiple themes to choose based on your taste and many more.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="sourcegraph">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="sourcegraph">
+                                    <a class="uk-link-heading uk-text-meta" href="sourcegraph.html">sourcegraph</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Spreed">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Spreed">
+                                    <a class="uk-link-heading uk-text-meta" href="Spreed.html">Spreed</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    WebRTC audio/video calls, conferencing server, and web client.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Sup3rS3cretMes5age">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Sup3rS3cretMes5age">
+                                    <a class="uk-link-heading uk-text-meta" href="Sup3rS3cretMes5age.html">Sup3rS3cretMes5age</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Very simple
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Syncthing">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Syncthing">
+                                    <a class="uk-link-heading uk-text-meta" href="Syncthing.html">Syncthing</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Syncthing is an open source peer-to-peer file synchronisation tool.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Tania">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Tania">
+                                    <a class="uk-link-heading uk-text-meta" href="Tania.html">Tania</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Tasks">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Tasks">
+                                    <a class="uk-link-heading uk-text-meta" href="Tasks.html">Tasks</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Kanban based to-do list manager written in Go
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="todo">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="todo">
+                                    <a class="uk-link-heading uk-text-meta" href="todo.html">todo</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Simple todo list manager.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Traefik">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Traefik">
+                                    <a class="uk-link-heading uk-text-meta" href="Traefik.html">Traefik</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="transfer.sh">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="transfer.sh">
+                                    <a class="uk-link-heading uk-text-meta" href="transfer.sh.html">transfer.sh</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Easy file sharing from the command line.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Trusted-CGI">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Trusted-CGI">
+                                    <a class="uk-link-heading uk-text-meta" href="Trusted-CGI.html">Trusted-CGI</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Lightweight self-hosted lambda/applications/cgi/serverless-functions platform
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Tube">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Tube">
+                                    <a class="uk-link-heading uk-text-meta" href="Tube.html">Tube</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    a Youtube-like
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Tyk">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Tyk">
+                                    <a class="uk-link-heading uk-text-meta" href="Tyk.html">Tyk</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Vikunja">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Vikunja">
+                                    <a class="uk-link-heading uk-text-meta" href="Vikunja.html">Vikunja</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    The to-do app to organize your life.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Wakapi">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Wakapi">
+                                    <a class="uk-link-heading uk-text-meta" href="Wakapi.html">Wakapi</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Tracking tool for coding statistics, compatible with WakaTime
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="Weaviate">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Weaviate">
+                                    <a class="uk-link-heading uk-text-meta" href="Weaviate.html">Weaviate</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    GraphQL based Knowledge Graph.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="wiki">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="wiki">
+                                    <a class="uk-link-heading uk-text-meta" href="wiki.html">wiki</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Simple Markdown based wiki engine.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+            <li data-title="WriteFreely">
+                <!-- CARD_DOC_DEFAULT.tpl :: START -->
+                <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
+                    <div class="uk-card-header">
+                        <div class="uk-grid-small uk-flex-middle" uk-grid>
+                            <div class="uk-width-expand">
+                                <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="WriteFreely">
+                                    <a class="uk-link-heading uk-text-meta" href="WriteFreely.html">WriteFreely</a>
+
+                                </div>
+                                <p class="uk-text-meta uk-margin-remove-top">
+                                    Writing software for starting a minimalist, federated blog — or an entire community.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- CARD_DOC_DEFAULT.tpl :: END -->
+</li>
+
+            </ul> <!-- Filtered rows :: End -->
+        </div>
+        <!-- PAGINATION_HEAD.tpl :: END -->            <!-- FOOTER :: START -->
+            <div class="uk-flex uk-flex-center uk-flex-wrap">
+                <div class="uk-card uk-card-body">
+                    <span class="uk-text-meta">Last update on Mon, Jul 27, 2020 at 19:34</span>
+                </div>
+            </div>
+            <!-- FOOTER :: END -->
+        </div>
+    </div>
+    <!-- CONTENTS (Document) :: END -->
+<script>
+<!-- Necessary javascript for filtering results -->
+<!-- Hack found in: https://codepen.io/acidrums4/pen/GBpYbO -->
+var input = document.getElementById('text_filter');
+var filter = document.getElementById('filter');
+
+input.addEventListener( 'keyup', function(event)
+{
+    if ( input.value == "" )
+    {
+        filter.setAttribute( 'uk-filter-control', '' );
+    }
+
+    else
+    {
+        filter.setAttribute( 'uk-filter-control', 'filter:[data-title*=\'' + input.value + '\'i]' );
+    }
+
+    filter.click();
+});
+</script>
+<script>
+function copyToClipboard() {
+  var copyText = document.getElementById("source-code");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  alert("Text copied to clipboard");
+}
+</script>
+<!-- GRID LAYOUT :: END -->
+</body>
+</html>

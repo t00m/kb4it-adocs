@@ -1,7 +1,7 @@
 = OS.js
 
 :Name:          OS.js
-:Language:      OS.js
+:Language:      Nodejs
 :License:       BSD-2-Clause
 :Topic:         Gateways and terminal sharing
 :Category:      

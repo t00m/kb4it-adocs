@@ -1,7 +1,7 @@
 = Privoxy
 
 :Name:          Privoxy
-:Language:      Privoxy
+:Language:      C
 :License:       GPL-2.0
 :Topic:         Proxy
 :Category:      

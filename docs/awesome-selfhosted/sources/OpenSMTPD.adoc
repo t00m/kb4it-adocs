@@ -1,7 +1,7 @@
 = OpenSMTPD
 
 :Name:          OpenSMTPD
-:Language:      OpenSMTPD
+:Language:      C
 :License:       ISC
 :Topic:         Communication systems
 :Category:      Email

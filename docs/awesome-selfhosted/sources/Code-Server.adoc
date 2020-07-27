@@ -1,7 +1,7 @@
 = Code-Server
 
 :Name:          Code-Server
-:Language:      Code-Server
+:Language:      Nodejs/Docker
 :License:       MIT
 :Topic:         Software Development
 :Category:      IDE/Tools

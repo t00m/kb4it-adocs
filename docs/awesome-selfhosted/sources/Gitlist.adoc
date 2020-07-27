@@ -1,7 +1,7 @@
 = Gitlist
 
 :Name:          Gitlist
-:Language:      Gitlist
+:Language:      PHP
 :License:       BSD-3-Clause
 :Topic:         Software Development
 :Category:      Project Management

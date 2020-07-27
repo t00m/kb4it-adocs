@@ -1,7 +1,7 @@
 = Canvas
 
 :Name:          Canvas
-:Language:      Canvas
+:Language:      PHP
 :License:       MIT
 :Topic:         Blogging Platforms
 :Category:      

@@ -1,7 +1,7 @@
 = GitPrep
 
 :Name:          GitPrep
-:Language:      GitPrep
+:Language:      Perl
 :License:       Artistic-2.0
 :Topic:         Software Development
 :Category:      Project Management

@@ -1,7 +1,7 @@
 = ejabberd
 
 :Name:          ejabberd
-:Language:      ejabberd
+:Language:      Erlang
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      XMPP

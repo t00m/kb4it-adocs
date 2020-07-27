@@ -1,7 +1,7 @@
 = YOURLS
 
 :Name:          YOURLS
-:Language:      YOURLS
+:Language:      PHP
 :License:       MIT
 :Topic:         URL Shorteners
 :Category:      

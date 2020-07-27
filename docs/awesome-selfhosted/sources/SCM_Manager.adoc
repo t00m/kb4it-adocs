@@ -1,7 +1,7 @@
 = SCM Manager
 
 :Name:          SCM Manager
-:Language:      SCM Manager
+:Language:      Java
 :License:       BSD-3-Clause
 :Topic:         Software Development
 :Category:      Project Management

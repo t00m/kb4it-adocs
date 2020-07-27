@@ -1,7 +1,7 @@
 = Ghost
 
 :Name:          Ghost
-:Language:      Ghost
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Blogging Platforms
 :Category:      

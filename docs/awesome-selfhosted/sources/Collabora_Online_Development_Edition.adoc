@@ -1,7 +1,7 @@
 = Collabora Online Development Edition
 
 :Name:          Collabora Online Development Edition
-:Language:      Collabora Online Development Edition
+:Language:      C-PLUS-PLUS
 :License:       MPL-2.0
 :Topic:         Office Suites
 :Category:      

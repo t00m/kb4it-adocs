@@ -1,7 +1,7 @@
 = CMS Made Simple
 
 :Name:          CMS Made Simple
-:Language:      CMS Made Simple
+:Language:      PHP
 :License:       GPL-1.0
 :Topic:         Content Management Systems (CMS)
 :Category:      

@@ -1,7 +1,7 @@
 = BulletNotes
 
 :Name:          BulletNotes
-:Language:      BulletNotes
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Note-taking and Editors
 :Category:      

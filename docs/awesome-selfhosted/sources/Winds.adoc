@@ -1,7 +1,7 @@
 = Winds
 
 :Name:          Winds
-:Language:      Winds
+:Language:      Nodejs
 :License:       BSD-3-Clause
 :Topic:         Feed Readers
 :Category:      

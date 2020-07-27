@@ -1,7 +1,7 @@
 = Hasura
 
 :Name:          Hasura
-:Language:      Hasura
+:Language:      Haskell
 :License:       Apache-2.0
 :Topic:         Software Development
 :Category:      API Management

@@ -1,7 +1,7 @@
 = Hakatime
 
 :Name:          Hakatime
-:Language:      Hakatime
+:Language:      Haskell
 :License:       Unlicense
 :Topic:         Software Development
 :Category:      IDE/Tools

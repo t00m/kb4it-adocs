@@ -1,7 +1,7 @@
 = Chevereto Free
 
 :Name:          Chevereto Free
-:Language:      Chevereto Free
+:Language:      PHP
 :License:       AGPL-3.0
 :Topic:         Photo and Video Galleries
 :Category:      

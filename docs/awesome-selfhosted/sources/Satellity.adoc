@@ -1,7 +1,7 @@
 = Satellity
 
 :Name:          Satellity
-:Language:      Satellity
+:Language:      Go
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

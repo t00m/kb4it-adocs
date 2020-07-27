@@ -1,7 +1,7 @@
 = Ackee
 
 :Name:          Ackee
-:Language:      Ackee
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Analytics
 :Category:      

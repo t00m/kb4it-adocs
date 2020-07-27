@@ -1,7 +1,7 @@
 = Gekko
 
 :Name:          Gekko
-:Language:      Gekko
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Automation
 :Category:      

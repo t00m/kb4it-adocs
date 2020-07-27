@@ -1,7 +1,7 @@
 = Gallery CSS
 
 :Name:          Gallery CSS
-:Language:      Gallery CSS
+:Language:      CSS
 :License:       MIT
 :Topic:         Photo and Video Galleries
 :Category:      

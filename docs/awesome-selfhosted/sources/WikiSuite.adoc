@@ -1,7 +1,7 @@
 = WikiSuite
 
 :Name:          WikiSuite
-:Language:      WikiSuite
+:Language:      ClearOS
 :License:       Multiple
 :Topic:         Self-hosting Solutions
 :Category:      

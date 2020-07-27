@@ -1,7 +1,7 @@
 = CyberChef
 
 :Name:          CyberChef
-:Language:      CyberChef
+:Language:      JavaScript
 :License:       Apache-2.0
 :Topic:         Misc/Other
 :Category:      

@@ -1,7 +1,7 @@
 = Rygel
 
 :Name:          Rygel
-:Language:      Rygel
+:Language:      C
 :License:       GPL-3.0
 :Topic:         Media Streaming
 :Category:      Multimedia Streaming

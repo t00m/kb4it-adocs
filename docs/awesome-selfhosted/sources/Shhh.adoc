@@ -1,7 +1,7 @@
 = Shhh
 
 :Name:          Shhh
-:Language:      Shhh
+:Language:      Python
 :License:       MIT
 :Topic:         Communication systems
 :Category:      Custom communication systems

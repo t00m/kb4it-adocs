@@ -1,7 +1,7 @@
 = Accelerated Text
 
 :Name:          Accelerated Text
-:Language:      Accelerated Text
+:Language:      Clojure
 :License:       Apache-2.0
 :Topic:         Automation
 :Category:      

@@ -1,7 +1,7 @@
 = DPlatform
 
 :Name:          DPlatform
-:Language:      DPlatform
+:Language:      Shell
 :License:       MIT
 :Topic:         Self-hosting Solutions
 :Category:      

@@ -1,7 +1,7 @@
 = Excision Mail
 
 :Name:          Excision Mail
-:Language:      Excision Mail
+:Language:      Shell/Ansible
 :License:       ISC
 :Topic:         Communication systems
 :Category:      Email

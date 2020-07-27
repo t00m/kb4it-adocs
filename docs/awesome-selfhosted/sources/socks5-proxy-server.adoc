@@ -1,7 +1,7 @@
 = socks5-proxy-server
 
 :Name:          socks5-proxy-server
-:Language:      socks5-proxy-server
+:Language:      NodeJS
 :License:       Apache-2.0
 :Topic:         Proxy
 :Category:      

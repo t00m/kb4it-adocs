@@ -1,7 +1,7 @@
 = ImpressPages CMS
 
 :Name:          ImpressPages CMS
-:Language:      ImpressPages CMS
+:Language:      PHP
 :License:       GPL-3.0/MIT
 :Topic:         Content Management Systems (CMS)
 :Category:      

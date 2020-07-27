@@ -1,7 +1,7 @@
 = FluxBB
 
 :Name:          FluxBB
-:Language:      FluxBB
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         Communication systems
 :Category:      Social Networks and Forums

@@ -1,7 +1,7 @@
 = EspoCRM
 
 :Name:          EspoCRM
-:Language:      EspoCRM
+:Language:      PHP
 :License:       GPL-3.0
 :Topic:         Groupware
 :Category:      

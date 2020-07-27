@@ -1,7 +1,7 @@
 = mStream
 
 :Name:          mStream
-:Language:      mStream
+:Language:      Nodejs
 :License:       GPL-2.0
 :Topic:         Media Streaming
 :Category:      Audio Streaming

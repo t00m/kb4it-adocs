@@ -1,7 +1,7 @@
 = Jellyfin
 
 :Name:          Jellyfin
-:Language:      Jellyfin
+:Language:      C-SHARP
 :License:       GPL-2.0
 :Topic:         Media Streaming
 :Category:      Multimedia Streaming

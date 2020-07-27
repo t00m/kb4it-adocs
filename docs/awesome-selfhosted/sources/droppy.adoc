@@ -1,7 +1,7 @@
 = droppy
 
 :Name:          droppy
-:Language:      droppy
+:Language:      Nodejs
 :License:       BSD-2-Clause
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

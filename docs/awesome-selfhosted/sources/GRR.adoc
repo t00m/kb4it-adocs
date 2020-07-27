@@ -1,7 +1,7 @@
 = GRR
 
 :Name:          GRR
-:Language:      GRR
+:Language:      PHP
 :License:       GPL-2.0
 :Topic:         Money, Budgeting and Management
 :Category:      

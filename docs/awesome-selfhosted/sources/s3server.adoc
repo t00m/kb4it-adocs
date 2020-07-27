@@ -1,7 +1,7 @@
 = s3server
 
 :Name:          s3server
-:Language:      s3server
+:Language:      Go
 :License:       MIT
 :Topic:         File Sharing and Synchronization
 :Category:      Distributed filesystems

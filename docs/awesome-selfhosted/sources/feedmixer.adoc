@@ -1,7 +1,7 @@
 = feedmixer
 
 :Name:          feedmixer
-:Language:      feedmixer
+:Language:      Python
 :License:       WTFPL
 :Topic:         Automation
 :Category:      

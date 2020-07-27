@@ -1,7 +1,7 @@
 = Wiki.js
 
 :Name:          Wiki.js
-:Language:      Wiki.js
+:Language:      Nodejs
 :License:       AGPL-3.0
 :Topic:         Wikis
 :Category:      

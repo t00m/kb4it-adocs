@@ -1,7 +1,7 @@
 = Live Helper Chat
 
 :Name:          Live Helper Chat
-:Language:      Live Helper Chat
+:Language:      PHP
 :License:       Apache-2.0
 :Topic:         Communication systems
 :Category:      Custom communication systems

@@ -1,7 +1,7 @@
 = Kaiwa
 
 :Name:          Kaiwa
-:Language:      Kaiwa
+:Language:      Nodejs
 :License:       MIT
 :Topic:         Communication systems
 :Category:      XMPP
