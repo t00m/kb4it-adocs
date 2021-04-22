@@ -1,7 +1,7 @@
 = Get short sha from git commit
 
 :Module:        git
-:Tag:           git, commit, short, sha, parse, repo, version
+:Tag:           git, commit, short, sha, parse, repo, version, unique, identifier
 :Platform:      Linux
 
 // END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
