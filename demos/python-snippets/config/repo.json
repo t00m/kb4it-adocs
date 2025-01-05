@@ -1,0 +1,31 @@
+{
+    "datatable": [
+        "Title",
+        "Module",
+        "Platform",
+        "Topic"
+    ],
+    "events": [
+    ],
+    "git": false,
+    "git_branch": "",
+    "git_path": "",
+    "git_repo": "",
+    "git_server": "",
+    "git_user": "",
+    "ignored_keys": [
+        "Updated"
+    ],
+    "logo": "resources/themes/techdoc/images/logo.svg",
+    "logo_alt": "",
+    "menu": [
+    ],
+    "sort": "Updated",
+    "source": "/home/t00m/Documents/devel/github/kb4it-adocs/demos/python-snippets/source",
+    "target": "/home/t00m/Documents/devel/github/kb4it-adocs/docs/python-snippets/",
+    "theme": "techdoc",
+    "timeline": [
+    ],
+    "title": "Python snippets",
+    "webserver": false
+}
