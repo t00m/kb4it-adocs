@@ -1,0 +1,27 @@
+= Get short sha from git commit
+
+:Module:        git
+:Tag:           git, commit, short, sha, parse, repo, version, unique, identifier
+:Platform:      Linux
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+Get short sha string from last commit in a git repository
+
+== Solution
+
+[source, python]
+----
+# pip3 install GitPython --user
+
+from git import Repo
+repo = Repo('.')
+sha = repo.head.commit.hexsha
+short_sha = repo.git.rev_parse(sha, short=8)
+print(short_sha)
+----
+
+
+

@@ -2,8 +2,7 @@
     "datatable": [
         "Title",
         "Module",
-        "Platform",
-        "Topic"
+        "Platform"
     ],
     "events": [
     ],

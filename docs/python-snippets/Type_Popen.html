@@ -1,72 +1,170 @@
-<!DOCTYPE Html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>KB4IT - Type Popen</title>
+    <title>Python snippets - Type: Popen</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="generator" content="Asciidoctor 2.0.10">
     <meta name="description" content="KB4IT document">
     <meta name="author" content="KB4IT by t00mlabs.net">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="resources/common/uikit/css/uikit.min.css">
-    <link rel="stylesheet" href="resources/common/uikit/css/coderay-asciidoctor.css">
-    <link rel="stylesheet" href="resources/common/uikit/css/print.css" type="text/css" media="print" />
-    <link rel="stylesheet" href="resources/common/uikit/css/kb4it.css">
-    <script src="resources/common/uikit/js/uikit.min.js"></script>
-    <script src="resources/common/uikit/js/uikit-icons.min.js"></script>
+    <link rel="stylesheet" href="resources/themes/techdoc/framework/uikit/css/uikit.min.css">
+    <link rel="stylesheet" href="resources/themes/techdoc/framework/kb4it/css/coderay-asciidoctor.css">
+    <link rel="stylesheet" href="resources/themes/techdoc/framework/kb4it/css/print.css" type="text/css" media="print">
+    <link rel="stylesheet" href="resources/themes/techdoc/framework/kb4it/css/screen.css">
+    <link rel="stylesheet" href="resources/themes/techdoc/framework/TimelineJS/css/timeline.css">
+    <script src="resources/themes/techdoc/framework/uikit/js/uikit.min.js"></script>
+    <script src="resources/themes/techdoc/framework/uikit/js/uikit-icons.min.js"></script>
+    <script src="resources/themes/techdoc/framework/datatables/js/jquery-3.5.1.js"></script>
+    <script src="resources/themes/techdoc/framework/datatables/js/jquery.dataTables.min.js"></script>
+    <script src="resources/themes/techdoc/framework/datatables/js/dataTables.uikit.min.js"></script>
+    <script type="text/javascript" class="init">
+        $(document).ready(function() {
+            $('#kb4it-datatable').DataTable( {
+                dom: '<"kbfilter"flrtip>',
+                serverSide: false,
+                ordering: true,
+                searching: true,
+                //~ data:           data,
+                deferRender:    true,
+                scrollY:        400,
+                scrollCollapse: false,
+                scroller:       false,
+                stateSave: false,
+                paging:   false,
+                info:     true,
+                order: [[ 0, "desc" ]]
+            } );
+        } );
+    </script>
 </head>
 <body>
-<div>
-<div id="container-1" class="uk-container uk-container-center">
+<!-- Template version 0.7.18+build.68 -->
+<div class="uk-background-muted uk-height-viewport">
+<div id="container-1" class="uk-container uk-container-center noprint">
     <div id="kb4it-menu" style="z-index: 980;" uk-sticky="show-on-up: true">
-        <nav class="uk-navbar-container uk-border-rounded uk-card-hover uk-margin" style="background-color: white;" uk-navbar>
-            <div class="uk-navbar-left noprint">
-                <ul class="uk-navbar-nav">
-                    <li class="uk-link-toggle">
-                        <a class="uk-logo uk-card uk-card-hover" href="index.html">
-                            <img src="resources/themes/snippets/images/logo.png" alt="">
+        <nav class="uk-navbar-container uk-border-rounded uk-card-hover uk-margin uk-box-shadow-large" style="background-color: white;" uk-navbar>
+            <div class="uk-navbar-left">
+                <ul class="uk-navbar-nav noprint">
+                    <li class="uk-card uk-card-small uk-card-hover uk-padding-small uk-padding-remove-vertical">
+                        <a class="uk-logo uk-transition-scale-up uk-transition-opaque" href="index.html">
+                            <img src="resources/themes/techdoc/images/logo.svg" alt="" width="24px" height="24px">
                         </a>
-                    </li>
-                    <li>
-                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">Go To</a>
                         <div class="uk-navbar-dropdown">
                             <ul class="uk-nav uk-navbar-dropdown-nav">
                                 <li class="uk-link-toggle">
-                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="properties.html"><span class="uk-padding-small">Properties</span></a>
+                                    <a class="uk-link-heading" href="events.html"><span uk-icon="calendar"></span><span class="uk-padding-small uk-padding-remove-bottom uk-padding-remove-bottom-right uk-padding-remove-top">Events</span></a>
                                 </li>
                                 <li class="uk-link-toggle">
-                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="stats.html"><span class="uk-padding-small">Stats</span></a>
+                                    <a class="uk-link-heading" href="bookmarks.html"><span uk-icon="bookmark"></span><span class="uk-padding-small uk-padding-remove-bottom uk-padding-remove-bottom-right uk-padding-remove-top">Bookmarks</span></a>
+                                </li>
+                                <li class="uk-link-toggle">
+                                    <a class="uk-link-heading" href="properties.html"><span uk-icon="database"></span><span class="uk-padding-small uk-padding-remove-bottom uk-padding-remove-bottom-right uk-padding-remove-top">Properties</span></a>
+                                    <div class="uk-navbar-dropdown" uk-dropdown="pos: right-top">
+                                        <ul class="uk-nav uk-navbar-dropdown-nav uk-padding-small uk-column-1-2">
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Author.html"><span class="">Author</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Category.html"><span class="">Category</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Class.html"><span class="">Class</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Function.html"><span class="">Function</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Method.html"><span class="">Method</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Module.html"><span class="">Module</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Platform.html"><span class="">Platform</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Priority.html"><span class="">Priority</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Project.html"><span class="">Project</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Public.html"><span class="">Public</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Scope.html"><span class="">Scope</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Status.html"><span class="">Status</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Tag.html"><span class="">Tag</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Team.html"><span class="">Team</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Topic.html"><span class="">Topic</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Type.html"><span class="">Type</span></a>
+                                            </li>
+                                            <li class="uk-link-toggle">
+                                                <a class="uk-link-heading" href="Updated.html"><span class="">Updated</span></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="uk-nav-divider">
+                                <li class="uk-link-toggle">
+                                    <a class="uk-link-heading" href="stats.html"><span uk-icon="list"></span><span class="uk-padding-small uk-padding-remove-bottom uk-padding-remove-bottom-right uk-padding-remove-top">Stats</span></a>
                                 </li>
                             </ul>
                         </div>
                     </li>
                 </ul>
-                <ul class="uk-navbar-nav">
+                <ul class="uk-navbar-nav noprint">
                     <!-- MENU CONTENTS :: START -->
-                            <!-- <li><a href="#">Contents</a></li> -->
+                    <!-- Template SECTION_ACTIONS.tpl :: START -->
+<!-- Template SECTION_ACTIONS.tpl :: END -->
+
+
+
                     <!-- MENU CONTENTS :: END -->
                 </ul>
             </div>
             <div class="uk-navbar-center">
                 <!-- DOCUMENT TITLE :: START -->
-<span class="uk-text-danger uk-text-truncate uk-text-bolder">Type Popen</span>
+                <ul class="uk-navbar-nav">
+                    <li class="uk-card uk-card-small uk-padding-small uk-padding-remove-vertical">
+                        <div class="uk-child-width-expand@s uk-text-center" uk-grid>
+                            <div class="uk-card uk-card-small">
+                                <a class="uk-link-toggle uk-text-primary" href="#"><span id="kb4it-page-title" class="uk-text-primary uk-text-small uk-text-truncate">Type: Popen</span></a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
                 <!-- DOCUMENT TITLE :: END -->
             </div>
-            <div class="uk-navbar-right noprint">
-                <ul class="uk-navbar-nav">
-                    <li>
-                        <a class="uk-button uk-card uk-card-hover uk-link-heading" href="#">About</a>
+            <div class="uk-navbar-right">
+                <ul class="uk-navbar-nav noprint">
+                    <li class="uk-card uk-card-small uk-card-hover uk-padding-small uk-padding-remove-vertical">
+                        <a class="uk-link-heading" href="javascript:location.reload();"><span uk-icon="refresh"></span></a>
+                    </li>
+                    <li class="uk-card uk-card-small uk-card-hover uk-padding-small uk-padding-remove-vertical">
+                        <a class="uk-link-heading" href="#"><span uk-icon="info"></span></a>
                         <div class="uk-navbar-dropdown">
                             <ul class="uk-nav uk-navbar-dropdown-nav">
                                 <li class="uk-link-toggle">
-                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_app.html"><span class="uk-padding-small">About this app</span></a>
+                                    <a class="uk-link-heading" href="about_app.html"><span class="uk-padding-none">About this app</span></a>
                                 </li>
                                 <li class="uk-link-toggle">
-                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_theme.html"><span class="uk-padding-small">About this theme</span></a>
+                                    <a class="uk-link-heading" href="help.html"><span class="uk-padding-none">Help</span></a>
                                 </li>
-                                <li class="uk-nav-divider"></li>
+                                <li class="uk-nav-divider">
                                 <li class="uk-link-toggle">
-                                    <a class="uk-card uk-card-hover uk-border-rounded uk-link-heading" href="about_kb4it.html"><span class="uk-padding-small">About KB4IT</span></a>
+                                    <a class="uk-link-heading" href="about_kb4it.html"><span class="uk-padding-none">About KB4IT</span></a>
                                 </li>
                             </ul>
                         </div>
@@ -76,57 +174,75 @@
         </nav>
     </div>
 </div>
-<!-- CONTENT :: START -->
 <div class="uk-container uk-container-center">
-        <!-- PAGINATION_HEAD.tpl :: START -->
-        <!-- PAGINATION :: START -->
-<ul class="uk-pagination uk-flex-center" uk-margin>
+    <div id="container-2" class="uk-container uk-container-center uk-flex uk-flex-center uk-hidden">
+        <span class="uk-text-lead">Type: Popen</span>
+    </div>
+<!-- Template HTML_BODY_DOC.tpl :: START -->
 
-<li class="uk-active"></li>
+<div id="kb4it-doc-metadata" class="uk-hidden" style="border: 1px solid transparent;"></div>
 
-</ul>
+    <!-- This is the nav containing the toggling elements -->
+    <ul class="uk-flex uk-flex-center uk-tab noprint uk-hidden" uk-switcher>
+        <li><a href="#">Document</a></li>
+<!-- <li><a href="#">Related</a></li> -->
+    </ul>
+    <!-- This is the container of the content items -->
+    <ul class="uk-switcher uk-margin">
+        <li>
+<!-- PAGE_KEY_VALUE.tpl :: START -->
+<!--
+<div class="uk-flex uk-flex-center"><h1 class="uk-text-large">Type: Popen</h1></div>
+-->
+<div class="uk-container uk-overflow-auto">
+<table id="kb4it-datatable" class="uk-table uk-table-small uk-table-hover uk-table-striped uk-text-small" style="width: 100%">
+    <thead class="">
+        <tr class="">
+            <th class="">
+    <span class="uk-text-secondary">Title</span>
+</th>
+<th class="">
+    <span class="uk-text-secondary">Module</span>
+</th>
+<th class="">
+    <span class="uk-text-secondary">Platform</span>
+</th>
 
+        </tr>
+    </thead>
+    <tbody class="">
+            <tr>
+<td class="uk-text-small">
+    <a class="uk-link-heading" href="execute_os_command.html"><span class="uk-text-small uk-text-primary uk-text-nowrap"><div uk-tooltip="Execute operating system command">Execute operating system command</div></span></a>
+</td>
+<td class="">
+<a class="uk-link-heading" href="Module_os.html">os</a>, <a class="uk-link-heading" href="Module_subprocess.html">subprocess</a>
+</td>
+<td class=""><a class="uk-link-heading" href="Platform_Any.html">Any</a></td>
+</tr>
+    </tbody>
+    <tfoot class="">
+    </tfoot>
+</table>
 
-        <!-- PAGINATION :: END -->
-        <div uk-filter="target: .js-filter">
-            <!-- Search entry :: Start -->
-            <form action="" method="post" class="uk-search uk-search-default uk-width-1-1 uk-margin-medium-bottom">
-                <input id="text_filter" type="search" name="" value="" class="uk-search-input uk-padding-small" autocomplete="off" placeholder="Filter results by title..." autofocus/>
-            </form>
-            <a id="filter" href="#" class="uk-active" uk-filter-control="" hidden></a>
-            <!-- Search entry :: End -->
-            <!-- Filtered rows :: Start -->
-            <ul class="js-filter uk-child-width-1-3@m" uk-grid>
-            <li data-title="Execute_operating_system_command">
-                        <!-- DOC_CARD.tpl :: START -->
-                        <div class="uk-card uk-card-default uk-width-1-1@m uk-card-hover" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" style="border:1px solid lightgray;">
-                            <div class="uk-card-header">
-                                <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                    <div class="uk-width-expand">
-                                        <div class="uk-text-break uk-text-truncate uk-text-bold uk-margin-remove-bottom" uk-tooltip="Execute operating system command"><a class="uk-link-heading uk-text-meta" href="execute_os_command.html"><span class="">Execute operating system command</span></a></div>
-                                        <p class="uk-text-meta uk-margin-remove-top"></p>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                        <!-- DOC_CARD.tpl :: END -->
-
-            </li>
-            </ul> <!-- Filtered rows :: End -->
-        </div>
-        <!-- PAGINATION_HEAD.tpl :: END -->            <!-- FOOTER :: START -->
+</div>
+        <!-- PAGE_KEY_VALUE.tpl :: END -->
+</li>
+<!-- <li>var['related']</li> -->
+    </ul>
+<!-- Template HTML_BODY_DOC.tpl :: END -->
+</div>
+<!-- FOOTER :: START -->
             <div class="uk-flex uk-flex-center uk-flex-wrap">
 <!--
-                <div class="uk-card uk-card-body">
-                    <span class="uk-text-meta">Last update on Sat, Apr 25, 2020 at 00:08</span>
+                <div class="uk-card uk-card-small uk-card-body">
+                    <span class="uk-text-meta">Last update on Thursday, January 09, 2025 at 23:02</span>
                 </div>
 -->
             </div>
-            <!-- FOOTER :: END -->
+<!-- FOOTER :: END -->
         </div>
-    </div>
-    <!-- CONTENTS (Document) :: END -->
+<!-- CONTENTS (Document) :: END -->
 <script>
 <!-- Necessary javascript for filtering results -->
 <!-- Hack found in: https://codepen.io/acidrums4/pen/GBpYbO -->

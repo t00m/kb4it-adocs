@@ -1,0 +1,31 @@
+= String subtitution
+
+:Module:        
+:Tag:           string, subtitution, curly, brace, dict, format
+:Platform:      Any
+
+// END-OF-HEADER. DO NOT MODIFY OR DELETE THIS LINE
+
+== Problem
+
+Given a Oracle DBSID (eg.: SDB), get _SAP_ trace directory.
+
+== Solution
+
+[source, python]
+----
+def get_tracedir(sid):
+   d = {'SID': sid.upper(), 'sid': sid.lower()}
+   tracedir = "/oracle/{SID}/saptrace/diag/rdbms/{sid}/{SID}/trace"
+   return tracedir.format(**d)
+
+>>> get_tracedir('sdb')
+'/oracle/SDB/saptrace/diag/rdbms/sdb/SDB/trace'
+----
+
+
+== References
+
+Borrowed from:
+
+* https://stackoverflow.com/questions/31639526/python-word-substitution-replace-values-in-curly-braces-with-values-from-dict
